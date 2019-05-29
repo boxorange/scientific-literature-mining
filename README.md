@@ -2,6 +2,11 @@
 
 The scientific literature mining project aims to collate a collection of articles in a specific domain and extract information of interests. This project provides a web interface so that users can easily search and harvest needed information from the article repository.
 
+## Features
+* Taxonomic hierachy
+* Article summary (under development)
+* Experiment summary (under development)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
