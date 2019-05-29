@@ -16,6 +16,17 @@ These instructions will get you a copy of the project up and running on your loc
 Install the following packages.
 
 * ChemDataExtractor (https://github.com/cjcourt/cdesnowball) - chemical literature text preprocessor.
+* Periodic Table (http://www.reflectometry.org/danse/docs/elements/guide/using.html) - periodic table of the elements.
+* lxml (https://lxml.de/installation.html) - XML parser.
+* PyMuPDF (https://github.com/pymupdf/PyMuPDF) - PDF parser.
+* Scikit-learn (https://scikit-learn.org) - Python machine learning package.
+
+Get API keys from publishers.
+
+* Elsevier (https://dev.elsevier.com/)
+* NCBI (https://www.ncbi.nlm.nih.gov/pmc/tools/developers/) - National Center for Biotechnology Information
+* Springer (https://dev.springernature.com/)
+* Wiley (https://onlinelibrary.wiley.com/library-info/resources/text-and-datamining)
 
 ### Installing
 
