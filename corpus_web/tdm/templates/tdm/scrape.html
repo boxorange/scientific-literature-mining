@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Scrape</title>
+</head>
+<body>
+    <b>Type keyword(s).</b>
+    <form action="{% url 'tdm:scrape' %}" method="get" accept-charset="utf-8">
+        <input type="text" name="input">
+        <input type="submit" value="Scrape">
+    </form>
+</body>
+</html>
