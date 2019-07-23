@@ -1,0 +1,1040 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261476850865</prism:url><dc:identifier>doi:10.1016/0009-2614(76)85086-5</dc:identifier><eid>1-s2.0-0009261476850865</eid><prism:doi>10.1016/0009-2614(76)85086-5</prism:doi><pii>0009-2614(76)85086-5</pii><dc:title>A perturbation expansion for the pair distribution function of fluids with non-central forces </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>40</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>313</prism:startingPage><prism:endingPage>315</prism:endingPage><prism:pageRange>313-315</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1976-06-01</prism:coverDate><prism:coverDisplayDate>1 June 1976</prism:coverDisplayDate><prism:copyright>Copyright © 1976 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Smith, William R.</dc:creator><dc:description>
+               Abstract
+               
+                  The pair distribution function is calculated by a perturbation technique for fluids whose molecules interact according to potentials of the form u
+                     o + u
+                     a, where u
+                     o is the Lennard-Jones (12,6) potential and u
+                     a is either a dipole-dipole, quadrupole-quadrupole, or anisotropic overlap interaction. Agreement with the computer simulation results for the angle averaged pair distribution function is good up to moderate values of the anisotropy parameters in all cases.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261476850865" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261476850865" rel="scidir"/></coredata><scopus-id>49549126875</scopus-id><scopus-eid>2-s2.0-49549126875</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49549126875" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011217">2001-12-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011217">2001-12-17</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:52:59</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261476850865</xocs:eid>
+      <xocs:pii-formatted>0009-2614(76)85086-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261476850865</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(76)85086-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05659</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T10:09:27.351725-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19760601</xocs:date-search-begin>
+      <xocs:year-nav>1976</xocs:year-nav>
+      <xocs:indexeddate epoch="1008547200">2001-12-17T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>40</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>40</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 40, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>34</xocs:sort-order>
+      <xocs:first-fp>313</xocs:first-fp>
+      <xocs:last-lp>315</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>313</xocs:first-page>
+         <xocs:last-page>315</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19760601</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 June 1976</xocs:cover-date-text>
+      <xocs:cover-date-start>1976-06-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1976</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1976 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>APERTURBATIONEXPANSIONFORPAIRDISTRIBUTIONFUNCTIONFLUIDSNONCENTRALFORCES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SMITH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GUBBINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>STELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>393</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>STELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1393</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4989</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>CHANDLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1930</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>RUSHBROOKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1199</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MADDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>427</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LOWDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6587</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LOWDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5228</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>STEELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>SANDLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ANANTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1005</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>MO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>144</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>MO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1490</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>PERRAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>527</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>VERLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>665</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2022</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1953</xocs:ref-pub-year>
+            <xocs:ref-first-fp>405</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>MUSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALTHERMODYNAMICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>ANDERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3812</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>BARKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>439</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SMITHX1976X313</xocs:refkey3>
+         <xocs:refkey4lp>SMITHX1976X313X315</xocs:refkey4lp>
+         <xocs:refkey4ai>SMITHX1976X313XW</xocs:refkey4ai>
+         <xocs:refkey5>SMITHX1976X313X315XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(76)85086-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261476850865</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261476850865</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(76)85086-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T10:09:27.351725-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1976-06-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261476850865-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261476850865/MAIN/application/pdf/d75cf8613d344f5dfaf8180e410ed322/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261476850865/MAIN/application/pdf/d75cf8613d344f5dfaf8180e410ed322/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>264639</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261476850865-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261476850865/PREVIEW/image/png/7a190918b8b30cc2d71a18926d1cf831/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261476850865/PREVIEW/image/png/7a190918b8b30cc2d71a18926d1cf831/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67669</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>CHEMiCAL PHYSICS LEiTERS  Volume 40, number 2  - 1 June 1976  A PERTURBATION EXPANSION FOR THE PAIR DISTRIBUTION FUNCTION  OF FLUIDS WIT!! NON-CENTRAL FORCES - -        William R. SMITH  Mathematics Department and Department of Physiology and Bio physier, Daihousie University.  Halifax. Nova Scotia, Canada B3H 3J5      Received 23 February 1976         The pair distribution function is calculatedby a perturbation technique for fluids whose molecules interact according  to potentials of the form u0 ÷ 0a. where uo is the Lennard-Jones (12,6) potential and Ua is either a dipole—dipole, quadru-  pole—quadrupole, or anisotropic overlap interaction. Agreement with the computer simulation results for the angle aver-  aged pair distribution function is good up to moderate values of the anisotropy parameters in all cases.  where ( )~„~ represents an unweighted averaging over  the orientation of molecule j. The fluid whose mole.  cules interact via eq. (1) is the reference fluid in a per-  turbation expansion which recently has been con-  sidered by a number of workers [12—15].   Often the pair potential of the fluid of interest can  be written naturally as -  I. Introduction     There has been considerable interest recently in  developing a simple and accurate computational pro-  cedure for predicting the pair distribution functions  and thermodynamic properties of fluids whose mole-  cules are not spherically symmetric [l—15]. Among  the most computationally convenient approaches are  those which employ a spherically symmetric refer-  ence fluid about which the properties of the fluid of  interest are expanded.   A form of perturbation expansion for nonspherical  fluids suggested over twenty years ago by Cook and  Rowlinson [161 was recently tested by Smith et al.  [15] in the case of hard-core fluids. In the present  note we examine the case when the fluids have a  finitely steep repulsive core.      2.Theory     The properties of a fluid whose molecules interact  via a pair potential u(r12, w~, w2), where r12 is the  interparticle separation and w~ is the orientation of  molecule j with respect to the interparticle axis, are  expanded about those of a spherically symmetric refer-  ence fluid with pair potential u*(r12)given by [15]    —!~Tln (exp [—ßu(r12 ~ w2)l&gt;C~1,~,2, (1)  u(r12, w1, w2) = zi0(r12) + ua(ri,, ~l ‘~‘2)‘    where u0(r1 2) is a spherically symmetric potential  and Ua gives the angular dependence. Here we con-  sider the case  (2)    (3)  uO(r) = 4e [(o/r)12 — (ofr)6}.   Computer simulation results have recently been ob-  tained [171 using eqs. (2) and (3), and for Ua, dipole—  dipole, quadrupole—quadrupole, and anisotropic over-  lap interactions. The latter are given by   (p2/r~2)[—2cosO1 cosO2  + sinD1 sinD2 cos(~1 ~2)1‘  - (4)  u~ = (~Q2/42) [1 — 5(cos2ß 11-cos2ü 2)—1 5cos281 cos2O2  + 2[sinO1 sinO2cos(~1 —ç52)—4cosO1 cosü2]2},(5) -  u~er = 4e~(o/r12)1 2(3 cos2G1 ÷ 3 cos2O~ —2).  (6)  313  g(r12,w1,w2)g*(12)[1+~f(12)]  -   .j~ pfg*(123)Q~f(13) -t- 4f(23))~dr3,  (7)  where (12) denotes r12 and -  i~f(i/) = exp {—ß[i4fj, w., w~) — u~(zf)] } — 1.   (8)    Because of eq. (1), the angle averaged pair distribu-  tion function is given to first order by  (g(r12,w1,w2))(~,(,, =g*(12).   (9)    In this note eq. (9) is considered for potentials defined  by eqs. (2)—(6).      3. Results and discussion     The reference fluid pair potentials for parameter  values representing various aniso tropic strengths are  shown in fig. 1. In all the calculations shown here we  used 7~ = kT/e = 0.719 and p~ =Na3/V = 0.8, a state  considered by Wang et al. [17] in their comprter  simulation studies. Lt is seen that these potentials look  much like the isotropic (12,6) potential in general  shape. -   Values of g0(r) and g*(r) were calculated by a vari-  ant of a computational scheme of Andersen et aI. [19].  The only essential difference between our scheme and  theirs is that the properties of the hard-core “trial  system“ [19] were calculated here using the parame-  trized expressions for the perturbation theory of  Barker and Hendersàn [20]. u* (r 12) in eq. (1) was  calculated by expanding the exponential to 24 terms  in the dipole and quadrupole cases. For the aniso-  tropic overlap case, we used -    u*(r) = u0(r)~—kTln{~e~erf2(...ñ&amp;)/12a}, &amp; &gt; 0;    -- - - = u0(r) — lcTln {e~F2(V‘~)/3o~}, - ô &lt;0,  where  314  (10)   In figs. 2 and 3 are shown some -results of eq. (9)  for the potentials considered. In the dipolar case  (fig. 2) good agreement with the simulation results  was achieved in all cases considered (up to reduced  dipole moments p/(ea3)112 = 1.4). In the quadrupolar  case (not illustrated) we found good agreement with  the computer simulation results below about  Q/(ea5)112 = 0.8. In the anisotropic overlap case (fig. 3)  agreement is reasonable at ô = 0.25. For ô = —0.2,  the results were similar to those at S = 0.2S~ except  for a I~wer height at the first peak of g(r).   If the potential u0(r) in eq. (3) is used as the ref-  erence potential in the perturbation expansion, the  angle averaged pair distribution is, to first order,  given by g0(r). As was the case for hard-core fluids  [15], the perturbation expansion using the referenœ  u t r) I~  .Vülume 40, number 2— -- - -  -- CHEMICAL PHYSICS LEITERS~ -    In-the above, p and Qaie dipole and quadrupole mo-  ments réspe~tively, O and ~ represent the polai and  azimuthal angles defmed with respect to the inter- -  - particle axis r12, and ô is a dimensionless overlap  parameter. -  - -   - The pair distribution functiong(r12,o,1,w2) [18]  of-the fluid with potential u(r12, coi, w2), when ex-  panded about that of the fluid with pair potential  given by eq. (1), is given to first order by [14]  1 June 1976   1.00 1.3 1.50    r b  Fig. 1. The reference potenttals u~(r) given by eqs. (1)—(6)  at conditions typical of those in this study. Q~ =  p/(ea~)“~, T* = 0.7 19, ~ = 0.8.  n=4~ô .(o/r)12/T‘. (11)    erf(x) is the error function and F(x) is Dawson‘s in-  tegral  2x2  F(x)e~ f et dt. (12)  Volume40, number 2  1 June1976  CHEMICAL PHYSICS LErrERS  gi r)  Fig. 2. AngIe-averaged pair distribution function for the di-   - ‚_* *  polar Lennard-Jones fluid at i = 0.7 19, p 0.8. ~ — 1.1832  (solid line) and ‚i“~ = O (broken line). The open and full cir-  cles are the respective computer simulation results of Wang  et al. [171-  Fig. 3. Angle-averaged pair distrilmtion function for the  Lennard-Jones ~1us anisotropic overlap potential considered  in the text at T~ = 0.719, p~ 0.8. 6 = 0.25 (solid line) and  S = O (broken line). The open and full circles are the respec-  live computer simulation results of Wang et al. [17).  potential given by eq. (1) seems more rapidly con-   vergent. -   We are presently examining the predictions of the  thermodynamic properties implied by our procedure,  as well as the angular dependence ofg(iÇ2, ~‘ “~‘2)‘  as given by eq. (7).   Acknowledgement -     The financial assistance of the National Research  Council of Canada is gratefully acknowledged. The  author thanks Dr. ~V. Madden and Dr. D. Fitts for  sending tables of integrals for the dipolar and quadru-  polar potentials, and Dr. K.E. Gubbins for sending  graphs of his computer simulation results.      References    (11 K.E. Gubbins and C.G. Gray, Mol. Phys. 23 (1972) 187.  [21 G. Stell, J.G. Rasaiah and H. Narang, Mol. Phys. 23  (1972) 393; 27 (1974) 1393.    [31 S. Sung and D. Chandler, J. Cham. Phys. 56 (1972)  4989.  141 D. Chandler and H.C. Andersen, J. Chem. Phys. 57  (1972) 1930.  [51 G.S. Rushbrooke, G. Stell and J.S. Hç~ye, Mol. Phys. 26  (1973) 1199.    (61 W.G. Madden and D.D. Fitts, Chem. Phys. Letters 28  (1974)427.  [7) L.J. Lowden and D. Chandler, J. Chem. Phys. 59 (1973)  6587;6l (1974) 5228.  [8) W.A. Steele and S.1. SandIer, J. Chem. Phys. 61 (1974)  1315.  (9) S.!. SandIer, Mol. Phys. 28 (1974) 1207.  [10) M.S. Ananth, K.E. Gubbins and C.G. Gray, Mol. Phys.  28 (1974) 1005.  [111 K.C. Mo andK.E. Gubbins, Chem. Phys. Letters 27  (1974) 144;J. Chem. Phys. 63 (1975) 1490.  [12) J.W. Perram and L.R. White, Mol. Phys. 27 (1974) 527.  [1-31 L. Verlet and J.J. Wels, Mol. Phys. 28 (1974) 665.  [141 W.R. Smith, Can. J. Phys. 52(1974) 2022.  (151 WR. Smith, W.G. Madden and D.D. Fitts, Chem. Phys.  Letters 36 (1975) 195.  [16) D. Cook and J.S. Rowlinson, Proc. Roy. Soc. A219  (1953) 405.  [17) S.S. Wang, C.G. Gray, P.A. Egelstaff and K.E. Gubbins,  Cham. Phys. Letters 21(1973)123.  [181 A. Muster. Statistical thermodynamics, Vol. 1 (Springer,  Berlin, 1969) eh. S.1. -  [191 H.C. Andersen, D. Chandler and J.D. Weeks, J. Chem.  Phys. 56 (1972) 3812.  [201 l.A. Barker and D. Henderson, Ann. Rev. Phys. Cham.  23 (1972) 439. -   - 3l~  ri~  g( r)  r Iø~  ot illustrated) we found good agreement with  the computer simulation results below about  Q/(ea5)112 = 0.8. In the anisotropic overlap case (fig. 3)  agreement is reasonable at ô = 0.25. For ô = —0.2,  the results were similar to those at S = 0.2S~ except  for a I~wer height at the first peak of g(r).   If the potential u0(r) in eq. (3) is used as the ref-  erence potential in the perturbation expansion, the  angle averaged pair distribution is, to first order,  given by g0(r). As was the case for hard-core fluids  [15], the perturbation expansion using the referenœ  u t r) I~  .Vülume 40, number 2— -- - -  -- CHEMICAL PHYSICS LEITERS~ -    In-the above, p and Qaie dipole and quadrupole mo-  ments réspe~tively, O and ~ represent the polai and  azimuthal angles defmed with respect to the inter- -  - particle axis r12, and ô is a dimensionless overlap  parameter. -  - -   - The pair distribution functiong(r12,o,1,w2) [18]  of-the fluid with potential u(r12, coi, w2), when ex-  panded about that of the fluid with pair potential  given by eq. (1), is given to first order by [14]  1 June 1976   1.00 1.3 1.50    r b  Fig. 1. The reference potenttals u~(r) given by eqs. (1)—(6)  at conditions typical of those in this study. Q~ =  p/(ea~)“~, T* = 0.7 19, ~ = 0.8.  n=4~ô .(o/r)12/T‘. (11)    erf(x) is the error function and F(x) is Dawson‘s in-  tegral  2x2  F(x)e~ f et dt. (12)  Volume40, number 2  1 June1976  CHEMICAL PHYSICS LErrERS  gi r)  Fig. 2. AngIe-averaged pair distribution function for the di-   - ‚_* *  polar Lennard-Jones fluid at i = 0.7 19, p 0.8. ~ — 1.1832  (solid line) and ‚i“~ = O (broken line). The open and full cir-  cles are the respective computer simulation results of Wang  et al. [171-  Fig. 3. Angle-averaged pair distrilmtion function for the  Lennard-Jones ~1us anisotropic overlap potential considered  in the text at T~ = 0.719, p~ 0.8. 6 = 0.25 (solid line) and  S = O (broken line). The open and full circles are the respec-  live computer simulation results of Wang et al. [17).  potential given by eq. (1) seems more rapidly con-   vergent. -   We are presently examining the predictions of the  thermodynamic properties implied by our procedure,  as well as the angular dependence ofg(iÇ2, ~‘ “~‘2)‘  as given by eq. (7).   Acknowledgement -     The financial assistance of the National Research  Council of Canada is gratefully acknowledged. The  author thanks Dr. ~V. Madden and Dr. D. Fitts for  sending tables of integrals for the dipolar and quadru-  polar potentials, and Dr. K.E. Gubbins for sending  graphs of his computer simulation results.      References    (11 K.E. Gubbins and C.G. Gray, Mol. Phys. 23 (1972) 187.  [21 G. Stell, J.G. Rasaiah and H. Narang, Mol. Phys. 23  (1972) 393; 27 (1974) 1393.    [31 S. Sung and D. Chandler, J. Cham. Phys. 56 (1972)  4989.  141 D. Chandler and H.C. Andersen, J. Chem. Phys. 57  (1972) 1930.  [51 G.S. Rushbrooke, G. Stell and J.S. Hç~ye, Mol. Phys. 26  (1973) 1199.    (61 W.G. Madden and D.D. Fitts, Chem. Phys. Letters 28  (1974)427.  [7) L.J. Lowden and D. Chandler, J. Chem. Phys. 59 (1973)  6587;6l (1974) 5228.  [8) W.A. Steele and S.1. SandIer, J. Chem. Phys. 61 (1974)  1315.  (9) S.!. SandIer, Mol. Phys. 28 (1974) 1207.  [10) M.S. Ananth, K.E. Gubbins and C.G. Gray, Mol. Phys.  28 (1974) 1005.  [111 K.C. Mo andK.E. Gubbins, Chem. Phys. Letters 27  (1974) 144;J. Chem. Phys. 63 (1975) 1490.  [12) J.W. Perram and L.R. White, Mol. Phys. 27 (1974) 527.  [1-31 L. Verlet and J.J. Wels, Mol. Phys. 28 (1974) 66</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>76850865</aid>
+            <ce:pii>0009-2614(76)85086-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(76)85086-5</ce:doi>
+            <ce:copyright type="unknown" year="1976"/>
+         </item-info>
+         <head>
+            <ce:title>A perturbation expansion for the pair distribution function of fluids with non-central forces</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>William R.</ce:given-name>
+                  <ce:surname>Smith</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Mathematics Department and Department of Physiology and Biophysics, Dalhousie University, Halifax, Nova Scotia, Canada B3H 3J5</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="23" month="2" year="1976"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The pair distribution function is calculated by a perturbation technique for fluids whose molecules interact according to potentials of the form <ce:italic>u</ce:italic>
+                     <ce:inf loc="post">o</ce:inf> + <ce:italic>u</ce:italic>
+                     <ce:inf loc="post">a</ce:inf>, where <ce:italic>u</ce:italic>
+                     <ce:inf loc="post">o</ce:inf> is the Lennard-Jones (12,6) potential and <ce:italic>u</ce:italic>
+                     <ce:inf loc="post">a</ce:inf> is either a dipole-dipole, quadrupole-quadrupole, or anisotropic overlap interaction. Agreement with the computer simulation results for the angle averaged pair distribution function is good up to moderate values of the anisotropy parameters in all cases.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>1</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Gray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>2</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Rasaiah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Narang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>393</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Rasaiah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Narang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1393</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>3</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4989</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>4</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1930</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>5</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Rushbrooke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Høye</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1199</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>6</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Fitts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>427</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>7</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Lowden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6587</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Lowden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5228</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>8</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Sandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>9</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Sandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>10</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Ananth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Gray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1005</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>11</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>144</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1490</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>12</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Perram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>527</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>13</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Verlet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>665</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>14</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2022</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>15</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Fitts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>16</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Rowlinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A219</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1953</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>405</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>17</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Gray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>18</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Muster</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Statistical thermodynamics</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1969</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. S.1</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>19</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Weeks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3812</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>20</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Henderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>439</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

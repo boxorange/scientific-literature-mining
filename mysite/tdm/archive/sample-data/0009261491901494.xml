@@ -1,0 +1,1690 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261491901494</prism:url><dc:identifier>doi:10.1016/0009-2614(91)90149-4</dc:identifier><eid>1-s2.0-0009261491901494</eid><prism:doi>10.1016/0009-2614(91)90149-4</prism:doi><pii>0009-2614(91)90149-4</pii><dc:title>Solvents effects on the fluorescence quenching of anthracene by iodide ions </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>176</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>167</prism:startingPage><prism:endingPage>172</prism:endingPage><prism:pageRange>167-172</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-01-11</prism:coverDate><prism:coverDisplayDate>11 January 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Mac, Marek</dc:creator><dc:creator>Wach, Anna</dc:creator><dc:creator>Najbar, Jan</dc:creator><dc:description>
+               Abstract
+               
+                  Fluorescence quenching of anthracene by iodide ions in ethanol and propanol solutions in the temperature range 293–333 K was investigated under stationary conditions. The fluorescence quenching can be satisfactorily described using Marcus-type theory. Analysis of the experimental data indicates the importance of solvent-dielectric-relaxation properties for the fluorescence quenching.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261491901494" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261491901494" rel="scidir"/></coredata><scopus-id>0000735750</scopus-id><scopus-eid>2-s2.0-0000735750</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000735750" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-30T18:37:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261491901494</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)90149-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261491901494</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)90149-4</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09761</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151001">2015-10-01T14:07:09.146931-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19910111</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>176</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>176</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 176, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>167</xocs:first-fp>
+      <xocs:last-lp>172</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>167</xocs:first-page>
+         <xocs:last-page>172</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19910111</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>11 January 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-01-11</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SOLVENTSEFFECTSFLUORESCENCEQUENCHINGANTHRACENEBYIODIDEIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MAC</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GOCHEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>906</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6991</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>RIPS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2090</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ONUCHIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3925</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ONUCHIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4817</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BERATAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MUKAMEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>301</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>SUMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4272</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>SUMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4894</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BARBARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BARBARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>MIKKELSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>NEWTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>437</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>KOSOWER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14"/>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>MARCUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1956</xocs:ref-pub-year>
+            <xocs:ref-first-fp>966</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>CLOSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>440</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>CLOSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3674</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1123</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>PENFIELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5061</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>HARRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>429</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>HEITELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8286</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>GREINER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>WATKINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>WATKINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1885</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>WATKINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2555</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>SHIZUKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>519</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>SHIZUKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>989</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>NAJBAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>367</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>SIPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>434</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28"/>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>RICE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DIFFUSIONLIMITEDREACTIONS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>COMPREHENSIVECHEMICALKINETICS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>KESTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2448</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>JORTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4860</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>POTTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COMPUTATIONALPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>TIMMERMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICOCHEMICALCONSTANTSBINARYSYSTEMSINCONCENTRATEDSOLUTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ZAHLENWERTEUNDFUNKTIONENAUSPHYSIKCHEMIEASTRONOMIEGEOPHYSIKUNDTECHNIKTEILE68</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>LANDOLTBORNSTEIN</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>BERTOLINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>365</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>KITAJGORODSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARCRYSTALSMOLECULES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB37">
+            <xocs:ref-normalized-surname>ALWATTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ORGANICMOLECULARPHOTOPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>BRETSZNAJDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>372</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PREDICTIONTRANSPORTOTHERPHYSICALPROPERTIESFLUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MACX1991X167</xocs:refkey3>
+         <xocs:refkey4lp>MACX1991X167X172</xocs:refkey4lp>
+         <xocs:refkey4ai>MACX1991X167XM</xocs:refkey4ai>
+         <xocs:refkey5>MACX1991X167X172XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)90149-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261491901494</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261491901494</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)90149-4</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-01T14:07:09.146931-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-01-11</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261491901494-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261491901494/MAIN/application/pdf/12fbab66b501514f0f4e24ba98f3f955/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261491901494/MAIN/application/pdf/12fbab66b501514f0f4e24ba98f3f955/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>488444</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261491901494-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261491901494/PREVIEW/image/png/840fff5823f2aa0622cee8c987b74520/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261491901494/PREVIEW/image/png/840fff5823f2aa0622cee8c987b74520/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67314</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 176, number 2  CHEMICAL PHYSICS LETTERS  II January 1991  Solvent effects on the fluorescence quenching  of anthracene by iodide ions    Marek Mac, Anna Wach and Jan Najbar  Faculty qf Chemistry, Jagiellonian University, 3 Karasia, 30-OoOKrakew, Poland      Received 7 June 1990; in final form 25 October 1990         Fluorescence quenching of anthracene by iodide ions in ethanol and propanol solutions in the temperature range 293 333 K  was investigated under stationary conditions. The fluorescence quenching can be satisfactorily described using Marcus-type the-  ory. Analysis of the experimental data indicates the importance of solvent-dielectric-relaxation properties for the fluorescence  quenching.  1. Introduction     Solvent motions and relaxation processes play an  important role in the dynamics of chemical reactions  Il 14]. Electron-transfer reactions have been ob-  jects of numerous studies [l 25]. Much attention  has been given to the problem of adiabaticity of the  electron transfer; a number of analytical expressions  for the rate constant have been presented in the lit-  erature [l 7]. Experimentally, the compounds con-  taining an electron donor in close proximity to the  electron-acceptor subunits are well suited for a study  of the solvent-dielectric-relaxation effect on the rates  of the electron transfer [16 21]. Similar conditions  should also be important for bimolecular electron-  transfer reactions in solution. Reaction rates in so-  lution are affected by the diffusion velocity of reac-  tants [14,26 29]. For this reason, experimental evi-  dence concerning the influence of solvent relaxational  properties on the electron-transfer rates in bimolec-  ular reactions has been difficult to demonstrate. In  this paper, we have developed a method to separate  the effects of diffusion and solvent relaxation, thus  making it possible to study the dynamical influence  of the solvent on bimolecular electron transfer.   Recently, we have analyzed the fluorescence-  quenching-rate coefficient of aromatic hydrocarbons  by iodide and bromide ions in methanol ethanol  mixtures. Specifically, its dependence on the free en-  thalpy of electron transfer was studied [141. For  negative values of AG, the quenching is due to elec-  tron transfer. Temperature dependences of the  quenching-rate coefficients indicate the importance  of solvent-dielectric relaxation in quenching reac-  tion rates. For AG&gt;O, the quenching occurs due to  a temperature-independent process (external heavy-  atom effect).   En this paper, we present more direct evidence of  the influence o~ solvent relaxation properties on the  electron-transfer probability. The experimental sys-  tem was chosen so that electron transfer is the major  quenching process, and the diffusion limitation to  the quenching process is not too large. The quench-  ing-rate coefficient is reduced approximately by half  relative to that predicted without diffusion control.      2. Electron-transfer rates     We consider the case of a slow diffusion where the  distances travelled by acceptor molecules during the  Landau Zener time are small [3,5,6]. Under these  conditions, we can assume that the electron-transfer  rates are dependent on donor acceptor separations  only. The time dependence of the rate constants re-  sults from the time dependence of the distance be-  tween donor and acceptor. The quenching-rate con~  stant, which is derived from the Stern Volmer  167  0009-2614/91/S 03.50   1991   Elsevier Science Publishers By. (North-HoUand)  CHEMICAL PHYSICS LETTERS  Il January 1991  Volume 176, number 2  analysis of the luminescence quenching, is related to  the Laplace transform of the time-dependent bi-  molecular rate coefficient. The explicit formula is  [26 29]  I V(r, m) 2= j V(r) I2exp(  S) Stm/rn!    with S=AIN/hQ.    In eq. (4), AG is the free enthalpy change between    products and reactants, while 1(r) is the solvent re    organization energy [15]. 21N is the internal reor    ganization energy and V( r) is the matrix element of   (1) the electronic coupling. The longitudinal dielectric  relaxation time, TL, can be evaluated from the  Froehlich formula TL = (e=/ e5) TD with c, and e~ being  the optical and the static dielectric constant of the  solvent, respectively, while TD is the Debye relaxa-  tion time [3,4,13,14,20].   When the internal reorganization energy, 21N, ~S  very small (S= 0), eq. (4) simplifies to the equation  derived by Rips and Jortner [3].   Eq. (4) predicts the dependence of the electron-  transfer rate on the longitudinal relaxation time, tL.  On the other hand, for tL ~O, eq. (4) reduces to the  (2) well-known Jortner formula valid in the nonadi-  abatic limit [30,31].   The solvent reorganization energy 2(r) is approx-  imatedby [15]  kq = 4~N p J S(r) ~(r, p) r2 dr  forp=1/t,  where a is the contact separation, N is Avogadro s  number divided by l0~, S(r) is the reaction rate for  donor and acceptor separated by the distance r, and  ~(r,p) is the Laplace transform ofp(r, t), the time-  dependent pair-distribution function for donor and  acceptor molecules. The function ~ p) is the so-  lution to the equation [27,28]   (d2 2d\  D  r rdrj   Ip+S(r)]IJ(r,p)= l,  where D is the diffusion coefficient (D=D~ +D0).  We use the simplest boundary conditions appropri-  ate for long-range tunnelling, the reflecting boundary  conditions,    dfl(r,p)  ~ d dp(r,p)  ~   dr r=a an dr r~       In recent years, much attention has been given to  the problem of the adiabaticity of the electron trans-  fer in different media [l 71. In a number of papers,  formulae were derived that interpolate between the  nonadiabatic and adiabatic limits [l 7]. Experi-  mental evidence for adiabatic and nonadiabatic elec-  tron-transfer regimes refers mainly to monomolec-  ular electron-transfer reactions [13,16 21]. Here, we  limit our attention to one particular formula which  allows us to discuss the dependencies of the quench-  ing-rate coefficient on the solvent-dielectric-relaxa-  tion properties [3,4].   For the electron-transfer probability, we use the  formula proposed by Onuchic [4],    S( )  (2it/~)I J/(r, m)I2[41E.Z(r)kT]~ 2  r _~ l+(4~/~)IV(r,m)J2rL/A(v)     xexp{  [AG+mhQ+A(r)]2/42(r)kT},  where  A(r)=Ne2/4ite0(1/2a1 +l/2a2 l/r)  (5)  (3)  where a1 and a2 are the effective radii of the reac-  tants, e is the electron charge, and c, = n2 where n  is the refractive index of the solvent. For the elec-  tronic coupling matrix element, we use the standard  formula [16 21],  V(r)=V(a)exp[ a(r a)/2]   (6)    where V( a) and a are parameters. The calculations  of the quenching-rate coefficients were performed  using the numerical method of solving eqs. (2) and  (3) and numerical integration of eq. (1) [26,28,32].  3. Experimental   Anthracene was purified by crystallization from  ethanol. Potassium iodide and sodium iodide were  Analar Grade. Ethanol and propanol were dried over  anhydrous sodium carbonate and column distilled.  Samples containing anthracene (7 X 10~ M) and an  appropriate concentration of the quencher were sat-  168  Solvent  Temp.  (SC)  Ksv  (M  )  r  ins)  k~  (109M  s  )  ethanol  22  30  35  40  45  50  55  60  18.6  1.8  23.0 0.9  24.5 0.4  26.6 0.5  24.6 0.5  27.3 0.6  29.6  1.1  30.3  1.9  4.90  4.75    4.75    4.60    4.50  3.80 0.44  4.85 0.29  5.15 0.19  5.60 0.22  5.28 0.21  5.94 0.25  6.50  0.37  6.74  0.56   -propanol  22  30  35  40  45  50  55  60  16.1  0.8  18.5 0.9  20.5 0.8  24.7 1.3  23.0 0.9  30.5  1.3  32.4  1.2  34.1   1.2  4.40  4.25    4.25    4.25    4.00  3.67 0.26  4.35 0.30  4.82 0.28  5.81   0.42  5.40 0.32  7.18 0.45  7.86 0.44  8.53 0.47  Yolume 176, number 2  CHEMICAL PHYSICS LETTERS  11 January 1991  urated with Na2SO3 to remove the traces of 12. De-  gassing of the samples was achieved by repeated  freezing, pumping and thawing (five times). Sam-  pies were sealed in pyrex tubes under vacuum. Flu-  orescence spectra were measured using a spectro-  fluorimeter (using 365/6 nm Hg lines for excitation)  with a temperature-controlled sample compartment.  Fluorescence lifetimes of anthracene in ethanol and  propanol at different temperatures were measured  using a LIF 200 Taumeter ZWG Berlin (1 ns pulse  width).        4. Experimental results and discussion     The fluorescence spectra of anthracene in the pres-  ence of different concentrations of Nat in ethanol and  n-propanol solutions were measured at different  temperatures between 295 and 333 K. Stern Volmer  plots were constructed from the relative integrated  fluorescence intensities, and the Stern Volmer  quenching coefficients Kq were obtained using the  method of linear regression. The experimental re-  sults are presented in table 1, where the Stern   Volmer quenching coefficients K~, the quenching-rate    Table 1  Measured Stern Yolmer fluorescence-quenching constants [&lt;~~  of anthracene by I   ions and fluorescence lifetimes r (k~ =  coefficients kq=Kq/r, and the fluorescence lifetimes  r in the absence of the quencher are given. The  Arrhenius plots of In kq versus 1 / T give straight lines,  thus allowing for determination of the activation en-  ergy of the quenching process. The Arrhenius acti-  vation energies for the fluorescence quenching of an-  thracene in ethanol and n-propanol by iodide ions  are given in table 2. The free enthalpy of the electron  transfer between iodide ion and singlet-state excited  anthracene is about  0.2 eV [14,23 25].   The quenching-rate coefficient is a function of  many parameters. It includes transport properties,  dielectric and relaxational properties of the solvent,  dimensions of the reactants and the distance-depen-  dent matrix element of the electronic interactions  [14], Parameters characterizing macroscopic prop-  erties of the solvents were taken from the literature  [33,34]. The Debye relaxation times for ethanol and  n-propanol and their temperature dependencies were  investigated by Bertolini et al. [35]. Dynamical  properties of these solvents were reviewed by Rips  and Jortner [3].   Important intermediate parameters are the sol-  vent reorganization energies [14 20]. We assume  that the bispherical model [15], eq. (5), gives a rea-  sonable approximation for the distance dependence  of the solvent reorganizatton energy. The amplitude  of the changes of this function is dependent on the  radii of the reactants. The parameters, a1 and a2, were  selected in such a way to obtain the reorganization  energies comparable with those known from other  studies [16 20]. Accordingly, partial  solvation  of  the ions was taken into account assuming that the  radii of reactants in eq. (5) are larger than the mean  radii of the iodide ion (2.2 A) and the anthracene  molecule (3.5 A) [36]. The increases in the radii of  reactants and products were taken to be proportional  to the radii of the solvent molecules.   In the evaluation of the parameters, a1 and a2, we  were guided by the results obtained by Johnson et al.  [18] for bridged donor acceptor systems. In our cal-  culations, we used 0.15 eV for hQ (mean quantum  of energy in internal vibrational modes of the reac-  tants). The internal reorganization energies taken  into account in the present modelling were 0.0,0.15,  0.30 and 0.45 eV for S=0, 1, 2, and 3, respectively,  The diffusion coefficients for aromatic molecules  were evaluated using the relation given by Alwatter  169  a (A) S V(a) (eV) Ethanol    n-propanol        k0~ (1O9M~  s_l)  E~(kJmol )  kq ~ (109M  s  )  E~ (kJmol )      experiment 3.8 0.4  9.2~5  3.7 0.3  19.0 5   5.6e 0 0.0060 3.8  13.4  3.7  18.8  1 0.0060 3.4  12.0  3.7  17.5  2 0.0085 3.2  11.8  3.7  17.5  3 0.015 3.4  12.3  3.7  17.6   5.6* 0 0.00107 1.4   2.7  3.7  4.3  1 0.00155 1.3   2.8  3.7  4.1  NA 2 0.0023 1.2   2.5  3.7  4.5  3 0.0035 1.1   2.1  3.7  4.8   6.0* 0 0.0080 3.1  15.2  3.7  20.6  I 0.0085 2.9  14.3  3.7  19.4  2 0.0125 2.9  14.2  3.7  19.4  3 0.0215 2.9  14.5  3.7  19.6   6.0* 0 0.00115 1.0   2.9  3.7  3.7  I 0.00175 1.0   2.7  3.7  4.2  NA 2 0.0027 1.0   2.2  3.7  4.5  3 0.0041 1.0   2.0  3.7  4.8  * denotes contact separation of   reactants.        Table 3        Parameters used in the modelling of experimental data          Ethanol  n-propanol    a1 (A)  4.2  5.2    a2 (A)  4.6  4.8    a (A)  5.6, 6.0  5.6,   6.0    o(A )  1.0  1.0    c [341  24.8720, 2O.82~  20.5920, 16.7150    n [34J  1.359120, l.3345~   1.382420, 1.37l8~     D (l0 ~ cm2 s  ) [37,38]  1.37  0.88    ED(kJmol )  11.2  11.3    r,. (ps) 131  9.620  39.220     Tiir~ (kimol- ) [34,351  18.6  31.1    lI January 1991  Volume 176, number 2  CHEMICAL PHYSICS LETTERS  Table 2  Calculated quenching characteristics using eq. (4) for electron.transfer rate and parameters given in table 3 below. NA denotes   nonadi-  abatic limit  et al. [371 and Wilke Chang [38], and the viscos-  ities of ethanol and n-propanol. Parameters used in  the present modelling are given in table 3.   The external reorganization energies A (r) for large  and small separations of reactants calculated from  eq. (5) and parameters from table 3 are given in ta-  ble 4 for ethanol and n-propanol solutions at 295 K.   Parameters V(a) (eq. (6)) were fitted to repro-  duce the experimental value of the quenching-rate  coefficient, kq, for anthracene in n-propanol  (3.7xl09M  s ).Finally, these parameters, V(a),  were used to calculate the quenching-rate coeffi-  cients for anthracene in ethanol, as well as the ac-  tivation energies of the quenching-rate coefficient for  170  Solvent a (A) A(r=a) (eV) A(r=oo) (eV)  ethanol  Volume 176, number 2  CHEMICAL PHYSICS LETTERS  11 January 1991  Table 4  Solvent reorganization energies (eq. (5))  S. Summary     Quenching-rate coefficients of anthracene fluores-  cence by iodide ions in ethanol and n-propanol were  measured in the temperature range 29 5 333 K. The  activation energies of the fluorescence-quenching-rate  coefficients were found to be 9.2 5 kJ moLt and  18.6 5 kJ mol~ for ethanol and n-propanol, re-  spectively. In the analysis of the experimental data,  the diffusion of the reactants and the electron-trans-  fer rates were taken into account in a self-consistent  manner. For anthracene and the iodide ion, ~G is  negative ( 0.2 eV) and diffusion control of the  quenching reaction is moderate. This system dem-  onstrates effects of the adiabaticity of the electron-  transfer process using stationary quenching  experiments.   The parameters used in our modelling agree rea-  sonably well with those derived from analysis of other  systems. Remarkable agreement between experi-  mental values and calculated quantities was found  when relaxation properties of the solvents are taken  into account. The analysis of the fluorescence  quenching indicates the importance of the dielectric  relaxation of the solvent for the electron-transfer  process.   Our conclusions are based on analysis of station-  ary quenching experiments. For investigation of the  influence of solvent-dielectric relaxation on electron  transfer, time-resolved fluorescence measurements  should provide a more direct evaluation of the effect.      Acknowledgement     The support of the Polish Academy of Sciences  Project CPBP 01.19 is gratefully acknowledged. The  authors thank Dr. J. Rodakiewicz for her help in the  fluorescence-lifetime measurement and Professor J.  Hicks for her editorial comments.      References    [Il A. Gochev, G.E. McManis and M.J. Weaver, J. Chem. Phys.  91(1989)906.  121 Y.J. Yan and S. Mukamel, J. Phys. Chem. 93(1989)6991.  [31 L RipsandJ.Jortner,J. Chem. Phys. 87(1987)2090.   5.6 0.36   6.0 0.44  1.46  1.46  1.20  1.20  n-propanol 5.6 0.15   6.0 0.23  anthracene in ethanol and n-propanol.   The contact separation of the reactants is smaller  than a -~- a2. This is an acceptable value if we allow  for the interpenetration of solvation shells. Contact  separation restricts the relative translational motion  of the reactants, whereas parameters a1 and a2 are  related to the orientational degrees of freedom of the  solvent molecules in contact with the reactants.   The theoretical predictions based on eq. (4) (for  the parameter p equal to lit) are given in table 2.  The calculations were performed for two values of  the closest-approach distance between the reactants  (a=5.6 and 6.0 A). From table 2, we find that cal-  culated (eq. (4)) quenching-rate coefficients and  corresponding activation energies agree reasonably  well with the quantities derived from experiment.  However, the agreement is equally good for all val-  ues of the parameter, S, when the parameter V( a)  was suitably adjusted to reproduce the value of the  quenching-rate coefficient in n-propanol.   For comparison, table 2 shows results of the cal-  culation assuming the nonadiabatic limit. As before,  the parameters, V(a), were fitted to obtain the  quenching-rate coefficient for anthracene in n-pro-  panol. Also, other quantities were calculated using  this parameter. The agreement with experimental  data is poor. In particular, the calculated activation  energies of the quenching-rate coefficients are much  lower (negative for ethanol) than those obtained  from experiment. Also, the fitted values of the ma-  trix element of electronic interactions 1/( a) are rather  low. This evidence supports our suggestion that sol-  vent relaxation effects are important in the fluores-  cence quenching of anthracene by the iodide ions in  alcohols.  171  Volume 176, number 2  CHEMICAL PHYSICS LEUERS  il January 1991  [41 J.N. Onuchic, J. Chem. Phys. 86(1987)3925.  [5]J.N.OnuchicandD.N. Beratan,J, Phys. Chem. 92(1988)  4817.  [61 D.N. Beratan and J.N. Onuchic, J. Chem. Phys. 89 (1988)  6195.  [7] S. Mukamel and Y.J. Yan, Accounts Chem. Res. 22 (1989)  301.  [8] H. Sumi and R.A. Marcus, J. Chem. Phys. 84 (1986)4272,  4894.  [9] P.F. Barbara and W. Jarz~ba, Accounts Cheni. Res. 21  (1988) 195.  1101 P.F. Barbara and W. Jarzcba, Ultrafast Photochemical  Intramolecular Charge Transfer and Excited State Solvation,  Advan. Photochem. 14(1990), in press.  [il] K.V. Mikkelsen and M.A. Ratner, Cheni. Rev. 87 (1987)  113.  112] M.D. Newton and M. Sutin, Ann. Rev. Phys. Cheni. 35  (1984) 437.  113] EM. Kosower and D. Huppert, Ann. Rev. Phys. Chem. 37  (1986) 127.  [141 J. Najbar and M. Mac, fluorescence Quenching of Aromatic  Molecules by Potassium Iodide and Potassium Bromide in  Methanol Ethanol Solutions, Faraday Trans., submitted for  publication.  (15] RA. Marcus, J. Phys. Chem. 24 (1956) 966.  1161 G.L Closs and J.R Miller, Science 240 (1988) 440.  [17] G.L. Closs, L.T. Calcaterra, N.J. Green, K.W. Penfield and  J.R. Miller, J. Phys. Chem. 90 (1986) 3674.  [l8]M.D. Johnson, J.R. Miller, N.S. Green and G.L. Closs, J.  Phys.Chem.93 (1989) 1123.  (19] K.W. Penfield, J.R. Miller, M.N. Paddon-Row, E. Cotsaris,  AM. Oliver and N.S. Hush. J. Am. Chem. Soc. 109 (1987)  5061.  (20] R.J. Harrison, B. Pearce, G. Beddard, l.A. Cowan and  J.K.M. Sanders, Chem. Phys. 116 (1987) 429.  [211 H. Heitele and M.E. Michel-Beyerle, J. Am. Chem. Soc. 107  (1985) 8286.  [221 G. Greiner, P. Pasquini, R. Weiland, H. Orthwein and H.  Rau, J. Photochem. Photobiol. A 51(1990)179.  [23] A.R. Watkins, J. Phys. Chem. 77(1973)1207; 78(1974)  1885, 2555.  [24] H. Shizuka, T. Salto and T. Monta, Chem. Phys. Letters 56  (1978) 519.  [25] H. Shizulca, M. Nakamura and T. Monta, J. Phys. Chem.  84(1980)989.  [26]J. Najbar, Chem. Phys. 120 (1988) 367.  [27] B. Sipp and R. Voltz, J. Chem. Phys. 79 (1983) 434.  [281 J. Naj bar, J. Phys. Chem., submitted for publication.  [291 S.A. Rice, in: Comprehensive chemical kinetics, Vol. 25.  Diffusion-limited reactions, eds. C.H. Bamford, C.F.H.  Tipper and R.G. Compton (Elsevier, Amsterdam, 1985).  [30] N.R. Kestner, J. Logan and J. Jortner, J. Phys. Chem. 78  (1974) 2448.  [31] J. Jortner, J. Chem. Phys. 64 (1976) 4860.  [32] D. Potter, in: Computational physics (Wiley, New York,  1977).  [33] J. Timmermans, The physico-chemical constants of binary  systems in concentrated solutions (lnterscience, New York,  1959).  [341 Landolt Bornstcin, Zahlenwerte und Funktionen aus  Phvsik Chemie--Astronomie Geophysik und Technik, Teile  6,8 (Springer, Berlin, 1959).  [35] D. Bertolini, M. Cassetani and S. Salvetti, J. Chein. Phys.  78(1983)365.  [361 A.J. Kitajgorodsky, Molecular crystals and molecules  (Academic Press, New York, 1973).  [37] A.H. Alwatter, M.D. Lamb and J.B. Birks, in: Organic  molecular photophysics, ed. lB. Birks (Wiley, New York,  1973).  [38] S. Bretsznajder, Prediction of transport and other physical  properties of fluids (Pergamon Press, Oxford, 1983) p. 372.  172   val-  ues of the parameter, S, when the parameter V( a)  was suitably adjusted to reproduce the value of the  quenching-rate coefficient in n-propanol.   For comparison, table 2 shows results of the cal-  culation assuming the nonadiabatic limit. As before,  the parameters, V(a), were fitted to obtain the  quenching-rate coefficient for anthracene in n-pro-  panol. Also, other quantities were calculated using  this parameter. The agreement with experimental  data is poor. In particular, the calculated activation  energies of the quenching-rate coefficients are much  lower (negative for ethanol) than those obtained  from experiment. Also, the fitted values of the ma-  trix element of electronic interactions 1/( a) are rather  low. This evidence supports our suggestion that sol-  vent relaxation effects are important in the fluores-  cence quenching of anthracene by the iodide ions in  alcohols.  171  Volume 176, number 2  CHEMICAL PHYSICS LEUERS  il January 1991  [41 J.N. Onuchic, J. Chem. Phys. 86(1987)3925.  [5]J.N.OnuchicandD.N. Beratan,J, Phys. Chem. 92(1988)  4817.  [61 D.N. Beratan and J.N. Onuchic, J. Chem. Phys. 89 (1988)  6195.  [7] S. Mukamel and Y.J. Yan, Accounts Chem. Res. 22 (1989)  301.  [8] H. Sumi and R.A. Marcus, J. Chem. Phys. 84 (1986)4272,  4894.  [9] P.F. Barbara and W. Jarz~ba, Accounts Cheni. Res. 21  (1988) 195.  1101 P.F. Barbara and W. Jarzcba, Ultrafast Photochemical  Intramolecular Charge Transfer and Excited State Solvation,  Advan. Photochem. 14(1990), in press.  [il] K.V. Mikkelsen and M.A. Ratner, Cheni. Rev. 87 (1987)  113.  112] M.D. Newton and M. Sutin, Ann. Rev. Phys. Cheni. 35  (1984) 437.  113] EM. Kosower and D. Huppert, Ann. Rev. Phys. Chem. 37  (1986) 127.  [141 J. Najbar and M. Mac, fluorescence Quenching of Aromatic  Molecules by Potassium Iodide and Potassium Bromide in  Methanol Ethanol Solutions, Faraday Trans., submitted for  publication.  (15] RA. Marcus, J. Phys. Chem. 24 (1956) 966.  1161 G.L Closs and J.R Miller, Science 240 (1988) 440.  [17] G.L. Closs, L.T. Calcaterra, N.J. Green, K.W. Penfield and  J.R. Miller, J. Phys. Chem. 90 (1986) 3674.  [l8]M.D. Johnson, J.R. Miller, N.S. Green and G.L. Closs, J.  Phys.Chem.93 (1989) 1123.  (19] K.W. Penfield, J.R. Miller, M.N. Paddon-Row, E. Cotsaris,  AM. Oliver and N.S. Hush. J. Am. Chem. Soc. 109 (1987)  5061.  (20] R.J. Harrison, B. Pearce, G. Beddard, l.A. Cowan and  J.K.M. Sanders, Chem. Phys. 116 (1987) 429.  [211 H. Heitele and M.E. Michel-Beyerle, J. Am. Chem. Soc. 107  (1985) 8286.  [221 G. Greiner, P. Pasquini, R. Weiland, H. Orthwein and H.  Rau, J. Photochem. Photobiol. A 51(1990)179.  [23] A.R. Watkins, J. Phys. Chem. 77(1973)1207; 78(1974)  1885, 2555.  [24] H. Shizuka, T. Salto and T. Monta, Chem. Phys. Letters 56  (1978) 519.  [25] H. Shizulca, M. Nakamura and T. Monta, J. Phys. Chem.  84(1980)989.  [26]J. Najbar, Chem. Phys. 120 (1988) 367.  [27] B. Sipp and R. Voltz, J. Chem. Phys. 79 (1983) 434.  [281 J. Naj bar, J. Phys. Chem., submitted for publication.  [291 S.A. Rice, in: Comprehensive chemical kinetics, Vol. 25.  Diffusion-limited reactions, eds. C.H. Bamford, C.F.H.  Tipper and R.G. Compton (Elsevier, Amsterdam, 1985).  [30] N.R. Kestner, J. Logan and J. Jortner, J. Phys. Chem. 78  (1974) 2448.  [31] J. Jortner, J. Chem. Phys. 64 (1976) 4860.  [32] D. Potter, in: Computational physics (Wiley, New York,  1977).  [33] J. Timmermans, The physico-chemical constants of binary  systems in concentrated solutions (lnterscience, New York,  1959).  [341 Landolt Bornstcin, Zahlenwerte und Funktionen aus  Phvsik Chemie--Astronomie Geophysik und Technik, Teile  6,8 (Springer, Berlin, 1959).  [35] D. Bertolini, M. Cassetani and S. Salvetti, J. Chein. Phys.  78(1983)365.  [361 A.J. Kitajgorodsky, Molecular crystals and molecules  (Academic Press, New York, 1973).  [37] A.H. Alwatter, M.D. Lam</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>91901494</aid>
+            <ce:pii>0009-2614(91)90149-4</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)90149-4</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Solvents effects on the fluorescence quenching of anthracene by iodide ions</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Marek</ce:given-name>
+                  <ce:surname>Mac</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Anna</ce:given-name>
+                  <ce:surname>Wach</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jan</ce:given-name>
+                  <ce:surname>Najbar</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Faculty of Chemistry, Jagiellonian University, 3 Karasia, 30-060 Kraków, Poland</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="7" month="6" year="1990"/>
+            <ce:date-revised day="25" month="10" year="1990"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Fluorescence quenching of anthracene by iodide ions in ethanol and propanol solutions in the temperature range 293–333 K was investigated under stationary conditions. The fluorescence quenching can be satisfactorily described using Marcus-type theory. Analysis of the experimental data indicates the importance of solvent-dielectric-relaxation properties for the fluorescence quenching.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gochev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>McManis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Weaver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>906</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mukamel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6991</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Rips</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jortner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2090</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Onuchic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3925</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Onuchic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Beratan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4817</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Beratan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Onuchic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mukamel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Accounts Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>301</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Marcus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4272</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Marcus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4894</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Barbara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jarzȩba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Accounts Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Barbara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jarzȩba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ultrafast Photochemical Intramolecular Charge Transfer and Excited State Solvation, Advan. Photochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>in press</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Mikkelsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Ratner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Newton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sutin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>437</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Kosower</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Huppert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Najbar and M. Mac, Fluorescence Quenching of Aromatic Molecules by Potassium Iodide and Potassium Bromide in Methanol—Ethanol Solutions, Faraday Trans., submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Marcus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1956</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>966</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Closs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>240</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>440</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Closs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.T.</ce:given-name>
+                                 <ce:surname>Calcaterra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Green</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Penfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3674</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Green</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Closs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1123</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Penfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Paddon-Row</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Cotsaris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Hush</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5061</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Pearce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Beddard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Cowan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.M.</ce:given-name>
+                                 <ce:surname>Sanders</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>429</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Heitele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Michel-Beyerle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8286</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Greiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pasquini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Weiland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Orthwein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Rau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Photochem. Photobiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Watkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b1</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Watkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1885</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b2</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Watkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2555</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shizuka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Saito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Morita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>519</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shizuka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nakamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Morita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>989</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Najbar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>367</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sipp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Voltz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>434</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Najbar, J. Phys. Chem., submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Rice</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comprehensive chemical kinetics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>C.H.</ce:given-name>
+                                       <ce:surname>Bamford</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>C.F.H.</ce:given-name>
+                                       <ce:surname>Tipper</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>R.G.</ce:given-name>
+                                       <ce:surname>Compton</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Diffusion-limited reactions</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>25</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.R.</ce:given-name>
+                                 <ce:surname>Kestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Logan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jortner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2448</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jortner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4860</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Potter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Computational physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Timmermans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The physico-chemical constants of binary systems in concentrated solutions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1959</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Interscience</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Landolt—Börnstein</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Zahlenwerte und Funktionen aus Physik—Chemie—Astronomie—Geophysik und Technik, Teile 6, 8</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1959</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bertolini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cassetari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Salvetti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>365</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Kitajgorodsky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular crystals and molecules</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Alwatter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Lumb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Birks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>J.B.</ce:given-name>
+                                       <ce:surname>Birks</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Organic molecular photophysics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bretsznajder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Prediction of transport and other physical properties of fluids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pergamon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>372</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1074 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261485801159</prism:url><dc:identifier>doi:10.1016/0009-2614(85)80115-9</dc:identifier><eid>1-s2.0-0009261485801159</eid><prism:doi>10.1016/0009-2614(85)80115-9</prism:doi><pii>0009-2614(85)80115-9</pii><dc:title>High-resolution soft x-ray excitation spectra of 3d-metal phthalocyanines </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>116</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>7</prism:startingPage><prism:endingPage>11</prism:endingPage><prism:pageRange>7-11</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-04-26</prism:coverDate><prism:coverDisplayDate>26 April 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Koch, E.E.</dc:creator><dc:creator>Jugnet, Y.</dc:creator><dc:creator>Himpsel, F.J.</dc:creator><dc:description>
+               Abstract
+               
+                  Sharp core-level excitons (1s → π*) are observed below the carbon 1s (289.5 eV) and nitrogen 1s (403.6 eV) threshold and broader features (1s → σ*) above threshold for metal-free and 3d-metal phthalocyanines (PCs). The fine structure of prominent sharp lines (white lines) originating from metal 2p → 3d, 4s transitions was resolved for MnPC at 640 cV to CuPC at 933 eV. The results demonstrate the excellent possibilities of high-resolution soft X-ray spectroscopy as a site-specific local probe of empty electronic states in complex organic compounds.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261485801159" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261485801159" rel="scidir"/></coredata><scopus-id>0003165802</scopus-id><scopus-eid>2-s2.0-0003165802</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0003165802" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011221">2001-12-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011221">2001-12-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:27:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261485801159</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)80115-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261485801159</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)80115-9</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06562</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T21:22:55.10685-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19850426</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1008892800">2001-12-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>116</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>116</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 116, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>7</xocs:first-fp>
+      <xocs:last-lp>11</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>7</xocs:first-page>
+         <xocs:last-page>11</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19850426</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>26 April 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-04-26</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHRESOLUTIONSOFTXRAYEXCITATIONSPECTRA3DMETALPHTHALOCYANINES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KOCH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KOCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SYNCHROTONRADIATIONTECHNIQUESAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SYNCHROTONRADIATIONRESEARCH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HITCHOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KUTZLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3274</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>EXAFSNEAREDGESTRUCTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>LEVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ORGANISCHEFESTKORPERUNDORGANISCHEDUNNESCHICHTEN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>POPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRONICPROCESSESINORGANICCRYSTALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KOCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ORGANICMOLECULARAGGREGATES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>IWAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>261</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>IWAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KOCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>HIMPSEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>GUDAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>EBERHARDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HITCHCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>317</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>HITCHCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3927</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>KITAIGORODSKII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ORGANICCHEMICALCRYSTALLOGRAPHY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>DEHMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>341</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHOTOPHYSICSPHOTOCHEMISTRYINVACUUMULTRAVIOLET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>YAMAGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2641</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KOCHX1985X7</xocs:refkey3>
+         <xocs:refkey4lp>KOCHX1985X7X11</xocs:refkey4lp>
+         <xocs:refkey4ai>KOCHX1985X7XE</xocs:refkey4ai>
+         <xocs:refkey5>KOCHX1985X7X11XE</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)80115-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261485801159</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261485801159</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)80115-9</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T21:22:55.10685-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-04-26</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261485801159-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485801159/MAIN/application/pdf/9572b952e1a87fb41a4e594a7ba54c6c/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485801159/MAIN/application/pdf/9572b952e1a87fb41a4e594a7ba54c6c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>456120</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261485801159-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485801159/PREVIEW/image/png/187dc604fa45043c372916ff51eced73/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485801159/PREVIEW/image/png/187dc604fa45043c372916ff51eced73/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>79901</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 116, number l    CHEMICAL PHYSICS LETTERS    26 April 1985    HIGH-RESOLUTION SOFT X-RAY EXCITATION SPECTRA  OF 3d-METAL PHTHALOCYANINES    E E KOCH ', Y. JUGNET 2 and F.J. HIMPSEL  IBM TJ. Watson Research Center, Box 218, Yorkto\vn Heights. NY 10598. USA    Received 28 January 1985; in final form 8 February 1985    Sharp core-level excitons (Is -&gt; IT*) are observed below ihe carbon Is (289 5 eV) and nitrogen Is (403 6 eV) threshold and  broader features (Is -&gt; o") above threshold for metal-free and 3d-melal phlhalocyanines(PCs) The fine structure of prominent  sharp lines (white lines) originaling from metal 2p  &gt; 3d, 45 transi lions was resolved for Mn-PC at 640 cV to Cu-PC at 933 eV.  The results demonstrate the excellent possibilities of high-resolution soft X-ray speclroscopy as a site-specific local probe of  empty electronic states in complex organic compounds    1. Introduction    The excitation of atomic inner shells by high-energy  photons or electrons provides a method for investigat-  ing unoccupied valence orbitais by making a transition  from a well separated core level to a valence state [1].  This technique has the advantage to be site-specific  due to the possibility to select different core-level  edges of interest. In particular for organometallic com-  pounds this technique has great potential for deter-  mining the electronic states around active metal sites  in a large low-Z-material matrix. Thus one can hope  eventually to apply this technique to organometallic  compounds of biological importance such as hemoglo-  bin or chlorophyll.    In the X-ray range where the metal Is absorption  edges of the 3d metals are accessible, this idea has been  tested and in a number of investigations the X-ray ab-  sorption near edge structure (XANES) of organometal-  lic compounds was studied [23]. The amount of in-  formation is limited however due to two factors. First,  the transitions from the Is level to the lowest unoccu-  pied orbitais (3d, 4s) are dipole forbidden, and second    1 Permanent address. Fnlz-Haber-Inslitut der Max-Planck-  Gesellschait, Faradayweg 4-6, D-1000 Berlin 33, Federal  Republic of Germany.    2 Permanent address* Instatut de Recherches sur la Catalyse,  CNRS, F-69626 Villeurbanne, France.    0 009-2614/85/S 03.30   Eisevier Science Publishers B. V.  (North-Holland Physics Publishing Division)    the metal Is core levels are intrinsically broadened by  lifetime effects and thus the resolution is poor.    More recently the tuning range for X-rays has been  extended to soft X-rays including the carbon, nitrogen  and oxygen Is core levels. Furthermore the 3d-metal  LJ( ]-[ edges (2p levels), which are the sharpest 3d-  metal core levels, became accessible with sufficient  resolution. In the present Letter we discuss the applica-  tion of high-resolution soft X-ray excitation spectros-  copy to organometallic compounds for the study of  the unoccupied valence levels. For our studieswe have  chosen the group of 3d-metal phthalocyanines (PCs)  as model systems. Interest in the study of PCs is moti-  vated by several aspects: first, their molecular structure  (see the inserts in figs. I and 2) is very similar to that  of chlorophyll and blood pigments. Thus they are  good models for redox-active complexes in living or-  ganisms or in catalysis. Second, molecular crystals of  this class have interesting properties as semiconductors  or for device applications [4]. The electronic structure  of the occupied valence bands of the 3d-PCs and the  binding energies of the core levels are well known from  photoemission experiments [5]. Furthermore, the Li  and L^ edges of transition metais exhibit prominent  features due to transitions from the 2p^i^ and 2pi/2  levels to unoccupied 3d states. Thus it was hoped to  obtain direct and otherwise inaccessible information  concerning the empty 3d states.    Volume 116, number l    CHEMICAL PHYSICS LETTERS    26 Apnl 1985    2. Experimental details    The experiments were performed with a new high-  resolution 6 m/10 m toroidal grating monochromator  which is described elsewhere [61. The samples were  prepared by vacuum sublimation of PC powders on  tantalum substrates. This was done partly in a separate  evaporation unit and partly in situ- We measured the  yield of photoelectrons above  ;100 eV kinetic energy  which is proportional to the absorption coefficient  provided that the mean free path of the photoelectrons  is small compared to the absorption length [7]. For  the spectra shown as full lines in figs. 1 3 the energy  resolution ranged from 0.2 eV at hv = 300 eV to  about 1 eV at hv = 1000 eV. The dotted portions  of the spectra were taken with a lower resolution.  Although we were able to determine lineshapes with  great accuracy, the absolute calibration of the photon  energy could be off by  1 eV.    3. Results  nd discussion    In fig. 1 the excitation spectra for the carbon Is  core to empty final-state transitions for Mn PC,  Fe PC, Ni PC, Cu PC, and Zn PC are shown. For  comparison the spectrum 0e metal-free H^ PC is also  shown. All spectra are characterized by sharp core ex-  citon bands labelled A, B, and C below or at the car-  bon Is threshold at 289.5   0.2 eV and broader fea-  tures in the continuum labeled D and E. The lineshapes  and peak positions vary slightly within the series of  metal PCs while the general appearance of the spectra  is fairly similar. For some PCs peak A shows a clear  fine structure with shoulders at the low-energy side.  For the metal-free PC a significant shift ui the position  of peak D is observed and E is absent.    The C l s spectra of the PCs have great sunuanty  with the benzene C Is excitation spectrum [8, ]. Thd  latter is typical for ir-bonded unsaturated hydrocar-  bons and shows a dominating Is -&gt;- TT* resonance  weaker  sharp maxima in the discrete part of the spectrum and  two broad resonances in the continuum. Thus in the  PC spectra we assign the sharp peak. A at 285.3 eV to  a l s -&gt;  Tr" transition with a tenn value of 3.7 eV. In  analogy to the benzene spectrum the weaker features  B and C at 287.2 and 289.1 eV respectively can be as-  signed to Is -   3p and Is -&gt;  4p core-to-Rydberg transi-          280 285 290 295 300 305 310 3)5 320  PHOTON ENERGY h  ( eV 1    Fig. l. Carbon Is core-level excitation spectra for Sd-metal  phthalocyanines and for Ha  phthalocyaniae. The C l s ioniza-  tion threshold at 289.5   0.2 eV foi phthalocyanines is given  by the hatched marks. The insert shows the structure of a  metal PC (full circles indicate N atoms).    tions having mainly atomic 3p and 4p final-state char-  acter-  The broader peak D at 294.0 eV roughly S eV  above threshold is due to a a-shape resonance. It cor-  responds to the strong maximum in the benzene spec-  trum, located at 293.5 eV [9]. Thus we have a I : 1  relationship between the main peaks in the benzene 1  spectrum and the spectra shown m fig. 1. The close  similarity is not surprising, since there is a qualitative  relationship between carbon carbon bond lengths  and the location ofcr-shape resonances [10J, and most    Volume 116, number l    CHEMICAL PHYSICS LETTERS    26 April 1985    of the C C bond lengths m PCs are 1.37 1.38 A  [11], very close to the C C bond length in benzene  (1.40 A). Only the broad feature E at about 305 eV,  which is absent in the H^ PC spectrum, has no coun-  terpart in the benzene spectrum. The maximum at  around 300 eV in the benzene spectrum is too far off  in energy and hence it is tempting to ascribe this peak  in the metal PC spectra to a a (carbon metal) reso-  nance. Our view is supported by the observation of a  broad and dominating resonance in the metal l s spectra  of all 3d metal PCs  15 eV above the absorption thresh-          390 395 400 405 410 415 420 425 430  PHOTON ENERGY hr ( eV )    Fig. 2. Nitrogen Is core-level excitation spectra for 3d-metal  phthalocyaninesand for H 2  phthalocyanine. The N Is ioniza-  tion threshold at 403.6   0.2 eV for phthalocyanines is given  by the hatched marks. The insert shows the structure of a  metal PC (full circles indicate N atoms).    old [12] which presumably has the sarne origin.    The nitrogen Is core spectra are displayed in fig. 2.  Again we observe strong and sharp core exciton lines  (A, B, C) blow the N l s threshold at 403.6   0.2 eV  [5] and broader features(D,E, F, G) m the continuum.  Our explanation for the maxima A, B and C is similar  to that for the C Is spectra. The maximum at 398.4  eV (peak A) with a term value of 5.1 eV is assigned as  a Is -   n* transition and the weaker peaks at 400.0  and 402.0 eV with term values 3.5 and 1.6 eV respec-  tively are due to 3p and 4p atomic-type final states.  For the assignment of the continuum features, we sug-  gest also fairly localized final states. We note that the  nitrogen Is spectrum in N3 also shows three maxima  in the continuum from which the resonance 9 eV above  threshold is assigned as a o- (N N) shape resonance    METAL 2p ABSORPTION EDGE OF PHTHALOCYANBSES    1 8    ; 1 a    MnPC          | ^  6S82    630    635    640 645    660    655      ^  7139          f^n  7271.    695 700 705 710 715 720 725 730    735    MPC          ^ ^  B776    845 850 855 860 865 870 875 880 B85          1 0    10507    1015 1020  1025  1030 1035  1040 l"4S  1050  1055  PHOTON ETeRSV h  ( '.V l    Fig. 3. Metal 2p core-levei excitation qiectra for 3d-wietal  phthalocyanines. Foi Mn PC only ons of the spin orbit  partners is shown. The hatched marks give the  onization  threshold energies as determined by XPS [5].    Volume 116, number l    CHEMICAL PHYSICS LETTERS    26 April 1985    Table 1    One-election configurations in 2p-&gt; 3d absorption for transition metals. A denote the atomic ground-state configuration, B    denotes the configuration most probably realized in metal PCs. For the expected multiplet structure see fig. 4        Atom Transition l -* / + 1 Multiplet structure Transition / -* /   1  MnA B FeA B Ni A B Cu A, B ZnA.B 2p63ds4s2   2p6 3d6 4s1 -  2p6 3d6 4s2 -  2p6 3(1'^' -Zp^cr^s2-  2p63d94sl   2p63dl()4sl -2p63lllo4s^- 2p53d64s2 2p53d74s1 2ps3d74s2 2ps3d84sl 2ps3d94s2 2ps3dlo4sl case (a) case (b) case (b) case (c) case (d) singlet weak weak2p53d94s2 weale, case (d) 2ps3dlo4s2 singlet    only continuum e(/ + l), e(/ - 1) transitions are possible    [13] whereas the lower two features in the N^ spec-  trum might have atomic N character (they are also  visible in the NO spectrum).    The most interesting experimental results are the  metal 2p core-level excitation spectra (L^ 3 absorp-  tion). They are displayed in fig. 3. Here we observe  distinct changes within the 3d metal series from Mn   to Cu PC. Finally for Zn PC only weak structureless  absorption is observed at the 2p threshold,    As known from other transition-metal compounds  [14], the spin orbit interaction of the 2p hole is one  order of magnitude larger than other terms. Therefore  the spectra consist of two peaks split due to the spin-  orbit interaction. Concentrating on the lower 2p3^  spin orbit partner, we note interesting changes within  the series of spectra. A detailed analysis has to await  configuration interaction calculations for the particular  configurations involved. It is however possible to get a  qualitative interpretation of the spectra by considering  the possible one-electron transition (table 1). The result-  ing most probable absorption spectra   though for dif-  ferent local symmetries and other ionic states   have  been calculated by Yamaguchi et al. [14]. These results  are shown in rig. 4.    In table 1 we have listed the atomic ground-state  configurations as well as the electronic configurations  most probably realized in the 3d-metal PCs [5]. Inspec-  tion of table 1 immediately explains the absence of a  sharp peak for Zn PC (no empty 3d and 4s states) and  the sharp singlet line in Cu PC (only a single empty 4s  state). For Ni PC where photoemission experiments  suggest a 3d^4s^- ground state, we expect a strong          0505  RELATIVE ENERGY &lt;eV)    Fig. 4. Calculated La 3-absorpaon spectra for different final-  state electron conf gUJat ons for 3d-metal compounds. A spec-  tral resolution of  JE = 1.0 eV was assumed for these calcula-  tions (after r f. ( 14]).    singlet line for the /-  /+ 1 transition (empty 3d state)  plus a weaker multiplet for the /-* /  l transition  (empty 4s state), which is consistent with the experiment  observation. For Mn  and Fe PC the comparison be-  tween experiment and expected absorption lineshape  leaves some ambiguity. Nevertheless, Zp^d7 (case b)  and 2p53d8 (case c) final-state configura lions seem to be  consistent with the observed lineshapes for Mn PC and  Fe PC, respectively. Although a more detailed line-  shape analysis must await multiplet calculations with  the proper ligand field, we can already draw the con-  clusion that the lineshape of the 2p core-level excita-  tions is very sensitive to the occupation of the valence  orbitais.    10    Volume 116, number 1    CHEMICAL PHYSICS LETTERS    26 April 1985    Acknowledgement    We wish to thank J.F. Morar, G. Landgren, and  D. Costas for their experimental assistance and the staff  of the National Synchrotron Light Source at the  Brookhaven National Laboratory (funded by the De-  partment of Energy under contract No. DE-AC02-76-  CH00016).    References    [l] E.E. Koch and B.F. Sonntag, in Synchroton radia-  Uon: techniques and applications, ed. C. Kunz  (Springer, Berlin, 1979) p. 269;    F.C. Brown, in Synchroton radiation research, eds.  H. Wmick and S. Doniach (Plenum Press. New York,  1980)p.61;    A P. Hitchock, J. Election Spectry. 25 (1982) 245    [21 F.W. Kutzler, C.R. Natoli, D.K. Misemer, S. Doniach  and K.O. Hodgson, J. Chem. Phys. 73 (1980) 3274.    [3] A. Bianconi, L. Incoccia and S. Stipich, eds , EXAFS  and near edge structure (Springer, Berlin, 1983).    [4] A.B-P. Lever, Advan. Org Chem. Radiochem. 7  (1965) 27;    C. Hamann, ed.. Organische Festk rper und orga-  nische d nne Schichten (Akademie Verlag, Leipzig,  1978),    M. Pope and C E. Swenberg, Electronic processes in  organic crystals (Clarendon Press, Oxford, 1982).    (S] E.E. Koch, in: Organic molecular aggregates, eds.    P. Reinecker, H Haken and H.C. Wolf (Springer,    Berlin, 1983) p. 35;    M. Iwan and E-E. Koch, Solid State Commun. 31    (1979)261,    M Iwan, E.E. Koch, T.C. Chiang, D.E. Eastman and    F.J. Himpsel, Solid State Commun 34 (1980) 57;    E.E. Koch. M. Iwan, K. Hermann and P.S. Bagus,    Chem. Phys. 59 (1981) 249.  [6] F.J. Himpsel, Y. Ju net, D.E. Eastman, 1J. Donelon,    D. Grimm, G. Landgren, A. Marx, J.F. Morar,    C. Oden, R.A. Pollack, J. Schneir and C.A. Crider,    NucL Instr. Meth. 222 (1984) 107.  [7] W. Gudat and C. Kunz, Phys. Rev. Letters 29 (1972)    169.  [8] W. Eberhardt, R.P. Haelbich, M. Iwan, E.E. Koch    and C. Kunz, Chem. Phys. Letters 40 (1976) 180  [9] AP. Hitchcock and C.E. Bnon, J. Electron Spectry.    10(1979)317.  i 10] A.P. Hitchcock, S. Beauueu. T. Steel, J. Stohr and    F. Sette, J. Chem. Phys- 80 (1984) 3927.  [11] A.J. Kitaigorodsku, Organic chemical crystallography    (Consultants Bureau, New York, 1957).  [12] E.E. Koch and G. Materlik, unpublished,  [13] J.L. Dehmer, D. Dill and A.C. Parr, in Photophysics    and photochemistry in the vacuum ultraviolet, eds. S.P.    McGlynn, G. Findley and R. Huber (Reidel, Dor-  drecht, 1985) p. 341.  [ 14] T. Yamaguchi, S. Shibuya, S. Suga and S. Shin, J.    Phys C15 (1982) 2641    11  a   though for dif-  ferent local symmetries and other ionic states   have  been calculated by Yamaguchi et al. [14]. These results  are shown in rig. 4.    In table 1 we have listed the atomic ground-state  configurations as well as the electronic configurations  most probably realized in the 3d-metal PCs [5]. Inspec-  tion of table 1 immediately explains the absence of a  sharp peak for Zn PC (no empty 3d and 4s states) and  the sharp singlet line in Cu PC (only a single empty 4s  state). For Ni PC where photoemission experiments  suggest a 3d^4s^- ground state, we expect a strong          0505  RELATIVE ENERGY &lt;eV)    Fig. 4. Calculated La 3-absorpaon spectra for different final-  state electron conf gUJat ons for 3d-metal compounds. A spec-  tral resolution of  JE = 1.0 eV</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85801159</aid>
+            <ce:pii>0009-2614(85)80115-9</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)80115-9</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>High-resolution soft x-ray excitation spectra of 3d-metal phthalocyanines</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>E.E.</ce:given-name>
+                  <ce:surname>Koch</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Y.</ce:given-name>
+                  <ce:surname>Jugnet</ce:surname>
+                  <ce:cross-ref refid="FN2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.J.</ce:given-name>
+                  <ce:surname>Himpsel</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>IBM T.J. Watson Research Center, Box 218, Yorktown Heights, NY 10598, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Permanent address: Fritz-Haber-Institut der Max-Planck-Gesellschaft, Faradayweg 4–6, D-1000 Berlin 33, Federal Republic of Germany.</ce:note-para>
+               </ce:footnote>
+               <ce:footnote id="FN2">
+                  <ce:label>2</ce:label>
+                  <ce:note-para>Permanent address: Institut de Recherches sur la Catalyse, CNRS, F-69626 Villeurbanne, France.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="28" month="1" year="1985"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Sharp core-level excitons (1s → π<ce:sup loc="post">*</ce:sup>) are observed below the carbon 1s (289.5 eV) and nitrogen 1s (403.6 eV) threshold and broader features (1s → σ<ce:sup loc="post">*</ce:sup>) above threshold for metal-free and 3d-metal phthalocyanines (PCs). The fine structure of prominent sharp lines (white lines) originating from metal 2p → 3d, 4s transitions was resolved for MnPC at 640 cV to CuPC at 933 eV. The results demonstrate the excellent possibilities of high-resolution soft X-ray spectroscopy as a site-specific local probe of empty electronic states in complex organic compounds.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.F.</ce:given-name>
+                                 <ce:surname>Sonntag</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Kunz</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Synchroton radiation: techniques and applications</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Winick</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Doniach</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Synchroton radiation research</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Kutzler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Misemer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Doniach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3274</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>A.</ce:given-name>
+                                    <ce:surname>Bianconi</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>L.</ce:given-name>
+                                    <ce:surname>Incoccia</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Stipich</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>EXAFS and near edge structure</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.P.</ce:given-name>
+                                 <ce:surname>Lever</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Org. Chem. Radiochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Hamann</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Organische Festkörper und organische dünne Schichten</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Akademie Verlag</sb:name>
+                                 <sb:location>Leipzig</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pope</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Swenberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Electronic processes in organic crystals</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Clarendon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>P.</ce:given-name>
+                                    <ce:surname>Reinecker</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Haken</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.C.</ce:given-name>
+                                    <ce:surname>Wolf</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Organic molecular aggregates</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iwan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>261</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iwan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Chiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Eastman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Himpsel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>d</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iwan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Himpsel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jugnet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Eastman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Donelon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Grimm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Landgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Marx</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Morar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Oden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Pollack</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schneir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Crider</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instr. Meth.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>222</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gudat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kunz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Haelbich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iwan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kunz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchcock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>317</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchcock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Beaulieu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Steel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3927</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Kitaigorodskii</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Organic chemical crystallography</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1957</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Consultants Bureau</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>E.E. Koch and G. Materlik, unpublished</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Parr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>S.P.</ce:given-name>
+                                    <ce:surname>McGlynn</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>G.</ce:given-name>
+                                    <ce:surname>Findley</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Huber</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Photophysics and photochemistry in the vacuum ultraviolet</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Reidel</sb:name>
+                                 <sb:location>Dordrecht</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>341</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shibuya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Suga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2641</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

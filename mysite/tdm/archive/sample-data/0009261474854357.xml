@@ -1,0 +1,729 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261474854357</prism:url><dc:identifier>doi:10.1016/0009-2614(74)85435-7</dc:identifier><eid>1-s2.0-0009261474854357</eid><prism:doi>10.1016/0009-2614(74)85435-7</prism:doi><pii>0009-2614(74)85435-7</pii><dc:title>Raman band shapes of small diatomic molecules dissolved in inert liquids </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>24</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>212</prism:startingPage><prism:endingPage>217</prism:endingPage><prism:pageRange>212-217</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1974-01-15</prism:coverDate><prism:coverDisplayDate>15 January 1974</prism:coverDisplayDate><prism:copyright>Copyright © 1974 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Le Duff, Y</dc:creator><dc:creator>Holzer, W</dc:creator><dc:description>
+               Abstract
+               
+                  The experimental results obtained on four different types of Raman spectra: pure rotational lines, the IVV and VH components of the vibrational Q-branch and the vibrational rotational lines are presented for H2, D2, HF and N2 dissolved at low concentration in inert solvents. The line broadening and motional narrowing due to the solvent interaction is discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261474854357" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261474854357" rel="scidir"/></coredata><scopus-id>4244171482</scopus-id><scopus-eid>2-s2.0-4244171482</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4244171482" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T10:40:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261474854357</xocs:eid>
+      <xocs:pii-formatted>0009-2614(74)85435-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261474854357</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(74)85435-7</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05398</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T23:32:54.922391-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19740115</xocs:date-search-begin>
+      <xocs:year-nav>1974</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>24</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>24</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 24, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>212</xocs:first-fp>
+      <xocs:last-lp>217</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>212</xocs:first-page>
+         <xocs:last-page>217</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19740115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 1974</xocs:cover-date-text>
+      <xocs:cover-date-start>1974-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1974</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1974 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>RAMANBANDSHAPESSMALLDIATOMICMOLECULESDISSOLVEDININERTLIQUIDS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LEDUFF</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1"/>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>HOLZER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>313</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>LEDUFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>423</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADVANCESINRAMANSPECTROSCOPY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>STOICHEFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>730</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ALEKSEYEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>579</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>ALEKSEYEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>654</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2331</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>DION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>PERROT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>PERCHARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>519</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11"/>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>KEIJSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13"/>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>SHAFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5422</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>MAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1769</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>VANKRANENDONK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>433</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17"/>
+         <xocs:ref-info refid="BIB17"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LEDUFFX1974X212</xocs:refkey3>
+         <xocs:refkey4lp>LEDUFFX1974X212X217</xocs:refkey4lp>
+         <xocs:refkey4ai>LEDUFFX1974X212XY</xocs:refkey4ai>
+         <xocs:refkey5>LEDUFFX1974X212X217XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(74)85435-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261474854357</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261474854357</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(74)85435-7</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T23:32:54.922391-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1974-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261474854357-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474854357/MAIN/application/pdf/8f7ef399c6119894ca17aa787798bdfd/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474854357/MAIN/application/pdf/8f7ef399c6119894ca17aa787798bdfd/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>591559</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261474854357-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474854357/PREVIEW/image/png/85249ce4500ffc8e9bdd705abd0ba8a5/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474854357/PREVIEW/image/png/85249ce4500ffc8e9bdd705abd0ba8a5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>75590</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>CHEMICAL PHYSICS LEITERS  Volume 24, number 2  RAMAN BAND SHAPES OF SMALL DIATOMIC MOLECULES  DISSOLVED IN  NERT LIQUIDS    Y. LE DUFF and W. HOLZER  D pai te~nant des RecherdzesP/zysiques. Laboratoire associiau CNRS, Univers(te~de Pans VI,  75230 Paris, CeJlex 05, France      Received 8 October 1973         The experimental results obtained ors four different types of Ramm spectra: pure rotational lines, the and Iy~J  components of the vibrational Q-branch and the vibrational rotational lines are presented for H2, D2, HF and N2 dis-  solved at low concentration in inert solvents. The line broadening and motional narrowing due to the solvent inter-  action is discussed.  I. Introduction which rotation can already be treated in a classical   way by the formalism of correlation functions.    This work has been undertaken in order to obtain   Some preliinmary results on H2 and D2 in solu  from Ranian spectroscopy some information on mo- lion concerning band positions, band shapes and re  lecular dynamics in the liquid state. The liquid sys- lative integrated intensities have already been repos  tems investigated here differ in two aspects from ted [2,31.  those used in ordinary Ranian lineshape studies.    In this paper we concentrate on a detailed analy    (a) The molecules whose Raman spectra are stud- sis and discussion of the lineshape and vibrational ro  led are introduced at low concentrations (about I tational coupling.  mole in 50) into inert solvents. This complicates the  experimental investigation, since low intensity bands  of the solute have to be analyzed in the presence of 2. Experimental set up  strong solvent scattering. How ver, the data obtained  are much less affected by collective phenomena which   We have used an argon ion laser (Spectra Physics  complicate the theoretical treatment in pure liquids. 165, 1 W at 5145 A) for excitation of the Raman    (b) We study diatomic molecules with small mo- spectra. The scattered light was analyzed either with  ments of inertia, whose rotrtional motion in the solu- a double monochromator (Coderg Pill or Jarre)]   lion has to be treated by quantum mechanics. The Ash 25-100, photon counting) or a high resolution  advantage of these systems is that we have four dis- system [11.  tinct sources of information: the individual pure ro-   The gases have been taken from Matheson lecture  tational Raman lines S0(J), the vibrational Q branch bottles and special attention has been paid to the pu-  with its rotational fine structure Q1(J) (both isotrop- rity of the solvent in order to reduce the background.  ic and anisotropic parts) and rmally the vibrational The scattering cell was a rectangular high pressure  rotational S1(J) components. MONEL cell with fi.tsed quartz windows (or sapphire    Results will be reported on the rotational and vi- windows for HF). The two types of spectra obtained  brational Raman spcctra of 112, D2, HF and N, dis- at fixed laser polarization V and orthogonal scatter-  solved in relatively inert solvents (as SF6, CC)4, etc.). inggeomen-y are called Ivy and i ~rH. respectively,  The N2 molecule [1] serves as a limiting case for the second index referring to the scattered light ana-    212  15 January 1974  Volume 24. number 2  CHEMICAL PHYSICS LE~FERS  15 January 1974  eat in inert liquid solutions (see fIg. 1). The enve-  lope of the spectrum resembles that of a broadened  gas spectrum and the spacing and relative intensities  of the f-components are approximately conserved.  However, the Q branch of N, dissolved in liq id   H2 tas (1 ~ SF6 (see fIg. 2) differs considerably from the gas    spectrum, where the unresolved .1-components pro    duce an asymmetric envelope, in solution in SF6,    the N2 bandwidth decreases and the shape becomes    more symmetric.      This latter effect is due to motional narrowing,   0 ~P 20 ~ ~ -~   [5,6] which shifts the overlapping f-components to-  Fig. 1. The Q branch of 112 dissolved in liquid SF6 and H, wards a common line center. The narrowing of the  dissolved in liquid Cd4 (sum of I~ and I~ components) total Q branch has been studied in the Raman spec-  compared to the gas at 1 ann. trum of compressed gases [7, 8J and has also been   reported for heavier molecules in solution [1,9, 10].  lyzer turned in a V or H direction. The condition for motional narrowing to occur is   that the frequency of collisions which take place   with a change in the rotational states becomes corn-  3. Results and discussion parable to the frequency of the line spacing   csf(J+ 1) in the Q branch. Since this spacing is  3.1. Rotational vibrational coupling in the Q branch smallest for low J values, one may expect that with    of H2. Dz. and HF dissolved in inert liquids increasing molecular interaction the components   J O, J   1 will be first affected, while the other    For an isolated diatomic molecule, the vibratio- components do not change. We have observed this  nal Q branch contains several f-components which effect of an apparent shift of the J =0, J 1 cOrn-  are displaced from the band origin towards lower vi- panent versus the band center in several cases; a  brational frequences by af(1+ 1). The constant a general classification is given in table I. The results  describes the change in the rotational constant B of our work and of others  on mot ional narrowing  with vibrational quantum mimber: v0-  1. In the have exhibited the following three characteristic  case of H, and D., this J-structure of the Q branch features.  is not only well resolved in the gas ~4] hut also pres.   (1) NO change of vibrational coupling. The effect   213  H5    cCj1  s.w.   gis Loatm.(S.W.:  4 I )   -in liquid SI~ (SW~:  Ii J  FR EQ EN C?  Fig. 2. The Q branch of N2 gas at 40 atm and N, dissolved  in liquid SF6 (sum of ~ and 1v~ components). The slit  widths (S.W) are indicated.        R2 gas  in CS2  liD gas (450 atm) a)  H21nSF6  D2inSF6  HCLmSF6b)  H, in CC14  1), in CCL4  CO gas C&gt; 100 atm) e)  D2 gas  liD gas (150 atm) a)  HF+2OatniSF6  N, gast&gt; ZOO atm) c)  N2(nSF6d)    N2 in CCi4 d)  Volume 24, number 2 CHEMICAL PHYSICS LETTERS 15 JanUary 1974    Table 1  Perturbation of the rotational vibrational coupling in the Q(J) branch of diatomic molecules   J-structure resolved  .1-st nucture not resolved   no change of vibrational  apparent shift for the motional narrowing of   rotational coupling J0, 1 components the total Q branch  a) Ref. (gj;b) refs. [9, l0l;C) ref. [7J;~  ref. [11.  of collisions or solvent interaction is limited to a dis- nents and a shift towards the center of the band.  placement of the band origin and a uniform broad-   In the case of HF dissolved in liquid SF6 the rota  enirig of the f-components. tional fine structure of the Q branch is completely    (2) The position of the 1 O, I components is ap- lost. Since the total hal (width (12 cm 1) is the same  patently shifted towards the band center, when the Q as that of the gas envelope, the motional narrowing  branch spectrum is comparable to a uniformly broad- effect is either small, or hidden by a strong broad  ened gas spectrum. ening due to an interaction with the solvent.     (3) Clear evidence of motional narrowing over the  whoic band envelope of the Q branch. ~2. Width and shape of (Fie resolved R man lines of    It is not surprising that for H2 in general (and also   H2 and ~ in solution  for gaseous D2) it is very hard to perturb the rotatio  uni vibrational coupling, since the a-value is rather 3.2.1. Rotational lines  high; also, the ortho and para molecules have to be   The unperturbed observation of the rotational  considered separately, such that the interacting con- Raman lines of H2 and D2 is limited by the bands of  secutive J levels are spaced by ~J2. In the case of the solvent.  HD [81 and HF all components interact.   In figs. 3 and 4 are presented the corrected line-    The qualitative classification of our results (concer- widths at half intensity of the S0 (J) lines of H2 and  mug the Q branch of H~ and D2 in solution) in col- D2 dissolved in SF6 and Cd4. For all linewidth mea  umos 1 and 2 of table 1 has been made from a surements the spectrometer slit width used was at  straightforward comparison with the gas spectra and least three tImes smaller than the recorded width and  from the preliminary results of a computer analysis. A a gaussian slit profile has been applied with sufficient  quantitative comparison of tile experimental spectra precision to deconvolute the experimental profile.  with spectra produced by a cnrnputersinmulation and   Tire values given in fig. 3 may be compared with  a discussion of the theory of motional narrowing will gas data in pure H, gas and H~- foreign-gas mixtures.  be given in a forthcoming paper El 1].   The results at normal 112 high pressure gas cannot    The results on rnotional narrowing of the Q branch be compared directly, since there is a strong effect of  eIN2 dissolved in SF6, CC!4, CHCI3 and SO, are dis- resonance collisions [12J. This effect is absent in our  cussed in ref. El]. experiments [131, since for the concentrations used    In HF the rotational components of the Q branch 99g. of all the effective collisions are H2   solvent-  can be well separated in the gas phase. By the addition molecule collisions. From the data [l2lgiven for the  of a Ibreign gas ~20 atm of SF6) we could already ob- dependence of the S0(J)linewidths on the para or-  serve a selective perturbation of the J = O, I compo- tho ratio in H2 at 125 atm, we may deduce non-reso    214  CHEMICAL PHYSICS LETFERS  15 January 1974  Volume 24, number 2  (B)                N 01- -4 ~0 s~~(3)  N  Fig. 3. k (bottom) The halfwidth Av of the rotational lines  S0(J) of H2 in liquid ~P6( ) compared to ll~ gas at 12 O atm  (A, ref4IZI, corrected for resonance effects), H, perturbed  by He at 1500 atm (X, ref. (14J) and H2 perturbed by Ar at  1940 attn (o, ref.( 15~). B(top): The halfwidth Av of S0(J) or  H, in liquid CC1~( ) and CS2 (X).    case of H2 in CC4 and CS2 (fig. 3b) is different. The    large width of the rotational lines (up to 2S cm L)   nance * data to come close to our data at 1250 atm H, and the pronounced j dependence (range of factor 3)   (see fig. 3). For comparison we give also the data of a seem to be characteristic of strong liquid state inter-   H-,  helium mixture extrapolated to 1500 atm (sum. actions. The solvent cyclohexane with the halfwid(h   marizcd in ref. 1141) and the S0(1) value in a 142 ar- S00) of H., of 5 cm ~ represents an intermediate   gon mixture at 1940 atm [IS]- Although the data in case.   liquid SF6 correspond to a lower density (~ 250 am-   The discussion is similar for D, (fig.4), for which   agat) the overall order of magnitude agreement with the linewidth of cuiupre~sed D2 gas [t7lhas been   the gas values in the total linewidtir and in the tenden- taken also at 1250 ~tjn. The 02 gas data may indu   cy to decrease (within a range of 30 ~ with decreas- de some resonance contributiOnS which should, how   iiigfriumber, suggests that the SF6 liquid results may ever, be small [121.   still be treated theoretically by an approach similar to   It should he noted that the band shape of the pure   the one applied to compressed gases [14,1 6J. The rotational lines of H, and 02 in SF6 was found to be    approximatelY Iorent~an, which agrees also WILlI (Lw   S There may be still contributions to the Iinewidth due to torentzian shape in the compressed pure gas 1121.   quasi-icsozwnI courions which axe different ~ beth ~ Weak rotational lines could be obseTved in the system   meats; for 112 82 collisions these contributions are very im- HF in liqurd SF6, but could not be analyzed quantita   portant. This is shown by Sanctuary et al. 1131. tively.   215  20      cit-3        10  (B)  20~        in  Av        C. ,   soll) ~0~~~  I.  (A)  A  ml  50(0)  A  s,, (1) so t~J ~  Fig. 4. A (bottom): The halfwidth Av of the rotational lines  S0(J) of D, in liquid SF6( ) compared to Di gas at Z 2~O aim  (A, ref.117!). 11 (top1~ The halfwidth Av of S0(J) of D, in iiq-  nid CCI4.    H,/SF6  H,/C5H12  8,/Cd4  H2JCS,  D,/SF6  D,JCCI4  EQ1VV  8.0   0.5 a)  n6 a)  12   ~ a)  7.2   0.3 a)  8.5   0.5  8.2   0.5  ~Q1VH  S t la)    33 7        Q1(3)VV  7   1      7     1      Q0(4)VV          5   1  n5  S1(O)  8.5  1        6   1    S1(l)  8.5  1  11 2  36 4    6   1    S1(2)          6 1  20  s  15 January 1974  Volume 24, number 2  CHEMICAL PHYSICS LETTERS  Table 2  Linewidth of the components of the vibrational Raman band of H, and D, in solutions  a) For H2 the halfwidth of 2 Q~ is very close to that of Q1~ (1).   3.2.2. Vibration~il lines tion of the interaction potential in SF6 which affects      The corrected width of the Q branch of 112 (ap- the vibrational frequency; in other solvents (e.g.,    proximately identical with Q1(1)), the width of the Cd4) almost symmetrical distributions were observed.   total Q branch and isolated component Q1(4) of D2   When the dissolved molecules are heavier, the spec-   and the vibrational rotational components S1(J) of troscopic information has a more statistical nature,   H2 and D~ are given in table 2. which can be obtained from the continuous envelope    A general comparison of the widths of the S0(J) of the vibrational band. The vibrational and rotational   lines given in figs. 3 and 4 with those of the compo- correlation functions of N2 dissolved in liquid SF6    nents Q1 (J) VV(essentiahly isotropic scattering), Q1(J) are given and discussed in ref. [1].   VH (anisotropic scattering) and S1(J) given in table 2,   demonstrates well the different sensitivity of these   Reman transitions to the various types of interaction Acknowledgement   with the perturbing solvent molecules. For the case of   isotropic and anisotropicQ branch scattering it has   We would like to thank K. Altmann for the compu   been shown theoretically [16] for compressed gases, ter Q branch contours and DrsH.F.P. Knaap and B.C.  - that phase shifts of the rotational motion during a Sanctuary and their colleagues for the communication   collision affect only the anisotropic component. of results prior to publication.   Therefore, the increase of the band width of the Q   branch of H2 in SF6 when going from the I~,ry- spe     trUm may be qualitatively explained; References     For the vibration l rotational band it can be seen   from table 2 that the lisiewidth of the S1(J) compo- [1] Y. le Duff, J. diem. Phys., to be published.   rn nts equals the sum of a rotational contribution de-. [21 W. Holzer, Y. le Duff and R. Ouillon, Compt. Rend.  fined by th  width of the rotational S0(J) line and a Acad. Sd. (Paris) 273B (1971) 313.   - . . . . [3] Y. le Duff~ W. Holzer and R. Oulilon, in: Advances in  viorational contribution for which the width of the Ran,~, spectroscopy, VoL 1 (Heyden, London, 1973)  1vv Q1(J) line gives an upper lithit This can be yen- p.-423.  fled forf~1 in tue system H2 in CCI4, H2 in SF6 and [4) B.P.Stoicheff, Can.LPhys. 35(1957)730.  H, in cycloh xane and forJ2 Of 02 in CCi4. 151 V.A. Aleksevev and 1.1. Sobehnan,Acta Phys. Folon;  The sh~pe of the S1(J) components of H2 and D, 3~196~ ~  - - - -   [6J V. Alekseyev, A. Grasiuk. V. Raguisky, I. Sobelman  InSF6ls extremt.hy asymmetric. This is also indicated and K Faizulov, IEEEJ. Quantum Electron. QE-4  in the individual Q1U) components ofTH2in SF6. (1968)654..  This asymmetry arises from an asymmetric distribu-  216  15 January 1974  Volume 24, number 2   CHEMIdAL PHYSICS LETTERS  de Groot, B.C. Sanctuary and H.F.P. Knaap, Phys. Let-  ters 4SA (1973) 3.  [13) B.C. Sanctuary et aL. Physica, to be published.  [14) R.Shafer and R.G. Gordon, L Chem. Phys. 58(1973)  5422.  [151 A.D. May, V. Degen, J.C. Stryland and H.L. Welsh, Can.  J. Phys. 39 (1961) 1769.  [161 J. van Kranendonk, Can. J. Phys. 41 (1963) 433.  [17) R.A.J. Keijser, private communication;  R.A.J. Keijser et aL. Physica, to be published.  [71 A.D. May, S.C. Stryland and G. Varguese, Can. J. Phys.  48 (1970) 2331.  [8) P. Dion and A.D. May, Can. J. Phys. 51 (1973) 36.  [9] M. Ferret and J. LasconThe, i Chim. Phys. 70 (1973) 5.  [10] J.?. Perchant, W.F. Murphy and N.J. Bernstein. MoL  Phys. 23 (1972) 519.  [111 K. Altmann, W. Holzer and Y.Ie Duff, to be published.  [121 R.A.J. Keijser, J.R. Lombardi, K.D. van den Hout, M.  -                                   217-;   5   1  n5  S1(O)  8.5  1        6   1    S1(l)  8.5  1  11 2  36 4    6   1    S1(2)          6 1  20  s  15 January 1974  Volume 24, number 2  CHEMICAL PHYSICS LETTERS  Table 2  Linewidth of the components of the vibrational Raman band of H, and D, in solutions  a) For H2 the halfwidth of 2 Q~ is very close to that of Q1~ (1).   3.2.2. Vibration~il lines tion of the interaction potential in SF6 which affects      The corrected width of the Q branch of 112 (ap- the vibrational frequency; in other solvents (e.g.,    proximately identical with Q1(1)), the width of the Cd4) almost symmetrical distributions were observed.   total Q branch and isolated component Q1(4) of D2   When the dissolved molecules are heavier, the spec-   and the vibrational rotational components S1(J) of troscopic information has a more statistical nature,   H2 and D~ are given in table 2. which can be obtained from the continuous envelope    A general comparison of the widths of the S0(J) of the vibrational band. The vibrational and rotational   lines given in figs. 3 and 4 with those of the compo- correlation functions of N2 dissolved in liquid SF6    nents Q1 (J) VV(essentiahly isotropic scattering), Q1(J) are given and discussed in ref. [1].   VH (anisotropic scattering) and S1(J) given in table 2,   demonstrates well the different sensitivity of these   Reman transitions to the various types of interaction Acknowledgement   with the perturbing solvent molecules. For the case of   isotropic and anisotropicQ branch scattering it has   We would like to thank K. Altmann for the compu   been shown theoretically [16] for compressed gases, ter Q branch contours and DrsH.F.P. Knaap and B.C.  - that phase shifts of the rotational motion during a Sanctuary and their colleagues for the communication   collision affect only the anisotropic component. of results prior to publication.   Therefore, the increase of the band width of the Q   branch of H2 in SF6 when going from the I~,ry- spe     trUm may be qualitatively explained; References     For the vibration l rotational band it can be seen   from table 2 that the lisiewidth of the S1(J) compo- [1] Y. le Duff, J. diem. Phys., to be published.   rn nts equals the sum of a rotational contribution de-. [21 W. Holzer, Y. le Duff and R. Ouillon, Compt. Rend.  fined by th  width of the rotational S0(J) line and a Acad. Sd. (Paris) 273B (1971) 313.   - . . . . [3] Y. le Duff~ W. Holzer and R. Oulilon, in: Advances in  viorational contribution for which the width of the Ran,~, spectroscopy, VoL 1 (Heyden, London, 1973)  1vv Q1(J) line gives an upper lithit This can be yen- p.-423.  fled forf~1 in tue system H2 in CCI4, H2 in SF6 and [4) B.P.Stoicheff, Can.LPhys. 35(1957)730.  H, in cycloh xane and forJ2 Of 02 in CCi4. 151 V.A. Aleksevev and 1.1. Sobehnan,Acta Phys. Folon;  The sh~pe of the S1(J) components of H2 and D, 3~196~ ~  - - - -   [6J V. Alekseyev, A. Grasiuk. V. Raguisky, I. Sobelman  InSF6ls extremt.hy asymmetric. This is also indicated and K Faizulov, IEEEJ. Quantum Electron. QE-4  in the individual Q1U) components ofTH2in SF6. (1968)654..  This asymmetry arises from an asymmetric distribu-  216  15 January 1974  Volume 24, number 2   CHEMIdAL PHYSICS LETTERS  de Groot, B.C. Sanctuary and H.F.P. Knaap, Phys. Let-  ters 4SA (1973) 3.  [13) B.C. Sanctuary et aL. Physica, to be published.  [14) R.Shafer and R.G. Gordon, L Chem. Phys. 58(1973)  5422.  [151 A.D. May, V. Degen, J.C. Stryland and H.L. Welsh, Can.  J. Phys. 39 (1961) 1769.  [161 J. van Kranendonk, Can. J. Phys. 41 (1963) 433.  [17) R.A.J. Keijser, private communication;  R.A.J. Keijser et aL. Physica, to be published.  [71 A.D. May, S.C. Stryland and G. Varguese, Can. J. Phys.  48 (1970) 2331.  [8) P. Dion and A.D. May, Can. J. Phys. 51 (1973) 36.  [9] M. Ferret and J. LasconThe, i Chim. Phys. 70 (1973) 5.  [10] J.?. Perchant, W.F. Murphy and N.J. Bernstein. MoL  Phys. 23 (1972) 519.  [111 K. Altmann, W. Holzer and Y.Ie Duff, to be published.  [121 R.A.J. Keijser, J.R. Lombardi, K.D. van den Hout, M.  -         </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>74854357</aid>
+            <ce:pii>0009-2614(74)85435-7</ce:pii>
+            <ce:doi>10.1016/0009-2614(74)85435-7</ce:doi>
+            <ce:copyright type="unknown" year="1974"/>
+         </item-info>
+         <head>
+            <ce:title>Raman band shapes of small diatomic molecules dissolved in inert liquids</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Y</ce:given-name>
+                  <ce:surname>Le Duff</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>W</ce:given-name>
+                  <ce:surname>Holzer</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Département des Recherches Physiques, Laboratoire associé au CNRS, Université de Paris VI, 75230 Paris, Cédex 05, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="8" month="10" year="1973"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The experimental results obtained on four different types of Raman spectra: pure rotational lines, the I<ce:inf loc="post">VV</ce:inf> and <ce:inf loc="pre">VH</ce:inf> components of the vibrational Q-branch and the vibrational rotational lines are presented for H<ce:inf loc="post">2</ce:inf>, D<ce:inf loc="post">2</ce:inf>, HF and N<ce:inf loc="post">2</ce:inf> dissolved at low concentration in inert solvents. The line broadening and motional narrowing due to the solvent interaction is discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Y. le Duff, J. Chem. Phys., to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Holzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>le Duff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ouillon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compt. Rend. Acad. Sci. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>273B</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>313</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>le Duff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Holzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ouillon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Advances in Raman spectroscopy</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Heyden</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>423</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.P.</ce:given-name>
+                                 <ce:surname>Stoicheff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>730</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Alekseyev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.I.</ce:given-name>
+                                 <ce:surname>Sobelman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Phys. Polon.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>579</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Alekseyev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Grasjuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Ragulsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sobelman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Faizulov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE J. Quantum Electron. QE-4</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>654</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>May</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Stryland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Varguese</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2331</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dion</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>May</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Perrot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lascombe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chim. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Perchard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Murphy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Bernstein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>519</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Altmann, W. Holzer and Y. le Duff, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.J.</ce:given-name>
+                                 <ce:surname>Keijser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Lombardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.D.</ce:given-name>
+                                 <ce:surname>van den Hout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>de Groot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Sanctuary</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.P.</ce:given-name>
+                                 <ce:surname>Knaap</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>B.C. Sanctuary et al., Physica, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Shafer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5422</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>May</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Degen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Stryland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Welsh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1769</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>van Kranendonk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>433</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:label>a</ce:label>
+                        <ce:textref>R.A.J. Keijser, private communication;</ce:textref>
+                     </ce:other-ref>
+                     <ce:other-ref>
+                        <ce:label>b</ce:label>
+                        <ce:textref>R.A.J. Keijser et al., Physica, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

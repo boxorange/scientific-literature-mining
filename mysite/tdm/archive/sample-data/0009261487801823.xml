@@ -1,0 +1,468 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261487801823</prism:url><dc:identifier>doi:10.1016/0009-2614(87)80182-3</dc:identifier><eid>1-s2.0-0009261487801823</eid><prism:doi>10.1016/0009-2614(87)80182-3</prism:doi><pii>0009-2614(87)80182-3</pii><dc:title>Interactions between electro-neutral surfaces bearing mobile charges </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>139</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>219</prism:startingPage><prism:endingPage>224</prism:endingPage><prism:pageRange>219-224</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1987-08-21</prism:coverDate><prism:coverDisplayDate>21 August 1987</prism:coverDisplayDate><prism:copyright>Copyright © 1987 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Attard, Phil</dc:creator><dc:creator>Kjellander, Roland</dc:creator><dc:creator>Mitchell, D.John</dc:creator><dc:description>
+               Abstract
+               
+                  We investigate electrically neutral surfaces composed of mobile charged particles. For a single surface the long-range tail of the charge correlations is independent of the details of the system. The pressure between two such surfaces at large separations, h, is universal (depending only on temperature), always attractive, and decays like h
+                     −3. The asymptotic law for the total pressure is independent of the magnitude of the dielectric discontinuities at the surfaces. Unless the zero-frequency dispersion interaction of the dielectric media is included, the pressure will contain an artificial repulsive contribution due to the image charge interactions.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261487801823" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261487801823" rel="scidir"/></coredata><scopus-id>0000721968</scopus-id><scopus-eid>2-s2.0-0000721968</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000721968" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011206">2001-12-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011206">2001-12-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T10:17:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261487801823</xocs:eid>
+      <xocs:pii-formatted>0009-2614(87)80182-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261487801823</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(87)80182-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08822</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T08:43:52.939265-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19870821</xocs:date-search-begin>
+      <xocs:year-nav>1987</xocs:year-nav>
+      <xocs:indexeddate epoch="1007596800">2001-12-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>139</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>139</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 139, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>19</xocs:sort-order>
+      <xocs:first-fp>219</xocs:first-fp>
+      <xocs:last-lp>224</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>219</xocs:first-page>
+         <xocs:last-page>224</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19870821</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>21 August 1987</xocs:cover-date-text>
+      <xocs:cover-date-start>1987-08-21</xocs:cover-date-start>
+      <xocs:cover-date-year>1987</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1987 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INTERACTIONSBETWEENELECTRONEUTRALSURFACESBEARINGMOBILECHARGES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ATTARD</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ATTARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>347</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>LADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1013</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>JANCOVICI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>CARNIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1047</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1991</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MAHANTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DISPERSIONFORCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>112</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>MULLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ATTARDX1987X219</xocs:refkey3>
+         <xocs:refkey4lp>ATTARDX1987X219X224</xocs:refkey4lp>
+         <xocs:refkey4ai>ATTARDX1987X219XP</xocs:refkey4ai>
+         <xocs:refkey5>ATTARDX1987X219X224XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(87)80182-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261487801823</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261487801823</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(87)80182-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T08:43:52.939265-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1987-08-21</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261487801823-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261487801823/MAIN/application/pdf/cfe78bf95ebbbf97e6142fddd7dfffe6/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261487801823/MAIN/application/pdf/cfe78bf95ebbbf97e6142fddd7dfffe6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>506683</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261487801823-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261487801823/PREVIEW/image/png/21b80b1d926b23f84a7c5a0fd6a2a171/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261487801823/PREVIEW/image/png/21b80b1d926b23f84a7c5a0fd6a2a171/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63251</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 139, number 2 CHEMICAL PHYSICS LETTERS 21 August 1987  INTERACTIONS BETWEEN ELECTRO-NEUTRAL SURFACES BEARING MOBILE CHARGES  Phil ATTARD, Roland KJELLANDER and D. John MITCHELL  Department of Applied Mathematics, Research School of Physical Sciences, Australian National University,  Canberrra, A.C.T. 2601, Australia  Received 9 April 1987; in final form 29 May 1987  We investigate electrically neutral surfaces composed of mobile charged particles. For a single surface the long-range tail of the  charge correlations is independent of the details of the system. The pressure between two such surfaces at large separations, h, is  universal (depending only on temperature), always attractive, and decays like h~3. The asymptotic law for the total pressure is  independent of the magnitude of the dielectric discontinuities at the surfaces. Unless the zero-frequency dispersion interaction of  the dielectric media is included, the pressure will contain an artificial repulsive contribution due to the image charge interactions.  1. Introduction  We present here an analysis of the interactions between surfaces bearing laterally mobile charges but which  are overall electrically neutral. The short-range interactions between the charged particles are arbitrary. There  is no added electrolyte in this system and the intervening medium is described solely by its dielectric constant.  The point is this: A full understanding of the primitive model is essential to decide, whether continuum elec-  trostatics alone can account for the forces between surfaces with adsorbed charges, or, if some extra "hydration  forces" are involved. The systems studied are relevant to the interpretation of the measured forces between  charged surfaces completely neutralised by adsorbed ions (or surfactants) provided they retain a degree of  mobility along the surface. Also, lamellar phases formed from equimolar mixtures ofcationic and anionic sur-  factants should exhibit the forces we describe here.  The mean field perturbation theory we develop is based on a perturbation expansion to all orders. For some  systems (e.g. Coulomb or dipolar bulk fluids), each term in the usual expansion gives contributions of the same  order in the expansion parameter (e.g. separation). Hence it would be incorrect to truncate the expansion after  some finite number of terms. In the more sophisticated analysis we apply here all leading contributions are  retained. Previously [ 1 ] two of us have used first- and second-order perturbation theory to find the forces  between surfaces composed of dipolar particles. Then we did not need the full mean field perturbation theory  as we do for the present problem with ionic layers at the surfaces. Whilst we illustrate the theory by this par-  ticular problem, we note that it is generally applicable to fluids with long-range potentials.  2. Formalism  We require an expression for the interaction free energy between two, two-dimensional surfaces bearing mobile  charges. Since the surfaces are overall electrically neutral, it is the correlated fluctuations in charge which give  rise to the interaction. Accordingly we use the charge operator,  Q(r)=   q,6(r-r,),  (=1  (1)  0 009-2614/87/$ 03.50   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)  219  Volume 139, number 2 CHEMICAL PHYSICS LETTERS 21 August 1987      20          30  Separation, h [A]  Fig. 1. Logarithm of the attraction between two surfaces sepa-  rated by h. The adsorbed charged particles lie in a plane indi-  cated by the thick line at each surface, while the dielectric  discontinuity is located a distance w further out. The universal,  asymptotic result (  ) is compared to the Debye-Hiickel anal-  ysis for an area per monovalent anion-cation pair of75A(---).  The Debye-Hiickel curves for the cases without and with electro-  static image interactions (where  i=e:s=80 and  i=80,  2=5,  w=0.5 A respectively) virtually coincide, and are shown as one  curve. The asymptotic law is independent of the presence or  absence of images. The lower set of curves (- - - asymptotic;  ----- Debye-Hiickel) shows the attraction for the case with  images but without the zero-frequency dispersion interaction  added. The temperature is T= 300 K.  where q, is the charge on particle ; and r is the cylindrical radius vector. At first ignore image charge potentials  and take an isolated surface without dielectric discontinuities as the reference system. Then the perturbation  is the direct Coulomb interaction between charges on different surfaces, Mc( \r s\;h), where h is the surface  separation (fig. 1, e= i= 2). The formal expression for the interaction free energy is  ,=o  n\  where ft= l/k^T is the inverse temperature and the interaction Hamiltonian is  (2)  H'"1 = J (2i(r) Me( \r-s\) &lt;2,,(i) drds .                                                          (3)  The ensemble averages in (2) involve n-particle correlations on each isolated surface. This system is one of  several in which each order in the expansion contributes to the same leading power in separation. Hence one  cannot truncate the expansion, but instead one is forced to make a tractable approximation for the terms  involving the n-particle correlations, an approximation which retains the dominant contributions of these terms.  Formally these correlations can always be decomposed into terms containing products of pair correlations and  a remainder term. Let us consider the situation for large h. Integrals involving the slowly varying pair potential  Uc(\r-s\;h), receive the contributions to the leading order in h from the pair correlation products, while the  remainder term only contains higher-order contributions. Hence we can neglect the latter term. For example,  in integrals involving four particles on each surface (and the associated pair potentials), the four-particle cor-  relation at surface I is written as  &lt;6l(''l)6l(''2)6l(''3)&lt;2l(''4)&gt;0 &lt;7o(^12)ffo(''34)+CTo(''13)(To(''24)+ffo(''14)&lt;7o(''23) ,                       (4)  where /y =. \ r,   r, \, and Oo (''12) = &lt; 0i (''1) 61 ('2) &gt; ols tne charge-charge correlation function of the isolated sur-  face. Since here the mean charge density is zero, the odd terms in (2) vanish and there remain sums of products  of generalised ring integrals. In Fourier space, the ring integral S^ is  (5)  A being the area of the surfaces and Uc(k; /;)= (2n/ek) exp( -kh) the Fourier transform of Me. With l^ being  the number of ring integrals one has  /            \ -i  / m                        \        m  w^'-y^ z (2w)! (n(w2j)'^) nw2-.                    (6)  /2/4 ./2,,,             \/=1                    /      .1=1  220  Volume 139, number 2                   CHEMICAL PHYSICS LETTERS                        21 August 1987  The sum over all possible rings is subject to the constraint that S.//2,=w. The combinatorial factors arise from  considering possible rearrangements of the integrals with proper account being taken of distinct contributions.  One now substitutes these expressions into (2), and noting that the infinite sum over n=2m removes the  contraint on (6), one can resum the series and obtain for the interaction free energy  (7)  Note that the approximation involving the M-particle correlation functions (as in (4)) does not affect the  first- or second-order perturbation terms. Thus for two-dimensional surfaces containing dipoles, where it is  sufficient to carry out the expansion to second order [ 1 ], this mean field theory still yields the dominant con-  tribution, and this may be obtained by expanding the logarithm above.  The expression (7) for the interaction free energy requires the pair correlation function of the isolated sur-  face. This function describes the change in charge density Sp(r) that would be induced by turning on a small  external electrostatic field Sy^^s)  8/?(r)=-y?j'(7o(|  -J|)8^yext(l)d^.                                                       (8)  It is convenient to introduce a response function To(r) that relates variations in charge density to the average  electrostatic potential which equals  yav(s)=vM(s)+ fu,(\s-t\)p(t)dt,                                                  (9)  where 1/5 is the Coulomb potential between two unit charges in the same plane. We define To via  Sp(r)=-ft^o(\r-s\)Syav(s)ds.                                                   (10)  From these equations the relationship between (TO and To is easily determined, and in Fourier space it is  ^r^kw-                          "   where u.,(k)=2n/ek.  Note that in the Debye-Hiickel approximation, variations in the density are assumed to be proportional to  variations in the local average potential. It follows that in this approximation fo(k) is a constant independent  of k. Explicitly, T?" = S^ a, where Qa is the charge and ria is the number density of ion species a.  In the general case, the response function is closely linked to the direct correlation functions for the different  ion species. For instance, for a one-component system (e.g. adsorbed ions on a uniformly charged surface),  it follows from (11) and the Omstein-Zemike equation that  ^^l-nW^+PMk)]'                                                            (12)  where Co is the direct correlation function. Away from critical points,   o(0)+ftu,(0)= J [co(r)+ftu,{r)]dr  is finite (since the integrand is short ranged), and it follows that To (0) ^ 0. This is also true for multicomponent  systems and we shall use this later. The formulae derived so far are sufficient to obtain the results presented  in section 3. However, we first illustrate some interesting properties of the response function and its relation-  ship to certain approximate pair distribution functions.  Let us treat the long-range tail of the Coulomb interaction as a perturbation on some truncated system where  221  Volume 139, number 2                   CHEMICAL PHYSICS LETTERS                        21 August 1987  the potential has been truncated beyond R (i.e. ;&lt;"(/ ) =0, r&gt;R). Then with H=Htr+^^tall, the charge-charge  correlation function of the full system is  .,   ,, &lt;6l(r)Q.(^exp(-^ta l)&gt;.^  ^"-^   &lt;exp(-/W-)&gt;,     (13)  with the ensemble averages taken with respect to the Hamiltonian of the truncated system. Again approxi-  mating integrals involving the higher-order correlations by integrals of products of pairs, the analysis is similar  to that outlined above. Each term in the numerator now contains a chain integral in addition to the product  of loop integrals. Resumming the series in Fourier space one obtains  (14)  Lado [2] has previously obtained an equivalent equation using a hypemetted chain (HNC) type approx-  imation and the asymptotic properties of the direct correlation function, c(r). One reason that To is important  is that to a good approximation (for large R) it is determined from properties of the truncated system only  and is independent of the tail of the interaction potential, since, using (11) and (14),  l-ftao(k)u,(k) ~ \-p6^kWt(k)    (15)  Note that in the opposite extreme, R-&gt;Q, this reduces to the Debye-Hiickel result. In so far as systems which  interact with short-range potentials exhibit short-range correlations away from critical points, the above implies  that ro(k) possesses a Taylor expansion about k=0; i.e. To(A:)  To(0) + (9(k1) as k-&gt;0. This also follows from  the asymptotic properties of the direct correlation function and its relationship to the response function.  3. Results  We first consider the case of interacting electroneutral surfaces, embedded in a uniform dielectric e, and  separated by a distance h (fig. 1,  =61=62). Solving (11) for 6o(k), with u.,(k) =2ii/ek, and using the fact  that To (0) ^0, we see that  6o{k)~ek/2nft, k-^0,                                                             (16)  which implies Oo(r)~  (6/4II2/?)r-3, r-*oo. So for this two-dimensional system, the correlation function is  long ranged, and is independent of the number densities, valencies, hard core radii of the ions or other specific  details of the system. Long-range correlations have been found in inhomogeneous electrolytes parallel to a planar  surface [3,4] although the universal nature of our result appears unique to the present problem. It is the ana-  logue of the Stillinger-Lovett second-moment condition for bulk electrolytes [5].  Since the perturbation potential, Uc(k) =(2n/Ek) exp(  kh), in the expression for the interaction free energy  (7) is exponentially decaying, at large separations the integral is dominated by the small k values of 6o(k).  Physically, one indeed expects that it is the long-wavelength contributions which are important. Differentiating  (7) and using (16) we obtain the universal asymptotic result for the pressure  (17)  where C(3) =1.202 ..., t,(n) being the Riemann zeta function. This result also applies for the van der Waals  interaction between metallic half-spaces obtained from Lifshitz theory [6]. The pressure, since it arises from  the long-range correlations between the charges, is attractive and decays as a cubic in separation. One can com-  222  Volume 139, number 2                   CHEMICAL PHYSICS LETTERS                        21 August 1987  pare the coefficient in the above, 2.0 XlO"22 J, with that estimated by Kjellander and Marcelja [7] from  numerical HNC calculations for interacting two-dimensional, one-component plasmas, 2.2 x 10"22 J. They found  that the pressure was in an asymptotic regime for separations beyond about 4 A when the area per particle was  40 A. For lower densities the asymptotic regime starts further out.  The expression for the pressure is a general result, but we note that since it is a universal law, independent  of To, it holds true also in simpler theories like the Debye-Hiickel approximation. Substitution of the expression  for T?" into (11) yields 6m(k), and this can be inserted into (7) to give the interaction free energy in this  approximation. The Debye-Hiickel pressure reduces to the universal asymptotic result for large separation, as  it must, but for fixed separation is an increasingly accurate estimate of the real pressure as the surface density  is decreased. Instead of taking f(0) to be given by the Debye-Hiickel form, one can calculate its value for a  single surface using e.g. the hypernetted chain closure. A small k expansion ofao(k) then yields pressures indis-  tinguishable from the more sophisticated calculations for the fully coupled system [8].  To examine the effects of electrostatic images we consider a dielectric discontinuity a distance w behind each  surface (fig. 1, s^e^). The reference system is now a single surface with a dielectric discontinuity, and Us  contains the potential due to the induced image charge,  (18)  where  o=(Si  2)l( \+s-t) is a measure of the strength of the image interaction. The perturbation consists  of not only the direct Coulomb interaction with the second surface,  c= (2n/e,k) exp(  kh), but also the image  interactions induced by that surface. The latter are both due to charges on the same surface, u , and on the  opposite surface, u'". Hence we need a slightly more general expression for the interaction free energy and this  is  A^g  JinUl+^A:)]2-^)]^.                                             (19)  Here we have defined 7s=^ffoM  and/,:=P6o(Uc+u'm). The image potentials are  "s"W = 2n, (-,  2 2eD ,, , [exp( -kd) cosh(M) + D exp( -2kd)] -fio exp( -2kw)),    (20a)    i K \l  GD eXp^   2.KU)                                                     /  ucm(k) = ?k 1 -eb eTp? -2kd)[ Dexp( -w cosh(M) +exp( -W)] .                    (20b)  d=h+lw is the width of the central dielectric. Again using the small k limit of the pair correlation from (11)  and (18), the result for the interaction between the ionic layers is  1 /C(3)  Ue^)\  ^'^-Snp^-^)' ^00;  (21)  where ^.(x) = Sn ~^x", the sum being over integers greater than zero. To obtain the total pressure in a consistent  treatment of his primitive model, one must add the attractive zero-frequency dispersion interaction of the die-  lectric media, given by the Lifshitz theory [6]. This contribution cancels the second term in (21) identically.  Hence, even in the presence of images, the total pressure between the surfaces at large separations is given by  the universal result (17)! Physically, one can understand that the long-range interaction between conducting  layers should be independent of any dielectric discontinuities behind them.  We can conclude that it is important to treat the system in a consistent manner and consider all effects of  the dielectric discontinuities. Unless the zero-frequency dispersion interaction is added, the pressure will con-  tain an artificial repulsive contribution. Note that the dielectric properties of real systems at non-zero fre-  223  Volume 139, number 2                   CHEMICAL PHYSICS LETTERS                        21 August 1987  quencies are not included in the model. However, to a good approximation the corresponding dispersion  interaction can be added to the pressure obtained above since the ion distributions do not respond much to  high-frequency fields.  Again the asymptotic pressure law is a general result that, for instance, is fulfilled in the Debye-Hiickel  approximation. The pair distribution ff?" is obtained from (11) using  s from (18) and T^". Thence the  Debye-Hiickel free energy (and pressure) is obtained from (19), and to leading order it reduces to (17) when  the zero-frequency dispersion interaction is added. The total pressure is, in fact, independent of the images  until the term in h ~5. Previous Debye-Hiickel analysis [9] predicted a faster asymptotic decay than the cubic  we find here because the pressure was then erroneously taken to be the derivative of the internal energy rather  than the free energy. The universal contribution (17) is entirely entropic.  Fig. 1 shows the attractive pressure both with and without the zero-frequency dispersion contribution. In  the absence of dielectric discontinuities, the latter is, of course, equal to zero. It can be seen that the Debye-Hiickel  results, for a mixture of anions and cations at 75 A2 per particle pair, lie close to the universal results. The  pressure predicted is comparable to the conventional van der Waals force for e.g. hydrocarbon or mica across  water. The universal asymptotic result is always more attractive than the Debye-Hiickel pressure. However,  one can show that the universal law does not provide an upper bound on the exact attractive interaction, since  fo(0) may be negative for highly coupled systems [8].  We have derived a mean field perturbation theory, which is applicable to fluids with long-range potentials,  and it was used to describe the interactions between neutral surfaces bearing mobile charges. We will show in  a future publication that the results agree surprisingly well with more accurate numerical calculations [ 8 ]. We  are presently extending this work to include an electrolyte between the neutral surfaces and are also examining  the electric double layer near a charged surface.  Acknowledgement  We thank Stjepan Marcelja, Stan Miklavcic and Barry Ninham for profitable conversations.  References  [ 1 ] P. Attard and D.J. Mitchell, Chem. Phys. Letters 133(1987) 347.  [2] F. Lado, Phys. Rev. A135 (1964) 1013.  [ 3 ] B. Jancovici, J. Stat. Phys. 28 (1982) 43.  [4] S.L. Carnieand D.Y.C. Chan, Mol. Phys. 51 (1984) 1047.  [5] F.H. Stillinger and R. LovetU. Chem. Phys. 49 (1968) 1991.  [6] J. Mahanty and B.W. Ninham, Dispersion forces (Academic Press, New York, 1976).  [7] R. Kjellander and S. Marcelja, Chem. Scripta 25 (1985) 112.  [8] P. Attard, R. Kjellander, D.J. Mitchell and B. Jonsson, in prepration.  [9] V.M. Muller and B.V. Derjaguin, Colloids Surfaces 6 (1983) 205.  224  , the result for the interaction between the ionic layers is  1 /C(3)  Ue^)\  ^'^-Snp^-^)' ^00;  (21)  where ^.(x) = Sn ~^x", the sum being over integers greater than zero. To obtain the total pressure in a consistent  treatment of his primitive model, one must add the attractive zero-frequency dispersion interaction of the die-  lectric media, given by the Lifshitz theory [6]. This contribution cancels the second term in (21) identically.  Hence, even in the presence of images, the total pressure between the surfaces at large separations is given by  the universal res</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>87801823</aid>
+            <ce:pii>0009-2614(87)80182-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(87)80182-3</ce:doi>
+            <ce:copyright type="unknown" year="1987"/>
+         </item-info>
+         <head>
+            <ce:title>Interactions between electro-neutral surfaces bearing mobile charges</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Phil</ce:given-name>
+                  <ce:surname>Attard</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Roland</ce:given-name>
+                  <ce:surname>Kjellander</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.John</ce:given-name>
+                  <ce:surname>Mitchell</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Applied Mathematics, Research School of Physical Sciences, Australian National University, Canberrra, A.C.T. 2601, Australia</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="9" month="4" year="1987"/>
+            <ce:date-revised day="29" month="5" year="1987"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">We investigate electrically neutral surfaces composed of mobile charged particles. For a single surface the long-range tail of the charge correlations is independent of the details of the system. The pressure between two such surfaces at large separations, <ce:italic>h</ce:italic>, is universal (depending only on temperature), always attractive, and decays like <ce:italic>h</ce:italic>
+                     <ce:sup loc="post">−3</ce:sup>. The asymptotic law for the total pressure is independent of the magnitude of the dielectric discontinuities at the surfaces. Unless the zero-frequency dispersion interaction of the dielectric media is included, the pressure will contain an artificial repulsive contribution due to the image charge interactions.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Attard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>347</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lado</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1013</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Jancovici</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Stat. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Carnie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.C.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1047</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lovett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1991</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mahanty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Dispersion forces</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marcelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Scripta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>112</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P. Attard, R. Kjellander, D.J. Mitchell and B. Jönsson, in prepration.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Muller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.V.</ce:given-name>
+                                 <ce:surname>Derjaguin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

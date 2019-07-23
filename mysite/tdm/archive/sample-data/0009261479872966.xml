@@ -1,0 +1,595 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261479872966</prism:url><dc:identifier>doi:10.1016/0009-2614(79)87296-6</dc:identifier><eid>1-s2.0-0009261479872966</eid><prism:doi>10.1016/0009-2614(79)87296-6</prism:doi><pii>0009-2614(79)87296-6</pii><dc:title>The ram perturbation theory and the hard dumbbell fluid </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>64</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>146</prism:startingPage><prism:endingPage>149</prism:endingPage><prism:pageRange>146-149</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1979-06-15</prism:coverDate><prism:coverDisplayDate>15 June 1979</prism:coverDisplayDate><prism:copyright>Copyright © 1979 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Nezbeda, Ivo</dc:creator><dc:creator>Smith, William R.</dc:creator><dc:description>
+               Abstract
+               
+                  The RAM perturbation theory is evaluated in the case of the hard dumbbell fluid and compared with computer simulation results. The zeroth-order theory yields good agreement with the centres pair correlation function gooo (r) even up to large dumbbell sphere separations, thus showing that the basic idea of the theory is sound. Some possible reasons for the failure of a related perturbation theory are discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261479872966" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261479872966" rel="scidir"/></coredata><scopus-id>38649101967</scopus-id><scopus-eid>2-s2.0-38649101967</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/38649101967" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020121">2002-01-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020121">2002-01-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T12:47:08</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261479872966</xocs:eid>
+      <xocs:pii-formatted>0009-2614(79)87296-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261479872966</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(79)87296-6</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X13164</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160611">2016-06-11T09:12:53.111023-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19790615</xocs:date-search-begin>
+      <xocs:year-nav>1979</xocs:year-nav>
+      <xocs:indexeddate epoch="1011571200">2002-01-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>64</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>64</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 64, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>34</xocs:sort-order>
+      <xocs:first-fp>146</xocs:first-fp>
+      <xocs:last-lp>149</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>146</xocs:first-page>
+         <xocs:last-page>149</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19790615</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 June 1979</xocs:cover-date-text>
+      <xocs:cover-date-start>1979-06-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1979</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1979 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>RAMPERTURBATIONTHEORYHARDDUMBBELLFLUID</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NEZBEDA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>STREETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>485</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>FREASIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>280</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>FREASIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1428</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CHANDLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5231</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>STEELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2022</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>PERRAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>527</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>313</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>METROPOLIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1953</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1087</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NEZBEDAX1979X146</xocs:refkey3>
+         <xocs:refkey4lp>NEZBEDAX1979X146X149</xocs:refkey4lp>
+         <xocs:refkey4ai>NEZBEDAX1979X146XI</xocs:refkey4ai>
+         <xocs:refkey5>NEZBEDAX1979X146X149XI</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(79)87296-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261479872966</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261479872966</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(79)87296-6</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-11T09:12:53.111023-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1979-06-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261479872966-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261479872966/MAIN/application/pdf/c33a4340a6322d56d50a2966cceacbb1/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261479872966/MAIN/application/pdf/c33a4340a6322d56d50a2966cceacbb1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>272431</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261479872966-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261479872966/PREVIEW/image/png/81f1a05197b22b284655d23983633e8c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261479872966/PREVIEW/image/png/81f1a05197b22b284655d23983633e8c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57546</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>15 June 1979    Volume 64, number 1 CHEMICAL PHYSICS LETTERS    THE RAM PERTURBATION THEORY AND THE HARD DUMBBELL FLUID    Ivo NEZBEDA  Institute of Chemical froccss Fundamentals. C^ecliosloiak Academy of Sciences. 16502 Praha. Czechoslovakia    and    William R. SMITH    Department of Mathematics and Department of Physiology and Biophysics. Dalltousie Ifnirersity.    Halifax. i\'ota Scutca B31I 3J3. Canada    Received 15 March 1979    The RAM perturbation theory is evaluated in the case of the hard dumbbell fluid and compared with computer simulation  results- The zeroth-order theory yields good agreement with the centres pair correlation function.goooO") sven up to large  dumbbell sphere separations, thus showing that the basic idea of the theory is sound. Some possible reasons for the failure  of a related perturbation theory are discussed.    .1- Introduction    There lias been much recent interest in the hard  dumbbell fluid [1 7], both as a model of real fluid  behaviour and as an exact fluid model against which  theories may be tested- Monte Carlo simulations have  been performed by Street! and Tildesley [1 ] for  dumbbells with/.*, the ratio of centre-to-centre sphere  distance to sphere diameter, equal to 0-2, 0.4 and 0.6.  Freasier et al- [231 considered L* = 0-6 and 1 -0.  Theoretical approaches have been the approximate  numerical solution of the Percus Yevick (PY) equa-  tion [4j. the RISM equation [5],and forms of pertur-  bation theory [6.71-    Botli the PY and RISM approaches have serious  disadvantages at present. The PY equation is very diffi-  cult to solve and the RISM equation gives only qualita-  tive agreement witli tlie exact simulation results [5].  The molecular blip-function (BF) perturbation tlieory  was considered by Steele and Sandier [6]. Street! and  Tildesley {I j found it yielded poor results for tlie  centres pair correlation function Sooo^1) ^ot ^-* = ^-6-  The reference-system average Mayer-function (RAM)  perturbation theory, due to Smith [8] and to Perram  and White [9] shows considerable promise [7]. It has    been shown to yield accurate results for the centres  pair correlation function of dipolar and quadrupolar  hard-sphere fluids [10] and of other molecular fluids  [HI.    The theory has not been tested before for a hard  molecular fluid model. It is the purpose of this note to  present some preliminary tests of the RAM theory in  the case of the hard dumbbeli fluid-    2. Theory    The RAM theory lias been described in detail by  Smith et al. [7,8j and we only briefly summarize the  pertinent details here-    We expand the properties of the molecular fluid  about an arbitrary spherically symmetric reference fluid  with pair potential UQ(r^) """S an arbitrary expansion  functional of the pair potential u(i2)- Annulling the  first-order term in the expansion of the Helmholtz free  energy yields tlie reference fluid pair potential    "00-12) = -kTIn &lt;exp l-&lt;Ml2)]&gt;^^ ,        (1)    where &lt; &gt;^- denotes an unweighted averaging over the  orientation of molecu'e / and 0 = 1/kT. Choosing the    146    Volume 64, number I    CHEMICAL PHYSICS LETTERS    15 June 1979    Mayer/-function as expansion functional yields the  RAM theory results for the pair distribution function  ^02) [7]    g(l2) =exp [-pM(12)] \yQ(r^) +J/i(12) + -], (2)  where    ^,(12) = 27rvo0-i2) p (2/+ l)1/^^)  X lP;(cos0i)+P/(cos02)] ,    oa     ^Ou) = / ^^OO'U^OOO"^)'1^    X f^(x)Aol(r?2--^3-2ri2ri3x)l/2]dx, (3)  ^1    and ^ fu'm^f-i.'i) is a coefficient in the spherical harmo-  nic expansion of    A/(12) = exp [-0y(12)] - exp [-^(r^)} .    (4)    ^'0(12) = exp [pyoC^)]^)^).^/ ss the Legendre poly-  nomial, 0, is the angle between the axis of molecule i  and the line of molecular centres, AQ = SQ   1 and sub-  script 0 denotes the reference system with pair poten-  tial VQ(r^) defined by eq. (1).    The RAM theory is closely related to the BF expan-  sion [6]. It is readily shown that Steele and Sandler's  [6] BF results can be obtained from eqs. (2) and (3)  by replacing the reference fluid defined by eq. (1) with  a hard-sphere fluid whose diameter is determined by  annulling the-first-order term in the BF free energy ex-  pansion- The RAM theory can thus be regarded as a  resummation of certain terms of the BF expansion  resulting in a new reference system- We may also view  the zeroth-order BF theory for molecular fluids as  equivalent to the following two-step procedure- The  first step uses the zeroth-order RAM theory, expanding  the molecular fluid properties about those of the  reference fluid with pair potential given by eq. (1).  The second step is to use the zeroth-order BF theory  for a simple fluid [8] to expand the properties of the  RAM theory reference fluid about those of a hard-  sphere fluid.    3. Results and discussion    In order to efficiently implement the RAM theory,  one must be able to compute the properties of the  reference system with pair potential I'oO'll)- This is  a soft repulsive hard-core potential, which is shown in  fig- 1 for several dumbbell elongations. In order to re-  move the effects of inaccuracies in this calculation on  the accuracy of the RAM theory itself, we have per-  formed computer simulations for the pair potentials  in fig. 1 at several state points corresponding to  StreettandTildesley's [1] hard dumbbell systems-The  zeroth-order RAM theory yields the result from eq  (2) that the centres pair correlation function gQQo(f)  is given by gQ(r), the radial distribution function of  the reference fluid with pair potential defined by eq.  (1). Comparison ofgo(r) from these simulations with  the dumbbell centres pair correlation function SnooC'')  thus provides an indication of the potential accuracy  of the RAM theory -    The usual Monte Carlo procedure of Metropolis et    10          1.0 1.2 1.4 1-6    u (rl    Fig- 1. The RAM theory reference system potential defined by  eq. (1) as a function of distance for various dumbbell elonga-  tions L*. r is measured in units of the dumbbell sphere diam-  eter o.    147    Volume 64, number I CHEMICAL PHYSICS LETTERS 15 June 1979    al- [13] was used for the potentials of fig-1- We started  108 atoms from a hexagonal lattice in a cubic box-  After stable fluid behaviour was exhibited we calculated  ^o(r) by averaging over 4 X 10s configurations- Our  results are shown in figs- 2 4.    Also shown in figs- 2 4 are the exact hard-dumbbell  results forg-ooot7") an&lt;^ t^le zeroth-order BF prediction  of this quantity- It is seen that go(r) is an excellent  approximation togQoQ^r), even at the largest dumbbell  elongation considered- The BF results are good at L*=    0-2 but become progressively worse as the elongation  increases. Especially at L*= 0.6, the first peak in  gooo(r) is considerably overestunated-    The basic approach of using a reference system de-  fined by eq. (1) thus seems sound. The success of the  RAM theory seems qualitatively to be a result of the  "blending in" to the reference system of some of the  angular dependence ofu(12) via eq- (I). In order to  predict the details of the angular dependence of the  dumbbell^(12) it is probable that (at least) the first-  order term y-^ (12) will be required-    z.o    g in    1.0          I*   0.2  p~   0.5    o.o    1.0    1.5  r    2.0    Fig- 2- The centres pair correlation function SoooW of the hard dumbbell fluid (solid line) and its prediction by the zeroth-order  RAM (points) and BF (dashed line) theories- r is measured in units of the sphere diameter o. p* is the reduced density Nc^lV.  SawV)v' obtained from ref- [ 1 ]. "    2.Q -    q (r)    l.o    0-0          1.0 1-5 2-0    Fig- 3. See caption to fig. l-sooot1') was kindly provided by Streett and Tude5ley (private communication).    148    Volume 64, number 1 CHEMICAL PHYSICS LETTERS 15 June 1979    g (rl          1.0 1.5 2.0    Fig- 4. See caption to fig. 3-    The zeroth-order BF theory apparently does not  take sufficient account of the angular dependence of  i((12). The fact that the BF result is too high near the  first peak (at L* = 0-6) indicates, at least qualitatively,  that^QQQ(r) is "seeing" an effective potential which is  qualitatively more like the potentials of fig. 1 than a  pure hard-sphere repulsion as is used in the zeroth-  order BF theory. Another reason for the failure of the  zeroth-order BF theory can be deduced from the de-  scription of that theory given at the end of section 2-  Since it is well-known [8] that the simple fluid version  of the zeroth-order BF theory gives poor results for  a simple fluid whose pair potential exhibits soft repul-  sion, the BF theory fails because it cannot accurately  predict the properties of the fluid with pair potential    ^u) "^q- &lt;1)-    We are presently examining the theoretical predic-  tion of^Q(r) as well as the angular dependence of^(12)  predicted by eq. (2), which results will be reported in  due course.    References    [1 ] W.B- Streett and D-J- TUdesley, proc- Roy- Soc. A 348    (1976)485-    [2] B.C. Freasier, Chem. Phys. Letters 35 (1975) 280-  [3] B.C. Freasier, D- Jolly and R.J. Bearman, Mol. Phys. 31    (1976)255.  [4] Y.D. Chen and W-A. Steele. J. Chem. Phys. 50 (1 68)    1428-  15] D. Chandler, C S. Hsu and W.B- Streett, J. Chern. Phys.    66 (1977) 5231.  (6] W.A- Steele and S-1. Sandier, J. Chem. Phys. 61 (1974)    1315.  [7] W.R- Smith, I. Nezbeda, T-W- Melnyk and D-D- Fitts,    Faiaday Discussions 65, to be published-  [8] W.R. Smith, Can- J. Phys- 52 (1974) 2022.  [91 J.W. Perram and L R. White, Mol. Phys. 27 (1974) 527-  [10] W.R- Smith, W.G- Madden and D-D- Fitts, Chem- Phys-    Letters 36 (1975) 195.    [11] W.R. Smith, Chem. Phys. Letters 40 (1976) 313.  [12] N. Metropolis, M.N. Rosenbluth, A.W- Rosenbluth,    A.H- Teller and E. Teller, J. Chem- Phys. 21 (1953) 1087-    149  M theory -    The usual Monte Carlo procedure of Metropolis et    10          1.0 1.2 1.4 1-6    u (rl    Fig- 1. The RAM theory reference system potential defined by  eq. (1) as a function of distance for various dumbbell elonga-  tions L*. r is measured in units of the dumbbell sphere diam-  eter o.    147    Volume 64, number I CHEMICAL PHYSICS LETTERS 15 June 1979    al- [13] was used for the potentials of fig-1- We started  108 atoms from a hexagonal lattice in a cubic box-  After stable fluid behaviour was exhibited we calculated  ^o(r) by averaging over 4 X 10s configurations- Our  results are shown in figs- 2 4.    Also shown in figs- 2 4 are the exact hard-dumbbell  results forg-ooot7") an&lt;^ t^le zeroth-order BF prediction  of this quantity- It is seen that go(r) is an excellent  approximation togQoQ^r), even at the largest dumbbell  elongation considered- The BF results are good at L*=    0-2 but become progressively worse as the elongation  increases. Especially at L*= 0.6, the first peak in  gooo(r) is considerably overestunated-    The basic approach of using a reference system de-  fined by eq. (1) thus seems sound. The success of the  RAM theory seems qualitatively to be a result of the  "blending in" to the reference system of some of the  angular dependence ofu(12) via eq- (I). In order to  predict the details of the angular dependence of the  dumbbell^(12) it is probable that (at least) the first-  order term y-^ (12) will be required-    z.o    g in    1.0          I*   0.2  p~   0.5    o.o    1.0    1.5  r    2.0    Fig- 2- The centres pair correlation function SoooW of the hard dumbbell fluid (solid line) and its prediction by the zeroth-order  RAM (points) and BF (dashed line) theories- r is measured in units of the sphere diameter o. p* is the reduced density Nc^lV.  SawV)v' obtained from ref- [ 1 ]. "    2.Q -    q (r)    l.o    0-0          1.0 1-5 2-0    Fig- 3. See caption to fig. l-sooot1') was kindly provided by Streett and Tude5ley (private communication).    148    Volume 64, number 1 CHEMICAL PHYSICS LETTERS 15 June 1979    g (rl          1.0 1.5 2.0    Fig- 4. See caption to fig. 3-    The zeroth-order BF theory apparently does not  take sufficient account of the angular dependence of  i((12). The fact that the BF result is too high near the  first peak (at L* = 0-6) indicates, at least qualitatively,  that^QQQ(r) is "seeing" an effective potent</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>79872966</aid>
+            <ce:pii>0009-2614(79)87296-6</ce:pii>
+            <ce:doi>10.1016/0009-2614(79)87296-6</ce:doi>
+            <ce:copyright type="unknown" year="1979"/>
+         </item-info>
+         <head>
+            <ce:title>The ram perturbation theory and the hard dumbbell fluid</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Ivo</ce:given-name>
+                  <ce:surname>Nezbeda</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute of Chemical Process Fundamentals, Czechoslovak Academy of Sciences, 16502 Praha, Czechoslovakia</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>William R.</ce:given-name>
+                  <ce:surname>Smith</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Mathematics and Department of Physiology and Biophysics, Dalhousie University, Halifax, Nova Scotia B3H 3J5, Canada</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="15" month="3" year="1979"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The RAM perturbation theory is evaluated in the case of the hard dumbbell fluid and compared with computer simulation results. The zeroth-order theory yields good agreement with the centres pair correlation function g<ce:inf loc="post">ooo</ce:inf> (<ce:italic>r</ce:italic>) even up to large dumbbell sphere separations, thus showing that the basic idea of the theory is sound. Some possible reasons for the failure of a related perturbation theory are discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Streett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tildesley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>348</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>485</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Freasier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>280</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Freasier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jolly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Bearman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1428</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Streett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5231</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Sandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>W.R. Smith, I. Nezbeda, T.W. Melnyk and D.D. Fitts, Faraday Discussions 66, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2022</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Perram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>527</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Fitts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>313</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Metropolis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Rosenbluth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Rosenbluth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Teller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Teller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1953</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1087</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,663 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261484855451</prism:url><dc:identifier>doi:10.1016/0009-2614(84)85545-1</dc:identifier><eid>1-s2.0-0009261484855451</eid><prism:doi>10.1016/0009-2614(84)85545-1</prism:doi><pii>0009-2614(84)85545-1</pii><dc:title>The self-consistent determination of ion-pair distribution functions within the Debye-Hückel framework </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>111</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>487</prism:startingPage><prism:endingPage>491</prism:endingPage><prism:pageRange>487-491</prism:pageRange><prism:number>4-5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1984-11-09</prism:coverDate><prism:coverDisplayDate>9 November 1984</prism:coverDisplayDate><prism:copyright>Copyright © 1984 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Cooper, I.L.</dc:creator><dc:creator>Harrison, J.A.</dc:creator><dc:description>
+               Abstract
+               
+                  Pair distribution functions for like ions in an electrolyte are generally predicted by the traditional Debye-Hückel model to be unphysical, becoming negative at small separations from the reference ion. A simple modification to the Debye-Hückel model is proposed which corrects this unphysical behaviour while retaining both the linearity and overall charge neutrality of the model.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261484855451" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261484855451" rel="scidir"/></coredata><scopus-id>48549114979</scopus-id><scopus-eid>2-s2.0-48549114979</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/48549114979" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011130">2001-11-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011130">2001-11-30</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T14:15:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261484855451</xocs:eid>
+      <xocs:pii-formatted>0009-2614(84)85545-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261484855451</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(84)85545-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X1247X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T21:31:14.761185-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19841109</xocs:date-search-begin>
+      <xocs:year-nav>1984</xocs:year-nav>
+      <xocs:indexeddate epoch="1007078400">2001-11-30T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>111</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>111</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 111, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>35</xocs:sort-order>
+      <xocs:first-fp>487</xocs:first-fp>
+      <xocs:last-lp>491</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>487</xocs:first-page>
+         <xocs:last-page>491</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19841109</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>9 November 1984</xocs:cover-date-text>
+      <xocs:cover-date-start>1984-11-09</xocs:cover-date-start>
+      <xocs:cover-date-year>1984</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1984 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SELFCONSISTENTDETERMINATIONIONPAIRDISTRIBUTIONFUNCTIONSWITHINDEBYEHUCKELFRAMEWORK</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>COOPER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DEBYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1923</xocs:ref-pub-year>
+            <xocs:ref-first-fp>185</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>OUTHWAITE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMSOC</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SPECIALISTPERIODICALREPORTSSTATISTICALMECHANICS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>NORDHOLM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5759</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ENDERBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>593</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MODERNASPECTSELECTROCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>FRIEDMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALMECHANICSPARTAEQUILIBRIUMTECHNIQUESPARTMODERNTHEORETICALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6232</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>VALLEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5942</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>ONSAGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1933</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>MCMILLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1945</xocs:ref-pub-year>
+            <xocs:ref-first-fp>276</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>PITZER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>371</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3858</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3869</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>COOPERX1984X487</xocs:refkey3>
+         <xocs:refkey4lp>COOPERX1984X487X491</xocs:refkey4lp>
+         <xocs:refkey4ai>COOPERX1984X487XI</xocs:refkey4ai>
+         <xocs:refkey5>COOPERX1984X487X491XI</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(84)85545-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261484855451</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261484855451</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(84)85545-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T21:31:14.761185-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1984-11-09</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261484855451-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261484855451/MAIN/application/pdf/dd82c72c0ac37172beb05c2697b739fc/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261484855451/MAIN/application/pdf/dd82c72c0ac37172beb05c2697b739fc/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>515593</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261484855451-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261484855451/PREVIEW/image/png/1d5e29f28ae4717e1a557fb01df20e24/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261484855451/PREVIEW/image/png/1d5e29f28ae4717e1a557fb01df20e24/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67923</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 111, number 4.5    CHEMICAL PHYSICS LETTERS    9 November 1984    THE SELF-CONSISTENT DETERMINATION OF ION-PAIR DISTRIBUTION FUNCTIONS  WITHIN THE DEBYE-HUCKEL FRAMEWORK    I.L. COOPER and J.A. HARRISON    School ofCliemistry, Tlie University of Newcastle upon Tyne.  Newcastle upon Tyne NE1 7RU. UK    Received 6 June 1984; in final form 20 August 1984    Pair distribution functions for like ions in an electrolyte are generally predicted by the traditional Debye Huckel  model to be unphysical, becoming negative at small separations from the reference ion. A simple modification to the  Debye-Hiickel model is proposed which corrects this unphysical behaviour while retaining both the linearity and overall  charge neutrality of the model.    1- Introduction    The traditional Debye Huckel approach [1] to  tlie ion distributions in an electrolyte continues to gen-  erate refinements and extensions [2,3], and recent ex-  perimental and theoretical work on the structure of  electrolytes [4] places considerable emphasis on the  role of ion-pair distribution functions (a physically  motivated account is given by Anderson [5]). It has  long been known that the Debye Huckel model gen-  erally predicts negative values for the pair distribution  function for like ions in an electrolyte at small separa-  tions from the reference ion. Thus, the Debye Huckel  model is unable to provide a simple first approxima-  tion to such distribution functions, and cannot contri-  bute meaningfully to any comparison of predicted  ion distribution functions at differing levels of approxi-  mation. A more realistic treatment of the ion-pair dis-  tribution functions would enable the model to be  placed in its proper perspective m relation to the re-  sults of experiments [4], more sophisticated theoreti-  cal treatments [2,6] and computer simulation studies  [7,8]. Further, although the Debye-Huckel model is  noted for its overall charge neutrality (the zeroth mo-  ment condition), it would appear that this charge neu-  trality itself is somewhat artifical, since it is achieved  only by the removal of an excessive amount of charge  (in the form of ions of like sign) from the vicinity of    0 009-2614/84/S 03.00   Eisevier Science Publishers B.V.  (North-Holland Physics Publishing Division)    the reference ion. Any improvement in the ion-pair  distribution functions should properly be achieved  within the context of overall charge neutrality, since  the correct ion-pair distribution functions must reflect  the electrical neutrality of the solution.    The objective of this note is to demonstrate that  the above noted deficiency in the ion-pair distribution  function for like ions predicted by the traditional  Debye Huckel model can be rectified in a simple  manner, while retaining the constraint of overall  charge neutrality and maintaining a linear relation be-  tween charge and potential. The relevant theory is  outlined in section 2, and the paper concludes with a  discussion of results, together with comparisons with  other treatments.    2. Potential model for the ion-pair distribution  functions    The conditional density for ions of species A dis-  tributed about a central reference ion of species A is:    nA^=lI6gAA.^'                             ^  where g &amp;&amp;(!') represents the ion-pair distribution func-  tion for like ions at distance r = |r| from the reference  ion situated at the origin, and    is the mean (bulk)    concentration. For a symmetrical electrolyte, we liave  the symmetry relations    487    Voluiiii; 111. number 4.5    CHEMICAL PHYSICS LETTERS    9 November 1984    W^BB^)'                           CT    ^Al^^BAO-)'                               (3)  where the various distribution functions are defined  in a similar manner to that in eq. (1), and the radial  distance r appears as a consequence of spherical sym-  metry.    Witliln the Debye Huckel model, the distribution  functions g,^(r),g^g(r) are approximated as follows:    ^AA^) = "Pl-P^AA^l w ^Pt-^A^A^    ^l-ssz^e4&gt;^r).                          (4)    g^(r) = exp[-ssi^(r)] ^ expl-^e^O-)]    -l-^B^(r),                             (5)    wliere c^m ^AB ^PTCsent the appropriate potentials  of mean force, z^e, z^e denote the ion charges, and  4&gt; .(r) denotes tlic mean potential at r relative to a ref-  erence ion of species A situated at the origin. Linear-  ization is invoked to ensure consistency in tlie charge-  potential relationship determined by the Poisson equa-  tion [9j. The origin of the unphysical nature o!g..(r)  at small values ofr is immediately apparent from eq.  (4), viz.    ^AA (r) &lt; 0 whe" (^A^A^) &gt; 1 -    (6)    Various methods liave been proposed in tlie literature  to deal with the unphysical nature ofg.,(r) at small  r. The so-called DHX method [7] substitutes the  Debye-Huckel potential back into the exponential  form (itself an approximation   see cqs. (4) and (5))  for the pair distribution functions. The resultant dis-  tribution functions are then used to calculate thenno-  dynamic properties via the McMillan Mayer formalism  [10J. Although improved distribution functions are  determined [7,8], overall charge neutrality is no  longer maintained. An alternative approach has been  developed [11] in which the exponential functions  are truncated witli the quadratic term (the so-called  DU 3 model). The resultant pair functions are found  to be unphysical, with . .,(/ ) rising rapidly at small r  values, although the thermodynamic activity coeffi-  cients are accurately predicted [8]. Again, since the  Debye Huckel potential is inserted into an expansion  containing higher terms in tlie potential, overall charge  neutrality is not maintained. A comparison of the re-  sults of these models with those of Monte Carlo calcu-  lations has been given for both 1:1 [7] and 2 :2 [8]  symmetrical electrolytes.    We shall attempt to improve the pair distribution  function g/^(r) within the framework of the Debye   Huckel model itself, so as to maintain overall charge  neutrality, and to provide a benchmark against which  more accurate treatments can be assessed. From eq.  (6), we note that the unphysical behaviour ofg..(r)  can be removed simply by excluding like ions from  those regions of space near the reference ion where  ssz^eif&gt;^(r) &gt; l. We therefore identify a radius RQ  about the reference ion within which g/^^(r) = 0 for  / &lt;/? , and which is determined by the relation    ^A^A^o)=1-                 oe    We observe that this relation can be written in tlie  equivalent form    z^e0J7?o)=^7\                         (8)    wluch implies that identical ions are prevented from  coming closer togetlier than some mean kinetic energy  /:  Twill allow. /?  thus plays the role of an "effective  hard-sphere diameter", within which like ions are un-  able to penetrate.    Our procedure can be summarized as follows. We  introduce a hard-sphere diameter a (which pertains  more properly to unlike species in the electrolyte)  and partition in ion distribution function g^f.Cr') as  follows:    ^AA^)"0'            a^r&lt;R,    W^1-^^)'  '"^O.  while g^fr) is given by     ^AB^ = 1 ~ ^B^A^ ' r &gt; a      0'    (9)    (10)    (11)    The value of' Rc. is then to be determined self-consis-  tently so as to satisfy eq. (7).    If we define the correlation function hf./X1') by  the relation    "A^-e^-l,                        (12)  we note that, from eq. (9),    W7')"-1. a^r&lt;RQ,                (13)  and    ^AA^)^0' asr-&gt;  ,                   (14)    Volume 111, number 4,5    CHEMICAL PHYSICS LETTERS    9 November 1984    so that there is a pronounced "correlation hole" in  the distribution function for like ions around the vicin-  ity of the reference ion.    It remains to incorporate the definitions ofg,.,.  and g^g (eqs. (9)-(11)) into the framework of the  Debye Huckel model.    From the Poisson equation, with e^. denoting the  bulk relative permittivity, viz:    V^A^-PA^O^                      (15)  with    ^"^"A^-^B^l                 C16)    (.\z. | = |2g 1 for a symmetrical electrolyte), and writ-  ing ^AO") = r(p.(r) to take advantage of spherical sym-  metry, we find    ^(r) = C expC-Ar) + D exp(Ar) + r/ssz^e,    a^r&lt;RQ,                          (17)    WW))exPt-K(/'--Ro)l' ^^O-  O8)  Tlie constants C and D are obtained from the appro-  priate boundary conditions at r = a and r=R :    ^^a)=a^a)+Q,                         (19)  ^(/?o)=-K^(/?o),                       (20)    with Q = z^el^-ite^e^. K2 = Iz^n^^/SQe^ and X2 =  K~/2. This yields two simultaneous equations for C  andD:    C(\ + \a) exp(-\a) + D(\ - \a) exp(Xfl) = Q,  (21) .  C(K   X) exp(-X.Rp) + B(K + X) exp(XRp)    =-(l-l-KRo)fss^e.                      (22)    A demonstration that the screening charge p^(r) pre-  cisely compensates the charge on the central ion is  presented in the appendix.    Note that the term "self-consistent" as used in the  present context refers to the consistency of the pair  distribution functions g^^ and^g in relation to the  screening charge-potential relationship. The second  moment condition [12] is not satisfied by the model.    It is a straightforward matter to investigate the  themiodynamic predictions of the model, using the  McMiUan Mayer formalism [10], in which the re-  duced configurational energy per ion, UlNkyT, and the  osmotic coefficient, 4&gt;, are expressed m terms of g^    and^AB as    U/Nk^T=kK"f \gAA&lt;r)-g^(r)}rdr,     (23)  a    0 = 1 + U/3NkQT+ ^^[g^d) +g^(a)] . (24)    In the present instance, these quantities can be evalu-  ated analytically, using eqs. (9) (11).    3. Results and discussion    We present in table 1 self-consistent values aIRy,  the "effective hard-sphere diameter" for like ions, as  a function of concentration for both 1:1 and 2:2  electrolytes at 298 K, using ion diameters of 4 and 2  A. The self-consistent Rc. values decrease rapidly as  the concentration is increased, whereas the variation  with hard-sphere diameter, a, is less pronounced. Note  that RQ &lt;a for a 1:1 electrolyte at a concentration  of 1 mol dm"3 with a = 4 A, showing that ssz e^(a)  &gt; 1 in that case. This effect disappears as the value  of a is reduced.    The radial dependence of.g A and g-,o is exhibited  in table 2 for a 2:2 electrolyte at 298 K. at a concen-  tration of 0-1 mol dm~3, with a = 4 A. The negative  values of g^(f") predicted by tlie Debye Huckel  model at small r liave been eliminated, while the cor-  responding values ofg^Q are increased slightly, in con-  sequence of overall charge neutrality. The correspond-  ing results of the DHX model are included for com-  pleteness. We find that the predicted values ofg.uCa)  are very sensitive to the chosen value of hard-sphere  diameter. It is worth emphasizing that the DHX mod-  Table 1    Calculated RQ values (A) as a function of concentration, ionic    charge and hard-sphere diameter (T = 298 K)     o            1:1 electrolyte    2:2 electrolyte  (mol dm~3)    _________    a=4A ff=2A fl=4A fl=2A    0.001  0.01  0.1  1.0    6.679  5-936  4.701  3.574    6.677.  5.914  4.578  3.086    19.398 19.379    13.047 12.955    7-767 7-444    4.824 4.018    489    Volume 111, number 4,5    CHEMICAL PHYSICS LETTERS    9 November 1984    Table 2    Calculated values ofg^A ant^ ^AB as a ^"nKtion of the radial distance from the central ion in a 2: 2 electrolyte, T = 298 K, con-  centration of 0.1 mol dm"3 and a = 4 A        r SAA   SAB    (A)         this work DH DHX this work DH DHX  4 0.0 -2.9036 0.0202 5.1064 4.9036 49-579  6 0.0 -0-7164 0.1797 2.8607 2.7164 5.5646  8 0.0750 0.1509 0.4278 1.9250 1.8491 2-3374  10 0.5119 0.5520 0.6389 1.4881 1.4480 1.5652  12 0.7318 0.7538 0.7817 1.2683 1.2462 1.2792  14 0.8483 0.8608 0.8700 1.1517 1.1392 1.1494  16 0.9125 0.9197 0.9228 1.0875 1.0803 1.0837  18 0.9489 0-9529 0.9540 1.0513 1.0471 1.0482  20 0.9695 0.9720 0.9724 1.0305 1.0280 1.0284    el does not preserve charge neutrality and the model  is not treated in a self-consistent manner.    On comparison with the results of Monte Carlo stud-  ies [7,8], we observe that the predictions of both  .c,. and ,g.  are too low in tlie immediate vicinity of  llie reference ion.    Tlus could be rectified to some extent by noting  that the mean kinetic energy per ion is ^k^T, and equa-  ting mean potential and kinetic energies would lead  toanJI, &lt;/?n- This would again lead to unphysical  values OI".?AA' "l1!1011^1 ^ey would be curtailed to a    minimum value of  0.5 (see eq. (4)). Our present  procedure does have the merit of yielding physically  realistic pair distribution functions within the frame-  work of a well defined model.    Since ion ion correlation effects within the screen-  ing region are absent at the present level of approxi-  mation, their inclusion should bring more accurate  predictions ofg^ and g^. Following the recent dem-  onstration [2] that such effects can be approximated  by an equation of Debye Huckel type with a reduced  screening length, the present approach should be of    Table 3  Values of reduced configuration;!! energy per ion and osmotic coefficient as functions of concentration for T= 298 K and ff ;    4.25 A        "0 LT/iVkssT   0    (mol dm 3)         [his work MC [7] DHX [7] this work MC (7] DHX [7]  1 : 1 electrolyte        0.00911 -0.0784 -0.1037 -0.1019 0.9750 0.9704 0.9701  0.1038 -0.2409 -0.2747 -0.2703 0.9305 0.9454 0.9451  0.425 -0.4013 -0.4336 -0.4116 0.9074 0.9850 0.9751  l.OOu -0.4906 -0.5516 -0.4995 0.9333 1.085 1.0768   U/Nk^T        this work MC [8]      1:1 electrolyte        006 25 -0.9737 -1.900      0.2500 -1.5215 -2.447      0.5025 -1.8704 -2.821      1.0000 -2.1246 -3.082        Volume 111, number 4,5    CHEMICAL PHYSICS LETTERS    9 November 1984    value in assessing the nature of such improvements in  terms of pair distribution functions- It is also possible  to make different approximations to the potentials of  mean force which appear in g.  and g^o, to bring  them into line with the Monte Carlo results. The inclu-  sion of ion ion correlation effects will be the subject  of a separate communication.    Eqs. (23) and (24) enable us to evaluate the reduced  configurational energy per ion and the osmotic coef-  ficient using our model for the pair distribution func-    tuls ^AA an^ ^AB' S0"16 results for 1:1 and 2:2 elec-  trolytes are displayed m table 3, together with com-  parison with the results of Monte Carlo simulations  and with the results of the DHX model. We observe  that the predicted energies are too high in general,  and this is consistent with our observation that our  predicted values ofg , and g. g are too low in the  immediate vicinity of the reference ion. We empha-  size that the present model is an extremely crude one,  and the inclusion of ion ion correlation effects is  necessary before meaningful comparisons between  the results of the model and those of Monte Carlo sim-  ulations and more sophisticated theoretical models  can be made.    In conclusion, we wish to observe that our approach  provides an extremely simple method for the genera-  tin of physically reasonable pair distribution functions  within the framework of the linearized Debye Huckel  model, together with the constraint of overall charge  neutrality. The importance of such distribution func-  tions lies m the way in which they can be incorporated  theoretically into the McMillan Meyer formalism  [10], and the fact that they can be determined, albeit  with difficulty, from experiment [4].    Appendix    The conditional charge density P\(r) about a cen-  tral reference ion of charge z.e is given by    PA^) = ^ot^AA^) + ZBeABW .          (Al)    and within the linearized Debye Huckel framework  we have    PA^" ^B('"0-eOeIA2'^(r)/r' a^r^R^, (AS)    Then    oo    f p(r)4w2 dr = -4ffe^K2 (1 + K^o^A^oXA4)    Ko  and  ^o    S    p(r)^Ttr~ dr =   47reQe^.A~    ( "o              "o       \  X C C re-^ ar-t-D f re^drj    a                         a                             = 47reo^. {- [C e-^l + Xa) + D e^Q - Xa)]  + [C 0-^0(1 +X^)+,00^0(1 -X^Q)]}.(A5)    Then, since Q = z c/4ireQe and using eqs. (21) and  (22), we find    f p(r)uv=-z^e,  a    i.e. charge neutrality is preserved.    (A6)    (A3) f    References    [1] P. Debye and E. Huckel, Z. Physik 24 (1923) 1.85-  [2] C.W- Outhwaite in: Specialist Periodical Reports. Statis-  tical mechanics. Vol, 2, ed. K. Singer (Chem- Soc..    London,1975).    [3] S. Nordholm, J. Chem. Phys. 78 (1983) 5759.  [4] J.E. Enderby and G.W. Neilson, Rep. Prog. Phys. 44    (1981)593.    [5] H.C. Anderson, in: Modern aspects of electrochemistry.  Vol. 11, eds. B.E. Conway and J.O'M. Bockris (Plenum  Press, New York, 1975).    {6] H.L. Friedman and W.D.T. Dale, in: Statistical mech-  anics, Part A, Equilibrium techniques, part of Modern  Theoretical Chemistry, VoL 5, ed. B.J. Berne (Plenum  Piess, New York, 1977).  [7] D.N. Card and J.P. Valleau, J. Chem. Phys. 52 (1970)    6232.  [81 J.P- Valleau, L-K- Cohen and D.N. Card, J. Chem. Phys.    72(1980)5942.    [9] L. Onsager, Chem. Rev. 13 (1933) 73.  [10] W.G. McMiUan and J.E. Mayer, J. Chem. Phys. 13    (1945) 276.  [Ill K.S. Pitzer, Accounts Chem. Res. 10 (1977) 371, and    references therein.    [12] F.H. StDlinger and R. Lovett, J. Cliem. Phys. 48 (1968)  3858,3869.    491       [his work MC [7] DHX [7] this work MC (7] DHX [7]  1 : 1 electrolyte        0.00911 -0.0784 -0.1037 -0.1019 0.9750 0.9704 0.9701  0.1038 -0.2409 -0.2747 -0.2703 0.9305 0.9454 0.9451  0.425 -0.4013 -0.4336 -0.4116 0.9074 0.9850 0.9751  l.OOu -0.4906 -0.5516 -0.4995 0.9333 1.085 1.0768   U/Nk^T        this work MC [8]      1:1 electrolyte        006 25 -0.9737 -1.900      0.2500 -1.5215 -2.447      0.5025 -1.8704 -2.821      1.0000 -2.1246 -3.082        Volume 111, number 4,5    CHEMICAL PHYSICS LETTERS    9 November 1984    value in assessing the nature of such improvements in  terms of pair distribution functions- It is also possible  to make different approximations to the potentials of  mean force which appear in g.  and g^o, to bring  them into line with the Monte Carlo results. The inclu-  sion of ion ion correlation effects will be the subject  of a separate communication.    Eqs. (23) and (24) enable us to evaluate the reduced  configurational energy per ion and the osmotic coef-  ficient using our model for the pair distribution func-    tuls ^AA an^ ^AB' S0"16 results for 1:1 and 2:2 elec-  trolytes are displayed m table 3, together with com-  parison with the results of Monte Carlo simulations  and with the results of the DHX model. We observe  that the predicted energies are too high in general,  and this is consistent with our observation that our  predicted values ofg , and g. g are too low in the  immediate vicinity of the reference ion. We empha-  size that the present model is an extremely crude one,  and the inclusion of ion ion correlation effects is  necessary before meaningful comparisons between  the results of the model and those of Monte Carlo sim-  ulations and more sophisticated theoretical models  can be made.    In conclusion, we wish to observe that our approach  provides an extremely simple method for the genera-  tin of physically reasonable pair distribution functions  within the framework of the linearized Debye Huckel  model, together with the constraint of overall charge  neutrality. The importance of such distribution func-  tions lies m the way in which they can be incorporated  theoretically into the McMillan Meyer formalism  [10], and the fact that they can be determined, albeit  with difficulty, from experiment [4].    Appendix    The conditional charge density P\(r) about a cen-  tral reference ion of charge z.e is given by    PA^) = ^ot^AA^) + ZBeABW .          (Al)    and within the linearized Debye Huckel framework  we have    PA^" ^B('"0-eOeIA2'^(r)/r' a^r^R^, (AS)    Then    oo    f p(r)4w2 dr = -4ffe^K2 (1 + K^o^A^oXA4)    Ko  and  ^o    S    p(r)^Ttr~ dr =   47reQe^.A~    ( "o              "o       \  X C C re-^ ar-t-D f re^drj    a                         a                             = 47reo^. {- [C e-^l + Xa) + D e^Q - Xa)]  + [C 0-^0(1 +X^)+,00^0(1 -X^Q)]}.(A5)    Then, since Q = z c/4ireQe and using eqs. (21) and  (22), we find    f p(r)uv=-z^e,  a    i.e. charge neutrality is preserved.    (A6)    (A3) f    References    [1] P. Debye and E. Huckel, Z. Physik 24 (1923) 1.85-  [2] C.W- Outhwaite in: Specialist Periodical Reports. Statis-  tical mechani</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>84855451</aid>
+            <ce:pii>0009-2614(84)85545-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(84)85545-1</ce:doi>
+            <ce:copyright type="unknown" year="1984"/>
+         </item-info>
+         <head>
+            <ce:title>The self-consistent determination of ion-pair distribution functions within the Debye-Hückel framework</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>I.L.</ce:given-name>
+                  <ce:surname>Cooper</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.A.</ce:given-name>
+                  <ce:surname>Harrison</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Chemistry, The University of Newcastle upon Tyne, Newcastle upon Tyne, NEI 7RU UK</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="6" month="6" year="1984"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Pair distribution functions for like ions in an electrolyte are generally predicted by the traditional Debye-Hückel model to be unphysical, becoming negative at small separations from the reference ion. A simple modification to the Debye-Hückel model is proposed which corrects this unphysical behaviour while retaining both the linearity and overall charge neutrality of the model.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Debye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Hückel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Physik</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1923</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>185</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Outhwaite</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Specialist Periodical Reports. Statistical mechanics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Singer</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Chem. Soc.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>2</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>London</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nordholm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5759</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rep. Prog. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>593</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.E.</ce:given-name>
+                                    <ce:surname>Conway</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.O.M.</ce:given-name>
+                                    <ce:surname>Bockris</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Modern aspects of electrochemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>11</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.T.</ce:given-name>
+                                 <ce:surname>Dale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.J.</ce:given-name>
+                                    <ce:surname>Berne</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Statistical mechanics, Part A, Equilibrium techniques part of Modern Theoretical Chemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Card</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6232</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Card</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5942</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Onsager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1933</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>McMillan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Mayer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1945</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>276</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Pitzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Accounts Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>371</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lovett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3858</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lovett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3869</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

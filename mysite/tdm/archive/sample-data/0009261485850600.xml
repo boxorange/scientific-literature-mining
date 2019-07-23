@@ -1,0 +1,799 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261485850600</prism:url><dc:identifier>doi:10.1016/0009-2614(85)85060-0</dc:identifier><eid>1-s2.0-0009261485850600</eid><prism:doi>10.1016/0009-2614(85)85060-0</prism:doi><pii>0009-2614(85)85060-0</pii><dc:title>Collision-induced absorption in molecular gases: an analytical solution </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>114</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>82</prism:startingPage><prism:endingPage>87</prism:endingPage><prism:pageRange>82-87</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-02-15</prism:coverDate><prism:coverDisplayDate>15 February 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Moraldi, M.</dc:creator><dc:creator>Vallauri, R.</dc:creator><dc:description>
+               Abstract
+               
+                  An analytic solution for the translational two-body contribution to the quadrupole-induced dipole correlation function is presented. It allows one to evaluate the far-infrared collision-induced absorption spectra of molecular systems, composed of quasi-spherical molecules at low density from the knowledge of few parameters derived from different experiments. The comparison with a translational correlation function extracted from the absorption spectrum of gaseous N2, under the same approximations, is also discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261485850600" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261485850600" rel="scidir"/></coredata><scopus-id>46549100026</scopus-id><scopus-eid>2-s2.0-46549100026</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/46549100026" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011126">2001-11-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011126">2001-11-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2019-02-06T12:00:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261485850600</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)85060-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261485850600</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)85060-0</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05799</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190206">2019-02-06T15:44:48.278865Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19850215</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1006732800">2001-11-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>114</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>114</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 114, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>19</xocs:sort-order>
+      <xocs:first-fp>82</xocs:first-fp>
+      <xocs:last-lp>87</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>82</xocs:first-page>
+         <xocs:last-page>87</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19850215</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 February 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-02-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>COLLISIONINDUCEDABSORPTIONINMOLECULARGASESANALYTICALSOLUTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MORALDI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BIRNBAUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>POLL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>950</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>HUNT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1448</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BIRNBAUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BIRNBAUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>593</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>COHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2443</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BUONTEMPO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1498</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>JOSLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>GUILLOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>686</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>COHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>475</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>HAAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2516</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BALUCANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>70</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>HWANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4017</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CARSLAW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CONDUCTIONHEATINSOLIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BALUCANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1504</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>EGELSTAFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>260</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>GRADSHTEYN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TABLESINTEGRALSSERIESPRODUCTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MORALDIX1985X82</xocs:refkey3>
+         <xocs:refkey4lp>MORALDIX1985X82X87</xocs:refkey4lp>
+         <xocs:refkey4ai>MORALDIX1985X82XM</xocs:refkey4ai>
+         <xocs:refkey5>MORALDIX1985X82X87XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)85060-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261485850600</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261485850600</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)85060-0</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2019-02-06T15:44:48.278865Z</xocs:timestamp>
+         <xocs:cover-date-start>1985-02-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261485850600-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485850600/MAIN/application/pdf/9d8069f26b777123506c5011a7e0d46f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>446768</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261485850600-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485850600/PREVIEW/image/png/584d7586c4615b7f40bf11e7b65e13c9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54753</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 114, number I CHEMICAL PHYSICS LETTERS 15 Febniary 1985    COLLISION-INDUCED ABSORPTION IN MOLECULAR GASES: AN ANALYTICAL SOLUTION    M. MORALDI    Dipanimeflo di Fisica dell'Umversita di Firenze e UnitS tit Firenze, Gruppo Nazionale di Struttura delta Materia del OW,    1-50125 Florence. Italy    and    R-VALLAURI  Istituto di Elettronica Qisanlsstica del CSfR. Vie Panciatichi 56/30. 1-50127 Florence. Italy    Received 13 October 1984; in final fonn 26 November 1984    An analytic solution for the translational two-body contribution to the quadnipole-induced dipole correlation function  is presented. It allows one to evaluate the far-infiared collision-induced absorption spectra of molecular systems, compo5ed  of quasi-spherical molecules at low density from the knowledge of few parameters derived faom different experiments- The  comparison with a tianslational correlation function extracted from the absorption spectrum of gaseous N3, under the  same appio-ximations, is also discussed.    1. Introduction    Considerable efforts have been devoted in recent years to the interpretation of the hneshape for collision-induced  absorption (CIA) by molecular gases. A typical example is given by the analysis of the far-infrared absorption of  N^, for which some simplifying assumptions seem to be reasonably well fulfilled. Namely (a) the anisotropic part  of the interaction potential between two molecules is sufficiently weak to allow a decoupling between transia-  tional and rotational degrees of freedom; (b) the induction mechanism is mainly due to the presence of a quadru-  pole moment on each individual molecule (quadrupole-induced dipole, QID). Assumption (a) implies that the  spectral density can be written as a convolution of the rotational and translational components I^(u) and I^(cJ):    vna    W = f do/ I^u') 1^ - "') -                                                     (0    The absorption coefficient A(u) is related to the spectral density by    A(t.&gt;)=(4^^2f3c)WV)w2I(&lt;J).                                                                       (2)    where c is the velocity ofli^ht, p = Ifk^Tand Vis the volume of the sample. I(w) turns out to be the Founer  transform of the correlation function of the dipole moment induced in the sample:    C(f)=&lt;u.(0)-|i(r)).                                                                                 (3)  By assumption (b) (supplemented with a pair-additivity hypothesis) one obtains    |i(0 = 1 St.^O.Tt^.Cr)): 0(0= B|t(t7; 0 ,                                                    (4)    -&gt; nfe/               '       -      i^j    where a, is the polarizability of molecule i, (X is the quadmpole tensor of molecule/, which depends on the orien-    82                                                0 009-2614/85/S 03.30   Elsevier Science Publishers B V.  (North-Holland Physics Publishing Division)    Volume 114. number 1                   CHEMICAL PHYSICS LETTERS                        15 Febniaiy 1985    tation of the molecular axis. 'T^(R,,) =WV(1/./?,.) is the third-order tensor which determines the electric field  at position R, due to the quadrupole moment of a molecule at position R.. It depends on the relative distance  R{. = R,   R, between the centers of mass of molecules ; and /.    In principle the correlation function (3) contains contributions from two-, three- and four-body correlations,  but at low density only the two-body part is recognized to be significant. Indeed most previous analysis has been  based on the description of the translational broadening in terms of the dynamics of binary encounters. Although  a more complete review of the current status of art of the interpretation of the FIR absorption, in the low-density  limit, is given in ref. [1], we wish. to summarize here the different approaches used- From one side attempts have  been made to reproduce the translational spectrum by either empirical functions [2 4], which contain free pa-  rameters to be fitted to the experimental data, or by using information theory [5], which allows one to recon-  struct the "least biased" form of the spectrum, based on the knowledge of the spectral moments. On the other  side, attempts have been made to evaluate the translational correlation function by resorting to a stochastic de-  scription of the dynamical process [6]. An "experimental" translationa] correlation function has been extracted  from the experimental spectrum [4] by "ad hoc" assumptions about the lineshape, which successively were inter-  preted in terms of the dynamics of the pairs.    Despite the undoubted success of the abovementioned procedures in reproducing the experimental data, it  seems useful to provide a model which can be solved analytically and can easily be compared with previous results-  The aim of this paper is to present such a model along with its analytic solution, which allows the evaluation of  the translational correlation function, once the few pardmeters, obtained from different experimental measure-  ments, are known for the system under investigation.    2. The model and its solution    The pair contribution to the induced moment correlation function (3) is    0,(0=(SnOy, 0). [MO/, t) +H(/X /)]\ .                                                             (5)  \ i^j                           I    Let us define an induced dipole density BCK) by    HOy, r) = fdV. BCK) 6(9? - 7?y&lt;r)) ,                                                       (6)    where 'K,y = (Ry, n,-, ^y) is defined by the vector distance R, = Rj   R. between the centers of mass of mol-  ecules f and/, and the orientation variables S2 of molecules i and/. For further calculations it is more convenient  to express the vector ^CK) in a spherical representation, and this is easily accomplished by making use of the  expression of the Ath component of(i((r) given by Cohen [7] for the QID mechanism Jt turns out that    (\ 1 /I       /             ^    B^W=^ |)  ^(^_^B_^C(312-,m--s'.s')Y^._^WY^.Iin^    X [8^- +(-1)S'^W/2C(^2;A: , -s')Y^-s-(^} -                                      (7)    where C(ll''\; m. m') are Clebscli Gordan coefficients; 3 is the amplitude of the quadrupole moment, a = 3(01  + 2o^) is the mean polarizability and k = (o:n   a^/a The C^(t) can be written as    C^-^fdvfdW^S^ -%y(0))5(W -V,^ D^W)^^') +^(%')] ,         (8)  83    Volume 114. number 1                    CHEMICAL PHYSICS LETTERS                         15 February 1985    where CK is obtained by interchanging the particle labels, i.e. W ,i ^( ^1-11 ^i, S2|). The ensemble average in (8)  defines a time-dependent pair distribution function    G^(CKO\rR't)=^^I^6(CK -V^OyySCK -^,,(0)) ,                                         (9)    which represents the joint probability of having two particles with coordinates W at time t, given that the same  particles had coordinates 92 at t = 0.    Under the assumption that the interaction potential between two molecules does not contain terms involving  simultaneously translational and orientational variables, one can write    G2(TZO,qe'0=G2,tr(^0|^'r)G2,n,t( 20in'0.                                                   (10)    (J! rot^^l^'O describes the joint probability that two molecules with orientation ( 2^,  2^) at time 0, have  orientation (St[, O^) at time t. In the free-rotation limit this turns out to be the product of two (7^ ^^f^Oli^r)  which is completely determined by the angular velocity distribution function, but in general G^ ^ can be re-  garded as a generalized probability, which contains the effect of the rotational hindrance in an effective way.    As far as the translational dynamics is concerned, the following model is considered. The function  g^ ^(R 01 It't) = [pg(R)] ~ ^G-^ tr( R 01 R 't) is required to obey a Smoluchowski equation-    ^2,ti/3-r = V^.tr + v \g-i,^tJ(R ')] '                                                                       (1 0    where U(R~) is the effective pair potential as obtained by the pair distribution function s(R) = exp [ /3(7(-R)] - If  the variable r^in eq. (11) is set equal to^(\Rij(t)  Rj.(0)\2), as proposed by Haan [8], eq. (11) gives the correct  behaviour in the short and long time regime- At short time r cc t ., at long time T = IDt, i.e. the motion is diffusive-  like and the relative diffusion coefficient -Orelis twice the single-particle one-D-    A numerical solution of eq. (11) has been found to reproduce the molecular dynamics calculations of G-y ^  for monatomic fluids [8], even at liquid density; at low density the physical assumption that the relative mean  square displacement is twice the single-particle one is found even better verified [9]    Eq- (11) can be solved analytically, under the assumption that two particles interact through a hard-sphere po-  tential [10]. In fact eq. (11) is replaced by a simple diffusion equation in which the effect of the direct force be-  tween the molecules is replaced by proper boundary conditions and is equivalent to the diffusion of a single par-  ticle in the presence of a reflecting wall. The solution is well known [10,11] and turns out to be    -      I    G^^Ro\R'r)= pg(R) (RR ')-\'2 S Z? r; ^ (n) y/" (^')    /=0 m= l    X f dkk exp(-2DTA:2) F^^kK) Fi^(kR').                                        ^  0    where    I  ^l/^kR)=(2kR/7r)ll:iUl(.kR)y^(.ka)-y^(kR)}|(ka)}/{[f',(ka)]2+ b;(*a)]2}l/2 .                ^    /J and^/ are spherical Bessel functions of the first and second kind respectively; the primes indicate the derivatives.    Before proceeding with the evaluation of (8) we want to make a few comments on the assumptions made in  defining the present model. First of all the factorization (10) is consistent with previous descriptions [2 5] and  stems from the recognition that for quasi-spherical molecules such as N3 the rotation translation coupling is  very weak and can be treated as a perturbation. Secondly the analysis performed in the case of collision-induced  light scattering by monatomic fluids in the dipole induced-drpole approximation, has shown that the two-body  correlation function evaluated by the hard-sphere model (12) reproduces very well the computer simulation re-    84    Volume 114, number 1                   CHEMICAL PHYSICS LETTERS                       15 Febraary 1985    suits obtained for a Lennard-Jones system [12], thus indicating that the details of the pair potential are not so  important in determining the overall time dependence of pair properties at low density.    By the use of (10) and the solution (12), and exploiting the orthogonality of the spherical harmonics, the two-  body correlation function C^CO can be written as the sum of two contributions. C^f) = C^\t) + C^\t). C^(t)  comes from the correlation ((i(i/0)-p(yY)) and turns out to be    C^)(t)=^Np\1 ^Q^al f dk k e^-IDT'k2)^ f 6R R-^F-J/^kR^ 9'J;(r)[l ^k2^^)} ,    (14)    0                                          a    where T^(t) = &lt;P^(cos 0(t))) and Q(t) is the angle swept by the vector along the molecular axis in the tune t.  C^(t) derives from the correlation (n(i/, 0)   H(/i", r)&gt; and is given by     "                                 / "                              \2    C^\t~) = i/Vp 12n 2a2 f dkk exp(-2Dr'^2) (f dR R-^F^kR)) 9-^(0 [--j^2 9^(0] -   (15)    0                                              a    In eqs. (14) and (15) we have introduced the parameter r = [t2 + (2Dm^(S)2] 1/2   IDm^ (where m^ is the re-  duced mass) in order to perform a numerical evaluation of the correlation function. The present approximation  parallels the one proposed by Egelstaffand Schofield [13] for interpreting neutron scattering experimental data.  As is evident, the long- and short-time behaviour of the relative mean-square displacement is accounted for by this  approximation- The integrals in (14) can be performed. One starts from the definition of F^i-^JcK) and after some  lenghty algebra obtains [14]    (/ dR R-^F^kR^ = (32/TO^)u3/[(-u4 + T1u2 - 60)2 +(-7u3 + 60u)2] ,                (16)    0     where u = ka The remaining integral over k reads    (32/ffo5) f du [M4^2- a)(u2 - b)(u1 - a*) (u2 - b*)} ex.p(-'&gt;.DT u2/a2) ,                     (17)  0    where a, a*, b and b* are the values for which the denominator in the right-hand side of (16) vanishes- In particu-  lar, a =  6.988   6.9801 and b =  4.488 + 4.093L By expanding the integrand of (17) in terms of simple fractions,  one is Isft with a sum of integrals of the form    f du (u2 + tt2)-1 exp(-2 &gt;^'u2/(J2) = (vfia) exp(2Dr'/a2) {1 - erfKlDr'/a2)1/2^ } ,             (18)  0    with a2 =  a (Re o: &gt; 0) and erf(z) is the error function Finally by summing all the contributions one gets  C^\t)= i/vpUTre^^/a^ReC^ exp(,-2Dr'a/a2) erfcKlDr'/a2)1^]    +5 exp(-2D7-'6/o2) erfcK^'/a2)172^ ^(fMl + jk2^)] ,                            (19)    where A = a2/^   fl*) (a   b) (b   a*); B is obtained by changing a ^ b and a-&gt;0 where f)2 =  b (Re p &gt; 0),  erfc(z) is the complementary error function. A similar expression is obtained for C'j^(t). It is easy to show that  eq. (19) gives the right expression for the zero and second frequency moments.    85    Volume 114, number 1    CHEMICAL PHYSICS LETTERS    15 February 1985    3. Results and conclusions    The solution (19) allows the evaluation of the FIR spectrum from the knowledge of few parameters These can  be derived from different experiments, namely, the diffusion coefficient D and the hard-sphere diameter o which  can be evaluated, for example, from the value of the second virial coefficient. The rotational contribution, which  in the present approximation is decoupled from the translational one, is exactly known under the hypothesis of  free rotation, both for linear and symmetric-top molecules.    A direct test of the translational part of the two-body correlation function is reported in fig. 1. The full curve  corresponds to the solution proposed here and has been evaluated by taking the values of a and D corresponding  to a N3 system at low density (p = 55 amagat, T = 300 K). a is set to be equal to 3.7 A [14] and D = 0.0033 cm2/^  is derived from the experimental value at room temperature and 1 atm by scaling the density with a I/p law. For  comparison we report the "experimental" curves reported by Buontempo et al. [4]; they extracted the transla-  tional spectrum by a deconvolution of the FIR spectrum with the rotational part taken from the Raman measure-  ment- This translational contribution has been fitted with a lineshape sum of a Lorentzaan and a Gaussian. The  two dashed lines represent the two extreme correlation functions that result from such a procedure, according to  the experimental accuracy. The agreement is satisfactory, even if a few comments are in order. Firstly the "ex-  perimental" exponential decay is somewhat forced by the choice of a Lorentzian lineshape. In some sense it as-  sumes a diffusive-like dynamics of two molecules- The present analysis reveals that in the time scale considered  this regime is not yet fully reached: in fact the parameter T' is still proportional to t1 at 1 ps. The difference at  short time (f =^ 0.2 ps) can be understood in terms of the assumed interaction potential. It is sufficient to re-  member that the value of the normalized second moment (i.e. the second derivative of the normalized correlation  function at r = 0) is ==15% larger if it is evaluated using an effective Lennard-Jones potential with e/k-Q = 95 K and  a = 3-68 A with respect to the value obtained using a hard-sphere model with the same value of a. In principle  the value of a for the hard-sphere model of N3 can be adjusted to give the correct result for the second frequency  moment. This procedure does not change substantially the correlation function reported in fig. 1, but introduces  an undesirable degree of arbitrariness, which is in contrast with the present derivation. Furthermore the presence  of induction mechanisms other than QID one considered here, which are of shorter range in nature (e.g. hexa-          Fig- 1. The logarithm of the translational pair correlation  function- Full line: the theoretical curve for N3 gas at p-= 55  amagat and T= 300 K- In the calculation D = 0 0033 cm^/s  and a = 3.7 A. Dashed lines: the two extreme "experimental"  correlation functions of Buontempo et aL [4] at the same  state point-            Fig. 2 The same as fig. 1 atp = 300 amagat and T= 300 K-  The diffusion coefficient D = 0.00055 cm2/^    86    Volume 114, number 1                    CHEMICAL PHYSICS LETTERS                        15 February 1985    decapolar or/and overlap), has the net effect of increasing the normalized second moment.    In fig. 2 we report the same comparison for N3 at p = 300 amagat and T= 300 K. Here the difference from the  "experimental" translational correlation function derived by Buontempo et al. [4] is more marked. The discrepan-  cy can be understood by considering that the "experimental" correlation function does not contain only the two-  body contribution, but many-body terms become important.    In conclusion, we have presented a simple model by which the translational contribution to the FIR absorption  spectrum can be evaluated analytically. The comparison with the corresponding "experimental" translational cor-  relation function at low density is sufficiently good, in view of the assumptions made in extracting this informa-  tion from the full spectrum. The evaluation of the translationa] correlation function proposed here can be per-  formed independently of any information on the FIR absorption spectrum, thus avoiding any fitting procedure,  but depends only on parameters which can be derived from different experiments-  Acknowledgement    Useful discussions with Dr. U. Balucani and U. Buontempo are gratefully acknowledged. The authors wish to  thank Dr. G. Birnbaum for his critical reading of the manuscript.    References    [1] G Bimbaum, B- Guillot and S. Stiatos, Advan. Chem. Phys 51(1982)49-    [2] J.D Poll and J.L- Hunt, Can. J. Phys. 56 (1978) 950;    J.L- Hunt and J.D. PoU, Can J. Phys. 59 (1981) 1448.    [3] G. Bimbaum andE-R- Cohen, MoL Phys. 32 (1976) 161; Can. J. Phys. 54 (1976) 593;    E R. Cohen and G. Bimbaum J Chem. Phys 66 (1977) 2443.    [4] U. Buonlempo, P. Maselli and L. Nencini, Can- J- Phys. 61 (1983) 1498.    [5] C.G. Joslin and C.G. Gray, Chem. Phys. Letters 107 (1984) 249.    [6] B. Guillot and G. Binibaum, J. Chem. Phys 79 (1983) 686.    [7] E.R- Cohen, Can. J. Phys- 54 (1976) 475.    [8] S.W. Haan, Phys- Rev. A20 (1979) 2516-    [9] U. Balucani and R. Vallauri, Phyaca 102A (1980) 70.  [10] L.P Hwang and J H. Freed, J. Chem. Phys. 63 (1975) 4017.  [11] H.S. Carslaw and J.C. Jaeger, Conduction of heat in solids, 2nd Ed. (Oxford Univ- Press, London, 1959)ch 14.  [12] U Balucani and R. Vallauri, Can. J, Phys. 59 (1981) 1504.  [13] P A. Egelstafiand P. Schofield, NucL ScL Eng. 12 (1962) 260-  [14] LS. Gradshteyn and I.M- Ryzhik, Tables of integrals, series and products (Academic Press, New York, 1980).    87  ls that in the time scale considered  this regime is not yet fully reached: in fact the parameter T' is still proportional to t1 at 1 ps. The difference at  short time (f =^ 0.2 ps) can be understood in terms of the assumed interaction potential. It is sufficient to re-  member that the value of the normalized second moment (i.e. the second derivative of the normalized correlation  function at r = 0) is ==15% larger if it is evaluated using an effective Lennard-Jones potential with e/k-Q = 95 K and  a = 3-68 A with respect to the value obtained using a hard-sphere model with the same value of a. In principle  the value of a for the hard-sphere model of N3 can be adjusted to give the correct result for the second frequency  moment. This procedure does not change substantially the correlation function reported in fig. 1, but introduces  an undesirable degree of arbitrariness, which is in contrast with the present derivation. Furthermore the presence  of induction mechanisms other than QID one considered here, which are of shorter range in nature (e.g. hexa-          Fig- 1. The logarithm of the translational pair correlation  function- Full line: the theoretical curve for N3 gas at p-= 55  amagat and T= 300 K- In the calculation D = 0 0033 cm^/s  and a = 3.7 A. Dashed lines: the two extreme "experimental"  correlation functions of Buontempo et aL [4] at the same  state point-       </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85850600</aid>
+            <ce:pii>0009-2614(85)85060-0</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)85060-0</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>Collision-induced absorption in molecular gases: an analytical solution</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Moraldi</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Fisica dell'Università di Firenze e Unità di Firenze, Gruppo Nazionale di Struttura della Materia del CNR, I-50125 Florence, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Vallauri</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Istituto di Elettronica Quantistica del CNR, Via Panciatichi 56/30, I-50127 Florence, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="13" month="10" year="1984"/>
+            <ce:date-accepted day="26" month="11" year="1984"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">An analytic solution for the translational two-body contribution to the quadrupole-induced dipole correlation function is presented. It allows one to evaluate the far-infrared collision-induced absorption spectra of molecular systems, composed of quasi-spherical molecules at low density from the knowledge of few parameters derived from different experiments. The comparison with a translational correlation function extracted from the absorption spectrum of gaseous N<ce:inf loc="post">2</ce:inf>, under the same approximations, is also discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Guillot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Stratos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Poll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Hunt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>950</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Hunt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Poll</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1448</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]a(1)</ce:label>
+                     <sb:reference>
+                        <ce:label>a1</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>2</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>593</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2443</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Buontempo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Maselli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Nencini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1498</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Joslin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Gray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Guillot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>686</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>475</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Haan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2516</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Balucani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vallauri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>70</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Freed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4017</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Carslaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Conduction of heat in solids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1959</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford Univ. Press</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 14</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Balucani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vallauri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1504</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Schofield</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>260</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Gradshteyn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.M.</ce:given-name>
+                                 <ce:surname>Ryzhik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Tables of integrals, series and products</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New york</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

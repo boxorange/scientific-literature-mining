@@ -1,0 +1,850 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261482870437</prism:url><dc:identifier>doi:10.1016/0009-2614(82)87043-7</dc:identifier><eid>1-s2.0-0009261482870437</eid><prism:doi>10.1016/0009-2614(82)87043-7</prism:doi><pii>0009-2614(82)87043-7</pii><dc:title>Highly asymmetric electrolytes: A model for strongly interacting colloidal systems </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>92</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>474</prism:startingPage><prism:endingPage>478</prism:endingPage><prism:pageRange>474-478</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1982-11-05</prism:coverDate><prism:coverDisplayDate>5 November 1982</prism:coverDisplayDate><prism:copyright>Copyright © 1982 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Beresford-Smith, Bryan</dc:creator><dc:creator>Chan, Derek Y.C.</dc:creator><dc:description>
+               Abstract
+               
+                  Dilute but strongly interacting colloidal systems are investigated using a highly asymmetric primitive model electrolyte. An analytic expression for an effective pair potential which is dependent on the colloidal particle density is obtained. Solutions in the hypernetted chain approximation to the asymmetric electrolyte and to the effective one-component model are compared.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261482870437" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261482870437" rel="scidir"/></coredata><scopus-id>0000529785</scopus-id><scopus-eid>2-s2.0-0000529785</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000529785" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020121">2002-01-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020121">2002-01-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-03T20:11:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261482870437</xocs:eid>
+      <xocs:pii-formatted>0009-2614(82)87043-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261482870437</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(82)87043-7</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X13073</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151005">2015-10-05T02:02:10.449357-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19821105</xocs:date-search-begin>
+      <xocs:year-nav>1982</xocs:year-nav>
+      <xocs:indexeddate epoch="1011571200">2002-01-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>92</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>92</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 92, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>6</xocs:sort-order>
+      <xocs:first-fp>474</xocs:first-fp>
+      <xocs:last-lp>478</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>474</xocs:first-page>
+         <xocs:last-page>478</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19821105</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>5 November 1982</xocs:cover-date-text>
+      <xocs:cover-date-start>1982-11-05</xocs:cover-date-start>
+      <xocs:cover-date-year>1982</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1982 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLYASYMMETRICELECTROLYTESAMODELFORSTRONGLYINTERACTINGCOLLOIDALSYSTEMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BERESFORDSMITH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>VERWEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1948</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYSTABILITYLYOPHOBICCOLLOIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>664</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>VANMEGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>813</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>GAYLOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1682</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>OTTEWALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>OVERBEEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BEUNEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>371</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>FRIEDMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALMECHANICS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>MODERNTHEORETICALCHEMISTRY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>STELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALMECHANICS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>MODERNTHEORETICALCHEMISTRY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ELKOUBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>493</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>ROGERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6272</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>ROSSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5694</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>TALMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>BLUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1529</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>HESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>552</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>STEPHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3878</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>ACKERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHOTONCORRELATIONSPECTROSCOPYVELOCIMETRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>PUSEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BERESFORDSMITHX1982X474</xocs:refkey3>
+         <xocs:refkey4lp>BERESFORDSMITHX1982X474X478</xocs:refkey4lp>
+         <xocs:refkey4ai>BERESFORDSMITHX1982X474XB</xocs:refkey4ai>
+         <xocs:refkey5>BERESFORDSMITHX1982X474X478XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(82)87043-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261482870437</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261482870437</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(82)87043-7</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-05T02:02:10.449357-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1982-11-05</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261482870437-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482870437/MAIN/application/pdf/a2d0e158ae6ef21aadde9957b4a636a4/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482870437/MAIN/application/pdf/a2d0e158ae6ef21aadde9957b4a636a4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>425800</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261482870437-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482870437/PREVIEW/image/png/d2174a98e9bb659a282103e596651216/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482870437/PREVIEW/image/png/d2174a98e9bb659a282103e596651216/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64812</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 92, number 5 CHEMICAL PHYSICS LETTERS 5 November 1982    HIGHLY ASYMMETRIC ELECTROLYTES: A MODEL FOR STRONGLY INTERACTING  COLLOIDAL SYSTEMS    Bryan BERESFORD-SMITH and Derek Y.C. CHAN    Department of Applied Mathematics. Research School of Physical Sciences, Institute of Advanced Studies,    Australian National University. Canberra, ACT. 2600, Australia    Received 31 Jul&gt; 1982    Dilute but strongly interacting colloidal systems are investigated using a highly asymmetric primitive model electrolyte.  An analytic expression for an efl'ectue pur potential uhlch is dependent on the colloidal particle density is obtained. Solu-  tions in the lii pernened chain appro\imallon to the asymmetric electrolyte and to the effective one-component model arc  compared    1. Introduction    According to the classical theory of the stability of    colloidal systems [I], the electrostatic interaction be-  tween charged colloidal particles is screened by the  presence ofcountenons and added electrolyte. That  is, the colloidal system is assumed to be in osmotic  equilibrium with a reservoir of ions of known fixed  concentration and the strength of the screening is de-  termined by the usual Debye screening length of this  reservoir. However, in many instances, die nature of  tins reservoir is not immediately apparent due either  to the high volume fraction of colloidal panicles in  the dispersion or low added electrolyte concentration.  For such cases every part of tlie solvent is under the  electrical influence of the colloidal particles and no-  where in ihe suspension would the equilibrium concen-  tration be present. A familiar example is that of a  dilute dispersion of charged polystyrene particles at  low ionic strengths where excess electrolytes have  been removed by ion exchsngs resins. Tins system  has been studied extensively by conventional and dy-  namic light scattering [2]. The experimental results  have been interpreted using Monte Carlo [3] and  brownian dynamics [4] simulations in which the col-  loidal p3rticles are assumed to interact via a linear  Debye-Hiickel (screened Coulomb) pair potential.  This pair potential is characterised by the surface po-      tential (or equivalently die charge) on the colloidal  particles and the screening length of the dispersion.    Both of these parameters were difficult to determine  experimentally [5]. Although the composition (and  hence the screening length) of the reservoir that is in  equilibrium with the dispersion can, in principle, be  determined by dialysis, its properties will in general  be a function of the concentration of colloidal parti-  cles in the system [6,7]. In the simulation studies,  values for the surface potential and screening length  were chosen to give agreement with experiment and  these were taken to be independent of particle num-  ber concentration.    In this communication we model a strongly inter-  acting colloidal system by a highly asymmetric primi-  tive model electrolyte in which the ions and colloidal  particles are given equal emphasis. For example, in  treating the polystyrene dispersion referred to above  [2], we may, if we neglect the presence of excess  electrolytes, regard the colloidal particles and their    associated counter-ions as a 1; Z electrolyte in which  \Z\ss l02. An approximate analytic expression is de-  rived for the effective pair potential between colloidal  particles with or without added electrolyte. It is the  appropriate effective pair potential to employ if the  colloidal particles are to be regarded as an effective  one-component system. This potential contains many-  body effects in that it is a function of the concentra-    474 0 009-2614/82/0000-0000/S 02.75   1982 North-Holland    Volume 92, number 5 CHEMICAL PHYSICS LETTERS 5 Nowffllicr 1982    lion of colloidal particles. The predictions of tilis ef-  fective pair potential are compared with the solution  of the (1: Z) + (1 .1) electrolyte in the hypernetted  chain approximation.    2. The model and the effective pair potential    We model the colloidal system as a highly asym-  metric electrolyte comprised of ions of number den-  sity p;, valence Z[ (i = 0,1,2,.) obeying the electro-  neutrality condition S,p,Z, = 0. The subscript / = 0  refers to the colloidal particle and i = 1,2,. refer to  small ions   counter-ions and added electrolyte. The  interaction between all charged species is taken to be  of the form    r&lt;d,,,    C,/r) = -(?(/,/r) + h,,(r} - ln(l + A,/f)l.    '-&gt;&lt;/ ,                             (4a)    h,,(r)=-l, r&lt;&lt;/y.                      (4b)    This approximation has proved successful for systems  involving coulombic interactions [81.    We now derive the effective pair potential between  colloidal particles for the situation in which only col-  loidal particles and counterions are present (excess  electrolyte being removed by ion-exchange resins and  the effects due to the dissociation of water being ne-  glected). Tins case is equivalent to aZpZg electrolyte.  From (2) we can write    W^-) = ^W + PO^O^OO^-)              &lt;5)  where    sreir    (6)    (1)    where d,, ~- {d, + a?/3 and d, is the ionic diameter  The solvent is simply characterised as a dielectric con-  tinuum of dielectric constant e. In choosing parameters  for the model we use values that are appropriate to  those in the study of Brown et al. [2]. Since the col-  loidal particles are small, dy ^ 500 A, and the disper-  sion is dilute, van der Waals interactions between the  colloidal particles are negligible.    The structure of the system can be described by  the pair distribution functions g,.(r) = I + It (r). The  total correlation functions h,. obey the Ornstem   Zernike equations    is the c//ecrn.'ecolloid-colloid direct correlation func-  tion. If we now approximate the ion-ion and lon-    colloid direct correlation functions by their asymp-  totic forms [9]    CiiO^-pZ^/er.             0&lt;r&lt;o ,   (7)    ^O^W)"-^!^2/^'   0&lt;r&lt;ae, (8)  and put    Coo(r)=C^(r)-iSZy2ler, 0&lt;r&lt;  ,      (9)  we find from (6) that    (10)    or    W) = ^oM - (|SZy2/er)exp(.-l.alr),    i,j= 0,1,2,. ,    (2)    where the Fourier transforms are defined by    7!(k) = Cdr exp(-ifr   r)h(r)    and the colloid-colloid structure factor is  Soo(k)=l+pohooW.                       (3)    The hypernetted chain approximation is defined by  supplementing (2) with the conditions (P = 1/A'B7)    (11)    03)    0&lt;r&lt;  ,  with  Kcsf=(We2!SlZ2lfe)ll2.    Eq. (11) suggests the definition of an effective col-  loid colloid pair potential of the form    U^^^ler}^-^}.               (13)    Note thai [/^(r) has the form of a screened Coulomb  potential and only the counter-ions contribute to the    475    Volume 93, number 5 CHEMICAL PHYSICS LETTERS 5 Nowmber 1982    screening parameter K011. However, because of the    electroneuiraliiy condition Po^o + ^1^1 = 0'Keff is  a function of colloid number density. Indeed, for  IZg/Z; | ? 1 n,0" is much smaller than die Debye pa-  rameier of the Z^ ZQ electrolyte given byK2= (4ff^e2/e)  X(poZg+piZf).    In the presence of added electrolyte (ionic species  &lt; = 2,3, -.) the effective colloid-colloid pair potential  is siill given by (13) except K^ is now    ^lT=f4^&lt;;:'e-IEp,Z ;1/2  L        1=1 ' 'J    (14)    15    10        .. ^ ; -,  .-,  ^  J . ,^~' mi   \ /'\" ^^[\  j Z^-120/ ) NO SALTj rs=30 )i '!  / t 1 , . , . ,  3 10 20 30 i.0r/rs    where the summation is taken over all ions   coun-  lenons and added elecirolyie. The screening parame-  ter given by (14) is Still a function oflhe eoUoid num-  ber density because of the electroneutrality condition  S,p,Z, = 0. However, in the dilute limit fig -   0, the  screening is determined solely by the added electrolyte  concentration as expected from the classical theory.    3. Numerical results    As an example of our numerical calculations, we  choose parameters that are representauve of the sys-  tems of deiomzed polystyrene particles mentioned  earlier [2]. The foBowing input data were chosen:    r=298K,e=78.4,do=500A,di=4A,Zi=l,  ZQ = -120 (i.e. a 1: ZQ electrolyie),pQ = 8.46 X 1012  cm~3 which is the highest density considered in the  experiment [2] and corresponds to a colloid volume  fraction (5=- npo&lt;/^=5.54X lO"4. In presenting our  results we scaled all lengths to the so-called ion sphere  radius r^ for the colloidal panicles which is defined by    iWs^l.    and gives, for py = 8.46 X 1012 cm"3, r, = 3040 A.    Eqs. (2) and (4) were solved by the usual iterative  scheme using fast Fourier transform methods [10,11].  Previous work on highly asymmetric electrolytes which  are also based on the same equations have considered  charge asymmetries of6:l and a size ratio of2:l be-  tween oppositely charged species [10]. For ions with  the same size, charge asymmetries of up to 20:1 have  been studied [ 11 ]. In the present work, truncations of  the integrals in real space at r v 34r^ and a uniform  step size Ar = 8.28 X lO-"^ was sufficient to give an  estimated error &lt;1%. A logarithmic distribution of    Fig. I The radial distribution functions fora 1 120 electrolyte:    ion ion,gii; colloid ion ,gai, colloid colloid, ggo- Ths e0""  tact value of got is given in the diagram and OB = 8 46 X 1012    cm'3.    integration points [12,13] was also used and it gave  the same results as that using a uniform set of grid  points.    In fig. 1 are shown the various radial distribution  functions for a 1:120 "electrolyte". We note the sig-  nificant correlation between the colloidal particles  (^oo) sta separation of ==1.6^ ?&gt; do (the particle  diameter) which is a result of strong coulombic repul-  sion. Oscillations in the ion colloid distribution func-  tion (^Qi) are a result of the correlations in^og. The  classical double layer theory (Poisson Boltzmann or  Debye Huckel) with an infinite electrolyte reservoir  would have predicted g^fy) to be a monotonic de-  caying function of r. The shoulder at rfr^ ^ 0.2 in the  ion ion correlation function (g'u) reflects the high    oo    ZO'-BO  z,=.i    lO^M 1 1  rssiOtoA    10                       30         &lt;0    20    r/rs    Fig. 2. The radial distribution functions corresponding to  fig. I for a 1:120 electrolyte with 10^ M 1:1 electrolyte  present.    476    Volume 92, number 5 CHEMICAL PH\SICS LETTERS 5 NoH.'mbrr 1982                Fig 3. The colloid-colloid structure factor corresponding  to the results in figs. I and 2 1 120 electrolyte   , 1:120  + 10'5 M 1:1 electrolyte ---.    Fig 4. The colloid-colloid pair potcniial U'(r} as obtained  from the results 01'figs. I and 2 using eq. (15). 1.120 electro-  lyte  ;1 ISO+KT'M l:l.;lectrolyte----r=AZjjC2/^    accumulation of counterions in the vicinity of a col-  loidal particle.    The screening effects due to the addition of 10~5 M  1:1 electrolyte (ionic diameter d, = 4 A, / = 3,4) can  be seen in fig. 2. The correlations seen in fig. 1 are  diminished as one would expect intuitively.    The colloid-colloid structure factor (see eq. (3))  corresponding to the results in figs. 1 and 2 are shown  in fig. 3. It was found that the position of the main  peak in S^k) occurs at kr^   4.4, close to that found  in the experiments [2]. It should be noted that the  non-linear effects included in the hypemetted chain  approximation are very important. Indeed, the (linear)  mean spherical approximation [14] (i.e. with the rhs  ofeq. (4a) replaced by -(?(/,,) predicts the main peak  m -Soo^") 10 occur at kr^ == 18.    Given the colloid-colloid radial distribution func-  tions shown m figs. I and 2, one can ask the foUowing    question: If the colloidal particles were regarded as a  owe-component system, what pair potential (/*(/ )  between the colloidal particles would give the same  radial distribution function? We have found U*(r) by  inverting ^QoM in figs. 1 and 2usingaoMe-component  hypemened chain equation. That is, given tiQ^fk) we  solved the following equations for t/*(r):    /TooW = c'(k) + poCWooW,  hoo(r)=-l  '-^o-    C'{r) = -W\r) + AooM - MI + WL    (15)    The results for U'(r) are shown in fig. 4. The effective  pair potential (/^(r) (13) agrees with U'(r) to better  than 3%. However, when we use U^fr) to calculate  SQQ(k) (assuming we are dealing with a one-component  system) m the hypemetted chain approximation, the  result is practically identical 10 the conesponding re-  sult from the 1: ZQ electrolyte. For instance, the  height and position of the main peak in Syo(k) are in  agreement to better than 1%. This good agreement  demonstrates the validity and utility of the effective  pair potential [/^(r) Moreover, it contains no ad-  justable parameters. We note that U'(r) given by (15)  is only defined to be the effective pair potential that  would generate the colloid-colloid radial distribution  (in the hypemetted chain approximation). If the triplet  colloid distribution function was available, one should  m principle be able to deduce an effective triplet po-  tential Mhich, in general, will noi be simply a sum of  pair potentials obtained hcrem-    Tlie one-component plasma (OCP)   colloidal par-  ticles carrying a charge (ZOCP^) ln a uniform neu-  tralizing background   had been used as a model for  strongly interacting colloidal systems [15]. It turns  out that the colloid-colloid radial distribution func-  tion can be fitted quite well by a OCP provided the  value ofZo^p is suitably chosen. In general, Zp^p is  an adjustable parameter which is a function ofZo and  Ehe added electrolyte concentration. While it may be  interesting to be able to obtain a good fit to the col-  loid-colloid radial distribution function using a OCP,  there is no guarantee that the dynamical behaviour  will be equally well represented by a OCP.    477    Volume 92. numbiT 5  4. Conclusion    5 November 1982    CHEMICAL PHYSICS LETTERS  References    By treating a strongly interacting colloidal system  as a higlily asymmetric electrolyte in which both the  ions and colloidal particles are placed on an equal  tooting, we have derived an appropriate effective pair  potential, (/"^(r) (13), between the colloidal particles.  The colloidal particles may then be regarded as an  effective one-component sysiem. The long-ranged  [^ 1l^" cf. (12) and (14)] nature of the effective  pair potential had been observed in related problems  [ 16,17]. The analytic result for (/&gt;'iT(/ ) provides a con-  siderable simplification of a complicated multicompo-  nent problem and should be a useful starting point for  simulation studies on such systems. However, this ef-  fective pair potential contains many-body effects in  that it is a function of the number density of colloidal  particles in the system. As a result, the point of the  onset of the disorder-to-order transition predicted by  this density-dependent effective pair potential would  be at a higher density tlian that predicted by a den-  sity-indepeiiclent pair potential [3,18].    In a forthcoming paper we shall compare the predic-  tions from our model will some experimental results.    |1] C J W.Verwey and J.Th.G. Overbeek, Theory ol'stabilily    of llophobic colloids (El5cvier, Amsterdam, 1948).  [ 21 J C. Brown, P.N. Pusey, J.W. Goodwin and R.H. Ottewill,    J.Phys A 8(1975)664.  [3] W vanMcganandI Snook, J. Chem Phys 66(1977)    813  (41 K. Gaylor, I. Snook and W. van Megan, J Chem. Phys.    75 (1981) 1682.    [5] R H. Otteu.ill. Discussions Faraday Soc. 65 (1978) 135.  (6| J.ThG Overbceh, Discussions Faraday. Soc 65(1978)    131.    (7] J Geunen and L R. White, Colloids Surfaces 3 (1981)  371.    [8) H L rricdman and W.D.T. Dale, in. Modem theoretical  chemistry, Vol 5, Statistical mechanics, ed. B.J Beme  (Plenum Press, New York, 1977)    [9) G Siell, in: Modem theoretical chemistry. Vol. 5, Sta-  tistical mechanics, ed. B J Berne (Plenum Press, New  York, 1977).    110) D Elkoubi, P. Turq and J.P. Hansen, Chcm. Phys. Let-  ters 52 (1977) 493.    [11] r.J. Rogers, J Chem Phys. 73 (1980)6272.  (12] P.J. Rossfcy and H.L. Fnedman, J. Chem. Phys. 72    (1980)5694.    [ 13] J.D Talman, J. Compui. Phys. 29 (1978) 35.  [ 14] L. Blum, Mol Phys. 30 (1975) 1529  [15| W.HcssandR.Klein,Physica 105A (1981) 552  [16] M.J. Sicphen, J. Chem. Phys. 55 (1971) 3878.  [17] B.J. Ackerson, in Photon correlation spectroscopy and  velocimetry, eds. H.Z. Cummins and E.R Pike (Plenum  Press, New York, 1976)  [18] P.N. Puscy, J. Phys. A 11 (1978) 119    478  cal 10 the conesponding re-  sult from the 1: ZQ electrolyte. For instance, the  height and position of the main peak in Syo(k) are in  agreement to better than 1%. This good agreement  demonstrates the validity and utility of the effective  pair potential [/^(r) Moreover, it contains no ad-  justable parameters. We note that U'(r) given by (15)  is only defined to be the effective pair potential that  would generate the colloid-colloid radial distribution  (in the hypemetted chain approximation). If the triplet  colloid distribution function was available, one should  m principle be able to deduce an effective triplet po-  tential Mhich, in general, will noi be simply a sum of  pair potentials obtained hcrem-    Tlie one-component plasma (OCP)   colloidal par-  ticles carrying a charge (ZOCP^) ln a uniform neu-  tralizing background   had been used as a model for  strongly interacting colloidal systems [15]. It turns  out that the colloid-colloid radial distribution func-  tion can be fitted quite well by a OCP provided the  value ofZo^p is suitably chosen. In general, Zp^p is  an adjustable parameter which is a function ofZo and  Ehe added electrolyte concentration. While it may be  interesting to be able to obtain a good fit to the col-  loid-colloid radial distribution function using a OCP,  there is no guarantee that the dynamical behaviour  will be equally well represented by a OCP.    477    Volume 92. numbiT 5  4. Conclusion    5 November 1982    CHEMICAL PHYSICS LETTERS  References    By treating a strongly interacting colloidal system  as a higlily asymmetric electrolyte in which both the  ions and colloidal particles are placed on an equal  tooting, we have derived an appropriate effective pair  potential, (/"^(r) (13), between the colloidal particles.  The colloidal particles may then be regarded as an  effective one-component sysiem. The long-ranged  [^ 1l^" cf. (12) and (14)] nature of the effective  pair potential had been observed in related problems  [ 16,17]. The analytic result for (/&gt;'iT(/ ) provides a con-  siderable simplification of a complicated multicompo-  nent problem and should be a useful starting point for  simulation studies on such systems. However, this ef-  fective pair potential contains many-body effects in  that it is a function of the number density of colloidal  particles in the system. As a result, the point of the  onset of the disorder-to-order transition predicted by  this density-dependent effective pair potential would  be at a higher density tlian that predicted by a den-  sity-indepeiiclent pair potential [3,18].    In a forthcoming paper we shall compare the predic-  tions from our model will some experimental results.    |1] C J W.Verwey and J.Th.G. Overbeek, Theory ol'stabilily    of llophobic colloids (El5cvier, Amsterdam, 1948).  [ 21 J C. Brown, P.N. Pusey, J.W. Goodwin and R.H. Ottewill,    J.Phys A 8(1975)664.  [3] W vanMcganandI Snook, J. Chem Phys 66(1977)    813  (41 K. Gaylor, I. Snook and W. van Megan, J Chem. Phys.    75 (1981) 1682.    [5] R H. Otteu.ill. Discussions Faraday Soc. 65 (1978) 135.  (6| J.ThG Overbceh, Discussions Faraday. Soc 65(1978)    131.    (7] J Geunen and L R. White, Colloids Surfaces 3 (1981)  371.    [8) H L rricdman and W.D.T. Dale, in. Modem theoretical  chemistry, Vol 5, Statistical mechanics, ed. B.J Beme  (Plenum Press, New York, 1977)    [9) G Siell, in: Modem theoretical chemistry. Vol. 5, Sta-  tistical mechanics, ed. B J Berne (Plenum Press, New  York, 1977).    110) D Elkoubi, P. Turq and J.P. Hansen, Chcm. Phys. Let-  ters 52 (1977) 493.    [11] r.J. Rogers, J Chem Phys. 73 (1980)6272.  (12] P.J. Rossfcy and H.L. Fnedman, J. Chem. Phys. 72    (1980)5694.    [ 13] J.D Talman, J. Compui. Phys. 29 (1978) 35.  [ 14] L. Blum, Mol Phys. 30 (1975) 1529  [15| W.HcssandR.Klein,Physica 105A (1981) 552  [16] M.J. Sicphen, J. Chem. Phys. 55 (1971) 3878.  [17] B.J. Ackerson, in Photon correlation spectroscopy and  velocimetry, eds. H.Z. Cummins</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>82870437</aid>
+            <ce:pii>0009-2614(82)87043-7</ce:pii>
+            <ce:doi>10.1016/0009-2614(82)87043-7</ce:doi>
+            <ce:copyright type="unknown" year="1982"/>
+         </item-info>
+         <head>
+            <ce:title>Highly asymmetric electrolytes: A model for strongly interacting colloidal systems</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Bryan</ce:given-name>
+                  <ce:surname>Beresford-Smith</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Derek Y.C.</ce:given-name>
+                  <ce:surname>Chan</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Applied Mathematics, Research School of Physical Sciences, Institute of Advanced Studies, Australian National University, Canberra, A.C.T. 2600 Australia</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="31" month="7" year="1982"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Dilute but strongly interacting colloidal systems are investigated using a highly asymmetric primitive model electrolyte. An analytic expression for an effective pair potential which is dependent on the colloidal particle density is obtained. Solutions in the hypernetted chain approximation to the asymmetric electrolyte and to the effective one-component model are compared.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.J.W.</ce:given-name>
+                                 <ce:surname>Verwey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Th.G.</ce:given-name>
+                                 <ce:surname>Overbeek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of stability of lyophobic colloids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1948</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Pusey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Goodwin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Ottewill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>664</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>van Megan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Snook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>813</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Gaylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Snook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>van Megan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1682</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Ottewall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Discussions Faraday Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Th.G.</ce:given-name>
+                                 <ce:surname>Overbeek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Discussions Faraday Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Beunen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>371</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.T.</ce:given-name>
+                                 <ce:surname>Dale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modern theoretical chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.J.</ce:given-name>
+                                    <ce:surname>Berne</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Statistical mechanics</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modern theoretical chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.J.</ce:given-name>
+                                    <ce:surname>Berne</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Statistical mechanics</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Elkoubi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Turq</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>493</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.G.</ce:given-name>
+                                 <ce:surname>Rogers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6272</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5694</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Talman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Blum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1529</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Hess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>552</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Stephen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3878</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Ackerson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.Z.</ce:given-name>
+                                    <ce:surname>Cummins</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>E.R.</ce:given-name>
+                                    <ce:surname>Pike</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Photon correlation spectroscopy and velocimetry</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Pusey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

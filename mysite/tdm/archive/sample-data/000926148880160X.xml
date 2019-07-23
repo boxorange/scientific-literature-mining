@@ -1,0 +1,1205 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148880160X</prism:url><dc:identifier>doi:10.1016/0009-2614(88)80160-X</dc:identifier><eid>1-s2.0-000926148880160X</eid><prism:doi>10.1016/0009-2614(88)80160-X</prism:doi><pii>0009-2614(88)80160-X</pii><dc:title>A CAS SCF study of the iron-oxo-porphyrin π radical cation: Similarity in FeO electronic structure between peroxidase compounds I and II </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>145</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>111</prism:startingPage><prism:endingPage>116</prism:endingPage><prism:pageRange>111-116</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1988-03-31</prism:coverDate><prism:coverDisplayDate>March 1988</prism:coverDisplayDate><prism:copyright>Copyright © 1988 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Yamamoto, Shigeyoshi</dc:creator><dc:creator>Kashiwagi, Hiroshi</dc:creator><dc:description>
+               Abstract
+               
+                  CAS SCF (complete active space SCF) calculations have been carried out on the ion-oxo-porphine π radical cation, which is a model for peroxidase compound I and catalase compound II. It is found that the electronic structure of the FeO bond is unchanged by removal of an electron from a porphine π orbital. Calculated Mössbauer spectral parameters and the spin population of the FeO moiety are consistent with experiment.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148880160X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148880160X" rel="scidir"/></coredata><scopus-id>0001054051</scopus-id><scopus-eid>2-s2.0-0001054051</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001054051" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2018-05-09T22:26:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148880160X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(88)80160-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148880160X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(88)80160-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X11347</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180509">2018-05-09T23:59:49.017727Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19880301</xocs:date-search-begin>
+      <xocs:date-search-end>19880331</xocs:date-search-end>
+      <xocs:year-nav>1988</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>145</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>145</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 145, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>111</xocs:first-fp>
+      <xocs:last-lp>116</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>111</xocs:first-page>
+         <xocs:last-page>116</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>198803</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 1988</xocs:cover-date-text>
+      <xocs:cover-date-start>1988-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1988-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1988</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1988 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ACASSCFSTUDYIRONOXOPORPHYRINRADICALCATIONSIMILARITYINFEOELECTRONICSTRUCTUREBETWEENPEROXIDASECOMPOUNDSIII</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YAMAMOTO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HEWSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>295</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PORPHYRINS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2"/>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SHEPARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ROOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SIEGBAHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>323</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>PENNERHAHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7819</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>SINANOGLU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SPAULDING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>982</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BARKIGIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>MOSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4159</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>SCHULZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>102</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HARAMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1164</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>LOEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3534</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>HANSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>663</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>FUJITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3296</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>LOEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>STRICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>347</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>MORISHIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3576</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>MORISHIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7666</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>BROWETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>YAMAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20"/>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>KASHIWAGI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>ROBERTS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7654</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>SCHAEFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>OBARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YAMAMOTOX1988X111</xocs:refkey3>
+         <xocs:refkey4lp>YAMAMOTOX1988X111X116</xocs:refkey4lp>
+         <xocs:refkey4ai>YAMAMOTOX1988X111XS</xocs:refkey4ai>
+         <xocs:refkey5>YAMAMOTOX1988X111X116XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(88)80160-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148880160X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148880160X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(88)80160-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2018-05-09T23:59:49.017727Z</xocs:timestamp>
+         <xocs:cover-date-start>1988-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1988-03-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148880160X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148880160X/MAIN/application/pdf/514e9e4d9a670e8fa16267d33a1b38e9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148880160X/MAIN/application/pdf/514e9e4d9a670e8fa16267d33a1b38e9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>476342</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148880160X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148880160X/PREVIEW/image/png/29a10f72a4bd5fb50450569a1a9602ce/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148880160X/PREVIEW/image/png/29a10f72a4bd5fb50450569a1a9602ce/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65091</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 145, number 2  CHEMICAL PHYSICS LEiTERS  25 March 1988  A CAS SCF STUDY OF THE IRON-OXO-PORPHYRIN n RADICAL CATION:  SIMILARITY IN Fe-O ELECTRONIC STRUCTURE  BETWEEN PEROXIDASE COMPOUNDS I AND II    Shigeyoshi YAMAMOTO and Hiroshi KASHIWAGI  Institute for Molecular Science, Myodaiji, Okazaki 444, Japan      Received 14 December 1987; in final form 13 January 1988         CAS SCF (complete active space SCF) calculations have been carried out on the ion-oxo-porphine it radical cation, which is a  model for peroxidase compound I and catalase compound II. It is found that the electronic structure of the Fe O bond is un-  changed by removal of an electron from a porphine it orbital. Calculated Mossbauer spectral parameters and the spin population  of the Fe O moiety are consistent with experiment.  1. Introduction  z   Peroxidase and catalase are heme-containing en-  zymes which catalyze substrate oxidation by hydro-  gen or alkyl peroxides [1]. The intermediates, called  compounds I and II [1], play an important role in  their enzymatic reactions. The active site of com-  pound II is described as iron(IV)-oxo-porphyrin.  Compound lis its it radical cation, that is, one elec-  tron is removed from a porphyrin it orbital of neu-  tral compound II. Understanding the electronic  structure of the Fe O bond in these compounds is  important for the study of heme-mediated oxygen  activation.   We demonstrated in a previous paper, paper! [2],  that the electronic structure of compound II is not  well described in the RHF (restricted Hartree Fock)  approximation. Electron correlation is important to  obtain a reliable picture for the electronic structure  of compound II. For this reason, we carried out CAS  SCF (complete active space self-consistent-field)  calculations on a model of compound II, FeP (py)O  (P =porphine, py = pyridine) to elucidate its elec-  tronic structure. CAS SCF is one of the formulations  of MC SCF (muiticonfiguration self-consistent-field)  [3] proposed by Roos et aI. [4]. The geometry of the  calculated model compound is given in fig. 1. The  CAS SCF value for the equilibrium Fe O bond dis-  tance, 1.66 A, is close to the observed value of 1.64  Fig. I. Geometry assumed for both compound I and II models.  The pyridine molecule lies in the xz plane.      A [5]. The other calculated properties, such as the  stretching frequency and Mossbauer spectrum pa-  rameters are also in good agreement with experiment.  As mentioned above, CAS SCF is a powerful the-  oretical method of accounting for non-dynamical  electron correlation effects [6]. This is because all  possible electronic configurations among a set of ac-  tive orbitais are considered with optimized MOs  (molecular orbitais). We extended our CAS SCF  O 009-2614/88/$ 03.50   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)  111  o  Xb~   e y  Volume 145, number 2  CHEMICAL PHYSICS LETTERS  25 March 1988  study to compound I to investigate the electronic  structure of its Fe O bond.   Many experiments indicate that the electronic  structure around the Fe O bond does not change  even after an electron is removed from a porphyrin  it orbital. X-ray crystallographic studies revealed that  the it cations of Zn [71 and Mg [81 porphyrins have  geometries and electronic distributions for the  metal oxygen moiety similar to those of the corre-  sponding neutrals. EXAFS spectroscopy [6] has  provided evidence for ligation of oxygen to the iron  atom in HRP (horseradish peroxidase) compounds  I and II and suggested a similar Fe environment in  compounds I and II. Mossbauer spectrum parame-  ters, IS (isomer shift) and QS (quadrupole split-  ting), etc., were measured for HRP compounds I and  II [9,10] and for JRP-a (Japanese-radish peroxidase  a) compounds I and II [li]. Their observed values  are similar and show a characteristic pattern for fer-  ry1 iron-porphyrins (IS~O.l mm/s, QS~ 1.0 mm/s).  It is important to confirm whether the similarity  of experimental data between compounds I and II is  accidental or not. The electronic structure of com-  pound I has been studied by a variety of theoretical  methods [12 161. In the UHF/INDO calculations  of Loew et al. [151, the calculated spin population  around the Fe O bond shows no significant differ-  ence between compounds I and II. This calculation  is, however, at the semi-empirical level. Strich et al.  [16] performed ab initio UHF calculations, but they  scarcely discussed the electron distribution around  the Fe O bond. The primary purpose of our study is  to investigate the electronic distribution around the  Fe O bond of compound I at the ab initio level with  the inclusion of correlation effects and to investigate  whether the electronic structure of the Fe O bond  compounds I and II is similar.      2. Method of calculation     The basis set used is the same as that used in paper  I. It is a partial-double basis which is double zeta for  Fe, valence double for O and N, and minimal with  scale factors for C and H.   The molecular geometry of the model complex is  given in fig. 1. The same geometry is used for both  compounds I and II. The molecular symmetry is C2~.  The Fe O and Fe N~~ (N~~ =pyridine nitrogen)  bond distances are 1.7 and 2.2 A, respectively. These  distances were determined by minimizing the total  energy of the compound Il model in paper I.   Since the porphyrin ring has two nearly degenerate  it orbitais with a2~ and a1~ symmetry in the D4h no-  tation, there exist two kinds of porphyrin cations, i.e.  a2~ and a1~ it cations. The a1~ it orbital has nodes on  the porphyrin nitrogens, but the a2~ does not. Since  the precise nature of the stable cation is not known  117 191, we did calculations on both cations, choos-  ing FeP~ (py)O as a model complex of compound I.   CAS SCF calculations were carried out using the  program JASON2 [201, which was developed in our  laboratory based on Roos  super-Cl formalism [4].  The following seven orbitais were chosen as active  orbitais; the Fe O a, a*, ~ it~, it~ and ir~ orbitais  and the porphine it orbital from which the electron  is removed. Among the above seven active orbitals,  nine active electrons are distributed in all possible  ways consistent with the given overall symmetry. We  call this calculation scheme CAS SCF-7. Since there  are three unpaired electrons (in the Fe O it orbitals  and the porphine it orbital) the spin eigenvaiue of  this system is 3/2. The total number of CSFs (con-  figuration state functions) amounts to 55 for the a2~  and 64 for the ~ cation.   All calculations were carried Out on the HITAC S-  810/10 and M-680H computers at the Computer  Center of the Institute for Molecular Science. The  program JAMOL3 [21] was used for integral eval-  uation and RHF calculations.      3. Results and discussion     The occupation numbers and the total energy ob-  tained from the CAS SCF calculations are given in  table 1. For the compound II model, results of the  CAS SCF-6 calculations with six active orbitais  (Fe U es, es*, it and m ~ orbitals) are presented. The  CAS SCF active orbitais of the Fe O moiety in com-  pound I are depicted in fig. 2. They have almost the  same shapes as those of compound II given in paper  1. The Fe O ci (a*) orbital has d~2(Fe)   2p(O)  character. The Fe O it (it k) orbitais have d~ ( Fe)    2p,~ (O) character. These it orbitais are localized  in the Fe O region and extend almost equally over  112  Volume 145, number 2  CHEMICAL PHYSICS LETFERS  25 March 1988  Table I  Occupation number and total energy (au)  MO a)  Compound! model  (CAS SCF-7)  Compound II model (CAS SCF-6)    a2, cation  a1, cation    Po a2,  0.999  2  2  Pea1,  2  1.000  2    1.871  1.869  1.868  ~*  0.133  0.135  0.136    1.893  1.894  1.896  1c~  1.106  1.104  1.102  1c~  1.893  1.895  1.898  ic~  1.105  1,103  1.101  numberofCSFs  64  56  28  total energy   2562.3483   2562.3503   2562.5888  a)pO=pO~p~m~~ orbital, a=2pr(O) + d~2(Fe), ~*=d~1 (Fe)  2p~(O),it~=2p~(O) +d~(Fe), it~=d~(Fe)  2p~(O).Thepius  and minus signs denote in-phase and anti-phase mixing, respectively.  Fig. 2. Contour maps of the CAS SCF active orbitals of the Fe O moiety in the a2, radical cation. The Fe O x~, and it~ orbitais have  almost identical shapes to the ir~, and ir~ orbitals, respectively. These contour maps are drawn in the xz plane containing the   pyridine  molecule. The active orbitals of the a1, cation are very similar to these MOs.  (a) a  (b) a  o  o  (c) m  (d) Trx*  113  Wavefunct ion  Gross AO population            Gross atomic charge      Fe      O      Fe  O    d~2_~1 d~2 dyy  d~.  d~.  2Pz  2Px  2Py      compound I model  a2,cation  a1,cation   1.98 0.75 0.24 1.98 0.75 0.24  1.45  1.44  1.44  1.43  1.34  1.34  1.52  1.54  1.54  1.55  +2.25  +2.28   0.43   0.45  compound II model   1.98 0.76 0.26  1.42  1.41  1.34  1.56  1.57  +2.28   0.49  Wavefunction  Gross AO spin population            Gross atomic  spin population      Fe      O                        Fe  O    &amp;2_y2 d,2 dyy  d~    2p~  2p~  2p~,      compound I model  a20cation  a1, cation   0.00 0.03 0.00 0.00 0.02 0.00  0.53  0.54  0.54  0.56  0.00  0.00  0.45  0.43  0.43  0.42  1.10  1.13  0.89  0.86  compoundllmodel   0.00 0.03 0.00  0.56  0.58  0.00  0.41  0.40  1.17  0.82  CHEMICAL PHYSICS LETTERS  25 March 1988  Volume 145, number 2  Table 2  Gross AO population, gross atomic charge, gross AO spin population and gross atomic spin population around Fe O for CAS SCF  wavefunctions  compound I model (CAS SCF-7)  RHF spin population on oxygen is far too small and  unpaired electrons are markedly polarized towards  iron. It is clear that the RHF result is not reliable and  that electronic correlation is important.   Table 1 shows that the occupation numbers of the  compound I model are similar to those of the com-  pound II model. This is explained by the similarity  in the configuration mixing of the wavefunctions. The  dominant configurations and their weights are given  in table 3. The similarity of the wavefunctions among  the three models is clear from table 3. The most  dominant configuration, with a weight of 0.837 is  ~ As discussed in paper!, the ox-  idation number of central metal is connected with  the difference between the number of valence elec-  trons in the neutral metal atom and the number of  electrons in anti-bonding or non-bonding orbitals  which have a certain amount of metal d component.  By means of this method, the most dominant con-  figuration is assigned to the ferryl structure, Fe (IV).  The next dominant configuration represents two-  both iron and oxygen. The covalent character of the  Fe O bond is revealed in the shapes of these MOs.   The result of the Mulliken population analysis is  given in table 2. The gross atomic spin population is  nearly unity for both iron and oxygen. This means  that the two unpaired electrons on the Fe O moiety  are distributed over iron and oxygen. Roberts et al.  [22] have estimated the hfs coupling tensor for the  Fe-O moiety in HRP-I by means of ENDOR. The  axial symmetry of the hfs tensor indicates that the  Fe O bond axis lies perpendicular to the porphine  plane. Their estimated spin populations are 0.25 for  both the O 2p~ and 2p~, orbitais. Their numerical ac-  curacy is not so high because these values were de-  rived from the ENDOR spectra with several  approximations. The CAS SCF spin populations on  the oxygen p~ orbitals are 0.43 (ps) and 0.42 (pi,).  They show axial symmetry and are consistent with  the estimation from the ENDOR measurement. In  contrast, for RHF, the spin populations are 0.03 for  oxygen p~ orbitals and 0.96 for Fe d~ orbitais. The  114  Configuration ~  Weight b)      compound I model (CAS SCF-7)  compound H model (CAS SCF-6)    a2, cation a1, cation    main configuration  ~  EVE v  EtEt    eit1_,abict  0EV_ansE,  a2~~~o*2   0.837 0.837 0.059 0.057 0.031 0.032 0.031 0.031 0.018 0.019  0.837  0.054  0.037  0.035  0.019  sum of the weights   0.976 0.976  0.982  Wnvefunction    IS a)  (mm/s)  QS b)  (mm/s)  q u)  Sign and direction d)  compound I model  a2, cation  a, cation    0.22  0.21  0.75  0.77  0.01  0.01  +z  +z  compoundllmodel    0.19  0.95  0.01  +z  experimental  HRP-I ~ (77 K)  HRP-I   JRP-acompoundI ~  (77K)  0.00  0.08  0.10  1.20  1.25  1.33  0.0  +2  DHR-II ~ (77K)  JRP-acompoundH~~  (77K)  0.03  0.11  1.36  1.46  0.03  +z  Volume 145, number 2  CHEMICAL PHYSICS LETTERS  25 March 1988  Table 3  Configuration weights in the CAS SCF wavefunctions   ~ Notation for the orbitals is the same as in table I.  b) The configurations whose weight is larger than 0.01 are listed. All spin couplings arising from a given excitation are included   in the  weight.  u) The main configuration is ~  electron excitation, it~itrit~it ~. The configuration  mixing is quite similar to that of an iterative natural  orbital CI calculation [23] on the 02 molecule at the  long bond distance of 1.64 A rather than that at the  equilibrium bond distance 1.207 A. In other words,  the electronic structure of the Fe U bond in com-  pounds I and II is equivalent to that of an elongated  unstable 02 molecule.   The similarity in the electron distribution around  the iron atom between compounds I and II is also  confirmed by the calculated Mossbauer spectral pa-  ramcters given in table 4. The characteristics of the  ferryl iron-porphyrin (small IS t 0.1 mm/s, + z di-  rection of the principal axis of the electric field gra-  dient tensor) are reproduced. The Mossbauer spectral  parameters are almost identical between compounds  I and II. Slight differences appear only in the QS  value. The observed QS values of compound I are  smaller than those of compound II by 0.16 mm/s for  HRP and by 0.13 mm/s for JRP-a. This is repro-  duced in the present calculation, i.e. the calculated  QS value of compound lis smaller than that of com  Table 4  Mossbauer spectral parameters   ~ Isomer shift, b) Quadrupole splitting.  ~ Asymmetry parameter.  cl) Sign and direction of the principal axis of the electric field gradient tensor.   ~Ref. 19].  Ref. [10].  ~Ref. [Il].  115  CHEMICAL PHYSICS LETTERS  Volume 145, number 2  25 March 1988  References  pound II by about 0.2 mm/s.   The Mossbauer spectral parameters reflect the  electron distribution around the Fe atom, especially  the distribution of Fe 3d electrons. We now estimate  the contribution of Fe 3d electrons to the difference  in the QS values according to the method employed  in ref. [24]. QS is defined as follows:      where y is a constant and V2~ is the principal com-  ponent of the EFG (electric field gradient) tensor  and ii is the asymmetry parameter. The value of y  has been set at 2.14 [2]. Since the direction of the  principal axis of the EFO tensor is / z, the difference  in the QS value can be estimated from the diagonal  component V~ of the ERl tensor. The contribution  of Fe 3d electrons to V~2 is given approximately by    V~zr ~n1A1+C,        where C is a constant depending on the complex  treated and j denotes one of the five 3d orbitals (xi)  and n is its occupation number. Since we are con-  cerned with the difference in the QS value, C in eq.  (2) can be disregarded. A1/&lt;x11r31x1&gt; is deter-  mined by the angular dependence of ~ Values are  4 fordXYanddX2.Y2,  4 ford~2andd,~and  4 for  d~2. &lt;x11r3 ~) is evaluated from the 3d orbital. n1  can be regarded as the gross atomic orbital popula-  lion obtained from the Mulliken population analysis  on the CAS SCF natural orbitals. Substituting these  values in eq. (2), we obtain 0.11 mm/s as the dif-  ference in the QS value. Thus about 60% of the total  difference is explained by the small change in d elec-  Iron distribution.  As is evident from the Mulliken population anal-  ysis in table 2, removing an electron from the por-  phine iv orbital does not cause a qualitative difference  in the electronic structure of the Fe O moiety. A  similar electronic distribution is obtained for both  compounds I and II. This is consistent with the ex-  perimental results as mentioned in section 1. Hence  the experimental result for compound!! can be used  to interpret the result for compound!, and vice versa,  as far as the electronic structure of the Fe O bond  is concerned.    [1] W.D. Hewson and L.P. Hager, in: The porphyrins, Vol. 7,      cd. D. Dolphin (Academic Press, New York, 1979) p.295.    [21 S. Yamamoto, .1. Teraoka and H. Kashiwagi, J. Chem. Phys.,      tobe published.    [~l R. Shepard, Advan. Chem. Phys. 69 (1987)63, and refer      ences therein.    [4) B.C. Roos, P.R. Taylor and P.E.M. Siegbahn, Chem. Phys.   (1)   48 (1980) 157;  P. Siegbahn, A. Heiberg, B. Roos and B. Levy, Physica  Scripta2l (1980) 323.    [5] J.E. Penner-Hahn, KS. Eble, T.J. McMurry, M. Renner, A.L.      Baich, J.T. Groves, J.H. Dawson and KO. Hodgson, J. Am.      Chem. Soc, 108 (1986) 7819.    [6) 0. Sinanoglu, Advan. Chem. Phys. 6 (1964) 315.    [7] L.D. Spaulding, P.G. Eller, J.A. Bertrand and R.H. Felton,      J. Am. Chem. Soc. 96 (1974) 982.    [8) K.M. Barkigia, L.D. Spaulding and J. Fajer, Inorg. Chem.      22 (1983) 349.    [9] T.H. Moss, A. Ehrenberg and A.J. Bearden, Biochemistry 8   12    (1969) 4159.  110] C.E. Schulz, P.W. Devancy, H. winkler, P.G. Debrunner,       N. Doan, R. Chiang, R. Rutter and L.P. Hager, FEBS Let-   (3)    ters 103 (1979) 102.    [11] T. Harami, Y. Maeda, Y. Morita, A. Trautwcin and U.       Gonser, J. Chem. Phys. 67 (1977) 1164.    [12] G.M. Loew, C.J. Kerl, L.M. Hjelmeland and R.F. Kirchner,       J. Am. Chem. Soc. 99 (1977) 3534.    [13] L.K. Hanson, C.K. Chang, M.S. Davis and J. Fajer, J. Am.       Chem. Soc. 103 (1981) 663.    [14]!. Fujita, L.K. Hanson, F.A. walker and J. Fajer, J. Am.       Chem. Soc. 105 (1983) 3296.    [IS] G.H. Loew and Z.S. Herman, J. Am. Chem. Soc. 102 (1980)       6173.    [16] A. Strich and A. Veillard, Nouv. J. Chim. 7(1983)347.    [17] I. Morishima, Y. Shiro and K. Nakajima, Biochemistry 25       (1986) 3576.    [18]I. Morishima, Y. Takamuki andY. Shim, J. Ant Chem. Soc.       106 (1984) 7666.    [19] w.R. Browett and M.J. Stiilman, Biochim. Biophys. Acta       660(1981)1.    [20] 5. Yamamoto, U. Nagashima, T. Aoyama and H.       Kashiwagi, JASON2, Program Package for Ab Initio CAS       SCF Calculations, Library Program of the Computer Cen       ter of the Institute for Molecular Science (1987);       S. Yamamoto, U. Nagstshima, A. Tomoo and H. Kashiwagi,       tobe published.    [21] H. Kashiwagi, T. Takada, E. Miyoshi, S. Obara and F.       Sasaki, JAMOL3, Program package for Ab Initio SCF MO       Calculations, Library Program of the Computer Center of       the Institute for Molecular Science (1919).    [22] J.E. Roberts, B.M. Hoffman, R. Rutter and L.P. Hager, J.       Am. Chem. Soc. 103 (1981) 7654.    [23] H.F. Schaefer, J. Chem. Phys. 54 (1971) 2207.    124] 5. Obara and H. Kashiwagi, J. Chem. Phys. 77 (1982) 3155.  116  m the diagonal  component V~ of the ERl tensor. The contribution  of Fe 3d electrons to V~2 is given approximately by    V~zr ~n1A1+C,        where C is a constant depending on the complex  treated and j denotes one of the five 3d orbitals (xi)  and n is its occupation number. Since we are con-  cerned with the difference in the QS value, C in eq.  (2) can be disregarded. A1/&lt;x11r31x1&gt; is deter-  mined by the angular dependence of ~ Values are  4 fordXYanddX2.Y2,  4 ford~2andd,~and  4 for  d~2. &lt;x11r3 ~) is evaluated from the 3d orbital. n1  can be regarded as the gross atomic orbital popula-  lion obtained from the Mulliken population analysis  on the CAS SCF natural orbitals. Substituting these  values in eq. (2), we obtain 0.11 mm/s as the dif-  ference in the QS value. Thus about 60% of the total  difference is explained by the small change in d elec-  Iron distribution.  As is evident from the Mulliken population anal-  ysis in table 2, removing an electron from the por-  phine iv orbital does not cause a qualitative difference  in the electronic structure of the Fe O moiety. A  similar electronic distribution is obtained for both  compounds I and II. This is consistent with the ex-  perimental results as mentioned in section 1. Hence  the experimental result for compound!! can be used  to interpret the result for compound!, and vice versa,  as far as the electronic structure of the Fe O bond  is concerned.    [1] W.D. Hewson and L.P. Hager, in: The porphyrins, V</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8880160X</aid>
+            <ce:pii>0009-2614(88)80160-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(88)80160-X</ce:doi>
+            <ce:copyright type="unknown" year="1988"/>
+         </item-info>
+         <head>
+            <ce:title>A CAS SCF study of the iron-oxo-porphyrin π radical cation: Similarity in FeO electronic structure between peroxidase compounds I and II</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Shigeyoshi</ce:given-name>
+                  <ce:surname>Yamamoto</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Hiroshi</ce:given-name>
+                  <ce:surname>Kashiwagi</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute for Molecular Science, Myodaiji, Okazaki 444, Japan</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="14" month="12" year="1987"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">CAS SCF (complete active space SCF) calculations have been carried out on the ion-oxo-porphine π radical cation, which is a model for peroxidase compound <ce:bold>I</ce:bold> and catalase compound <ce:bold>II</ce:bold>. It is found that the electronic structure of the FeO bond is unchanged by removal of an electron from a porphine π orbital. Calculated Mössbauer spectral parameters and the spin population of the FeO moiety are consistent with experiment.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Hewson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Hager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.</ce:given-name>
+                                    <ce:surname>Dolphin</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The porphyrins</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>7</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>295</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Yamamoto, J. Teraoka and H. Kashiwagi, J. Chem. Phys., to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Shepard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.O.</ce:given-name>
+                                 <ce:surname>Roos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.E.M.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Heiberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Roos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica Scripta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>323</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Penner-Hahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Eble</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>McMurry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Renner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Balch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Groves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Dawson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7819</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Sinanoǧlu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Spaulding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Eller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Bertrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Felton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>982</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Barkigia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Spaulding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fajer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ehrenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Bearden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4159</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Schulz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Devaney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Winkler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Debrunner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Doan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rutter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Hager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>FEBS Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>102</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Harami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Maeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Morita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Trautwein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Gonser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1164</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Loew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Kert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Hjelmeland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Kirchner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3534</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Hanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fajer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>663</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Fujita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Hanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fajer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3296</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Loew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Strich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Veillard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nouv. J. Chim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>347</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Morishima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nakajima</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3576</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Morishima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takamuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shiro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7666</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Browett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Stillman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochim. Biophys. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>660</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Nagashima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Aoyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kashiwagi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JASON2, Program Package for Ab Initio CAS SCF Calculations, Library Program of the Computer Center of the Institute for Molecular Science</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref>
+                        <ce:textref>b S. Yamamoto, U. Nagstshima, A. Tomoo and H. Kashiwagi, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kashiwagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Takada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Miyoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Obara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JAMOL3, Program package for Ab Initio SCF MO Calculations, Library Program of the Computer Center of the Institute for Molecular Science</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Hoffman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rutter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Hager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7654</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Schaefer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Obara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kashiwagi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

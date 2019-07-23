@@ -1,0 +1,741 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149180235P</prism:url><dc:identifier>doi:10.1016/0009-2614(91)80235-P</dc:identifier><eid>1-s2.0-000926149180235P</eid><prism:doi>10.1016/0009-2614(91)80235-P</prism:doi><pii>0009-2614(91)80235-P</pii><dc:title>Temperature and concentration dependence of orientational correlations of nitrate ions in Cu (NO3)2 aqueous solutions </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>185</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>421</prism:startingPage><prism:endingPage>425</prism:endingPage><prism:pageRange>421-425</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-10-25</prism:coverDate><prism:coverDisplayDate>25 October 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Fontana, M.P.</dc:creator><dc:creator>Rosi, B.</dc:creator><dc:creator>Micali, N.</dc:creator><dc:description>
+               Abstract
+               
+                  We report new results on the dynamics of orientational correlations of molecules in highly concentrated aqueous solutions of Cu (NO3)2. We determined both single-particle and pair reorientational relaxation times of the nitrate ion as a function of concentration and temperature by coupled Raman and depolarized Rayleigh wing spectroscopy measurement. The ratio of relaxation times features a non-monotonic behavior at room temperature as a function of concentration; at high and low temperatures the anomaly disappears.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149180235P" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149180235P" rel="scidir"/></coredata><scopus-id>44949274998</scopus-id><scopus-eid>2-s2.0-44949274998</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/44949274998" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T11:45:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149180235P</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)80235-P</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149180235P</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)80235-P</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10962</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T17:59:33.530186-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19911025</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>185</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>185</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 185, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>421</xocs:first-fp>
+      <xocs:last-lp>425</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>421</xocs:first-page>
+         <xocs:last-page>425</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19911025</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>25 October 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-10-25</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>TEMPERATURECONCENTRATIONDEPENDENCEORIENTATIONALCORRELATIONSNITRATEIONSINCUNO32AQUEOUSSOLUTIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FONTANA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ROTHSCHILD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DYNAMICSMOLECULARLIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BERNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DYNAMICLIGHTSCATTERING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>CLARKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADVANCESINIRRAMANSPECTROSCOPY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KIVELSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4599</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ALIOTTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4731</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ROSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6406</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BENASSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>798</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KIVELSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>STEINHAUSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1921</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>FONTANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>WHITTLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>172</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>CARPIO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2778</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>MAISANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1115</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>PHILLIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2575</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FONTANAX1991X421</xocs:refkey3>
+         <xocs:refkey4lp>FONTANAX1991X421X425</xocs:refkey4lp>
+         <xocs:refkey4ai>FONTANAX1991X421XM</xocs:refkey4ai>
+         <xocs:refkey5>FONTANAX1991X421X425XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)80235-P</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149180235P</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149180235P</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)80235-P</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T17:59:33.530186-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-10-25</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149180235P-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180235P/MAIN/application/pdf/dc8c3f4a852a581c0e1f241eb9b252bf/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180235P/MAIN/application/pdf/dc8c3f4a852a581c0e1f241eb9b252bf/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>439688</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149180235P-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180235P/PREVIEW/image/png/6506000a6c9d2100657961e787df7af6/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180235P/PREVIEW/image/png/6506000a6c9d2100657961e787df7af6/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56722</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 199!  and  N. Micali  Istituto di Tecniche Spetiroscopiche del CNR, Messina, Italy      Received 28 June 1991; in final form 13August1991   We report new results on the dynamics of orientational correlations of molecules in highly concentrated aqueous solutions of  Cu(N03 )~. We determined both single-particle and pair reorientational relaxation times of the nitrate ion as a function of con-  centration and temperature by coupled Reman and depolarized Rayleigh wing spectroscopy measurements. The ratio of relaxa-  tion times features a non-monotonie behavior at room temperature as a function of concentration; at high and low temperatures  the anomaly disappears.  interactions are expected to lead to quite a strong in-  terplay between local order and molecular dynamics.  The measurement of g2 is generally difficult, and such  determinations are rare in the literature. The diffi-  culties arise from the necessity of using different ex-  perimental techniques to obtain both z~ and i~i si-  multaneously. As far as we know, no experimental  determination of g2 as a function of mean interpar-  tide distance exists.   In this Letter, we report the first direct measure-  ment of g2 and its dependence on average intermo-  lecular separation and on temperature. This result  was achieved by studying the reorientations of the  nitrate ion in aqueous solutions of Cu(NO3)2. The  single-particle reorientational correlation function  C~(t) and the related relaxation time were deter-  mined by fluctuation Raman spectroscopy (FRS)  ~   on the 1050 cm  line due to the totally symmetric         For general information and bibliography on fluctuation light  scattering spectroscopy and stochastic molecular dynamics in  fluids see ref. [I].  1. Introduction     When considering Brownian molecular dynamics  in a fluid it is generally assumed, and found, that the  single-particle motion   as characterized by the sin-  gle-particle reorientational relaxation time r[    should be swifter than the correlated motion of mo-  lecular pairs   as characterized by the pair reorien-  tational relaxation time r~. In fact for orientational  fluctuations in a one-component fluid we have, for  a symmetric top [1]:  &lt;~cos20,1 ~&gt;  (1)  where g2 is the so-called Kirkwood factor and par-  ameterizes the effect of static orientational correla-  tions on reorientational dynamics. The angle O,~ re-  fers to the polar angle between the main symmetry  axes of the reference molecule 1 and molecule j. g2  is clearly an important parameter to know when  studying molecular Brownian motion, especially in  the so-called associated fluids, where intermolecular  0009-26t4/91/$ 03.50 IC 1991 Elsevier Science Publishers BY. All rights reserved.  421  Temperature and concentration dependence  of orientational correlations of nitrate ions  in Cu(N03)2 aqueous solutions    M.P. Fontana, B. Rosi  Dipartimento di Fis,ca and Consorzio INFM Universira di Panna. Parma, Italy  Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  ing the ratio of the normalized Fourier transforms of  11,0(w) and Jan,s(C0)=.IVH(W), where l~0=Ivv   llv~. l~ and  anis are the isotropic and anisotropic  scattering intensities.   The relaxation time t~ was obtained from the slope  of the plot of the logarithm of the ratio versus time.  The z~ values were also obtained by the convolution  method, assuming a simple exponential law for the  correlation function. The values obtained by both  methods are in good agreement. For further details  on procedures and data analysis we refer the reader  to ref. [4].   The DRW spectrum is connected to the aniso-  tropic fluctuations of the average molecular polar-  izability, and is therefore sensitive to pair reorien-  tational correlations of all the molecules which  contribute to the local polarizability. Thus in a mul-  ticomponent system it is not easy to separate the  contribution of the specific molecular species of in-  terest. As we shall see, the contribution of the nitrate  ion was clearly distinguishable from the others and  was found to be proportional to the solute concen-  tration in the low concentration range.   The DRWS measurements were performed using  the new SUPRA DMDP 2000 very high resolution  monochromator system [51. Such an instrument has  an exceptionally large dynamic range in spectral res-  olution, allowing the study of both the ordinary  Raman and the Rayleigh Brillouin spectral ranges.  The DRW spectra were taken using an instrumental  bandpass of 0.01 cm and fitted using a Minuit  least-squares routine. Particular care was taken in  ensuring that the best fit corresponded to the true  minimum in parameter space. We found that the  spectrum could be fitted by two Lorentzians plus a  Gaussian to simulate the central  elastic  compo-  nent. In fig. 1 we give an example of a typical fit. The  relaxation time z~ was then obtained using the re-  lationship  r~?=(itcA)~, where J is the full width  at half maximum (in cm~) of the appropriate  Lorentzian component. One of the components could  be assigned to water molecules, both from the value  of the corresponding relaxation time and from its  value [4]. The other component we assumed to be  dominated by the nitrate ion, given its large and  strongly anisotropic polarizability.   The measurements were performed at the tem-  peratures of 10, 23 and 75 C using a Harney Miller  stretching mode of the nitrate ion. The pair corre-  lation function C~(t) and the related relaxation time  were determined by depolarized Rayleigh wing spec-  troscopy (DRWS). Measurements were performed  as a function of nitrate concentration from 0.001 M  (0.5 M for DRWS) to saturation and at three dif-  ferent temperatures (10, 23, 75 C).   The results are quite surprising. Only at 75 C does  the behavior of r~ /r~ appear to be normal, i.e. a  monotonie decrease towards unity as the concentra-  tion is reduced, reflecting the proportionality to the  solute-connected shear viscosity [2]. At room tem-  perature we find an unexpected minimum and max-  imum in the ratio, and at 10 C we find that the ratio  actually increases as the concentration is reduced.          2. Experimental procedures and data analysis       Stock solutions of Cu(N03)2 were prepared by  standard methods. Concentration was varied by suc-  cessive dilutions. Particular care was taken in max-  imizing optical quality by multiple filtration. This  was essential for the DRW measurements (for de-  tails see ref. [3]).   The light scattering experiments were performed  on two separate spectrometers. One was a standard,  computer-controlled, Raman spectrometer. Most of  the Raman measurements were performed on this  instrument. For both spectrometers the excitation  wavelength (488 nm) was chosen to be in the region  of maximum transparency of the solution. Incident  power was kept below 50 mW, in order to avoid tur-  bulence and bubbles in the liquid, and the signal was  maximized by having the beam propagate parallel to  the entrance slit of the monochromators. Raman  spectra were taken with a spectral bandpass of 1  cm . Since the 1050 cm~ line is strongly polarized  (depolarization ratio p~ 10_2), in order to have  comparable statistics the integration time in the VH  (depolarized) scattering geometry was 10 times  longer than for the VY (polarized) geometry.   The reorientational correlation function C~(t) for  NO~ rotational fluctuations was determined by tak  422  Volume 185, number 5,6  CHEMICAL PHYSICS LEUERS  25 October 1991  5000          4000          3000          2000   10 20  u  ci  u  1.5   s   V V   V I    ~ o   1.0      D    V   D    o    0.5   D      so  D   b V      0.0   6 8 10 12 14    o  alA)  16  cm-1    Fig. I. Typical DRW spectrum obtained for the 1 M solution at  23 C. The solid line is the best fit as described in the text.      variable-temperature optical cell. Temperature sta-  bility was within 0.5  C.   As a check, some of the Rarnan spectra were also  taken using the SOPRA system. The results were  similar to the other Raman data. Finally, for each  concentration point the FRS and the DRWS exper-  iments were repeated three times, to check repro-  ducibility.      3. Results and discussion     For a one-component molecular fluid, the ratio  z?/z~ is proportional to the Kirkwood factor g2. For  a multicomponent system, the direct identification  of the ratio with g2 is not possible. However if, as in  our case, among the many possible pair correlations  one can isolate experimentally the relaxation times  corresponding to the reorientational correlations of  a specific species, then the ratio could describe a   partial  g2 factor [6], i.e. it should be connected to  the long-time limit of the orientational space cor-  relations of the nitrate ions in the solution. The par-  tial g2 factor thus obtained is plotted in fig. 2 for the  Fig. 2. Dependence of nitrate g2 factor on mean interionic sepa-  ration, for T=1O C ( ); 23 C (E); 75 C (T). The experi-  mental errors are indicated by tise error bars on the point for 23 C  at a= 10 A.      three temperatures we have investigated.   These data can be used to investigate the func-  tional behavior g2(a), where a is the average inter-  ionic separation. Furthermore, if we assume that the  major contribution to g2 comes from the first shell  of ions surrounding the reference ion, then a~R, the  upper limit of the integral over all shells which con-  tribute to g2 thus the function g2 (a) should ap-  proximate g2(R). Such a commonly made assump-  tion is qualitatively reasonable; however, it is not  supported by computer simulation studies [7] for a  hard-sphere fluid, which alone actually determine a  functional dependence of g2 on R. In fact, if G(r) is  the pair distribution function of the molecules, we  have [7]  g2= limg2(R), (2)  where  g2(R)=l+4~pJr2G(r)dr, (3)  423  L  volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  p being the number density. In this framework then  the data of fig. 2 should only qualitatively approxi-  mate the function g2 (R). However, even with these  qualifications, this would be the first experimental  determination of such behavior.   In any case, the data of fig. 2 are striking. In prin-  ciple, what we expect is a high value of g2 at small  a, where collective effects should be more important,  and a monotonic decrease toward unity as a in-  creases and r~ *r~. This is in fact the behavior ob-  served at 75 C.   At room temperature however, g2 features a star-  tling deviation from the monotonic behavior, namely  it goes through a minimum and a subsequent well  pronounced maximum before reducing to the high-  temperature behavior at large a. An oscillation of this  type was predicted by computer simulation [7] and  is ascribed to anti-phase correlations of the succes-  sive shells which contribute to g2. In our case such  behavior may be due to the fact that, as a is reduced,  more than one nitrate shell will contribute to g2. This  may be so, but we must not forget that we are dealing  with a two-component system; as a is varied, the  number of water molecules between nitrate ions also  varies, and this may strongly influence the local water  structure and thus the  cage  of water molecules sur-  rounding a given nitrate ion. That this might be a  more likely explanation is confirmed by the puzzling  10 C data. In this case the behavior is just the op-  posite of what is expected. Why should collective ef-  fects appear to be more important at large a? To try  to interpret this result, let us recall that our solution  belongs to a class of liqutd electrolytes with peculiar  local structural behavior, which has been extensively  studied by a variety of macroscopic, structural and  dynamical experimental techniques [8]. Substan-  tially it appears that in these electrolytes there is a  competition between the local structure of water,  which dominates at concentrations up to about  0.1 Csat, and a new structure, related to the solute, and  which becomes increasingly important as concentra-  tion is raised towards saturation. In the intermediate  concentration range of O.lCsatO.3Csat the two local  structures are energetically (in terms of free energy)  equivalent, and this leads to strong fluctuations.  These may be the origin of the decrease in g2 at room  temperature for a&lt; 10 k, and its successive increase  as a becomes even smaller.   From this point of view it may be useful to con-  sider the results we have obtained for aqueous so-  lutions of Ca(N03)2. Such a solute is similar to  Cu(N03)2, but does not show any of the anomalies  we have found in Cu(N03)2 and other electrolytes  in this or in other experiments. Thus we may use it  as a sort of  zero indicator  in the present experi-  ment. For Ca(N03 )2 we find no anomalies ing2 (a),  which turns out to be foughly constant at room tem-  perature, with an average value slightly above I, in  agreement with other experiments [9]. We may con-  clude that the anomalies we observe are specific of  the local structuring effects present in the Cu(N03)2  type of strong II I electrolytes.   An analysis of the actual values of r, at 10 C shows  that they are consistently smaller, especially at high  concentrations, than is the case at higher tempera-  tures. This is the opposite of what should normally  happen. Let us recall, however, that at high concen-  tration in this type of electrolyte, inelastic neutron  scattering data show the disappearance (or at least  total damping) of the low-frequency vibrational  modes associated with the fluctuating hydrogen bond  network characteristic of the water structure [10].  This situation is favored by lower temperatures. since  it is due to non-entropic (i.e. energy) contributions  to the free energy of the system. Thus at high con-  centrations at 10 C the g2 value will tend to unity  since the hydrogen bond  glue  which dominated  both single-particle and collective reorientations is  missing: z, will be faster and t,~ *;. As the mean in-  terionic distance is increased, the hydrogen bond glue  is restored and g2 increases.   At 75 C the destructuring and structuring effects  of the solute are minimized, the entropie terms dom-  inate the stochastic dynamic and the g2 (a) behavior  is essentially normal. In this framework the reason  for the anomalous behavior of g2(a) at 23 C ap-  pears to be clear, at least qualitatively. For large a,  the behavior follows the normal high-temperature  behavior. When the solute concentration becomes  sufficiently high however, its destructuring effects on  the fluctuating hydrogen bond network decrease pair  correlations, and g2 decreases. At concentrations close  to saturation, the new local structure starts to impose  its own influence and collective effects make g2 in.  crease again. Such an increase is not observed at  10  C. This may be due to the fact that we could not  424  Volume 185, number 5,6  CHEMICAL PHYSICS LEiTERS  25 October 1991  with the Cu2~ ion. Preliminary data taken using the  514.5 nm argon laser line do not show any appre-  ciable difference in the results. However, such stud-  ies need to be done more thoroughly.   These measurements we propose to do. Whatever  the final explanation of the peculiar effects we have  observed, we feel that they definitely show the in-  adequacy of the decoupling approximations we are  forced to use to interpret the data. Since the com-  plete expressions for g2 in a two-component system  are too complex to be useful [11] we feel a molec-  ular dynamics simulation of reorientational fluctua-  tions in aqueous solutions is necessary to guide the  experimentalist in the interpretion of data such as  those presented in this work.      References    [Il W.G. Rothschild, Dynamics of molecular liquids (Wiley,  New York, 1984);  B.J. Berne and R. Pecora, Dynamic light scattering (Wiley,   New York, 1976);  J.H.R. Clarke, in: Advances in IR and Raman spectroscopy,   eds. RJ.H. Clark and R.E. Hester (Heyden, London, 1978).  [21 D. Kivelson and T. Keyes, J. Chem. Phys. 57 (1972) 4599.  [31 F. Aliotta, G. Maisano, D. Majolino, F. Mallamace, P.   Migliardo and C. Vasi, J. Chem. Phys. 84 (I 986) 4731.  [4] B. Rosi and M.P. Fontana, J. Chem. Phys. 87 (1987)6406.  [51 P. Benassi, V. Mazzacurati and G. Ruocco, .1. Phys. E 21  (1988) 798,.  [6] D. Kivelson and S.-J. Tsay, Mol. Phys. 29(1975)29.  1710. Steinhauser and M. Neumann, Mol. Phys. 37 (1979)   1921.  [81 M.P. Fontana, G. Maisano, P. Migliardo and F.  Wanderlingh, J. Mol. Struct. 113(1984) 239.  [9] M. Whittle and J.H.R. Clarke, Chem. Phys. Letters 98  (1983) 172;  R.A. Carpio, M. Mehicic and E. Yeager, J. Chem. Phys. 74  (1981) 2778.  1 10] G. Maisano, P. Migliardo, M.P. Fontana, MC. Bellissent-  Funel andA.J. Dianoux, J. Phys.C 18(1985)1115.  [11] G.D.J. Phillies and D. Kivelson, J. Chem. Phys. 71(1979)  2575.  study DRWS at the same high molarities possible at  room temperature due to the lower solubility at 10 C.  However, one would expect that at 10 C the final  rise in g2 should take place at lower concentrations  than is the case for room temperature. We have no  explanation for this. We feel, however, that this is  further indication of the very delicate balance be-  tween opposing effects and interactions which de-  termines the reorientational dynamics in this class of  aqueous solutions.      4. Conclusions     In as much as the approximation g2 (a) ~g2 (R) is  reasonable, we have determined the R behavior of  g2, and found experimental evidence for an anom-  alous, non-monotonie behavior. This, however, takes  place only for room-temperature solutions and may  be seen as the effect of a delicate equilibrium be-  tween local structuring effects of water and solute  molecules. This is confirmed by the normal behavior  ofg2 (a) at 75 C and the behavior at 10 C. For this  latter case, however, we do not feel that we have a  satisfactory explanation. Further measurements may  be necessary; in particular, a more detailed study of  the temperature dependence of z~ and z~ at high con-  centrations. Also, in the scattering law of quasi-elas-  tic neutron scattering one should observe a kind of  coherence narrowing in correspondence with the  maximum in g2(a) in the room-temperature solu-  tions, i.e. for concentrations of about 1 to 2 M one  should observe a dip in the quasielastic half width  for exchanged wave vectors of ~0.3 A . Finally,  although we feel that the high anisotropy and polar-  izability of the nitrate ion justifies our assumption  that the DRWS is mainly due to it, such assumption  should be tested by repeating the measurements at  different laser wavelengths, in order to test for ef-  fects due to the changing of the resonance condition  425  oncentrations close  to saturation, the new local structure starts to impose  its own influence and collective effects make g2 in.  crease again. Such an increase is not observed at  10  C. This may be due to the fact that we could not  424  Volume 185, number 5,6  CHEMICAL PHYSICS LEiTERS  25 October 1991  with the Cu2~ ion. Preliminary data taken using the  514.5 nm argon laser line do not show any appre-  ciable difference in the results. However, such stud-  ies need to be done more thoroughly.   These measurements we propose to do. Whatever  the final explanation of the peculiar effects we have  observed, we feel that they definitely show the in-  adequacy of the decoupling approximations we are  forced to use to interpret the data. Since the com-  plete expressions for g2 in a two-component system  are too complex to be useful [11] we feel a molec-  ular dynamics simulation of reorientational fluctua-  tions in aqueous solutions is necessary to guide the  experimentalist in the interpretion of data such as  those presented in this work.      References    [Il W.G. Rothschild, Dynamics of molecular liquids (Wiley,  New York, 1984);  B.J. Berne and R. Pecora, Dynamic light scattering (Wiley,   New York, 1976);  J.H.R. Clarke, in: Advances in IR and Raman spectroscopy,   eds. RJ.H. Clark and R.E. Hester (Heyden, London, 1978).  [21 D. Kivelson and T. Keyes, J. Chem. Phys. 57 (1972) 4599.  [31 F. Aliotta, G. Maisano, D. Majolino, F. Mallamace, P.   Migliardo and C. Vasi, J. Chem. Phys. 84 (I 986) 4731.  [4] B. Rosi and M.P. Fontana, J. Che</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9180235P</aid>
+            <ce:pii>0009-2614(91)80235-P</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)80235-P</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Temperature and concentration dependence of orientational correlations of nitrate ions in Cu (NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf> aqueous solutions</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.P.</ce:given-name>
+                  <ce:surname>Fontana</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Rosi</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Fisica and Consorzio INFM Universitá di Parma, Parma, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Micali</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Istituto di Tecniche Spettroscopiche del CNR, Messina, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="28" month="6" year="1991"/>
+            <ce:date-revised day="13" month="8" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">We report new results on the dynamics of orientational correlations of molecules in highly concentrated aqueous solutions of Cu (NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>. We determined both single-particle and pair reorientational relaxation times of the nitrate ion as a function of concentration and temperature by coupled Raman and depolarized Rayleigh wing spectroscopy measurement. The ratio of relaxation times features a non-monotonic behavior at room temperature as a function of concentration; at high and low temperatures the anomaly disappears.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Rothschild</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Dynamics of molecular liquids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Berne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pecora</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Dynamic light scattering</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.R.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>R.J.H.</ce:given-name>
+                                    <ce:surname>Clark</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>R.E.</ce:given-name>
+                                    <ce:surname>Hester</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Advances in IR and Raman spectroscopy</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Heyden</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kivelson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4599</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Aliotta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Maisano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Majolino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Mallamace</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Migliardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Vasi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4731</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Rosi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Fontana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6406</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Benassi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Mazzacurati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ruocco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. E</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>798</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kivelson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Tsay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Steinhauser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Neumann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1921</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Fontana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Maisano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Migliardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wanderlingh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Struct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Whittle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.R.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>172</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Carpio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mehicic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Yeager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2778</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Maisano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Migliardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Fontana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Bellessent-Funel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Dianoux</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1115</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.D.J.</ce:given-name>
+                                 <ce:surname>Phillies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kivelson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2575</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

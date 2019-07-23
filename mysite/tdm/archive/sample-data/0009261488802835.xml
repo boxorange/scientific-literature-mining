@@ -1,0 +1,920 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261488802835</prism:url><dc:identifier>doi:10.1016/0009-2614(88)80283-5</dc:identifier><eid>1-s2.0-0009261488802835</eid><prism:doi>10.1016/0009-2614(88)80283-5</prism:doi><pii>0009-2614(88)80283-5</pii><dc:title>Observation of X-ray resonant Raman spectra and transition to resonant fluorescence </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>148</prism:volume><prism:issueIdentifier>2-3</prism:issueIdentifier><prism:startingPage>101</prism:startingPage><prism:endingPage>106</prism:endingPage><prism:pageRange>101-106</prism:pageRange><prism:number>2-3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1988-07-08</prism:coverDate><prism:coverDisplayDate>8 July 1988</prism:coverDisplayDate><prism:copyright>Copyright © 1988 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Udagawa, Yasuo</dc:creator><dc:creator>Tohji, Kazuyuki</dc:creator><dc:description>
+               Abstract
+               
+                  The first observation of X-ray Raman spectra of transition metal compounds is reported on copper, cuprous oxide, and cupric oxide in resonant, pre-resonant as well as non-resonant conditions. In the non-resonant condition the spectra are, unlike fluorescence X-ray, characteristic of each compound. Upon approaching the resonant condition a smooth and continuous transition from Raman spectra to K fluorescence doublet of copper is observed. The excitation energy dependence of the spectra can be reproduced quite well by a simple calculation employing second-order perturbation theory.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261488802835" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261488802835" rel="scidir"/></coredata><scopus-id>0012106052</scopus-id><scopus-eid>2-s2.0-0012106052</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0012106052" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-24T21:06:09</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261488802835</xocs:eid>
+      <xocs:pii-formatted>0009-2614(88)80283-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261488802835</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(88)80283-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X11426</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150926">2015-09-26T03:01:14.755073-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19880708</xocs:date-search-begin>
+      <xocs:year-nav>1988</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>148</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>148</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 148, Issues 2–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>101</xocs:first-fp>
+      <xocs:last-lp>106</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>101</xocs:first-page>
+         <xocs:last-page>106</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19880708</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>8 July 1988</xocs:cover-date-text>
+      <xocs:cover-date-start>1988-07-08</xocs:cover-date-start>
+      <xocs:cover-date-year>1988</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1988 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>OBSERVATIONXRAYRESONANTRAMANSPECTRATRANSITIONRESONANTFLUORESCENCE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>UDAGAWA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DASGUPTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>38</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>MIZUNO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>730</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1579</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KURIYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>634</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SPARKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>262</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BANNETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>372</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BANNETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2011</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>EISENBERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2377</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>EISENBERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>623</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>KOUMELIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1507</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>KAVOGLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>629</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>NAMIKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1606</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>TOHJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9410</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>TOHJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1553</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>HEITLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>QUANTUMTHEORYRADIATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>HONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1170</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>HARMON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2925</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>ROUSSEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3519</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>UDAGAWAX1988X101</xocs:refkey3>
+         <xocs:refkey4lp>UDAGAWAX1988X101X106</xocs:refkey4lp>
+         <xocs:refkey4ai>UDAGAWAX1988X101XY</xocs:refkey4ai>
+         <xocs:refkey5>UDAGAWAX1988X101X106XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(88)80283-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261488802835</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261488802835</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(88)80283-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-26T03:01:14.755073-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1988-07-08</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261488802835-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261488802835/MAIN/application/pdf/2a4358e11d17a08a083dc076a81b5d1d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261488802835/MAIN/application/pdf/2a4358e11d17a08a083dc076a81b5d1d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>523944</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261488802835-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261488802835/PREVIEW/image/png/e1fb285491cb9dd49590322ef2497069/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261488802835/PREVIEW/image/png/e1fb285491cb9dd49590322ef2497069/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>79913</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>CHEMICAL PHYSICS LETTERS  8 July 1988  Volume 148, number 2,3  OBSERVATION OF X-RAY RESONANT RAMAN SPECTRA  AND TRANSITION TO RESONANT FLUORESCENCE  Yasuo UDAGAWA and Kazuyuki TOHJI  Inst it ute for Molecular Science, Myodaiji, Okazaki, Aichi 444, Japan  Received 25 April 1988; in final form 7 May 1988   The first observation of X-ray Raman spectra of transition metal compounds is reported on copper, cuprous oxide, and cupric  oxide in resonant, pre-resonant as well as non-resonant conditions. In the non-resonant condition the spectra are, unlike fluores-  cence X-ray, characteristic of each compound. Upon approaching the resonant condition a smooth and continuous transition  from Raman spectra to K fluorescence doublet of copper is observed. The excitation energy dependence of the spectra can be  reproduced quite well by a simple calculation employing second-order perturbation theory.  cently it was demonstrated that structural parame-  ters can be extracted from the EXAFS (extended X-  ray absorption spectra), like oscillations overlapping  the continuum [15].  The other is the scattering from transition ele-  ments like copper and is believed to originate from  second-order perturbation of the first term in (1).  Sparks, using the Cu Ka line as the excitation source,  observed inelastically scattered photons from nickel,  copper and several other metals and found that the  energy los~ coincides with L absorption energy [7].  The scattering is more intense in the materials whose  K absorption energy is close to the copper Ka line,   which indicates an existence of resonance effect.  Bannett, Rapaport, and Freund [9] confirmed the  above results in a similar experiment.  Instead of using a fixed excitation energy with var-  ied K absorption of various elements, Eisenberger,  Platzman and Winick [101 tuned the X-rays from  synchrotron radiation to make exact resonance with  copper K absorption and verified clearly the reso-  nant nature of the X-ray Raman scattering from cop-  per. In all these studies an SSD (solid state detector)  whose resolving power is about 200 eV was em-  ployed, and as far as we know, no spectra with de-  tailed structure have ever been reported. Later  Eisenberger et al. employed a double crystal mono-  chromator to obtain the half-width of the scattering  [11], but due to the low throughput of the mono-  O 009-2614/88/s 03.50   Elsevier Science Publishers B.V,  (North-Holland Physics Publishing Division)  101  1. Introduction    Inelastic X-ray scattering called  X-ray Raman  scattering  has been intermittently studied by var-  ious authors for the past three decades [1 15]. It is  distinctly different from Compton scattering in that  the energy loss experienced by the X-ray photon is  the difference between two energy levels of the ma-  terial and is independent of the scattering angle.  Compared with the well-known counterpart in the  optical region, however, only little is known about  X-ray Raman spectra.  The coupling of the electrons to the photon is de-  scribed by the semiclassical Hamiltonian    H=   (e/mc)pA+ (e2/2mc2)A2.    It has been established that the scattering (by sec-  ond-order perturbation) by the first term of eq. (1)  is responsible for optical Raman scattering. In the X-  ray region two kinds of Raman scattering have been  reported.  One is the scattering from light elements like car-  bon and is associated with the promotion of K elec-  trons to the continuum. Mizuno and Ohmura E 2]  pointed out theoretically that this comes from first-  order perturbation of the second term in eq. (1) and  that the spectra should be similar to absorption. After  a series of works by Suzuki [3 5] there are several  reports on the spectra of graphite [12,13], and re-  Volume 148, number 2,3  CHEMICAL PHYSICS LETrERS  8 July 1988  chromator a whole spectrum was not obtained, even  in the resonant condition.   The aim of the present study is to obtain X-ray  Raman spectra of transition metal compounds un-  der higher resolution in order to fully understand the  phenomenon and also to examine whether the X-ray  Raman spectra contain information on absorption  edge or extended fine structure which can be utilized  for the study of electronic as well as geometrical  structure of materials. In this paper X-ray Raman  spectra of copper metal, cupric oxide (CuO ) and eu-  prous oxide (Cu20) are reported in the resonant, pre-  resonant, and non-resonant conditions for the first  time. Each compound has its characteristic spectrum  in the non-resonant condition. By approaching res-  onance to K absorption, the spectra gradually change  to that of the K fluorescence spectrum of copper,  which is characteristic of the element and does not  depend on compounds. The excitation energy de-  pendence of the spectra is nicely reproduced by a cal-  culation using simple perturbation theory.      2. Experimental     The measurement was carried out at beam line BL-  1 OC of the Photon Factory at the National Labora-  tory for High Energy Physics (KEK). The experi-  mental conditions are similar to those described  previously [15]. In short, the X-ray beam from the  ring with current of 150 300 mA is monochroma-  tized by a double crystral Si (111) monochromator  with a resolution better than 2 eV and is focused to  about I mmx 5 mm in size by a double focusing mir-  ror. The scattered X-rays from the sample which is  placed at the focus were dispersed by a Johansson-  type ground and bent Ge( 333) crystal and detected  by a position-sensitive proportional counter (PSPC).  The centers of the sample, the crystal, and the PSPC  are in a plane which is perpendicular to the polari-  zation vector of the incident X-rays, e1. In a separate  experiment the dispersing crystal and the PSPC were  rotated by 900 in order that the polarization vector  of the scattered light, e2, is perpendicular to e~.   Since the intensity of the scattering varies by sev-  eral orders of magnitude upon approaching the res-  onant condition, the scattered photons were collected  sometimes for over 10 h, while a spectrum with bet-   t lit t   .L~   8955 8970 8985 9000  (NE ROY ( e V)    Fig. 1. Spectra near the K absorption threshold of Cu, Cu20, and  CuO. The energy of the exciting lines used in this study are indi-  cated by arrows.      ter S/N ratio was obtained within a minute or so at  the resonant condition. The resolution of the spec-  trometer is 6 eV, as measured by the fwhm of the  copper Ka line. The energy of the exciting X-ray was  calibrated by the K absorption of copper foil [161.  The absorption spectra of Cu, Cu20 and CuO are re-  produced in fig. 1, where excitation energies used in  this experiment are indicated by arrows. The energy  of the scattered X-ray was calibrated by the K flu-  orescence from copper.      3. Results     Figs. 2 4 show Raman spectra of Cu, CuO and  Cu20 excited by X-rays from 8958 to 8988 eV. The  spectra excited by X-rays with higher energy than  8988 eV and those with X-rays lower than 8958 eV  are almost the same as those by 8988 and 8958 eV  excitation, respectively.   In the off-resonant condition, a sharp edge is ob-  served to the higher energy side for each compound,  and the energy differences between the edge and the  exciting light correspond to L1~1 absorption energy of  copper (935 eV). The detailed structure is, however,  not the same in the three compounds, reflecting the  102  Volume 148, number 2,3  CHEMICAL PHYSICS LETTERS  8 July 1988  difference in the electronic structure of each com-  pound. The spectrum of metallic copper consists of  a sharp edge and a rather broad peak, and resembles  that of Cu20. In the spectrum of CuO two peaks sep-  arated by 20 eV, which corresponds to the energy  difference of L11 and L111 levels, are clearly resolved.  No other fine structure is, however, observed.   Upon approaching the resonant condition the  spectra show remarkable changes. When excited by  X-rays above 8988 eV, the same spectrum, namely  the well-known Ka doublet of copper atom, is ob-  served for all the compounds studied. With detuning  the excitation energy, the scattering intensity de-  creases drastically, and the shape of the two com-  ponents of the doublet becomes more and more  asymmetric, having a tail to the lower energy side.  Peak energies shift toward lower energy in accord-  ance with the decrease in excitation energy. The  change starts at higher excitation energy in CuO, re-  flecting that the energy of the absorption threshold  is higher than the other two as is shown in fig. 1. For  example, the spectrum of CuO 8982 eV excitation is  already severely deformed from the Ku doublet, while  in those of Cu and Cu20 the distortion is still slight.   In the resonant or near-resonant condition, two  sharp peaks are always observed and the energy shifts  of these peaks from the excitation energy correspond  to L111 or L11 absorption energy. In the off-resonant  case, where the exitation energy is below about 20 eV  from the absorption edge, however, the peaks be-  come vague and now the edge becomes sharp and  well defined, and the energy difference between the  exciting line and the edge roughly corresponds to L111  absorption energy. It should be noted that, while the  transition from Ku fluorescence spectra to non-res-  onant Raman spectra is rather smooth in Cu metal  o  u    I-   E,  z  I-  z  Fig. 2. Excitation energy dependence of scattering spectra from  copper metal. Inserted numbers indicate excitation energy in eV.  The ordinate does not represent the relative intensity of the  spectra.  q )    e  o  u    I-  L  w    z    Fig. 3. Excitation energy dependence of scattering spectra from  cupric oxide. Inserted numbers indicate excitation energy in eV.  The ordinate does not represent the re ative intensity of the  spectra.  ENERGY (eV)   8100    8000    ENERGY (eV)  7900  103  Volume 148, number 2,3  CHEMICAL PHYSICS LETrERS  8 July 1988   8100    8000 7900    ErdE RGY(eV)    Fig. 4. Excitation energy dependence of scattering spectra from  euprous oxide. Inserted numbers indicate excitation energy in eV.  The ordinate does not represent the relative intensity of the  spectra.      and Cu20, the spectrum of CuO has a complicated  structure in the pre-resonance condition, as is seen  in the spectra by 8980 and 8982 eV excitation.   Spectra were measured in both conditions where  the polarization of the scattered light is perpendic-  ular as well as parallel to that of the exciting light.  The spectra are the same for both cases and the in-  tensity is almost the same, although an accurate in-  tensity comparison was not possible.      4. Discussion     The spectrum of copper metal obtained here is not  the same as those reported earlier [7,9]. As a whole,  the spectrum here is much sharper. The intensity falls  to practically zero beyond 1000 eV from the edge as  is shown in figs. 2 4, while in the previous one a long  trailing tail extending well over 1000 eV has been ob-  served. The difference can be attributed to the ex-  perimental conditions; the width of the exciting light  is 2 eV and the resolution of the analyzer is 6 eV in  this experiment, while those of the previous work are  over 20 eV and about 200 eV, respectively.   Different Raman spectra are obtained with Cu,  Cu20, and CuO. This indicates that the X-ray Ra-  man scattering may be used to investigate electronic  structure of materials. At present, however, the im-  plication of the spectra is not apparent. Even though  the resolution of the present system is good enough  for the observation of the EXAFS-like oscillation, no  such feature was observed.   In the previous reports X-ray Raman scattering  from copper has been attributed to originate from  second-order perturbation by the pA term of eq. (1)  from a prominent resonance enhancement [7 li].  It is also supported by the fact that the scattering is  observed even when the polarization vector of the  incident light is perpendicular to that of the scat-  tered light. These two are confirmed by the present  experiment. In addition, the spectral change ap-  proaching resonance observed here supplies another  convincing piece of evidence, as discussed in the  following.   It is well known that the contribution of the pA  term to the differential cross section dcr/dwdQ may  be written [17]    da/dQdw2 =r~(w2/w1) Mrg 12   Xo(ErEgh(wrU)2)), (2)    where r0 = e2/rnc2, w1 and w2 are the frequencies of  the incident and scattered photons, and E8 and Er are  the energies of the initial and final states. In the res-  onant condition only one term in the matrix element  Mr8 can have a significant contribution and is ex-  pressed by taking a damping factor y into consid-  eration in the following manner:    Mrg = &lt;fIpA Ii) &lt;iipA~g&gt;/ [ilw~   (E1  E8) +i~ ].   (3)    In the one-electron approximation the states in-  volved can be expanded by the products of one-elec-  tron atomic wavefunctions as follows:      li&gt;=ISkPP...&gt;,    If&gt;=ISSPk..&gt;,  e  o  u  a.  I.-  ca  z  w  I-  z  104  Volume 148, number 2,3  CHEMICAL PHYSICS LETTERS  8 July 1988  P       L     -SI  SO  :~    ~:;  K  ~   o  IS  Fig. 5. One-electron picture of the initial (g), intermediate (i),  and final (f) states involved in the scattering.        where S, P, and k represent the K and L shell elec-  tron orbitals and an electron in the continuum, re-  spectively. These states are schematically shown in  fig. 5. The integrals in eq. (3) may be reduced sim-  ply to w? &lt;SIpe2IP&gt; &lt;klpe1 IS&gt;, where pis the elec-  tron momentum operator. This product can be  assumed to be independent of w1 except for the w4  factor, which is almost constant over the energy range  studied here, only the denominator in eq. (3) and  the delta function in eq. (2) having excitation en-  ergy dependence. Therefore the change of Raman  spectra upon approaching the resonant condition can  be calculated by using eqs. (2) and (3) followed by  a convolution using the experimental resolution  function. Only y is an adjustable parameter.   Fig. 6 shows the calculated excitation energy de-  pendence of Raman spectra for the excitation energy  w~ between 8986 and 8970 eV. In the calculation,  E~ E8 was fixed at 8986 eV and y was varied for each  w1 as indicated in the figure. Two L levels separated  by 20 eV with spin weight of 2: 1 are taken into ac-  count. A Lorentzian resolution function with fwhm  of 6 eV was used for convolution. When compared  with figs. 2 4, the agreement between the observed  and the calculated spectra is remarkable in the pre-  resonance region, especially for Cu metal and Cu20.  This is a clear evidence that the scattering process is  described by eq. (3). When the energy difference be-  tween the exciting light and the absorption threshold  exceeds about 20 eV, the observed spectra depend on  the compound and the simple calculation above fails  to reproduce the observed one. Therefore more ac-  curate excited state wavefunctions which reflect the  electronic state of the material should be used in the  off-resonant case.   With the advent of tunable lasen the transition  from resonance Raman scattering to resonance flu-  orescence in the optical region attracted much at-  tention and still is under current investigation. For  example, Hong and Jacobsen observed a change of  Raman spectrum from pyrazine by approaching the  resonant condition [18], and very recently Harmon  and Asher studied emission from benzene by excit-  ing around a vibronic band [19]. These are just two  of many.   In the case of optical Raman spectra of molecules,  however, the states 1g&gt;, Ii&gt;, and If&gt; must be de-  scribed by complete rovibronic wavefunctions which  depend on both electronic and nuclear coordinates  (see refs. [18 20], and references therein). A va-  riety of approximations and various expansions are  employed to evaluate the integrals,, after which the  basic physical meanings often become obscured. In  addition, the existence of a large number of rovi-  bronic levels of molecules in the ground as well as in  excited states makes a clearcut experiment difficult.  In one of the most illuminating papers concerning  the mechanism of resonance Raman scattering, gas  phase iodine was studied by Rousseau and Williams  [20]. Even though iodine is one of the simplest mol-  ecules, sometimes more than one state was involved  in the scattering because of the congestion of the  g  I f  r.    a    C    o  u  a.  I-  ca  z  w  I-  2  Fig. 6. Calculated excitation energy dependence of the scattering.  Inserted numbers indicate excitation energy and damping factor  ~ in eV.  8000  (NE ROY C e V)  105  Volume 148, number 2,3  CHEMICAL PHYSICS LETTERS  8 July 1988  states. Since only electronic states must be consid-  ered without worrying about thermal excitation, all  these complications can be avoided in this experi-  ment and an example of a smooth transition from  near-resonance Raman spectrum to resonance fluo-  rescence has been presented.      Acknowledgement     We would like to thank Professor K. Kobayashi  and Dr. M. Nomura of Photon Factory, KEK, for  various help. This research was partly supported by  Grant-in-Aid for Scientific Research No. 59470012  from the Ministry of Education, Science, and Culture.      References    [1]K. Das Gupta, Phys. Rev. Letters 3(1959)38.    [2]Y. Mizuno andY. Ohmura, J. Phys. Soc. Japan 22 (1967)  445.    [3] T. Suzuki, J. Phys. Soc. Japan 22 (1967)1139.    [4] T. Suzuki, T. Kishimoto, T. Kaji and T. Suzuki, J. Phys.  Soc. Japan 29 (1970) 730.  [51 T. Suzuki and H. Nagasawa, J. Phys. Soc. Japan 39 (1975)  1579.    [6)M. Kuriyama, Acta Cryst. A 27 (1971) 634.  [7] C.J. Sparks Jr., Phys. Rev. Letters 33(1974)262.  [8]Y.B. Bannett and I. Freund, Phys. Rev. Letters 34 (1975)  372.  [9] Y.B. Bannett, D.C. Rapaport and I. Freund, Phys. Rev. A  16(1977)2011.  [10] P. Eisenherger, P.M. Platzman and H. Winkt, Phys. Rev.  B 13(1976)2377.  [li] P. Eisenherger, P.M. Platzman and H. Winick, Phys. Rev.  Letters 36(1976)623.  [12] C.N. Koumelis and C.A. Londus, Can. J. Phys. 58(1982)  1507.  [131 Z.!. Kavogli, D.K. Leventouri and C.N. Koumelis, Can. J.  Phys.61 (1983) 629.  [14] K. Namikawa and S. Hosoya, Phys. Rev. Letters 53 (1984)  1606.  [15] K. Tohji andY. Udagawa, Phys. Rev. B 36 (1987) 9410.  [16] K. Tohji, Y. Udagawa, M. Harada and A. Ueno, J. Chem.  Soc. Japan (1986) 1553.  [17] W. Heitler, The quantum theory of radiation (Clarendon  Press, Oxford, 1954).  [18] H.K. Hong and C,W. Jacobsen, J. Chem. Phys. 68 (1978)  1170.  [191 P.A. Harmon and SA. Asher, J. Chem. Phys. 88(1988)  2925.  [20] DL. Rousseau and P.F, Williams, J. Chem. Phys. 64 (1976)  3519.  106   for Cu metal and Cu20.  This is a clear evidence that the scattering process is  described by eq. (3). When the energy difference be-  tween the exciting light and the absorption threshold  exceeds about 20 eV, the observed spectra depend on  the compound and the simple calculation above fails  to reproduce the observed one. Therefore more ac-  curate excited state wavefunctions which reflect the  electronic state of the material should be used in the  off-resonant case.   With the advent of tunable lasen the transition  from resonance Raman scattering to resonance flu-  orescence in the optical region attracted much at-  tention and still is under current investigation. For  example, Hong and Jacobsen observed a change of  Raman spectrum from pyrazine by approaching the  resonant condition [18], and very recently Harmon  and Asher studied emission from benzene by excit-  ing around a vibronic band [19]. These are just two  of many.   In the case of optical Raman spectra of molecules,  however, the states 1g&gt;, Ii&gt;, and If&gt; must be de-  scribed by complete rovibronic wavefunctions which  depend on both electronic and nuclear coordinates  (see refs. [18 20], and references therein). A va-  riety of approximations and various expansions are  employed to evaluate the integrals,, after which the  basic physical meanings often become obscured. In  addition, the existence of a large number of rovi-  bronic levels of molecules in the ground as well as in  excited states makes a clearcut experiment difficult.  In one of the most illuminating papers concerning  the mechanism of resonance Raman scattering, gas  phase iodine was studied by Rousseau and Williams  [20]. Even though iodine is one of the sim</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>88802835</aid>
+            <ce:pii>0009-2614(88)80283-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(88)80283-5</ce:doi>
+            <ce:copyright type="unknown" year="1988"/>
+         </item-info>
+         <head>
+            <ce:title>Observation of X-ray resonant Raman spectra and transition to resonant fluorescence</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Yasuo</ce:given-name>
+                  <ce:surname>Udagawa</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Kazuyuki</ce:given-name>
+                  <ce:surname>Tohji</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute for Molecular Science, Myodaiji, Okazaki, Aichi 444, Japan</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="25" month="4" year="1988"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The first observation of X-ray Raman spectra of transition metal compounds is reported on copper, cuprous oxide, and cupric oxide in resonant, pre-resonant as well as non-resonant conditions. In the non-resonant condition the spectra are, unlike fluorescence X-ray, characteristic of each compound. Upon approaching the resonant condition a smooth and continuous transition from Raman spectra to K fluorescence doublet of copper is observed. The excitation energy dependence of the spectra can be reproduced quite well by a simple calculation employing second-order perturbation theory.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Das Gupta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>38</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mizuno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ohmura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kishimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>730</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nagasawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1579</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kuriyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>634</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Sparks</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>262</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Bannett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Freund</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>372</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Bannett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Rapaport</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Freund</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2011</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Eisenberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Platzman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Winick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2377</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Eisenberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Platzman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Winick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>623</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Koumelis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Londos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1507</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.I.</ce:given-name>
+                                 <ce:surname>Kavogli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Leventouri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Koumelis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>629</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Namikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hosoya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1606</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tohji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Udagawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9410</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tohji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Udagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Harada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ueno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1553</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Heitler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The quantum theory of radiation</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1954</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Clarendon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Jacobsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1170</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Harmon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Asher</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2925</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Rousseau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3519</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

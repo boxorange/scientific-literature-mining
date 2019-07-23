@@ -1,0 +1,922 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261482870991</prism:url><dc:identifier>doi:10.1016/0009-2614(82)87099-1</dc:identifier><eid>1-s2.0-0009261482870991</eid><prism:doi>10.1016/0009-2614(82)87099-1</prism:doi><pii>0009-2614(82)87099-1</pii><dc:title>Equations of state of mixtures of hard dumbbells </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>88</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>333</prism:startingPage><prism:endingPage>336</prism:endingPage><prism:pageRange>333-336</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1982-05-07</prism:coverDate><prism:coverDisplayDate>7 May 1982</prism:coverDisplayDate><prism:copyright>Copyright © 1982 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Enciso, E.</dc:creator><dc:creator>Gil, J.</dc:creator><dc:creator>Lago, S.</dc:creator><dc:description>
+               Abstract
+               
+                  Two ways to predict pVT behavior of hard-dumbbell mixtures in the fluid region are proposed. These are adaptations of the hard convex body equation devised by Boublik and an extension of the first Barker-Henderson perturbation theory. Calculated compressibility factors show good agreement with the ideal mixing assumption and yield a useful equation of state.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261482870991" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261482870991" rel="scidir"/></coredata><scopus-id>0542436166</scopus-id><scopus-eid>2-s2.0-0542436166</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0542436166" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20030425">2003-04-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20030425">2003-04-25</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T08:31:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261482870991</xocs:eid>
+      <xocs:pii-formatted>0009-2614(82)87099-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261482870991</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(82)87099-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X14479</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T17:28:19.486907-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19820507</xocs:date-search-begin>
+      <xocs:year-nav>1982</xocs:year-nav>
+      <xocs:indexeddate epoch="1051228800">2003-04-25T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>88</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>88</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 88, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>17</xocs:sort-order>
+      <xocs:first-fp>333</xocs:first-fp>
+      <xocs:last-lp>336</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>333</xocs:first-page>
+         <xocs:last-page>336</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19820507</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>7 May 1982</xocs:cover-date-text>
+      <xocs:cover-date-start>1982-05-07</xocs:cover-date-start>
+      <xocs:cover-date-year>1982</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1982 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EQUATIONSSTATEMIXTURESHARDDUMBBELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ENCISO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>EGELSTAFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MTPINTERNATIONALREVIEWSCIENCEPHYSICALCHEMISTRYSERIES2</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>FISCHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5371</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>TILDESLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>LOMBARDERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>999</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>AVIRAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>365</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LOMBARDERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1357</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MONSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>977</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>TILDESLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BOUBLIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4084</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BOUBLIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>KOHLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2057</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BELLEMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>527</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>FREASIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>280</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>JOLLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>75</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>MANSOORI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1523</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>GRUNDKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>NEZBEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>985</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>PAVLICEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1061</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>ISIHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1951</xocs:ref-pub-year>
+            <xocs:ref-first-fp>397</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ENCISOX1982X333</xocs:refkey3>
+         <xocs:refkey4lp>ENCISOX1982X333X336</xocs:refkey4lp>
+         <xocs:refkey4ai>ENCISOX1982X333XE</xocs:refkey4ai>
+         <xocs:refkey5>ENCISOX1982X333X336XE</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(82)87099-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261482870991</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261482870991</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(82)87099-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T17:28:19.486907-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1982-05-07</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261482870991-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482870991/MAIN/application/pdf/141d4a02713ff0701a1b6c5de67d3405/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482870991/MAIN/application/pdf/141d4a02713ff0701a1b6c5de67d3405/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>273831</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261482870991-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482870991/PREVIEW/image/png/21f4af7384b3d0064fc5565b2fe92e48/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482870991/PREVIEW/image/png/21f4af7384b3d0064fc5565b2fe92e48/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60329</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 88, number 3                        CHEMICAL PHYSICS LETTERS                                 7 May 1982    EQUATIONS OF STATE OF MIXTURES OF HARD DUMBBELLS  E. ENCISO, J. GIL  Departamento de Qu[mica F[sica, Facultad de Ciencias Qu[micas, Universidad Complutense, Madrid-3, Spain  and Instituto de Qu[mica F[sica R ocasolano, CSIC, Madrid, Spain  and  S. LAGO  Insn'tut fiir Thermo- und Fluiddynamik, Ruhr Universitiit Bochum, 4630 Bochum, Federal Republic of Germany  Received 27 November 1981 ; in final form 12 March 1982    Two ways to predict pVT behavior of hard-dumbbell mixtures in the fluid region are proposed. These are adaptations of  the hard convex body equation devised by Boubl~ and an extension of the first Barker:Henderson perturbation theory.  Calculated compressibility factors show good agreement with the ideal mixing assumption and yield a useful equation of  state.    1. Introduction    Fluids composed of hard dumbbells have been used  as a reference system in the van der Waals description  of pure non-associated diatomic fluids. Unfortunately,  perturbation theories based upon angle-dependent  reference systems require a fair number of properties  of such a system. The equation of state must be known  and along with it either the entire pair distribution  function (PDF) [1 ] or the site-site correlation func-  tion [2-4] (SSCF) is needed.  On the other hand, the good results obtained for  pure substances using SSCF led us to think that a mix-  ture of hard dumbbells and spheres or hard dumbbells  of different size could be a good reference system for  mixtures of diatomic + monatomic or diatomic + di-  atomic molecules. Certainly, it is difficult to obtain  the PDF and only a few simulation results are avail-  able [5]. Nevertheless, the recent numerical solution  of the RISM equation for mixtures [6] allows the  computation of SSCF with reasonable accuracy but  thermodynamic properties obtained directly from a  hard-site interaction model are very poor and the  choice of a proper equation of state remains open.  The purpose of this paper is to present and discuss  extensions of prescriptions for hard convex bodies or    hard spheres when they are applied to mixtures of hard  dumbbells. Throughout the paper, we consider homo-  nuclear hard dumbbells consisting of two hard fused  spheres with the same diameter o and whose centers are  separated by a distance L. When L* = L/o = 0, the  dumbbell reduces to a hard sphere. Two equimolar mix-  tures are studied. The first one is a mixture of hard  spheres (L * = 0) and hard dumbbells with L* = 1. In the  second case, the components have L* = 0.6 and L* = 0.2    2. Statement of the problem    Aviram et al. [5] simulated an equimolar mixture  with the same parameters as our second system.  Monson and Rigby [7] found VE was small for mix-  tures of hard spheres and hard spherocylinders. They  calculated the equation of state of this mixture, as-  suming ideal behaviour. Their resulting valueg agree  very well with their own MC results. Now we extend  this assumption to mixtures of dumbbells and hence-  forth, refer to it as IM. The volumes of the pure com-  ponents at each pressure were then calculated iterative-  ly using the equation of state for pure hard dumbbells  fitted to MC data by Tildesley et al. [8].    0 009-2614/82/0000-0000/$ 02.75 © 1982 North-Holland                                          333    Volume 88, number 3    CHEMICAL PHYSICSLETTERS    7 May 1982    On the other hand, the BoublN equation of state  works very well for mixtures of hard convex bodies  (HCB) [9]. Further, Boubl~ and Nezbeda [10] have  shown that a pure dumbbell fluid can be very well de-  scribed by means of a HCB equation of state. There-  fore, these ideas might be immediately extended to  mixtures of dumbbells and we write  p  _  1  +   rs     qs2(3-o)           (1)  okT  1-v  0(1 _v)2t" 90(1 _0)3 '  where r, s, v, q are geometric functionals of the mix-  ture and are given as  y=o~xiri,  yi=Ri, Si, Vi, Qi,          (2)  Vi and Si are the volume and surface of the dumbbell  modelling the component i, P is the number density  and Qi = Ri, where Ri is (47r)-1 times the mean curva-  ture integral of the circumscribed hard spherocylinder.  One different way of tackling the problem comes  from the treatment of hard-sphere mixtures. Recently,  Kohler et al. [ 1 1 ], on the basis of an idea of Bellemans  [12], investigated the thermodynamic properties of a  pure hard-dumbbell fluid using perturbation theories  with different choices of spherical reference system.  They found the best approach is obtained when an  averaged angle potential and a Barker-Henderson  splitting of the potential (BH1) are used. Moreover,  Freasier et al. [1 3] found the pressure of pure  dumbbells can be very well fitted to simulation data  using BH theory.  We extend the abovementioned method to obtain  thermodynamic properties of dumbbell mixtures. As  usual, we relate the system properties to those of a  hard-sphere system using a Taylor expansion in an in-  verse steepness parameter a. Following Barker and  Henderson, we define a modified potential function  °(R12, 091, 092, dO, a) by  exp [-~o(R 12,091,092)1  (3)  =H(d0 + (RI2  dO)lot- d(091,092)),  where H(x) = 0 for x &lt; 0, and H(x) = 1 for x &gt; 0 is  the Heaviside step function. In (3) R 12 denotes the  distance between the centers of mass of molecules 1  and 2 and 091 and 092 are the angular orientations  with respect to the R12 axis. d(091, 092) is the distance  between the centers when molecules 1 and 2 are in    contact with orientations 09 1 and 6)2, respectively.  Clearly, when a = 0, eq. (3) reproduces the hard-  sphere potential, and when a = 1, the anisotropic po-  tential of dumbbells is recovered.  Expanding the Helmholtz free energy in powers of  all the parameters, neglecting terms higher than the  first, and putting finally aij = 1, we obtain for binary  mixtures  2  2  o 0  (A -Ao)/NkT= 27r0 ~ ~ (dO)2 xixjgij(di])  i=1/'=1  X [(dii(091, 092)) - dO],               (4)  0 0  where gi/(di/) are the contact values of the pair distri-  bution function and ( ) denotes angular averaging:  &lt;d(09j, 092)&gt; =fd(09~, 092) 0091 d092/fd091 d092-   (5)  Taking in (4) do = (dii) and di] =(dii + d//.)/2, terms in  O~ii vanish and using thermodynamic relations, we can  write the equation of state as  p/flk T = (p/pk T)0                    (6)  + 4rr(dO2)2x i x2((d12) -- dO2) P ~)pgO2(dO2)fi)P,  where (p/pkT)o is the compressibility factor of an ad-  ditive hard-sphere mixture which has been calculated  using the well-known equation of Mansoori et al. [14].  We choose the analytical equation proposed by Grundke  and Henderson [15] forgO(dO) and (d)is evaluated by  a numerical integration. When differences in shape be-  tween the components are small, the contribution of  the first-order perturbation term is very small and can  be neglected.    3. Results and discussion    The effect of molecular shape on the equation of  state is depicted in fig. 1. Our results obey a similar  rule for an equimolar mixture to the one suggested by  Nezbeda et al. [16] for pure fluids, namely  (p/pkT)EHS &lt; (p/pkT)DB &lt; (p/pkT)sc ,  where EHS denotes the equivalent hard-sphere mix-  ture whose components have the same volume as  dumbbells (DB) and SC means the mixture of sphero-  cylinders with the same values Li as dumbbell molecules.    334    Volume 88, number 3                      CHEMICAL PHYSICS LETTERS                               7 May 1982    I        I        I    -            /          /  I       I  0.2          0.4  po3    I  0.6    Fig. 1. Equation of state for an equimolar mixture of hard  spheres and hard molecules:  .....  EHS as defined in the  text; -- spherocylinders with L * = 1 ; --- HCB equation  for dumbbells with L* = 1 ; • IM results.    Values for hard spheres and spherocylinders have been  calculated using the equations of Mansoori et al. [14]  and Pavlicek et al. [17] respectively.  The proposed approximations in eqs. (I)and (5)  are compared with results from ideal mixing or from  computer simulation, when available, for the two mix-  tures considered in tables 1 and 2. This comparison  gives good discernment about the ability of our ap-  proaches to account for molecular anisotropy in p VT  behaviour. Figs. 1 and 2 show that the HCB approxi-  mation agrees very well with the assumption of ideal  mixing of pure compounds at all densities..Also BH1    Table t  Comparison of the compressibility z = p/pkT of an equimolar  mixture of hard spheres and hard dumbbells of L* = 1    pa3              ZiM           zpT           ZHCB    0.1192            1.60           1.54            1.59  0.2908            3.28           3.14           3.25  0.3840            4.97           4.86           4.92  0.4412            6.49           6.48           6.43  0.5146            9.28           9.65           9.21    Table 2  As table 1 for an equimolar mixture of hard dumbbells of  L* = 0.2 andL* = 0.6    po3         zMC        ZlM         zpT         ZHCB    0.1                    1.47                                          1.42                 1.43  0.1224                   1.56        1.54        1.55  0.2         2.22                     2.07        2.09  0.3          3.39        3.18        3.12        3.14  0.3553                  4.03        3.97        3.98  0.4         5.50                     4.86        4.86  0.4540                  6.31        6.29        6.24  0.5                   9.34                 7.85                 7.91                 7.79  0.5282                  9.04        9.16        8.96    theory appears to be quite good, specially for small  anisotropies. Since the HCB equation has proved to  be very accurate for pure dumbbells and IM is a very  good approximation for similar systems, results re-  ported here represent a reliable basis. However, com-  puter simulations of Aviram et al. [5] are much larger  than the set of theories. It has been shown [8] that  the extrapolation of SSCF in ref. [5] is wrong, due to  a minor coding error in the program. Unfortunately,  it is necessary for mixtures to make four extrapola-  tions and the error is expected to be greater than for    I            I            I  /  8-  4  o  I          I          I  0.3            0.4             0.5  po3  Fig. 2. Equation of state for an equimolar mixture of hard  dumbbells with L* = 0.2 and L* = 0.6. zx MC results [5],  • IM, --  BH1 theory, -- HCB equation of state.    335    Volume 88, number 3                      CHEMICAL PHYSICS LETTERS                               7 May 1982    Table 3  Comparison of the second virial coefficients of equimolar mixtures obtained from cq. (7) and the results calculated from numerical  integration    B                            B                            B12    Xl = 1.0       x1 = 0.0       HCB          calc.    HCB           calc.    LI/L2 = 0.0/1.0      2.094         5.701         3.731         3.715         3.534         3.533  L1/L2 = 0.2/0.6      2.752         4.200         3.467         3.445         3.436         3.415    pure substances. Therefore we have taken direct simu-  lations only as an upper bound.  Second virial coefficients have been obtained for  the mixture of dumbbells from numerical integration  and HCB and are displayed in table 3. Results for the  mixture of spheres and dumbbells can be analytically  calculated and are also shown in table 3 for compari-  son. For binary mixtures, the definition  2  B = ~ xixjBij                      (7)  i,/=l  has been used. Bii are the viriat coefficients for pure  components as calculated by Isihara [ 18]. Theoretical  values of B and B12 compare well with exact data and  fall between those of pure substances.  The remarkable agreement between all the con-  sidered approximations indicates that they provide a  fair prediction of the equation of state of hard-  dumbbell mixtures. Moreover, the HCB equation makes  an excellent estimate of B and the assumption of ideal  mixing seems to offer a better description than original  simulations [5]. Theories involving effective spherical  diameters appear to be insensitive enough to the an-  gular correlation functions of molecules with a high  degree of anisotropy, at least in a first order of per-  turbation. Finally, we have found BoublN's equations,  originally devised for HCB mixtures or for pure hard  dumbbells, also describe very well the equation of state  of DB mixtures. We conclude that the HCB equation  can be used as an excellent basis in the perturbation  treatment of fluids with a hard- dumbbell mixture as a  reference system.    Acknowledgement  One of us (SL) wishes to thank the Humboldt    Foundation for a Humboldt fellowship and Professor  F. Kohler for his hospitality. We are indebted to Dr.  Lombardero and Mr. Martin of Instituto Rocasolano  (CSIC) and Dr. Abascal of Complutense University  for their help in the formulation of the ideas of this  paper.    References    [1 ] P.A. Egelstaff, C.G. Gray and K.E. Gubbins, in: MTP  International Review of Science, Physical Chemistry  Series 2, Vol. 2, ed. A.D. Buckingham (Butterworths,  London, 1975) ch. 8.  [2] J. Fischer, J. Chem. Phys. 72 (1980) 5371.  [3] D.J. Tildesley, Mol. Phys. 41 (1980) 345.  [4] M. Lombardero, J.L.F. Abascal and S. Lago, Mol. Phys.  42 (1981) 999.  [5] I. Aviram and D.J. Tildesley, Mol. Phys. 35 (1978) 365.  [6] M. Lombardero and E. Enciso, J. Chem. Phys. 74 (1981)  1357.  [7] P.A. Monson and M. Rigby, Mol. Phys. 39 (1980) 977.  [81 D.J. Tildesley and W.B. Streett, Mol. Phys. 41 (1980) 85.  19] T. Boubl~, J. Chem. Phys. 63 (1975) 4084.  [10] T. Boubh"k and I. Nezbeda, Chem. Phys. Letters 46 (1977)  315.  [ll] F. Kohler, W. Marius, N. Quirke, J.W. Perram, C.  Hoheisel and H. Breitenfelder-Manske, Mol. Phys. 38  (1979) 2057.  [12] A. Bellemans, Phys. Rev. Letters 21 (1968) 527.  [13] B.C. Freasier, Chem. Phys. Letters 35 (1975) 280;  D. Jolly, B.C. Freasicr and R.J. Bearman, Chem. Phys.  Letters 46 (1977) 75.  [14] G.D. Mansoori, N.F. Carnahan, K.E. Starling and T.W.  Leland Jr., J. Chem. Phys. 54 (1971) 1523.  [15] E.W.'Grundke and D. Henderson, Mol. Phys. 24 (1972)  269.  [16] I. Nezbeda, W.R. Smith and T. Boubl~, Mol. Phys. 37  (1979) 985.  [ 17 ] J. Pavlicek, 1. Nezbeda and T. Boubl~, Czech. J. Phys.  B29 (1979) 1061.  [18] A.J. lsihara, J. Chem. Phys. 19 (1951) 397.    336    0.5  po3  Fig. 2. Equation of state for an equimolar mixture of hard  dumbbells with L* = 0.2 and L* = 0.6. zx MC results [5],  • IM, --  BH1 theory, -- HCB equation of state.    335    Volume 88, number 3                      CHEMICAL PHYSICS LETTERS                               7 May 1982    Table 3  Comparison of the second virial coefficients of equimolar mixtures obtained from cq. (7) and the results calculated from numerical  integration    B                            B                            B12    Xl = 1.0       x1 = 0.0       HCB          calc.    HCB           calc.    LI/L2 = 0.0/1.0      2.094         5.701         3.731         3.715         3.534         3.533  L1/L2 = 0.2/0.6      2.752         4.200         3.467         3.445         3.436         3.415    pure substances. Therefore we have taken direct simu-  lations only as an upper bound.  Second virial coefficients have been obtained for  the mixture of dumbbells from numerical integration  and HCB and are displayed in table 3. Results for the  mixture of spheres and dumbbells can be analytically  calculated and are also shown in table 3 for compari-  son. For binary mixtures, the definition  2  B = ~ xixjBij                      (7)  i,/=l  has been used. Bii are the viriat coefficients for pure  components as calculated by Isihara [ 18]. Theoretical  values of B and B12 compare well with exact data and  fall between those of pure substances.  The remarkable agreement between all the con-  sidered approximations indicates that they provide a  fair prediction of the equation of state of hard-  dumbbell mixtures. Moreover, the HCB equation makes  an excellent estimate of B and the assumption of ideal  mixing seems to offer a better description than original  simulations [5]. Theories involving effective spherical  diameters appear to be insensitive enough to the an-  gular correlation functions of molecules with a hi</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>82870991</aid>
+            <ce:pii>0009-2614(82)87099-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(82)87099-1</ce:doi>
+            <ce:copyright type="unknown" year="1982"/>
+         </item-info>
+         <head>
+            <ce:title>Equations of state of mixtures of hard dumbbells</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>E.</ce:given-name>
+                  <ce:surname>Enciso</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Gil</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Departamento de Química Física, Facultad de Ciencias Químicas, Universidad Complutense, Madrid-3, Spain</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Instituto de Química Física Rocasolano, CSIC, Madrid, Spain</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Lago</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institut für Thermo- und Fluiddynamik, Ruhr Universität Bochum, 4630 Bochum, Federal Republic of Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="27" month="11" year="1981"/>
+            <ce:date-accepted day="12" month="3" year="1982"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Two ways to predict <ce:italic>pVT</ce:italic> behavior of hard-dumbbell mixtures in the fluid region are proposed. These are adaptations of the hard convex body equation devised by Boublik and an extension of the first Barker-Henderson perturbation theory. Calculated compressibility factors show good agreement with the ideal mixing assumption and yield a useful equation of state.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Gray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>A.D.</ce:given-name>
+                                       <ce:surname>Buckingham</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>MTP International Review of Science, Physical Chemistry Series 2</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>Vol. 2</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Butterworths</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ch. 8</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5371</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tildesley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lombardero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.F.</ce:given-name>
+                                 <ce:surname>Abascal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lago</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>999</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Aviram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tildesley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>365</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lombardero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Enciso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1357</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Monson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rigby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>977</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tildesley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Streett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Boublik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4084</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Boublik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Nezbeda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kohler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Marius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Quirke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Perram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hoheisel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Breitenfelder-Manske</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2057</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bellemans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>527</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Freasier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>280</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jolly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Freasier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Bearman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>75</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Mansoori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.F.</ce:given-name>
+                                 <ce:surname>Carnahan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Starling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Leland</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1523</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Grundke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Henderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Nezbeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Boublik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>985</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pavlicek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Nezbeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Boublik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Czech. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1061</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Isihara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1951</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>397</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

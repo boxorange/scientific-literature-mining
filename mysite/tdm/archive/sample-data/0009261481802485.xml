@@ -1,0 +1,1343 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261481802485</prism:url><dc:identifier>doi:10.1016/0009-2614(81)80248-5</dc:identifier><eid>1-s2.0-0009261481802485</eid><prism:doi>10.1016/0009-2614(81)80248-5</prism:doi><pii>0009-2614(81)80248-5</pii><dc:title>Ground-state electronic and magnetic properties of MS2−
+               4 derived trinuclear M-Fe-S complexes (M = Mo, W) </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>81</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>261</prism:startingPage><prism:endingPage>265</prism:endingPage><prism:pageRange>261-265</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1981-07-15</prism:coverDate><prism:coverDisplayDate>15 July 1981</prism:coverDisplayDate><prism:copyright>Copyright © 1981 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Simopoulos, A.</dc:creator><dc:creator>Papaefthymiou, V.</dc:creator><dc:creator>Kostikas, A.</dc:creator><dc:creator>Petrouleas, V.</dc:creator><dc:creator>Coucouvanis, D.</dc:creator><dc:creator>Simhon, E.D.</dc:creator><dc:creator>Stremple, P.</dc:creator><dc:description>
+               Abstract
+               
+                  Three trinuclear complex anions, [(FeCl2)2MS4]2− (M = Mo, W) and [(MoS4)2Fe]3−, were studied by Mössbauer and magnetic measurements. The results imply a high electron affinity of the MS2−
+                     4 group and intramolecular spin coupling. These properties and structural features suggest these molecular groups as possible building blocks of the Fe-Mo co-factor of the nitrogen fixing enzyme nitrogenase.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261481802485" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261481802485" rel="scidir"/></coredata><scopus-id>0002709986</scopus-id><scopus-eid>2-s2.0-0002709986</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0002709986" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011107">2001-11-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011107">2001-11-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:27:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261481802485</xocs:eid>
+      <xocs:pii-formatted>0009-2614(81)80248-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261481802485</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(81)80248-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X03673</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T19:59:25.412751-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19810715</xocs:date-search-begin>
+      <xocs:year-nav>1981</xocs:year-nav>
+      <xocs:indexeddate epoch="1005091200">2001-11-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>81</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>81</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 81, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>261</xocs:first-fp>
+      <xocs:last-lp>265</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>261</xocs:first-page>
+         <xocs:last-page>265</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19810715</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 July 1981</xocs:cover-date-text>
+      <xocs:cover-date-start>1981-07-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1981</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1981 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>GROUNDSTATEELECTRONICMAGNETICPROPERTIESMS24DERIVEDTRINUCLEARMFESCOMPLEXESMMOW</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SIMOPOULOS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ORMEJOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IRONSULFURPROTEINS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CRAMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3814</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>COUCOUVANIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>361</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>COUCOUVANIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1730</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>COUCOUVANIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1732</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>COUCOUVANIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6644</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MCDONALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L79</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>CHRISTOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>WOLFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5454</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ACOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>CHRISTOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>WOLFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4694</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>RAWLINGS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1001</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>EDWARDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2074</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>KOSTIKAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>582</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SIMOPOULOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>452</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>CARROL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>CARROL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHDTHESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>DATTAGUPTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3584</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>WALKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>MCNAB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>240</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOSSBAUERISOMERSHIFTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>MULLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1415</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>COSTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1783</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>SAWATZKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>C6</xocs:ref-first-fp>
+            <xocs:ref-last-lp>47</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>MULLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L33</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SIMOPOULOSX1981X261</xocs:refkey3>
+         <xocs:refkey4lp>SIMOPOULOSX1981X261X265</xocs:refkey4lp>
+         <xocs:refkey4ai>SIMOPOULOSX1981X261XA</xocs:refkey4ai>
+         <xocs:refkey5>SIMOPOULOSX1981X261X265XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(81)80248-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261481802485</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261481802485</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(81)80248-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T19:59:25.412751-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1981-07-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261481802485-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481802485/MAIN/application/pdf/420e22367a58bcafc78f99ccf4c886ec/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481802485/MAIN/application/pdf/420e22367a58bcafc78f99ccf4c886ec/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>483747</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261481802485-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481802485/PREVIEW/image/png/ba1c35b713f5965f47006c4f864035d6/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481802485/PREVIEW/image/png/ba1c35b713f5965f47006c4f864035d6/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62112</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 81, number 2 CHEMICAL PHYSICS LETTERS 15 July 1981    GROUND-STATE ELECTRONIC AND MAGNETIC PROPERTIES  OF MS4--DERIVED TRINUCLEAR M-Fe-S COMPLEXES (M = Mo, W)    A. SIMOPOULOS, V. PAPAEFTHYMIOU, A. KOSTBKAS, V. PETROULEAS    Nuclear Research Center Demokritos, Athens, Greece    and    D. COUCOUVANIS, E.D. SIMHON and P. STREMPLE    Department of Chemistry. University of Iowa, Iowa City, Iowa. USA    Received 24 March 1981; in final form 16 April 1981    Three trinudear complex anions, [(FeCl2)2MS4]2~ (M = Mo, W) and [(MoS4)2Fe]3-, were studied by Mossbauer and  magnetic measurements. The results imply a high electron affinity of the MS^~ group and intramolecular spin coupling  These properties and structural features suggest these molecular groups as possible building blocks of the Fe Mo co-factor  of the nitrogen fixing enzyme nitrogenase.    1. Introduction    In various nitrogen-fixing organisms the catalytic  reduction of nitrogen to ammonia is carried out by  molybdoenzymes generally referred to as nitrogenases  [1]. Recent application of X-ray absorption spectro-  scopy on the molybdenum-containing components of  nitrogenase [2] have revealed the coordination environ-  ment for the molybdenum ions to atomic resolution.  The molybdenum K-edge X-ray absorption fine struc-  ture (EXAFS) analyses of the Fe Mo protein of ni-  trogenase and of the Fe Mo co-factor show three to  four sulfur atoms at 2.35 A and one to two iron atoms  at win A from the molybdenum.    Two possible models proposed to be consistent  with the EXAFS results are shown in figs. la and Ib  [2] - Synthetic studies on Fe Mo S chemistry, guid-  ed by the nitrogenase EXAFS results, not unexpected-  ly, have intensified in the last three years. As a result  several reports have appeared in the literature concern-  ing the synthesis and characterization of Fe Mo S  complexes [3 8].    In our studies we have obtained various Fe Mo S  complexes employing the tetrathiomolybdate anion  as a ligand for iron [3 7] - In this communication we    -Fe    r- ^1  \w^    y Mo    &gt;&lt;x    (o)    Cb)          \ /S ^\ /  -^/^/\    f"      s^ \ s'    (d)    Fig. 1. (a), (b) Proposed models for the Fe Mo co-factor after  the EXAFS results, (c), (d) Trinudear Fe-M-S complexes (I)  and (H).    report on the magnetic properties and Mossbauer spec-  tra of three of these complexes which are depicted in  figs- Ic and Id. Interest in these complexes derives  from their structural and electronic properties. Thus,  the FeS^MoS^Fe core of the [(FeCl^)2MoS4]2- com-  plex [5] could be considered a structural fragment of  the nitrogenase Mo site (fig. Ib) while the magnetic  and-EPR properties of the [(N^4)2 Fe] 3- complex    0 009-2614/81/0000-0000/S 02.50   North-Holland Publishing Company 261    15 July 1981    CHEMICAL PHYSICS LETTERS    Volume 81, number 2    [6,7], indicative of an S = 3/2 ground state, resemble  those of the Fe Mo protein component of nitrogenase  [9] - The magnetic susceptibility and Mossbauer results  reported herein reveal further features of the electronic  structure of these complexes which may prove useful  in comparative studies with appropriate features of the  polynuelear site of the Fe Mo protein-    'oo-    85    1C-I, ~ W_\.. "VMi.kJ.                          mm irfl I    ^^               ^          T-i.-'W'-?^"^-              .sfW^ff    ^    2- Experimental    Mossbauer spectra were obtained in the tempera-  ture range 1.4 300 K. and in an external transverse  magnetic field of 0.9 T. A conventional constant accel-  eration spectrometer was used for the measurements.  The source was 100 mCi ^(^(Rh) at room tempera-  ture.    Magnetic susceptibility measurements were perform-  ed with a vibrating-sample magnetometer at tempera-  tures between 2 and 300 K and in magnetic fields  ranging up to 2 T.    3. Results and discussion    Fig. 2a shows the Mossbauer spectrum of complex I  at 4.2 K in zero applied magnetic field. The W homo-  logue shows similarly a quadrupole doublet with slight-  ly different spectral parameters- Values of the isomer  shift and quadrupole splitting parameters derived from  least-squares fits of these spectra are listed in table 1.  The isomer shift values may be compared with other  results on high-spin ferrous iron in tetrahedral coordi-  nation, ranging from 0.86 mm/s for four chlorine  ligands in FeCl^ [10] to between 0.6 and 0.7 mm/s  for four sulfur ligands [11] - On the basis of these re-  sults the isomer shift of complex I would be expected  to be higher than the observed value. The lower value  observed is consistent with a partial depopulation of  the d orbitals and may be a demonstration of the un-  usual delocalizing properties of the MoS^" ligand. We  shall discuss further this point below in conjunction  with the results for complex II.    The quadrupole splitting is practically constant be-  tween 4.2 and 300 K. for both Mo and W homologues,  indicating that the Eg orbital states of a d6 conf%ura-  tion, lying lowest in tetrahedral coordination, are split  by more than 500 cm~1. This behaviour is a common    oo ^y'-e^s:    -6-A-20   2   4  UELSCITY (rBT/SEC?    Fig. 2. Mossbauer spectra of the Mo complex (I) at 4.2 K. (a)  and at 4-2 K and 0.9 T transverse magnetic field &lt;b). (c) The  spectrum of the W complex (I) at 4.2 K; and 0.9 T.    feature in most of the complexes with a tetrahedral  FeS^unit [Ill-  Application of an external magnetic field of 0-9 T  at 4.2 K has no effect on the spectrum of the Mo com-  plex other than a small line broadening expected for a    Table 1    Isomer shift and quadrupole splitting of (Fe2Cl4(MS4)I2~,    [Fe(MoS4)]3~ and representative high-spin Fe(Il) tetrahedral    complexes        Compound 6 a) (mm s~1) Af-Qb) (nuns l) Ref-  (Fe2d4(MoS4)]2- 0.57 1.98 this work  [Fe2d4(WS4)12- 0.63 2.14 this work  (Fe(MoS4)2l3- 0.42 1.04 this worfc  [Fe(SPh)2MoS4]2" 0.44 1.96 [3]  [Fe(SPh)4]2- 064 3.24 till  IFeCL,]2- 0.86 2.61 [101    a) At 77 K relative to n-iion. b) At 77 K.    262    Volume 81, number 2 CHEMICAL PHYSICS LETTERS 15 July 1981    diamagnetic complex (fig-2b). In contrast, the spec-  trum of the W homologue shows significant magnetic  hyperfine splitting (fig.2c). The diamagnetic behavi-  our of the Mo complex suggests antiferromagnetic cou-  pling between the S=2 iron ions, resulting in an S = 0  ground state. On the other hand, the magnetic split-  ting observed in the W complex indicates that this cou-  pling is weaker than that of the Mo complex.    The antiferromagnetic coupling between the iron  ions is further demonstrated by magnetic susceptibil-  ity measurements- Fig-3 shows the temperature depen-  dence of the effective moment p.^f and inverse molar  magnetic susceptibility for both complexes. Deviations  from a linear paramagnetic Curie behaviour are observ-  ed at low temperatures- The temperature variation of  the magnetic susceptibility was simulated by assuming  that the electronic structure of the complexes in this  temperature range is described by a spin hamiltonian  of the form    ^'=%l +%2- /sl  s'2'  where    (1)    %,- = D (4 - 2) + E(S^ - Sfy)   (i = 1,2)      (2)    is the spin hamiltonian for the zero-field splitting of  the individual Pe2"^ ions. The third term in (1) takes  into account the antiferromagnetic interaction- The  simulation depicted in fig. 3 by the solid lines was cal-  culated with the following sets of parameters: J =  - 11.5 K,D = - 8-5 K and E = 1.7 K for the Mo com-  plex, andJ=-6K,D=-8.5Kand '= 0.9 K for  the W complex. Although these sets of parameters  should be considered as preliminary since there is con-  siderable correlation between the values ofJ and D  they indicate a substantial difference in the exchange  coupling constants between the two homologues. The  structures of the two complexes are very similar, but  closer examination reveals small differences in Fe S  bond lengths and Fe M distances (bridging Fe S  bond lengths 2.295(6) and 2.319(6) A, Fe-M distances  2.775(6) and 2.802(7) A for the Mo and W complex  respectively) which may be correlated with the differ-  ence in antiferromagnetic coupling constants.    c0    fe  m  3.          Fig. 3- Temperature variation of the effective moment ttoff (top) and inverse molar magnetic susceptibility (bottom) for the Mo  (a) and W (b) homologues of the trinuclear complexes [(PeCl2)2MS4l2~. Solid lines are simulated variations including intramolecu-  lar antiferromagnetic coupling (see text).    263    Volume 81, number 2 CHEMICAL PHYSICS LETTERS 15 July 1981    The Mossbauer spectra of [Fe(MoS4)2]3~ (com-  plex II) at 77 and 4.2 K in zero applied magnetic field  are shown in figs. 4a and 4b respectively. In both cases  the spectra consist of asymmetric quadrupole doublets  but, significantly, the asymmetry at 4 2 K is inverted  with regard to the 77 K spectrum. Isomer shift and  quadrupole splitting parameters derived by least-  squares fits with lorentzians of unequal intensity are  tabulated in table 1. At 1.4 K the shape of the spec-  trum is essentially the same as at 4.2 K. Upon applica-  tion of a 0.9 T transverse magnetic field, a broad, un-  resolved magnetic hyperfine pattern appears as shown  in fig.4c. The temperature dependence of the  Mossbauer line shapes described above has been observ-    99-'    S S5f-     o.    Q;        ^  ^ ^-^3^  ^t^wy-?"   "S, r   \ /    f a   \ /\ /    V \ 1  - -^ ^yy. . ^ V   [ ^ k'' A.' r'':b    1 i i [   -  if V {  [ V    -2 0 2    100     a    UJ  0-    99    -6-4-2   024   6  UELBCITY (m^SEC)    Fig. 4. Mossbauer spectra of the [Fe(MoS4):;]3- complex at  77 (a), 4.2 (b) and 4.2 K and 0-9 T transverse magnetic field  (C).    ed previously in spectra of Fe3"1' complexes where the  ground electronic state is split into a system of Kramers  doublets with the |  1/2) doublet lying lowest [12,13].  The reversal in asymmetry and the complex hyperfine  pattern arise from the effect of non-diagonal terms in  the electronic hamiltonian [14] . The magnetic suscep-  tibility measurements follow paramagnetic Curie-type  behaviour above as 10 K with a magnetic moment per  ion fiQ = 4.17  0.03. This value is close to the spin-on-  ly value for an S = 3/2 system. Below 10 K the effec-  tive magnetic moment decreases as a result of depopu-  lation of the | 3/2&gt; doublet. This implies an axial zero-  field splitting parameter D of s5K. As already men-  tioned, the assignment of spin 3/2 to this complex has  also been made on the basis of EPR data [7]. A spin  3/2 ground state may be explained as arising from a  formal Fe(I) valence corresponding to a d7 electronic  configuration. To satisfy the overall charge of the com-  plex the molybdenum should be formally Mo(VI) in  this case. The other possible scheme is a Fe(III) S =  5/2 coupled antiferromagnetically to two Mo(V) S =  1/2. The latter scheme requires considerable charge  delocalization from Fe to the MoS^~ ligands.    Evidence for charge delocalization is provided by  the value of the isomer shift. Although the correlation  of valence state and isomer shift is complicated, it is  firmly established that a decrease in the population of  d-type orbitals results in a decrease in isomer shift [15].  Matrix isolation results for the Fe(I) d7 system give a  value near 2.00 mm s~1 for the isomer shift [16]. A  similar result has been obtained from alkali halides  doped with ^Co [17]. The isomer shift of complex II  is much lower than these values (table 1). A large de-  crease in isomer shift has been observed in iron cya-  nides and has been attributed to transfer of electrons  from d orbitals of iron to low-lying IT* orbitals of the  CN~ ion [18]. Subsequent ab initio calculations have  substantiated this argument to a large extent [19] - In  view of this, the isomer shift results reported here give  additional support to previous arguments [6,20] that  the MS^ (M = Mo, W) anions act as charge delocal-  ising ligands by means of their low-lying vacant metal  d orbitals. To discuss further the validity of this con-  clusion, we have included in table 1 Mossbauer data  for representative compounds of high-spin Fe(II) com-  plexes in tetrahedral coordination. The value 5 = 0.64  mm s~1 for the complex ^(SPl^]2" can be consid-  ered typical of sulfur ligands- This value is reduced to    264    Volume 81, number 2 CHEMICAL PHYSICS LETTERS 15 July 1981    0.44 mm s~1 when one MoS^~ unit replaces two sulfur  ligands [3]. On the other hand, the isomer shift for the  tetrachloroferrate anion FeCl^", where Fe(II) is coor-  dinated to four chlorides, is 0.86 mm s-1 [10]. Thus the  isomer shift values for the Mo and W homologues of  complex I can be explained qualitatively as the result of  the differences in the individual contribution to the  isomer shift of the Cl~ and MoS^~ or WS^~ ligands. Fi-  nally, the electron delocalizing abilities of the MoS^~  ligands are evident in the IS value in this complex.  Coordination of iron to two MoS^~ units leads to a  stable species only in the form [Fe(MoS4)2]3~ which  formally contains Fe(I) but with an isomer shift vdlue  much lower than that expected for a d7 configuration.    Clearly, the complex anions studied in this work  do not satisfy the stoichiometric requirements as  analogs for the active site of the Mo Fe protein of  nitrogenase. Their electronic structure, however, as  revealed by Mossbauer and magnetic susceptibility  measurements, demonstrates two features that may  be important for the active site as well: (a) the effec-  tiveness of MoS^~ as a charge delocalizing ligand, and  (b) the possibility of spin coupling in the Fe Mo S  cluster through antiferromagnetic interactions.    Acknowledgement    This research was supported in part by research  grant No. 1321 from the NATO Scientific Affairs  Division and by a grant (to DC) from the National  Science Foundation (CHE-79-0389).    References    [1] W.H. Onne-Johnson and L.C. Davis, in: Iron sulfur    proteins, VoL 3, ed. W. Lovenberg (Academic Press, New    York, 1977) p. 16.  [2] S.P- Cramer, W.O. Gillum, K.O. Hodgson, L.E. Morten-    son, E.I. Stiefel, J.R. ChisneU, W.J. Brill and V.K. Shah.    J- Am. Chem. Soc- 100 (1978) 3814, and references    therein.  [3] D. Coucouvanis, E.D- Simhon. D. Swenson and N-C.    Baenziger, J- Chem- Soc- Chem. Commun- (1979) 361.    [4] D. Coucouvanis, N.C. Baenziger, E.D. Simhon, P.    Stremple, D. Swenson, A. Kostikas, A. Sunopoulos, V.  Petrouleas and V. Papaefthymiou, J. Arn. Chem. Soc.  102 (1980) 1730-  [5] D. Coucouvanis, N.C. Baenziger. E.D. Simhon, P.    Stremple, D. Swenson, A. Kostikas, A, Simopoulos, V.  Petrouleas and V. Papaefthymiou. J. Am. Chem. Soc.  102 (1980) 1732.  [6] D. Coucouvanis, E.D. Simhon and N,C. Baenziger, J-    Am. Chem. Soc. 102 (1980) 6644.  [7] J-W. McDonald. G.D. Friesen and W.E. Newton, Inorg.    Chim. Acta 46 (1980) L79.    [8] G. Christou, C D. Garner, F.E Mabbs and M.G.B. Drew,  J. Chem. Soc Chem. Commun. (1979) 91;    T E. Wolff, J.M Berg, P P. Power, K.O. Hodgson, R.H.  Holm and R.B. Frankel, J. Am. Chem. Soc. 101 (1979)  5454;    S.R. Acott, G. Christou, C.D. Garner, T J. King, F E.  Mabbs and R.M. Miller, Inorg. Chun. Acta 35 (1979)  L337;    G. Christou, C.D. Garner and R.M. Miller, J. Inorg- Bio-  chem. 11 (1979) 349;    T E. WolfT, P.P. Power, R.B. Frankel and R.H. Holm, J.  Am. Chem. Soc. 102 (1980) 4694, and references therein.  [91 J. RawUngs, V.K Shah, J.R. ChisneU, W.S. Brill, R.  Zimmennann, E. Miinck and W.H. Orme-Johnson, J.  Biol. Chem. 253 (1978) 1001.    [10] P.R. Edwards, C.E. Johnson and R.J.P. Williams. J. Chem.  Phys. 47 (1967) 2074.    [11] A. Kostikas, V. Petrouleas, A. Simopoulos, D. Coucouva-  nis and D.G. Holah, Chem. Phys. Letters 38 (1976) 582.    [12] A. Simopoulos, D. Petridis, A. Kostikas and H.H. Wick-  man, Chem. Phys. 2 (1973) 452-    [13] T.X. Cairol and M. Kaplan, Phys. Letters 41A (1972)  145;    T.X. Carrol, Ph.D. Thesis, Yale University (1972).    [14] S. Dattagupta, Phys. Rev. B12 (1975) 3584.    [15] L.R. Walker, G.K. Wertheim and V. Jaccarino, Phys Rev.  Letters 6 (1961)98.    [16] T.K. McNab, H. Micklitz and P.H. Barret, in: Moss-  bauer isomer shifts, eds. G.K. Shenoy and F.E. Wagner  (North-Holland, Amsterdam, 1978) p. 240.    [17] J.G. MuUen, Phys. Rev. 131 (1963) 1415.    [18] N.L. Costa, J. Danon and R.M. Xavier, J. Phys. Chem.  Solids 23 (1962) 1783.    [19] G.A. Sawatzky and F. van der Woude, J. Phys. (Paris) 35  (1974) C6-47    [20] A. MuUer, R. Jostes, V- Flemming and R. Potthast,  Inorg. Chim. Acta 44 (1980) L33.    265  hand, the isomer shift for the  tetrachloroferrate anion FeCl^", where Fe(II) is coor-  dinated to four chlorides, is 0.86 mm s-1 [10]. Thus the  isomer shift values for the Mo and W homologues of  complex I can be explained qualitatively as the result of  the differences in the individual contribution to the  isomer shift of the Cl~ and MoS^~ or WS^~ ligands. Fi-  nally, the electron delocalizing abilities of the MoS^~  ligands are evident in the IS value in this complex.  Coordination of iron to two MoS^~ units leads to a  stable species only in the form [Fe(MoS4)2]3~ which  formally contains Fe(I) but with an isomer shift vdlue  much lower than that expected for a d7 configuration.    Clearly, the complex anions studied in this work  do not satisfy the stoichiometric requirements as  analogs for the active site of the Mo Fe protein of  nitrogenase. Their electronic structure, however, as  revealed by Mossbauer and magnetic susceptibility  measurements, demonstrates two features that may  be important for the active site as well: (a) the effec-  tiveness of MoS^~ as a charge delocalizing ligand, and  (b) the possibility of spin coupling in the Fe Mo S  cluster through antiferromagnetic interactions.    Acknowledgement    This research was supported in part by research  grant No. 1321 from the NATO Scientific Affairs  Division and by a grant (to DC) from the National  Science Foundation (CHE-79-0389).    References    [1] W.H. Onne-Johnson and L.C. Davis, in: Iron sulfur    proteins, VoL 3, ed. W. Lovenberg (Academic Press, New    York, 1977) p. 16.  [2] S.P- Cramer, W.O. Gillum, K.O. Hodgson, L.E. Morten-    son, E.I. Stiefel, J.R. ChisneU, W.J. Brill and V.K. Shah.    J- Am. Chem. Soc- 100 (1978) 3814, and references    therein.  [3] D. Coucouvanis, E.D- Simhon. D. Swenson and N-C.    Baenziger, J- Chem- Soc- Chem. Commun- (1979) 361.    [4] D. Coucouvanis, N.C. Baenziger, E.D. Simhon, P.    Stremple, D. Swenson, A. Kostikas, A. Sunopoulos, V.  Petrouleas and V. Papaefthymiou, J. Arn. Chem. Soc.  102 (1980) 1730-  [5] D. Coucouvanis, N.C. Baenziger. E.D. Simhon, P.    Stremple, D. Swenson, A. Kostikas, A, Simopoulos, V.  Petrouleas and V. Papaefthymiou. J. Am. Chem. Soc.  102 (1980) 1732.  [6] D. Coucouvanis, E.D. Simhon and N,C. Baenziger, J-    Am. Chem. Soc. 102 (1980) 6644.  [7] J-W. McDonald. G.D. Friesen and W.E. Newton, Inorg.    Chim. Acta 46 (1980) L79.    [8] G. Christou, C D. Garner, F.E Mabbs and M.G.B. Drew,  J. Chem. Soc Chem. Commun. (1979) 91;    T E. Wolff, J.M Berg, P P. Power, K.O. Hodgson, R.H.  Holm and R.B. Frankel, J. Am. Chem. Soc. 101 (1979)  5454;    S.R. Acott, G. Christou, C.D. Garner, T J. King, F E.  Mabbs and R.M. Miller, Inorg. Chun. Acta 35 (1979)  L337;    G. Christou, C.D. Garner and R.M. Miller, J. Inorg- Bio-  chem. 11 (1979) 349;    T E. WolfT, P.P. Power, R.B. Frankel and R.H. Holm, J.  Am. Chem. Soc. 102 (1980) 4694, and references therein.  [91 J. RawUngs, V.K Shah, J.R. ChisneU, W.S. Brill, R.  Zimmennann, E. Miinck and W.H. Orme-Johnson, J.  Biol. Chem. 253 (1978) 1001.    [10] P.R. Edwards, C.E. Johnson and R.J.P. Williams. J. Chem.  Phys. 47 (1967) 2074.    [11] A. Kostikas, V. Petrouleas, A. Simopoulos, D. Coucouva-  nis and D.G. Holah, Chem. Phys. Letters 38 (1976) 582.    [12] A. Simopoulos, D. Petridis, A. Kostikas and H.H. Wick-  man, Chem. Phys. 2 (1973) 452-    [13] T.X. Cairol and M. Kaplan, Phys. Letters 41A (1972)  145;    T.X. Carrol, Ph.D. Thesis, Yale University (1972).    [14] S. Dattagupta, Phys. Rev. B12 (1975) 3584.    [15] L.R. Walker, G.K. Wertheim and V. Jaccarino, Phys Rev.  Letters 6 (1961)98.    [16] T.K. McNab, H. Micklitz and P.H. Barret, in: Moss-  bauer isomer shifts, eds. G.K. Shenoy and F.E. Wagner  (North-Holland, Amsterdam, 1978) p. 240.    [17] J.G. MuUen, Phys. Rev. 131 (1963) 1415.    [18] N.L. Costa, J. Danon and R.M. Xavier, J. Phys</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>81802485</aid>
+            <ce:pii>0009-2614(81)80248-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(81)80248-5</ce:doi>
+            <ce:copyright type="unknown" year="1981"/>
+         </item-info>
+         <head>
+            <ce:title>Ground-state electronic and magnetic properties of MS<ce:sup loc="post">2−</ce:sup>
+               <ce:inf loc="post">4</ce:inf> derived trinuclear M-Fe-S complexes (M = Mo, W)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Simopoulos</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>V.</ce:given-name>
+                  <ce:surname>Papaefthymiou</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Kostikas</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>V.</ce:given-name>
+                  <ce:surname>Petrouleas</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Nuclear Research Center Demokritos, Athens, Greece</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Coucouvanis</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.D.</ce:given-name>
+                  <ce:surname>Simhon</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Stremple</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, University of Iowa, Iowa City, Iowa, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="24" month="3" year="1981"/>
+            <ce:date-revised day="16" month="4" year="1981"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Three trinuclear complex anions, [(FeCl<ce:inf loc="post">2</ce:inf>)<ce:inf loc="post">2</ce:inf>MS<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">2−</ce:sup> (M = Mo, W) and [(MoS<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>Fe]<ce:sup loc="post">3−</ce:sup>, were studied by Mössbauer and magnetic measurements. The results imply a high electron affinity of the MS<ce:sup loc="post">2−</ce:sup>
+                     <ce:inf loc="post">4</ce:inf> group and intramolecular spin coupling. These properties and structural features suggest these molecular groups as possible building blocks of the Fe-Mo co-factor of the nitrogen fixing enzyme nitrogenase.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Orme-Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>W.</ce:given-name>
+                                    <ce:surname>Lovenberg</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Iron-sulfur proteins</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>3</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Cramer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.O.</ce:given-name>
+                                 <ce:surname>Gillum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.E.</ce:given-name>
+                                 <ce:surname>Mortenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Stiefel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Chisnell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Brill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3814</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coucouvanis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Simhon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Swenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Baenziger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>361</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coucouvanis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Baenziger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Simhon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Stremple</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Swenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kostikas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Simopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Petrouleas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Papaefthymiou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1730</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coucouvanis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Baenziger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Simhon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Stremple</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Swenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kostikas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Simopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Petrouleas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Papaefthymiou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1732</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coucouvanis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Simhon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Baenziger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6644</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Friesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Newton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L79</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Christou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Garner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.E.</ce:given-name>
+                                 <ce:surname>Mabbs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.B.</ce:given-name>
+                                 <ce:surname>Drew</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Wolff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Berg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Power</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Holm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Frankel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5454</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Acott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Christou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Garner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.E.</ce:given-name>
+                                 <ce:surname>Mabbs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>d</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Christou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Garner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Inorg. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>e</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Wolff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Power</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Frankel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Holm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4694</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rawlings</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Chisnell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Brill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zimmermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Münck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Orme-Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biol. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1001</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Edwards</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.P.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2074</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kostikas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Petrouleas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Simopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coucouvanis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Holah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>582</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Simopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Petridis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kostikas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Wickman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>452</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.X.</ce:given-name>
+                                 <ce:surname>Carrol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kaplan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.X.</ce:given-name>
+                                 <ce:surname>Carrol</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Ph.D. Thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Yale University</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Dattagupta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3584</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Wertheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Jaccarino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>McNab</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Micklitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Barret</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>G.K.</ce:given-name>
+                                    <ce:surname>Shenoy</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>F.E.</ce:given-name>
+                                    <ce:surname>Wagner</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Mössbauer isomer shifts</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>240</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Mullen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1415</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.L.</ce:given-name>
+                                 <ce:surname>Costa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Danon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Xavier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1783</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Sawatzky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>van der Woude</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>C6</sb:first-page>
+                              <sb:last-page>47</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jostes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Flemming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Potthast</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L33</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

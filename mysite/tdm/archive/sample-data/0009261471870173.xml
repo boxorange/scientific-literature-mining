@@ -1,0 +1,516 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261471870173</prism:url><dc:identifier>doi:10.1016/0009-2614(71)87017-3</dc:identifier><eid>1-s2.0-0009261471870173</eid><prism:doi>10.1016/0009-2614(71)87017-3</prism:doi><pii>0009-2614(71)87017-3</pii><dc:title>A further test of pair-potential theory in sodium vapor </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>11</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>623</prism:startingPage><prism:endingPage>625</prism:endingPage><prism:pageRange>623-625</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1971-11-15</prism:coverDate><prism:coverDisplayDate>15 November 1971</prism:coverDisplayDate><prism:copyright>Copyright © 1971 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Nelson, R.A.</dc:creator><dc:creator>Leribaux, H.R.</dc:creator><dc:description>
+               Abstract
+               
+                  A simple test of pair-potential theory is made for the alkali metal fluids by evaluation of the third virial coefficient of sodium vapor as a function of temperature based on the actual pair potential of sodium. Some corrective measures are proposed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261471870173" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261471870173" rel="scidir"/></coredata><scopus-id>49649151566</scopus-id><scopus-eid>2-s2.0-49649151566</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49649151566" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011221">2001-12-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011221">2001-12-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T00:56:05</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261471870173</xocs:eid>
+      <xocs:pii-formatted>0009-2614(71)87017-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261471870173</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(71)87017-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X0437X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151008">2015-10-08T06:24:53.180365-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19711115</xocs:date-search-begin>
+      <xocs:year-nav>1971</xocs:year-nav>
+      <xocs:indexeddate epoch="1008892800">2001-12-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>11</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>11</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 11, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>17</xocs:sort-order>
+      <xocs:first-fp>623</xocs:first-fp>
+      <xocs:last-lp>625</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>623</xocs:first-page>
+         <xocs:last-page>625</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19711115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 1971</xocs:cover-date-text>
+      <xocs:cover-date-start>1971-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1971</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1971 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>AFURTHERTESTPAIRPOTENTIALTHEORYINSODIUMVAPOR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NELSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>EGELSTAFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONLIQUIDSTATE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MARCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYCONDENSEDMATTER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>HARRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PSEUDOPOTENTIALSINTHEORYMETALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>LOMBARDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1150</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BOBETIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4169</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>LERIBAUX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>112</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6"/>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BIRD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1950</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1395</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ASCARELLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>385</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NELSONX1971X623</xocs:refkey3>
+         <xocs:refkey4lp>NELSONX1971X623X625</xocs:refkey4lp>
+         <xocs:refkey4ai>NELSONX1971X623XR</xocs:refkey4ai>
+         <xocs:refkey5>NELSONX1971X623X625XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(71)87017-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261471870173</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261471870173</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(71)87017-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-08T06:24:53.180365-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1971-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261471870173-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261471870173/MAIN/application/pdf/b9fddd76d0a197d3f00295c3d59705b7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261471870173/MAIN/application/pdf/b9fddd76d0a197d3f00295c3d59705b7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>265639</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261471870173-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261471870173/PREVIEW/image/png/3ebf9bfb5e8ccc64696e36f9f4b40144/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261471870173/PREVIEW/image/png/3ebf9bfb5e8ccc64696e36f9f4b40144/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73509</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 11, number S  CHEMICAL PHYSICS LETTERS  IS Nov~rnber 1971  A FURTHER TEST OF PAIR-POTENTIAL THEORY IN SODIUM VAPOR*  R.A. NELSON** and H.R. LERIBAUX  Texas A &amp; M Uairer~fty, C o1leg~ Station, Texas 77843, Us/i  Received 14 September 1971   A simpie test of pair-potential theory is made for the alkali metal fluids by evaluation of the third vinai coeffi-  cient of sodium vapor as a function of temperature based on the actual pair potential of sodium. Some corrective  measures axe aroposed.   The additivity of the pairwise intermolecular forces  has been the working assumption in most theories of  the liquid and gaseous states [1]. This assumption has  worked well for the non-conducting fluids and has  been extended to the conducting fluids with the con-  cept of an effective interaction taking into account  the electron gas [2] Recently, there has been a re-  newed interest in three-body forces in the solid phase  [3]: these contribute small corrections to the elastic  constants and lattice dynamics results in the case of  the inert-gas atoms, but contribute significantly to the  elastic constants of the alkali halide crystala.   We want to report here on a simple, but clear-cut  case of failure of the pair-potential hypothesis in de-  tailed calculations of the third vinai coefficient of so-  dium vapor. This, in our mind, places a serious doubt  on whether simple pair-potential theories will work in  the case of the liquid alkali metals. It probably ex-  plains the fact that March et al. s potentials [4] did  not represent true interaction potentials as stated by  Harrison [2, p. 318, 319j, because they were based on  the Born Green theory or the Percus Yevick theory  and thus on the sole existence of a pair potential. This  has, potentially, serious consequences about the possi-  bility 6f using the traditional pair-potential theories  of the liquid state to predict the pair distribution  function, structure factor and the equation of state of  the alkali metals.  * Research supported in part by the Research Council of  Texas A &amp; M University.  ~ NDEA Title 1V Graduate Fellow.  9n[%v(2kF)] 2 cos(2kFr)  u(r) = ___________ ________    (2k1:r)3   The pair potential for sodium vapor is the one de-  termined by one of us [5] by analysis cf the experi-  mental results [6] for the second virial coefficient for  sodium:    (1)    where kF = 0.5764(A) 1, tv(2kF) 0.055154 rvd  and EF = h2 k~/(21n~). This potential is a inodifica-  tion (with respect to the values of the parameters) of  Harrison s effective interaction between sodium atoms  iii the solid phase, valid for large r values. This poten-  tial gave excellent results in fitting (within 2%) the ex-  perimental second vinai coefficient of sodium [51.   Now, since the third vinaI coefficient depends on  3-body collisions, it should constitute a convenient  check on whether the pair potential above can be  used to predict the more complex properties than the  effect of 2-body collisions as in the second vinaI coe~-  ficient. The classical statisticii expression for the third  vinaI coefficient for pairwise orces is well known. We  start from the expression derived by Bird et al. [71 for  their calculations on Lennard-iones potentials:    C~(T) = (8j3)i~2~2      X (3f dr1 f dr2r1f~r1)r~(r2)f(r1+r,J.-E1(0)l3}.      where 1(r) f r f(r )dr , and the Mayer function  f(r) = exp { u(r)/kT} i.  623  T(K)  C~(fl(cm6fm  oie2      1300   2.4178 X  iO~      1400   7.3152 X  IO~       1500   2.6110 X  10~      1700   0.48343 X  10~      1900   0.12836 X  l0~      15 November 1911  Volume 11,number S  CHEMICAL PI~YS1CS LETThRS  After some algebra, one obtains a simpler form:    C~(8/3)1r2~2      X {~f drI(r) f dr1rjf~r1Xr i)1(r~ni)   ( ( )12L        This integral is, of course, hopeless to obtain analyti-  cally as ~ function of T. Thus, we turned to a corn-  puter evaluation based on the use of multidimensional  Simpson s rule. Due to the oscillatory nature of the  potential u~r). small integration increments of 0.02 A  were chosen with a total range from 0.0001 to 8.65 A.  The accuracy of the final results is estimated to be  better than 0.1%. The integral J(r~ was computed sep-  arately in order to save computer time and its func-  tional dependence was calculated by an interpolation  program. The number of inregtation points was of the  order of j X 105 for each calculation of c~. The fInal  results for are tabulated in table I as a function  of temperature. These theoretical resuitsare corn-  pared in fIg. l to the experimental results of Stone et  al. [61. The experimental results are plotted  tem  Stone s interpolation expression, which reads (in c.g.s.  nails)  C(T) 3897.3 X ~~0.6137 + 60217fr - (4~     With respect to fig. I   we note the complete discre-  pancy between our theoretical results for the third vi-  ria! coefficient of sodium based on pair-potential the-  ory (negative values) and Stone s experimental results  (positive values). The fa Uowthg possibilities of expla-  nation corne to mind:  (I) pair potentials are not sufficient La explain three-  body (and higher) collisions in the alkali metals;  higher forces have to be introduced; due to the   more complex nature of the conducting fluids and    Table I  The pair potential contribution to the third vinaI  efficien~  of sodium vapor  o            E            u   _________ T ( X)    floe        1/   -  r1   Fig. 1. A c~nppciso~ of the third. vinai coefficient of soch-  urn accord Lig to Stone s experimental results (full curve) and  the results of our pair-potential theory (dashed curve).      due to the reia~ively strong tendency for the alkali  atoms to form dimers f 6}   this is very ~)ausible;  The question is which many-body forces to in-  clude as a correction, We have now tried using the  Axilrod Teiler 3-body potential (with experimen-  tal values for the polanizability) and this co tni-  butes a positive~term to C(O, of the approximate  prder of magnitude expected;  (2) the pair potential hasto be coa~dered to be strong-  1yvolume~dependent and a straight vinai expansion  is not possible. This has been suggested by various  authors, including recently Ascarelli and Harrison  [8]. This has however not been shown conclusive-  ly from comparison with experimental results. The  expenimen~a1 e\~idence of Stone et al. [61 points  instead to the  ~aIidity of a vinai expansion and of  our effective 2-body potential:   in conclusion, we have shown by theoretical calcu-  lat ions of the third vinai coefficient of sodium vapor  that a simple potential theory will not explain the re-  suits of higher order c llisions in the equation of state  of sodium vapor. We emphasize that this conclusion is  obtained from exact results of dassical statistical  mechanics, and Pot by the approximate Born Green  or Percus Yevick theories for the pair distribUtion  function. As such, our test is thus more stringent than  a Born Green test of pair potential theory which was  criticized by Harrison [21, for being based on the   4superposiVan  apprOximation which is exact only at  624  Volume 11, number 5  CHEMICAL PHYSICS LEI1ERS  15November [971  low densities. We should be careful also to point out  that our test pertains only to sodiuth vapor and not to  liquid sodium. However, we feel wc should start from  exact theories for the vinai equation of s~ate and then  only progress to the more complex, but approximote  theories, such as the Born Green theory, to investi-    gate the high-density liquid.      Re eren ces    [1] P.A. Egeistaff, An introduction to the liquid state (Am-  demie Press, New York. 1967);  N.H. March, in: Theory cf condensed matter, Lectures  presented at the International Centre for Theoretiml  Physics in Trieste (International Atomic Energy Agency,  Vienna, 1968).  [2] W.A. Harrison, Pseudopotentists in the theory of metals  (Benjamin, New York, 1966).  131 E. Lombardi, L. Jansen and R. Ritter, Phys. Rev. 185  (1969) 1150;    M.V. Dobetic and J.A. Barkers Phys. Rev. R~ (197O~  4169.  [4] M.D. Johnson, P. Hutchinson and N.ti. March. E roc &amp;oy  Soc. A282 (1964) 283.  [5] I1.R. Lenibaux, Chem. Phys. Letters 7 (19701 1 [2.  [61 J.?. Stone et al., High temperature properties oItodiutn  (U.S. Naval Research Lab. Report NRL-6241   \Vathin~-  ton, D.C., 1963).  [71 R.B. Bird, E.L. Spotz and J.O. Hirsctife~cr. J. LJ1Cm.  Phys. 18(1950) 1395.  181 P. Ascnneili and R.1. Harrison, Phys. Rev. Letters ~7.    (1969) 385.                                                                                    625  erature. These theoretical resuitsare corn-  pared in fIg. l to the experimental results of Stone et  al. [61. The experimental results are plotted  tem  Stone s interpolation expression, which reads (in c.g.s.  nails)  C(T) 3897.3 X ~~0.6137 + 60217fr - (4~     With respect to fig. I   we note the complete discre-  pancy between our theoretical results for the third vi-  ria! coefficient of sodium based on pair-potential the-  ory (negative values) and Stone s experimental results  (positive values). The fa Uowthg possibilities of expla-  nation corne to mind:  (I) pair potentials are not sufficient La explain three-  body (and higher) collisions in the alkali metals;  higher forces have to be introduced; due to the   more complex nature of the conducting fluids and    Table I  The pair potential contribution to the third vinaI  efficien~  of sodium vapor  o            E            u   _________ T ( X)    floe        1/   -  r1   Fig. 1. A c~nppciso~ of the third. vinai coefficient of soch-  urn accord Lig to Stone s experimental results (full curve) and  the results of our pair-potential theory (dashed curve).      due to the reia~ively strong tendency for the alkali  atoms to form dimers f 6}   this is very ~)ausible;  The question is which many-body forces to in-  clude as a correction, We have now tried using the  Axilrod Teiler 3-body potential (with experimen-  tal values for the polanizability) and this co tni-  butes a positive~term to C(O, of the approximate  prder of magnitude expected;  (2) the pair potential hasto be coa~dered to be strong-  1yvolume~dependent and a straight vinai expansion  is not possible. This has been suggested by various  authors, including recently Ascarelli and Harrison  [8]. This has however not been shown conclusive-  ly from comparison with experimental results. The  expenimen~a1 e\~idence of Stone et al. [61 points  instead to the  ~aIidity of a vinai expansion and of  our effective 2-body potential:   in conclusion, we have shown by theoretical calcu-  lat ions of the third vinai coefficient of sodium vapor  that a simple potential theory will not explain the re-  suits of higher order c llisions in the equation of state  of sodium vapor. We emphasize that this conclusion is  obtained from exact results of dassical statistical  mechanics, and Pot by the approximate Born Green  or Percus Yevick theories for the pair distribUtion  function. As such, our test is thus more stringent than  a Born Green test of pair potential theory which was  criticized by Harrison [21, for being based on the   4superposiVan  apprOximation which is exact only at  624  Volume 11, number 5  CHEMICAL PHYSICS LEI1ERS  15November [971  low densities. We should be careful also to point out  that our test pertains only to sodiuth vapor and not to  liquid sodium. However, we feel wc should start from  exact theories for the vinai equation of s~ate and then  only progress to the more complex, but approximote  theories, such as the Born Green theory, to investi-    gate the high-density liquid.      Re eren ces    [1] P.A. Egeistaff, An introduction to the liquid state (Am-  demie Press, New York. 1967);  N.H. March, in: Theory cf condensed matter, Lectures  presented at the International Centre for Theoretiml  Physics in Trieste (International Atomic Energy Agency,  Vienna, 1968).  [2] W.A. Harrison, Pseudopotentists in the theory of metals  (Benjamin, New York, 1966).  131 E. Lombardi, L. Jansen and R. Ritter, Phys. Rev. 185  (1969) 1150;    M.V. Dobetic and J.A. Barkers Phys. Rev. R~ (197O~  4169.  [4] M.D. Johnson, P. Hutchinson and N.ti. March. E roc &amp;oy  Soc. A282 (1964) 283.  [5] I1.R. Lenibaux, Chem. Phys. Letters 7 (19701 1 [2. </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>71870173</aid>
+            <ce:pii>0009-2614(71)87017-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(71)87017-3</ce:doi>
+            <ce:copyright type="unknown" year="1971"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Research supported in part by the Research Council of Texas A &amp; M University.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>A further test of pair-potential theory in sodium vapor</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.A.</ce:given-name>
+                  <ce:surname>Nelson</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.R.</ce:given-name>
+                  <ce:surname>Leribaux</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Texas A &amp; M University, College Station, Texas 77843, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>NDEA Title IV Graduate Fellow.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="14" month="9" year="1971"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A simple test of pair-potential theory is made for the alkali metal fluids by evaluation of the third virial coefficient of sodium vapor as a function of temperature based on the actual pair potential of sodium. Some corrective measures are proposed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>An introduction to the liquid state</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1967</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>March</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of condensed matter</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1968</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Atomic Energy Agency</sb:name>
+                                 <sb:location>Vienna</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Lectures presented at the International Centre for Theoretical Physics in Trieste</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Pseudopotentials in the theory of metals</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1966</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Benjamin</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Lombardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ritter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1150</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Bobetic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4169</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>March</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A282</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Leribaux</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>112</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.P. Stone et al., High temperature properties of sodium (U.S. Naval Research Lab. Report NRL-6241, Washington, D.C., 1965)</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Bird</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.L.</ce:given-name>
+                                 <ce:surname>Spotz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Hirschfelder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1950</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1395</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ascarelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>385</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

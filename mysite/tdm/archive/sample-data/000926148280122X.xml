@@ -1,0 +1,872 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148280122X</prism:url><dc:identifier>doi:10.1016/0009-2614(82)80122-X</dc:identifier><eid>1-s2.0-000926148280122X</eid><prism:doi>10.1016/0009-2614(82)80122-X</prism:doi><pii>0009-2614(82)80122-X</pii><dc:title>Vibrational energy relaxation of liquid deuterium chloride </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>91</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>130</prism:startingPage><prism:endingPage>134</prism:endingPage><prism:pageRange>130-134</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1982-09-03</prism:coverDate><prism:coverDisplayDate>3 September 1982</prism:coverDisplayDate><prism:copyright>Copyright © 1982 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Chesnoy, J.</dc:creator><dc:creator>Ricard, D.</dc:creator><dc:description>
+               Abstract
+               
+                  The vibrational lifetime of DCI molecules has been measured in the liquid phase along the liquid—vapor coexistence curve. The results show that rotation plays an important role in vibrational relaxation of hydrogen halide liquids. They also substantiate the interpretation in terms of the role of vibrational predissociation of dimers.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148280122X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148280122X" rel="scidir"/></coredata><scopus-id>25944466362</scopus-id><scopus-eid>2-s2.0-25944466362</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/25944466362" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011217">2001-12-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011217">2001-12-17</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T08:31:32</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148280122X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(82)80122-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148280122X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(82)80122-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05416</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T22:07:24.233723-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19820903</xocs:date-search-begin>
+      <xocs:year-nav>1982</xocs:year-nav>
+      <xocs:indexeddate epoch="1008547200">2001-12-17T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>91</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>91</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 91, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>130</xocs:first-fp>
+      <xocs:last-lp>134</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>130</xocs:first-page>
+         <xocs:last-page>134</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19820903</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>3 September 1982</xocs:cover-date-text>
+      <xocs:cover-date-start>1982-09-03</xocs:cover-date-start>
+      <xocs:cover-date-year>1982</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1982 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>VIBRATIONALENERGYRELAXATIONLIQUIDDEUTERIUMCHLORIDE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHESNOY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DEMARTINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>PROTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CALLAWAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2842</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BRUECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>568</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>339</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>347</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4072</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BRATOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARMOTIONSINLIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>KHATIBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ZITTEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6636</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>ZITTEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2922</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-pub-year>1928</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>INTERNATIONALCRITICALTABLES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>CHILD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>307</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>MADIGOSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>489</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4804</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>BUCKINGHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>VIBRATIONALSPECTROSCOPYMOLECULARLIQUIDSSOLIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>STOGRYN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1531</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>SCHRAMM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>847</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHESNOYX1982X130</xocs:refkey3>
+         <xocs:refkey4lp>CHESNOYX1982X130X134</xocs:refkey4lp>
+         <xocs:refkey4ai>CHESNOYX1982X130XJ</xocs:refkey4ai>
+         <xocs:refkey5>CHESNOYX1982X130X134XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(82)80122-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148280122X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148280122X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(82)80122-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T22:07:24.233723-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1982-09-03</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148280122X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148280122X/MAIN/application/pdf/f0712c86c0f90ec324201c1506862487/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148280122X/MAIN/application/pdf/f0712c86c0f90ec324201c1506862487/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>388631</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148280122X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148280122X/PREVIEW/image/png/86f1f8646bd668302685abd6c3f566ca/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148280122X/PREVIEW/image/png/86f1f8646bd668302685abd6c3f566ca/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60756</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>3 September 1982    Volume 91, ninnbL'r 2 CHEMICAL PHYSICS LCTTCRS    VIBRATIONAL ENERGY RELAXATION OF LIQUID DEUTERIUM CHLORIDE    J.CHESNOYandD RICARD  Lahoratoirc d'Optiqiic Qimntiqtic dii C A/ R S , Ecole Polytecimiqiie, 91128 Palaiseau Cedex, France    Rci.civcil9.1unc 1982    Tlie vibr.ition.il litclinie or DCI molecules lias been measured in the liquid pliasc .ilong the liquid-vapor coc\islcnce curve.  1 lit. rcsulti sliutt Ilut roution pLusan important role in vibrationat rela\ation of hydrogen halidc liquids. They also sub-  -ilJntiJlc llie inti-rpreliHion in term!, of the role of vibrJtional prcdissociation of duncrs.    1 Introduction    The study ofvibMiional energy rela.\ation in the  liquid pliasc is a subject or great importance. Since the  development of the Rainan technique by de Martini  and Queuing [ 11, llns method, whose key idea is to  use spontaneous anti-Stokes Raman scattering to probe  tlie population of the excited vibrational level, has al-  ready been used to measure vibrational lifetimes of  small molecules in dense phases [2,3] concurrently  will the iJser-induced fluorescence technique [4,5].    In a previous paper [6], we reported our measure-  ments of the lifetime of the first e\cited vibrational  level of hydrogen clilonde in the liquid pliase and in  llic dense fluid above the critical temperature. This  work lias now been c\tendcd to a study of deuterium  clilonde. In (lie present paper, we rcpcrt on this new  measurement performed along the liquid-vapor co-  existence curve and slightly above the critical point.    Our main motivation in e\tendmg our measurements  to DCI was to study (lie role of rotation m vibrational  rela\aiion in the liquid phase. Rotation is known to  play an important role in the case of low-density gas-  phase HC1 and DCI [7]. These two molecules have  identical intermolecular potentials, similar total masses  and tlierniodynamic data (liquid densities, association  equilibrium constant,...). On the other hand, they have  different vibrational and rotational constants. In the  hquid phase, when tlie temperature is lowered, rotation  becomes more and more hindered [8]. Because of the  difference in their rotational constants, more rotational    levels of the free molecule DCI lie below the potential  barrier than for the molecule HC1. Unfortunately, the  vibrational lifetime of DCI has not been measured as a  function of temperature (for low temperatures) in the  low-density gas phase. It has only been measured at  room temperature.    It is also interesting to compare the role of vibrational  predissociation ofdimers for these two molecules-  hydrogen and deuterium chloride.    2. Experimental    The technique we use and the apparatus have been  described [6]. We sum up the main features and de-  scribe the small modifications needed in the case of  DCI. The technique being of the excite-and-probe type,  we need two light pukes - the First one populating the  excited vibrational level and the second probing its  population - with a variable time delay between each  other. The two light pulses are derived from a single  laser pulse delivered by a mode-locked Nd : YAG laser,  pulse selector and amplifier system operating at a 2.5  Hz repetition rate. Excitation is achieved via pair ab-  sorption [9], the adequate infrared wavelength being  generated by single-pass parametric amplification in  three lithium niobate crystals. The probe pulse is gen-  erated in a frequency-doubling crystal. The anti-Stokes  photons are collected by a large collection solid angle  asphencal lens and Filtered by a large rejection filter  stack.    130 0 009-2614/82/0000-OOOO/S 02.75   1982 North-Holland    Volume 91, number 2 CHEMICAL PHYSICS LETTERS 3 September 1982    The spontaneous anti-Stokes signal being weaker  than in the case of HC1, the focusing of the two slightly  non-collinear beams has been improved down to a focal  spot of 0.4 mm in diameter for the excitation beam and  0.1 mm for the probe beam. The measured lifetimes  being longer, the delay line was lengthened to 2.8 m.  The sample preparation is the same as in the case of  HC1. After several distillations, DC1 is contained in a  sealed glass bulb. Commerical deuterium chloride was  purchased from Merck, Sharp and Dohme. The whole  experiment is controlled by an Apple II microcomputer.    3. Results    The measured vibrational lifetime of liquid DCI is  shown in Fig. 1 as a function of temperature along the  liquid vapor coexistence curve with one data point  (A) slightly above the critical temperature. The lifetime  of the v = I level increases from  3.5 ns at the triple  point to "8.5 ns near the critical temperature.    There are two sources of fluctuations and uncer-  tainty in these results. The First one is the photon and  photomultiplier noise due to the weak anti-Stokes sig-  nal. Compared to HC1, this noise is considerably increa-  sed because of the larger reduced mass and smaller  vibrational constant which reduce both the absorption    T,(n.)          Fig. 1. The dots represent the vibrational lifetime T\ of deu-  terium chloride in the liquid phase as a function of tempera-  ture T. The measurements have been performed along the  liquid-vapor coexistence curve, except foi point A (TA =  325 K, p A = 0.79 X 10" cm"3). The solid line gives the HC1  lifetime multiplied by the constant factor 4 25.    and the Raman cross sections. The second source of ui  certainty comes from the spontaneous anti-Stokes seal  tering from the thermally excited molecules in the  sample. This is due to the relatively small vibrational  energy quantum of DC1. At room temperature, the frai  tional population of the u= 1 levels 0.4 X lO^.'niis  is not much smaller than the excitation rate used in thi  experiment. And the situation gets worse near (he  critical temperature where fractional thermal popula-  tion and excitation rate arc about the same. This back-  ground is subtracted from the measured signal, but its  fluctuations give rise to noise in the true signal.    The points in fig. 1 represent the average over sever;    measurements carried out on two different samples.  Each measurement is performed on 16 different delay  times with  s400 shots for each delay tune, the excita-  tion beam being blocked every second shot We estima  the uncertainty in the Final results given in fig. 1 to be   sl0% all along the curve except when approaching the  critical point where it may reach 20%.    There is some possibility of a systematic error comn  from the long delay line used in these measurements  It could give rise to a change m the overlapping of the  excitation and probe beams. To avoid this possible  error, we used a probe beam having a much smaller  diameter than the excitation beam (at the sample) and  we also used corner cubes instead of mirrors in the  delay line.    The anti-Stokes signal being too weak, we were not  able to study the dependence of the relaxation tune or  the density above the critical temperature. Only one  sample with a density close to the critical one has been  studied slightly above the critical temperature.    4. Discussion    The first thing we notice when we look at the result  is the fact that the curves lifetime T') versus tempera-  ture T along the liquid vapor coexistence curve are  almost the same for HC1 and DC1 within a constant  factor. In other words, they would be almost parallel o  a log scale (see fig. 1).    The second thing we notice is that the ratio of the  measured lifetime at room temperature to the lifetime  one would extrapolate linearly from the gas-phase data  is the same for HC1 and DC1. More precisely, the produ  of the relaxation constant fc^c measured at room tem-    131    Volume 9 l.nuinbi-r 2 CHEMICAL PHYSICS LETTERS 3 September 1982    peraiure for HC1 gas [10] or DC1 gas [11] by the life-  time 7i measured previously [6] in the case of HC1 and  in the present work in (lie case of DC1 give the same  result. At room temperature    VlWr^bc^DCl^XlO-^cni3.    We recall that such a comparison can only be performed  at room temperature. Notice that the product k^T\  has dimensions of tlie inverse of a number density; this  effective density (3 3 X 1022 cm"3) is larger than the  density of the liquid at the same temperature [12]  (1 3 X 1022 cm"3). Tilis is usual behaviour for a liquid,  where the relaxation time is shorter than tlie value ob-  tained from a linear extrapolation of the low-density  gas-pliase data. Such a fact is due to the interplay of  several physical effects" vibrationai predissociation of  dimers, attractive part of tlie intermolecular potential  and excluded volume. We discuss tins in more detail  below.    4 I. Ttie role of rotation in vibrationai relaxation    As already stated in the introduction, it is known  that rotation plays an important role in vibrationai en-  ergy rela\ation ofliydrogen lialide molecules in the  low-density gas phase although it is probably not the  only energy-accepting mode [7]. It is important to  known whether or not rotation has the same impor-  tant role in the liquid pliase. On the temperature range  of the present experiment, tlie density varies by a  factor %2. This leads to a large variation of the hinder-  ing potential. If tins hindering potential affected vibra-  tionai relaxation, this effect would be more pronounced  in tlie case of DC1 wliere more rotational levels of the  free molecule are hidden m this potential.    In fact, the c\perunent shows that the ratio of the  DC1 lifetime to the HC1 one is abnost constant over the  whole temperature range under study. If we assume  that the same is true for the ratio of the DC1 relaxation  constant to tlie HC1 one, which seems likely since the  reduced collisional masses are close to each other, we  conclude that the role of rotation is not drastically dif-  ferent in tlie liquid pliase. Experimental knowledge of  (lie temperature dependence of the relaxation constant  of low-density gas-pliase DC1 would of course be of  prime importance.    The theoretical treatments of vibrationai energy  relaxation in the gas and in the liquid start usually from    different approaches: binary collisions in the gas, and  a bath of low-frequency degrees of freedom in the liquid  (see ref. [13] for a review), which are difficult to re-  concile. Our experiment confirms that, even when ro-  tation is an important accepting mode, a gas-like treat-  ment of the liquid avoiding the impossible a priori cal-  culation must be adequate. Perhaps the wavefunction  for rotation is not so different in the gas and in the  liquid at the close distance of approach where relaxation  takes place. This confirms the large applicability of cell  models such as the Madigosky and Litovitz one (14]  or more sophisticated models such as the Delalande and  Gale model (IS) starting from the hypothesis that the  different translation states of gas and liquid do not change  the deexcitation probability per collision but only the  collision frequency.    One may however wonder: is there a cell effect for  rotation equivalent to that appearing for translation and  due to the finite volume (and non-spherical shape) of  tlie molecule?    4.2. Hard core and diniers    We briefly recall the assumptions used in the inter-  pretation of the liquid HC1 results [6] and then look  for the implications of the present results obtained on  liquid DC1.    We used the Gale and Delalande model which assumes  an isotropic intermolecular potential consisting of a  hard core of diameter o and an attractive part of depth  e. The lifetime T^ in the liquid can then be obtained  from the high-density gas-phase value of the relaxation  constant fcg^ at the same temperature.    7f'= (l/pl \^(o)gasfe(o)llq,    where p is the number density.    The pair distribution function^ gives a good way of  taking into account at the same time the role of the  attractive forces (predominant in the gas) and the ex-  cluded volume effect (predominant in the liquid).    For HC1 and DC1, the thennodynamic quantities  ^(o)1"1,^)635 and P1"! are identical, if we assume subtle  effects to be small [16]. So the product (fcgasT'}"1) is  expected to be the same for HC1 and DC1. The validity  of this conclusion is not really dependent on the validity  of the model. Other binary-collision theories such as  a cell model [14] would have led to the same conclu-  sion.    132    Volume 91, number 2 CHEMICAL PHYSICS LETTERS 3 Seplcnilur 1982    What appeared to be an important feature in our in-  terpretation of the HC1 results is that tlie high-density  gas rate constant Agas is larger than the low-density con-  stant fr^c"    ^s^-bc^WA).    where k(/k^ is the equilibrium constant of the dimcn/a-    tion reaction    ^"r  M+M+M^ MM+M,    *d  where M is a molecule and r is the lifetime of an excited    dimer (due to vibrational predissociation)  Iv^M'^M+M.    M* stands for a vibrationally excited molecule.  In the binary-collision approximation    ^ ^c.    where P is the probability ofdeexcitation per collision,  u is the mean relative velocity and Q(; is the colhsion  cross section. In the same approximation T is given by    llr=Pv,    where r is the dimer vibrational frcqunecy. So,    \lrk^=vlw^    is the same for HC1 and DC1 smce both v and u vary as  the inverse square root of the reduced mass Here again,  the conclusion is more general than the model used to  derive it.    If we define a parameter C as    k = Ck    " gas   ^bc'    then C should be the same for HC1 and DC1. This and  the fact that ky^T\ is the same for the two molecules  imply that k^T\ should be the same for HC1 and DC1.  This is precisely what we observe at room temperature.    It would be interesting to measure C close to the  critical temperature T^ as was done in the case of HC1.  Let us assume that the value offc^c near TC ls tne same  as the room-temperature value (this is known to be true  for HC1). From the measurement performed slightly  above T^ in the case of DC1, we get the value A  w  1.5 X 10-14 cm3 s-'. This would lead, near 7'g to the  value C as 2.15 for DC1. In the case of HC1, we had C    2.6. The DC1 C constant would then be smaller than  the HC1 one although one may argue that they agree  within the uncertainty. Notice that to obtain the fcg^    value for DC1 we assume that I/T'| is proportional to  the density. Such a linear dependence has been chccke  for HC1 but could not be tested for DC1 If the vibra-  tional mode of the dimer wlncli is relevant in the prc-  dissociation process is a bending mode instead of the  stretching mode, then we expect (lie DC1 C constant  to be smaller than the HC1 one since, contrary to tlie  total mass of tlie molecule which is only slightly cliang  the moment of inertia is doubled One must however  wait for a more accurate measurement before drawing  any final conclusion.    5. Conclusion    Tlie results of our measurements on liquid dcutenui  chloride first tend to show that rotation plays the sann  important role in the liquid pliase, although rotation is  known to be hindered in tlicse liquids. These results  also support our interpretation in terms of binary-col-  lision models, taking into account tlie role of vibration  predissociation ofdimers.    If our interpretation is valid, sucli a measurement ol  the vibrational lifetime allows a determination of (lie  excited dimer dissociation time constant r Tlie qiuntii  (2/T)A-i-/A(i can be deduced from our measurements  whereas the equilibrium constant fcf/A'd is related to  the second virial coefficient B [ 171    k^=^-B,    where VQ is an excluded volume, which is four times  the molecular volume at sufficiently high temperature.  B has been measured [18] and kf/k^ can then be es-  timated to be %:3 X 10~22 cni3, not far from the pureh  theoretical calculation given in our previous article [6|  This leads to T values =  15 ns for HC1 and ==60 ns for  DC1.    Similar measurements have been performed on liqui  hydrogen bromide. They will be reported separately.    Acknowledgement    We are grateful to Drs. C. Flytzams, G.M. Gale and  C. Delalande for helpful discussions.    133    CHEMICAL PHYSICS LETTERS    'olumc 91, number 2    leferences    111 r. dc Martini and J. Duelling, Phys Rev Letters 17 (1966)    117.    12] R. Proiz JDd M. Maier, Chem. Phys. Letlcrs 64 (1979) 27.  |3| W.r.CaIlaway andG.E. Ewing.J Chem. Phys.63 (1975)    2842.  [4| S.RJ. Brucck and RM.Ossood, Chem. Phys Letters 39    (1976)568.  151 C Dclalande and G.M. Gale, Chem. Phys. Letters 50 (1977)    339.    |6| J.Chcsnoy and D.Ricard, Chem Phys 67(1982)347.  11} U.L. Chcn and C B. Moore, J Chem. Phys. 54 (1971)    4072.  (8| S. Bralos, Y Guiss.im and J.C. Leicknam, in Molecular    motions in liquids, cd. J. Lascombc (Rcidcl, Dordrecht,    1974).  [91 P. Khatibi, Thesis, University of Paris (1969),    J. Chcsnoy, D. Ricard and C. Flytzarus, Chem. Phys 42    (1979)337.    3 September 1982    1101 P.F. Zittel and C B. Moore, I. Chem. Phys. 59 (1973)    6636.  1111 P.F. Zittel and C.B. Moore, J. Chem. Phys. 58 (1973)    2922.  [ 121 International Critical Tables, Vol. 3 (McGraw-Hill, New    York, 1928).  (13) MS. Child, Faraday Discussions Chem. Soc. 62 (1976)    307.  [14] W.M. Madigosky and T.A. Litovitz, J. Chem. Phys. 34    (1961)489.  [151 C.DelalandcandG.M Gale, J. Chem. Phys. 71 (1979)    4804.    (161 A.D. Buckingham, in: Vibralional spectroscopy of mo-  lecular liquids and solids, eds. S. Bratos and R.M. Pick    (Plenum Press, New York, 1980).  (171 D.E. Stogryn and J 0. Hirschfelder, J. Chem. Phys. 31    (1959)1531.  (18] B. Schroinm and U. Leuchs, Ber. Bunsenges. Physik    Chem. 83 (1979) 847.    134   imply that k^T\ should be the same for HC1 and DC1.  This is precisely what we observe at room temperature.    It would be interesting to measure C close to the  critical temperature T^ as was done in the case of HC1.  Let us assume that the value offc^c near TC ls tne same  as the room-temperature value (this is known to be true  for HC1). From the measurement performed slightly  above T^ in the case of DC1, we get the value A  w  1.5 X 10-14 cm3 s-'. This would lead, near 7'g to the  value C as 2.15 for DC1. In the case of HC1, we had C    2.6. The DC1 C constant would then be smaller than  the HC1 one although one may argue that they agree  within the uncertainty. Notice that to obtain the fcg^    value for DC1 we assume that I/T'| is proportional to  the density. Such a linear dependence has been chccke  for HC1 but could not be tested for DC1 If the vibra-  tional mode of the dimer wlncli is relevant in the prc-  dissociation process is a bending mode instead of the  stretching mode, then we expect (lie DC1 C constant  to be smaller than the HC1 one since, contrary to tlie  total mass of tlie molecule which is only slightly cliang  the moment of inertia is doubled One must however  wait for a more accurate measurement before drawing  any final conclusion.    5. Conclusion    Tlie results of our measurements on liquid dcutenui  chloride first tend to show that rotation plays the sann  important role in the liquid pliase, although rotation is  known to be hindered in tlicse liquids. These results  also support our interpretation in terms of binary-col-  lision models, taking into account tlie role of vibration  predissociation ofdimers.    If our interpretation is valid, sucli a measurement ol  the vibrational lifetime allows a determination of (lie  excited dimer dissociation time constant r Tlie qiuntii  (2/T)A-i-/A(i can be deduced from our measurements  whereas the equilibrium constant fcf/A'd is related to  the second virial coefficient B [ 171    k^=^-B,    where VQ is an excluded volume, which is four times  the molecular volume at sufficiently high temperature.  B has been measured [18] and kf/k^ can then be es-  timated to be %:3 X 10~22 cni3, not far from the pureh  theoretical calculation given in our previous article [6|  This leads to T values =  15 ns for HC1 and ==60 ns for  DC1.    Similar measurements have been performed on liqui  hydrogen bromide. They will be reported separately.    Acknowledgement    We are grateful to Drs. C. Flytzams, G.M. Gale and  C. Delalande for helpful discussions.    133    CHEMICAL PHYSICS LETTERS    'olumc 91, number 2    leferences    111 r. dc Martini and J. Duelling, Phys Rev Letters 17 (1966)    117.    12] R. Proiz JD</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8280122X</aid>
+            <ce:pii>0009-2614(82)80122-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(82)80122-X</ce:doi>
+            <ce:copyright type="unknown" year="1982"/>
+         </item-info>
+         <head>
+            <ce:title>Vibrational energy relaxation of liquid deuterium chloride</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Chesnoy</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Ricard</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire d'Optique Quantique du C.N.R.S., Ecole Polytechnique, 91128 Palaisseu Cedex, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="9" month="6" year="1982"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The vibrational lifetime of DCI molecules has been measured in the liquid phase along the liquid—vapor coexistence curve. The results show that rotation plays an important role in vibrational relaxation of hydrogen halide liquids. They also substantiate the interpretation in terms of the role of vibrational predissociation of dimers.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>de Martini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ducuing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Protz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Callaway</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Ewing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2842</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.J.</ce:given-name>
+                                 <ce:surname>Brueck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Osgood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>568</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>339</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ricard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>347</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4072</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bratos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Guissani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Leicknam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>J.</ce:given-name>
+                                       <ce:surname>Lascombe</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular motions in liquids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Reidel</sb:name>
+                                 <sb:location>Dordrecht</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Khatibi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1969</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of Paris</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ricard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Flytzanis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Zittel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6636</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Zittel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2922</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>International Critical Tables</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>3</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1928</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Child</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>307</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Madigosky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Litovitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>489</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4804</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Buckingham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>S.</ce:given-name>
+                                       <ce:surname>Bratos</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>R.M.</ce:given-name>
+                                       <ce:surname>Pick</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Vibrational spectroscopy of molecular liquids and solids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Stogryn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Hirschfelder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1531</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Schramm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Leuchs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ber. Bunsenges. Physik. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>847</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

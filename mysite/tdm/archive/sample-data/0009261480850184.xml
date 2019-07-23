@@ -1,0 +1,463 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261480850184</prism:url><dc:identifier>doi:10.1016/0009-2614(80)85018-4</dc:identifier><eid>1-s2.0-0009261480850184</eid><prism:doi>10.1016/0009-2614(80)85018-4</prism:doi><pii>0009-2614(80)85018-4</pii><dc:title>Short-time dynamics of atomic pairs in dense fluids </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>74</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>75</prism:startingPage><prism:endingPage>79</prism:endingPage><prism:pageRange>75-79</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1980-08-15</prism:coverDate><prism:coverDisplayDate>15 August 1980</prism:coverDisplayDate><prism:copyright>Copyright © 1980 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Balucani, U.</dc:creator><dc:creator>Vallauri, R.</dc:creator><dc:description>
+               Abstract
+               
+                  The relative motion of atomic pairs in dense fluids is investigated in the short-time regime bolh theoretically and by computer experiments. It is discussed how previous descriptions of the time-dependent distribution functions must be modified in order to account for the dynamical effects of the interactions.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261480850184" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261480850184" rel="scidir"/></coredata><scopus-id>84913342644</scopus-id><scopus-eid>2-s2.0-84913342644</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84913342644" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011127">2001-11-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011127">2001-11-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-25T02:20:45</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261480850184</xocs:eid>
+      <xocs:pii-formatted>0009-2614(80)85018-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261480850184</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(80)85018-4</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07026</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150926">2015-09-26T05:10:29.569836-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19800815</xocs:date-search-begin>
+      <xocs:year-nav>1980</xocs:year-nav>
+      <xocs:indexeddate epoch="1006819200">2001-11-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>74</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>74</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 74, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>75</xocs:first-fp>
+      <xocs:last-lp>79</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>75</xocs:first-page>
+         <xocs:last-page>79</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19800815</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 August 1980</xocs:cover-date-text>
+      <xocs:cover-date-start>1980-08-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1980</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1980 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SHORTTIMEDYNAMICSATOMICPAIRSINDENSEFLUIDS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BALUCANI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>U</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSINTERNATIONALSCHOOLPHYSICSENRICOFUMICOURSELXXV</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>FEHDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4921</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BALUCANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>70</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>HAAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2516</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>OPPENHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>845</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BALUCANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>223</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>DEUTCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3547</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MILLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>618</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BALUCANIX1980X75</xocs:refkey3>
+         <xocs:refkey4lp>BALUCANIX1980X75X79</xocs:refkey4lp>
+         <xocs:refkey4ai>BALUCANIX1980X75XU</xocs:refkey4ai>
+         <xocs:refkey5>BALUCANIX1980X75X79XU</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(80)85018-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261480850184</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261480850184</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(80)85018-4</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-26T05:10:29.569836-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1980-08-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261480850184-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480850184/MAIN/application/pdf/2d1fdc30f603b73f5c0373ca8dd2da1d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480850184/MAIN/application/pdf/2d1fdc30f603b73f5c0373ca8dd2da1d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>349732</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261480850184-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480850184/PREVIEW/image/png/6752758fd375857ca2fbd8f2d6fb8122/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480850184/PREVIEW/image/png/6752758fd375857ca2fbd8f2d6fb8122/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65274</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 74, number I 15 August 1980    CHEMICAL PHYSICS LETTERS    SHORT-TIME DYNAMICS OF ATOMIC PAIRS IN DENSE FLUIDS    U. BALUCANI and R. VALLAURI  Istituto di Elettronica Quantistica del C N R., Florence. Italy    Received 18 April 1980, in final form 22 May 1980    The relative motion of atomic pairs in dense fluids is investigated in the short-tune regime bolh theoretically and by  computer experiments. It is discussed how previous descriptions of the time-dependent distribution functions must be  modified in order to account for the dynamical effects of the intcractions-    I. Introduction    The relative motion of atomic pairs in simple  fluids can be described by a tune-dependent distribu-  tion function G-,(R,R', t) which is proportional to  the joint probability thai two particles are separated  by R' at tune t if their separation was R at time t = 0.  This function is the simplest of a class of time-depen-  dent distribution functions important in interaction-  induced phenomena [1] and has recently been in-  vestigated by means of computer simulation experi-  ments [2—4]. It has also been demonstrated that a  modified version of the "constant acceleration ap-  proximation" (CAA) firstly introduced by Bloom  and Oppenheun [5] describes exactly the short-time  behaviour at least at low densities [6]. On the other  hand, at long tunes the diffusional character of the  motion allows one to infer a suitable model for  G^(R,R'. t) which seems to account for most of the  features discussed in ref. [3]. At liquid densities  Haan [4] has successfully compared his molecular-  dynamics (MD) results with a time-dependent dis-  tribution obtained by a numerical integration of a  Smoluchowski equation and modeled in such a way  that the initial spread is taken into account.    Here we present new MD data which emphasize  the short-time regime ofG^ and provide the defini-  tive test for a correct description of the initial start  in the CAA framework at all densities. In particular,  it is found that the physical quantities under exami-  nation are affected by the interactions not only    through the effects implied by the static pair distribu-  tion function. Moreover, the analytical expression  for G-, derived in the following is consistent with the  short-time extension of the Smoluchowski equation  introduced in ref. [4].    2. Short-time properties ofG^(R,R'. t)    Let us briefly discuss how the CAA result obtain-  ed for G^(R,R', t) in ref. [6] can be extended at  high densities. In this case the force between the par-  ticles 1 and 2 does not only depend on the bare po-  tential ss0"i-&gt;), but also on the positions of all other  /V — 2 particles so that the derivation o(G^ is no  longer straightforward. One can resort to a cumulant  expansion of the statistical average which involves  these degrees of freedom and the main many-body  effects are taken into account provided that f^r^^  is replaced by the potential of mean force U(r^f).  Indeed in this framework the force between partictes  1 and 2 is written    &lt;V .^-V^))^    FI '•  •'    »2     ' 11—z.  =(^-V^Wi,)=2V^(/(^).    where V^') is the total potential energy and &lt; &gt;„/_:&gt;  indicates a statistical average overr^ ...r^y. The finite-  density generalization ofeq. (6) of ref. [6] turns out    to be    (0    75    Volume 74, number 1    CHEMICAL PHYSICS LETTERS    15 August 1980    G^(R,R; t) =ps(/?)(fti/27r/2)3/2    X exp {-(^ll^R'-R + (2/u)V^ (/(/?) f2]2}.    (2)    where ^(/?) = exp[—{S!f(R)] is the pair distribution  function and p. is the reduced mass Eq- (2) has the  following properties    G^R.R'.t=0}=pg(R)8(R -R'),             (3)  G^R,R'.t=0)    =-(l/^)py^-V^.lg(/?)5(R -/t')L         (4)    which reproduce the correct results for the short-time  dynamics of any interaction-induced phenomena (in-  tegrated intensity and second frequency moment).    The form (2) ofG^ supports tlie prescription given  by Haan [4] in order to e\tend the Sinoluchowski  equation at sliort tunes The time-dependent distribu-  tion function introduced by Haan can be written in  our notation as    g-^R.R'. t) = [l/pg(R)}C^R,R'. t) (5)    the general details of the simulations we refer to ref.  [3] where most data regarded the behaviour at inter-  mediate and long times Two thennodynamic points  of a Lennard-Jones fluid were studied, namely p* =  0 53, T* = 2.21 and p* = 0.73, T" = 0.97. In both  cases three different ranges(flQ,6o) of initial pairs  separations/? were considered, i.e. 0.9 ^R/a &lt; 1.4,  1.4 ^ Rio &lt; 1.9 and 1.9 s£ Rfa &lt; 2.4. These ranges  are approximately centered about the main peak, the          Performing the time derivative with respect to the  effective parameter T = 2/12/rt3, it turns out that the  extended Smoluchowski equation yields    G^R,R', t = 0) = (l/;u(3){V2. G^R,R', t = 0)    V^ • [G^(R,R'. t = 0)V^.(PLf(R'))}}.       (6)    Inserting eq (3) in the r li s. tlie exact result (4) is  reproduced.    The physical implications of the result (2) are  clear: in the case of tlie relative motion, even at short  tunes one cannot neglect tile dynamical effects of  the interactions between the particles of the pair  This neglect would correspond to approximating the  pair dynamics as a convolution of the "self-contribu-  tions of the two particles As we shall show later, to  treat the pair propagation JS if tlie two particles were  uncorrelated can lead to serious errors in the evalua-  tion of some typical quantities of the relative mo-  tion as well as of the nine correlation functions  probed in tlie interaLiion-induced phenomena.    The time-dependent features of tlie relative mo-  tion of atomic pairs in dense fluids can be convenient-  ly investigated by means of molecular dynamics ex-  periments [2—4] Here i,ve shall report ne--. MD re-  sults mainly concerning tlie short-time regime; for    .\    ••&lt;    -•'/'    \-.    \ "•  \    . i  '••\    t6    Fig 1. The time-dependent radial distribution function  g^radW . 0 at p* = 0 53 and T* = 1 21 as J function of  R /a Jt three different times (full line, [ = 0, dashed line,  t = 0 OS ps, dotted line t = 01 ps) The initial separations  of llii- pairs lie in the range (a) 0 9o 'S R &lt; 1 4o, (b) 1 4o  &lt; R &lt; 1 9a. and (c) 1 9o &lt;£ R &lt; 2 4o-    fy"    76    Volume 74, number 1 15 August 1980    CHEMICAL PHYSICS LETTERS    First minimum and the second maximum ofg(R), re-  spectively.    Both the angular and the radial spread have been  studied as functions of lime. The short-time regime  (roughly t sS 0.2 ps) has been divided in steps of 0.02  ps. Fig. 1 shows typical results obtained for the time-  dependent radial distribution    r    s-i,^''t) = &lt;I/47^ / 27T sm Q dff    X f dR^-irR'^G^R^^cosff.t)             (7)    be straightforwardly evaluated by means of expression  (2) and definition (7). After some algebra one finds    ( &amp;o    W)\ = [4W"(ff(,.M / d^aW  '°o    + [b^by) - a^ay)] t1^.                (9)    The first term in braces leads to &lt;(/2')~&gt;yso. The short-  tune dynamics is described by the second term which  depends on the range (aQ,bo). Were the dynamical ef-  fects of the interactions not considered in eq. (2),  the result would be    for the three different ranges (ay, by). In eq- (7) B is  the angle between R and R'. Using property (3) it is  easy to see that g-, rgd^'' f = 0) =g(R') within the  interval QQ &lt;S R' &lt; by and zero elsewhere    The role of the interactions is apparent from the  analysis of the time evolution of g^ ^ in the three  different intervals. In the first one (fig la) the par-  ticles are more strongly bound and consequently  81 rad relaxes less rapidly; initially the atoms are cho-  sen to be in the first well of U(R) which is the deepest,  so that the average number of those going out of this  first portion is less than those escaping from the sec-  ond one In the latter case (fig. Ib) the initial pairs  are in unstable equilibrium, mainly at the edges of  the interval they feel a stronger "outward" force  which determines the faster relaxation ofg^^. In  the last interval (fig. Ic) the particles again lie in a  potential well which is however very weak at p* =  0 53, r* = 2 21 the influence of the forces is nearly  negligible and the relaxation effects are slightly slower.    3. Physical quantities connected with the relative  motion    The simplest physical quantity depending on the  dynamics of the radial distribution is the mean-square  separation of the pairs at tune t given by    00    &lt;(R')\ = [47,p/n(ao,bo)] f dR'(R')^ ^(R'. t),    (8)  where n(flo,6o) is the number of pairs having separa-  tion in the range (ffg,6o)- At short times eq. (8) can    W)2^ = [4TTp/n(aQ, by)] f dR R^R) + 312/^.    (10)  Of course, both expressions yield the same result at  large initial separations, i e. in those ranges where the  static pair distribution function is nearly unity. The  different dynamic behaviour ofeqs. (9) and (10)  could be ascnbed to an effective variation of the re-  duced mass, the effect is the short-time counterpart  of the variation of the relative diffusion coefficient  discussed by Deutch and Oppenheim (7j for two  interacting browman particles and observed by Fehder  et al. [2] in their computer simulation for hard  disks. Indeed our MD data for (.(R')^ in (he lowest  range appear to be in slightly better agreement with  eq. (9) than with eq. (10), even if the differences in  mis particular case are not spectacular.    The dynamical effects of the interactions are much  more remarkable in the evolution of the quantities  &lt;(/?')~"&gt;^. In this case the short-time behaviour ob-  tained by eq.(2)is    &lt;(RT"\ = &lt;(^T"&gt;,=o + [4irp/"(aQ,6o)I    x [(i/^-1)^)-^"1)^)]^2^- &lt;11)    In the first range where g(flo) ^ 0 eq. (11) predicts  adec'~ease of'((R')~"\ whereas in the other intervals,  in which g^ay) and g(bo) are not very different, eq.  (11) predicts an initial increase of^^?')"")^. This be-  haviour is to be contrasted with the result obtained  neglecting the dynamical effects of the interactions,    Le.    77    Volume 74, number 1 CHEMICAL PHYSICS LETTERS 15 August 1980    &lt;(/?')-"&gt;, = W^o + [47rp/«(flo.&amp;o)]    bo  y.j'dRR~ng(R)^l(ll - Dt2/^,          (12)    10    which leads to an initial increase of &lt;(/?')-"&gt;,. in fl//  intervals (flQ.&amp;o). The result is consistent with the be-  haviour predicted by eq. (11) in the ranges of large  mit'-al separations, as e\pected. The values O!((R')~^)[  predicted by eqs. (11) and (12) are compared with  the MD results at liquid density in Fig 2, which clear-  ly shows the relevance of the current introduction of  the interactions Eventually at long times W)"3)/  vanishes whatever the range from which the pairs are  initially chosen a typical example is shown in fig. 3  where we report the values of obtained by a MD run  dt p* =0.53 and T* = 2.5.    The neglect of the interactions in the pair dynamics  leads to    G^R.R'.t=0)    =-(l/JU|3)p^(/?)V^-V^ [8(R -R')},        (13)          psec    Fig 2 Short-time behaviour ol'^/?')"3^ (in o units) at p*  = 0-73. T* = 0 97 for wo ranees of initial separations' (a)  0 9 •S Rfa &lt; 1 4, and (b) 1.9 'S Rta &lt; 2.4 FuU lines, results  including interactions [cq (11)] .dashed lines: results ne-  glecting interactions [eq (12)]. The differences m case (b)  arc not appreciable on the scale of the diagram Tlic open  circles are the corresponding MD data    *  09(7. 12o  v   1 2o 1 So  15o.180  o   18o 21o    06    02    3          A    pscc    rig 3 MD data for the time dependence of &lt;(R }~3&gt;^ (in o  units) at p* = 0-53 and T* =25 for four different ranges  of initial separations    i.e. to a violation of the exact property (4). As a con-  sequence the short-tune behaviour of any correlation  function depending on pair dynamics is uncorrectly  predicted by eq. (13) The unsatisfactory results ob-  tained by assuming a free-particle propagation have  been discussed by Miller el al [8] in the particular  case of collision-induced absorption in inert-gas mix-  tures    4. Conclusion    In this communication it has been shown that the  short-time evolution of atomic pairs at high densities  can be satisfactorily accounted provided that the  time-dependent distribution function includes the  dynamical effects of the interactions. As one expects,  the latter effects are crucial for all properties in which  small separations are emphasized. A consistent theo-  ry of the time-dependent distribution function out-  side the short-time regime clearly requires further in-  vestigations. In this sense a physical model like that  introduced by Haan [4] starting from a diffusive-  hke Smoluchowski equation can be helpful as it in-  corporates in an "ad hoc" way the correct dynamics  at short times. Again, whenever large separations have  a predominant weight, simple models based on un-    78    Volume 74, number 1    CHEMICAL PHYSICS LETTERS    15 August 1980    correlated particle propagation are found to yield  reasonable results [3] even in the long-time regime.    References    Acknowledgement    One of us (RV) wishes to thank Professor K. Singer  for stimulating discussions and kind hospitality at  Royal Holloway College of the University of London  where most of the computer simulation was carried  out The financial support of the S.R.C is also ac-  knowledged.    [1] J. van Kranendonk, cd.. Proceedings of the International    School of Physics Enrico Fumi, Course LXXV (North-  Holland, Amsterdam, 1980).  [2] P L. Fehder, C.A. Emcis and R.P. Futrelle, J. Chem-    Phys. 54 (1971)4921.    [3] U-Balucani and R. Vallaun, Physica I02A(1980)70-  [4] S.W Haan, Phys. Rev. 20 (1979) 2516.  [5] I Oppenheun and M. Bloom, Can. J. Phys- 39 (1961)    845.  [6] U. Balucani and R. Vallaun, Phys. Letters 76A (1980)    223.  [7] J M. Deutch anJ I. Oppenheim, 1. Chem. Phys- 54 (1971)    3547.  [8] M S. Miller, D.A McQuarrie, G. Birnbaum and J.D. Pall,    J. Chem. Phys 57(1972)618.    79  t very different, eq.  (11) predicts an initial increase of^^?')"")^. This be-  haviour is to be contrasted with the result obtained  neglecting the dynamical effects of the interactions,    Le.    77    Volume 74, number 1 CHEMICAL PHYSICS LETTERS 15 August 1980    &lt;(/?')-"&gt;, = W^o + [47rp/«(flo.&amp;o)]    bo  y.j'dRR~ng(R)^l(ll - Dt2/^,          (12)    10    which leads to an initial increase of &lt;(/?')-"&gt;,. in fl//  intervals (flQ.&amp;o). The result is consistent with the be-  haviour predicted by eq. (11) in the ranges of large  mit'-al separations, as e\pected. The values O!((R')~^)[  predicted by eqs. (11) and (12) are compared with  the MD results at liquid density in Fig 2, which clear-  ly shows the relevance of the current introduction of  the interactions Eventually at long times W)"3)/  vanishes whatever the range from which the pairs are  initially chosen a typical example is shown in fig. 3  where we report the values of obtained by a MD run  dt p* =0.53 and T* = 2.5.    The neglect of the interactions in the pair dynamics  leads to    G^R.R'.t=0)    =-(l/JU|3)p^(/?)V^-V^ [8(R -R')},        (13)          psec    Fig 2 Short-time behaviour ol'^/?')"3^ (in o units) at p*  = 0-73. T* = 0 97 for wo ranees of initial separations' (a)  0 9 •S Rfa &lt; 1 4, and (b) 1.9 'S Rta &lt; 2.4 FuU lines, results  including interactions [cq (11)] .dashed lines: results ne-  glecting interactions [eq (12)]. The differences m case (b)  arc not appreciable on the scale of the diagram Tlic open  circles are the corresponding MD data    *  09(7. 12o  v   1 2o 1 So  15o.180  o   18o 21o    06    02    3          A    pscc    rig 3 MD data for the time dependence of &lt;(R }~3&gt;^ (in o  units) at p* = 0-53 and T* =25 for four different ranges  of initial separations    i.e. to a violation of the exact property (4). As a con-  sequence the short-tune behaviour of any correlation  function depending on pair dynamics is uncorrectly  predicted by eq. (13) The unsatisfactory results ob-  tained by assuming a free-particle propagation have  been discussed by Miller el al [8] in the particular  case of collision-induced absorption in inert-gas mix-  tures    4. Conclusion    In this communication it has been shown that the  short-time evolution of atomic pairs at high densities  can be satisfactorily accounted provided that the  time-dependent distribution function includes the  dynamical effects of the interactions. As one expe</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>80850184</aid>
+            <ce:pii>0009-2614(80)85018-4</ce:pii>
+            <ce:doi>10.1016/0009-2614(80)85018-4</ce:doi>
+            <ce:copyright type="unknown" year="1980"/>
+         </item-info>
+         <head>
+            <ce:title>Short-time dynamics of atomic pairs in dense fluids</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>U.</ce:given-name>
+                  <ce:surname>Balucani</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Vallauri</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Istituto di Elettronica Quantistica del C.N.R., Florence, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="18" month="4" year="1980"/>
+            <ce:date-accepted day="22" month="5" year="1980"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The relative motion of atomic pairs in dense fluids is investigated in the short-time regime bolh theoretically and by computer experiments. It is discussed how previous descriptions of the time-dependent distribution functions must be modified in order to account for the dynamical effects of the interactions.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>van Kranendonk</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Proceedings of the International School of Physics Enrico Fumi, Course LXXV</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NorthHolland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Fehder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Emcis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Futrelle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4921</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Balucani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vallauri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>70</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Haan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2516</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Oppenheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bloom</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>845</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Balucani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vallauri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>223</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Deutch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Oppenheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3547</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>McQuarrie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Poll</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>618</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

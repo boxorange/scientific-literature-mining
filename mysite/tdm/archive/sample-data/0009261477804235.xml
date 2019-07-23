@@ -1,0 +1,781 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261477804235</prism:url><dc:identifier>doi:10.1016/0009-2614(77)80423-5</dc:identifier><eid>1-s2.0-0009261477804235</eid><prism:doi>10.1016/0009-2614(77)80423-5</prism:doi><pii>0009-2614(77)80423-5</pii><dc:title>Diffusion of an impurity in the hard sphere fluid </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>51</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>370</prism:startingPage><prism:endingPage>374</prism:endingPage><prism:pageRange>370-374</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1977-10-15</prism:coverDate><prism:coverDisplayDate>15 October 1977</prism:coverDisplayDate><prism:copyright>Copyright © 1977 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Keyes, T.</dc:creator><dc:description>
+               Abstract
+               
+                  The self-diffusion coefficient (D) of a hard sphere of variable size and mass, moving in a solvent of hard spheres of fixed size and mass, is calculated in a version of the ring approximation (RA). It is found that (a) the ring contribution to D vanishes for particles smaller or less massive than the solvent, (b) D reaches a finite limit, which varies with solvent density, as the tagged particle is made infinitely massive at fixed radius, and (c) D becomes infinite, and then negative, as the tagged particle radius is increased. The size and mass dependence of D in the RA is used as the basis of a criticism of the RA itself. It is argued that the repeated ring approximation is needed to provide a good theory for large, massive particles, and also, that “back-scattering” must be added to the RRA for pure fluids at high density.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261477804235" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261477804235" rel="scidir"/></coredata><scopus-id>49449127952</scopus-id><scopus-eid>2-s2.0-49449127952</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49449127952" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-03T20:23:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261477804235</xocs:eid>
+      <xocs:pii-formatted>0009-2614(77)80423-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261477804235</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(77)80423-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07191</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151005">2015-10-05T05:23:01.791433-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19771015</xocs:date-search-begin>
+      <xocs:year-nav>1977</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>51</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>51</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 51, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>41</xocs:sort-order>
+      <xocs:first-fp>370</xocs:first-fp>
+      <xocs:last-lp>374</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>370</xocs:first-page>
+         <xocs:last-page>374</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19771015</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 October 1977</xocs:cover-date-text>
+      <xocs:cover-date-start>1977-10-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1977</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1977 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>DIFFUSIONIMPURITYINHARDSPHEREFLUID</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KEYES</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3813</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2A">
+            <xocs:ref-normalized-surname>FURTADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>869</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2B">
+            <xocs:ref-normalized-surname>RESIBOIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>393</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2C">
+            <xocs:ref-normalized-surname>LIEBERWORTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3A">
+            <xocs:ref-normalized-surname>MAZENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3B">
+            <xocs:ref-normalized-surname>MAZENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>222</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>DORFMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>292</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KAWASAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1763</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LEBOWITZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>774</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8A">
+            <xocs:ref-normalized-surname>HERMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>987</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8B">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1415</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>EHRENFEST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>54</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CONCEPTUALFOUNDATIONSSTATISTICALAPPROACHINMECHANICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10A">
+            <xocs:ref-normalized-surname>DORFMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2347</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10B">
+            <xocs:ref-normalized-surname>MCCLURE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHDTHESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10C">
+            <xocs:ref-normalized-surname>DORFMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>333</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>ERNST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KEYESX1977X370</xocs:refkey3>
+         <xocs:refkey4lp>KEYESX1977X370X374</xocs:refkey4lp>
+         <xocs:refkey4ai>KEYESX1977X370XT</xocs:refkey4ai>
+         <xocs:refkey5>KEYESX1977X370X374XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(77)80423-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261477804235</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261477804235</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(77)80423-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-05T05:23:01.791433-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1977-10-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261477804235-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261477804235/MAIN/application/pdf/73bca8b93d82bc805d9c4d6d1dc0a2a5/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261477804235/MAIN/application/pdf/73bca8b93d82bc805d9c4d6d1dc0a2a5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>455561</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261477804235-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261477804235/PREVIEW/image/png/e5cdcf15872563166f12242d32f30470/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261477804235/PREVIEW/image/png/e5cdcf15872563166f12242d32f30470/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>81837</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 51, number 2 CHEMICAL PHYSICS LETTERS 15 October 1977    DIFFUSION OF AN IMPURITY IN THE HARD SPHERE FLUID *    T. KEYES **  Sterling Chemistry Laboratory. Yale University. New Haven. Connecticut 06520, USA    Received 11 July 1977    The self-diffusion coefficient (D) of a hard sphere of variable size and mass, moving in a solvent of hard spheres of  fixed size and mass, is calculated in a version of the ring approximation (RA). It is found that (a) the ring contribution to  D vanishes for particles smaller or less massive than the solvent, (b) D reaches a finite limit, which varies with solvent  density, as the tagged particle is made infinitely massive at fixed radius, and (c) D becomes infinite, and then negative, as  the tagged particle radius is increased. The size and mass dependence o{D in the RA is used as the basis of a criticism of  the RA itself- It is aigued that the repeated ring approximation is needed to provide a good theory for large, massive  particles, and also, that "back-scattering" must be added to the RRA for pure fluids at high density.    1. Introduction    In 1970, Alder, Gass, and Wainwright (AGW)  showed [1] that the self-diffusion coefficient, D,  differed significantly from its Enskog value. Dp, in  moderately or very dense hard sphere fluids; many  theorists [2- 5] have subsequently tried to reproduce  the results of AGW. Almost every attempt to cal-  culate deviations ofD from D^ has ascribed those  deviations to "ring" collisions. The ring approximation  (RA) was first introduced into modern hard-sphere  kinetic theory by Kawasaki and Oppenheim [6j, and,  with subsequent conceptual evolution, is not now  precisely defined. Probably the current theory best  described as "the" RA is that of Dorfman and Cohen  [5], which gives the correct long time behavior of the  velocity correlation function. In this letter, we shall  refer to any approximation whose essential ingredient  is ring collisions as "the" RA, meaning a version of  theRA.    Within the RA, many sub-levels of approximation  [2—5] must be considered before D is obtained.  A collision operator is written which is a sum of ring  and Enskog parts. A matrix element of the inverse  collision operator gives D, and the inversion must be    * Supported by NSF grant CHE76-07384.  ** Alfred P. Sloan Foundation Fellow.    performed approximately- The matrix element is then  divided into contributions from hydrodynamic states.  The hydrodynamic contributions contain correlation  functions which are approximated by interpolation  forms valid at short and long times, and the non-  hydrodynamic contributions must also be approximat-  ed. Recent research has focused on improving the  approximations within the RA.    All the theories of which we are aware have con-  sidered pure fluids. In this letter, we shall present  results, in the RA, for the self-diffusion coefficient  of a tagged "impurity" hard sphere of variable size  (R) and mass (M) moving in a solvent of hard spheres  of "unit" size and mass. One might think it premature  to study impurity diffusion when a complete theory  for pure fluids has yet to be constructed- Of course,  ths dynamics of impurity particles is of considerable  inherent interest. However, we are mainly interested  in the R and M dependence of D because of the light  which a knowledge of such dependence sheds upon  the validity of the RA itself. We feel strongly that  viewing D as a function of R, M and of the density,  rather than as a function of the density alone, gives  one a superior perspective for the evaluation of  approximate versions of kinetic theory.    We use the version of the RA given by Mazenko [3]  in his second paper on "fully renormalized kinetic  theory", denoted here as FRKT II. At this level,    370    Volume 51, number 2 CHEMICAL PHYSICS LETTERS 15 October 1977    (a) the collision operator is treated as diagonal, (b) the  "gaussian approximation" is used for hydrodynamic  correlation functions, and (c) the nonhydrodynamic  part of the ring operator is evaluated using free  particle dynamics. Our approach differs slightly  from that of FRKT II in that we have included an  extra factor ofg^, the pair distribution at contact  in the ring operator; a g* was "missing" [4] from  early versions of FRKT. We also assume that the  hydrodynamic part of the ring operator contains the  same transport coefficients as are being calculated  and not, as was assumed in FRKT II, Enskog-approx-  imation correlation functions. Although the details  of FRKT II differ from those of other versions of the  RA, the basic form o(D(M,R) will not be changed  by various refinements.    2. Theory    The calculation which we are about to perform  involves only trivial modifications of the methods of  FRKT II, to which we refer the reader for details.  We consider a tagged hard sphere of mass m\, and  diameter a^, moving in a solvent of hard spheres of  mass m^, diameter o^, and number density n; the  reduced density of the solvent, p, is equal to noj,  and we define M = m^/m-^ and R = a^la^. The only  new step which we must carry out to extend FRKT  II to the case at hand is the re-evaluation of the  matrix element, f^2' which gives the projection of  the momentum of the tagged particle upon the  hydrodynamic modes. Simply keeping track of the  nature of the particles involved in the collision which  determines the matrix element, we find    f22W = -l^^g Tu/m^^a1 sm(fca)/ka ,     (1)  where v is the reduced mass,    u = m^rn^Km^ + m^),    a is the tagged particle—solvent particle collision  diameter,    (T=(oi+a2)/2,    (3)    feg is Boltzmann's constant, and 7'the absolute temper-  ature. 1C m^ = m^ and a^ = a^, eq. (1) reduces to eq.  (5.5) of FRKT II. The methods of FRKT II now yield  immediately    (2)    Z?/£»E = [1 - (S/S^o^Trufcg T/^j)1/2/] -1,     (4)    where g^ is the "unlike" tagged particle-solvent  particle pair distribution function evaluated of  separation a; the g+ in the second term on the right  hand side ofeq. (4) is the "extra" g* which we are  including in the ring operator, and, in calculating  Z)//?E, we have, of course, used Dp for a tagged  particle. Finally, the integral, /, is given by the rela-  tion,    00    f=(27r)~3 f 6.tj'^k[sm.(ka)lka}\\ -cos2*?)  0    ^[G^(.k.t)G^(-k.t)-G^(k.t)G°^(-k.t)].(.5)    The tagged-particle density and solvent transverse  momentum density correlation functions are denoted  by G^ i and G^g, respectively. The correlation func-  tions are normalized so that G(t = 0) = 1, and a zero  superscript indicates the corresponding free-particle  correlation function. In FRKT II, the C"s are Enskog  correlation functions. We have used self-consistent  correlation functions because the inclusion of these  correlation functions in the RA does, in fact, lead to  an inclusion of additional, valid contributions to the  true kinetic operator. In addition, at low to moderate  densities, FRKT II is in better agreement with the  results ofAGW if exact correlation functions are used.    As indicated, we use the gaussian approximation  for (7,    G^f^expC-A:2^)];    (6)    with no approximations, we have  G^:,f)=exp[-^(OL    (7)    and    W^ =D{t+(,m^D/kyT)[eKp[-(.keT/mtD)t}- 1]},    (8)    ^t3 = ^ + ("^^B7') [expK^B7^^] - 1U .    (9)  ^l =(W2m^)t'1,                            (10)    W^-Wftm^t2,                        (11)    where 77 is the coefficient of kinematic shear viscosity  of the solvent, /may then be reduced to a one-di-  mensional integral, as indicated in FRKT II. We cal-  culate .D/Dg at each p using the exact r),r] = T?E07/i?E)'    371    Volume 51, number 2 CHEMICAL PHYSICS LETTERS 15 October 1977    given by AGW, and by, as a first approximation, as-  suming that D =D^;D/D^ is then re-calculated assum-  ing that D ~^D-pX (the zero-order Z)/Z&gt;g), and so on.  The iteration converges very quickly. We use the  scaled-particle theory results ofLebowitz et al. [7]  for the "unlike"^.    3. Numerical results    In table 1, we compare the present version of the  FRKT II, and one which uses Enskog correlation  functions (G), with the results of AGW. The improve-  ment achieved by using "real" correlation functions  is clear at low and moderate densities, although  neither theory gives DfD^ correctly for? &gt; 0.47.  For p ^ 0.47, the present theory works very well,  despite the approximations we have made. Attempts  to correct moderate density kinetic theory by  relieving approximations which we have discussed,  while retaining EnskOg G"s should be critically ap-  praised in this light.    With the range of validity of our approximation  established for pure fluids, we consider size and mass  dependence. First, let us recall some requirements  which a proper theory ofD should obey in this regard.  A large massive particle should obey the Stokes—  Einstein law, -Ocp,    ^SE^B7'/47"^")0!^'                    O2)    i.e., m-yn is the mass density and a^ is the radius of  the tagged particle. For large m^, a^,D^ is independent  ofm^ and varies as o\ , while Dgg is also independent  of/n^, but varies as cr]"1. Thus, a large, massive particle  will have finite D,D^ Dg^, but D&gt; D^.    Alder et al. [8] have shown that for m^. R^, or  both &lt;^ corresponding solvent values, D is consider-        Table 1  P(vlvo) DfD^ (AGW) DID^ (eq. (4)) D/D^ (Enskog transport coeffi-     cients in eqs.     (8) and (9)'  0.07 (20) 1.04 1.02 1.02  0.28 (5) 1.16 1.16 1.17  0.47 (3) 1.34 1.34 1.39  0.71 (2) 0.84 2.16 3.04      ably less than D^. This behavior is ascribed to back-  scattering, as described by the "wind-tree" [9]  model. To our knowledge, there exists no good  general understanding of the form ofZ&gt; for particles  which are massive but not large, or vice-versa,  although Alder et al. have studied a few examples  of this type.    In table 2, we give DfD^ as a function ofM, for R  ^ 1, and p = 0.47; this is the highest density at which  FRKT II is accurate. D/D^ is seen to reach a finite  limit as M-&gt; °°. Since Z)g reaches a finite limit as M-&gt;  °°, it follows that the ring contribution to D does so  also. D/D^ reaches a different limit at each /); the  limiting value ofD/D^ versus p is given in table 3. For  M &lt; 1, D/D^ approaches unity, in disagreement with  the results of Alder et al. This indicates that the devia-  tions ofD from £)g for small M do not come from  "ring" events.    m table 4, we give £)/Z)§g as a function ofR, for  M= 1 and for M &lt;xR3, at p =0.47; we consider    Z)/£&gt;SE' an£^ no*: -^V-^E' because the large particle  should attain D/D^ = I for large size. Quite striking-  ly, however, it is seen that Z)/Dgg becomes infinite  forR »s 3; at higher p, D/D^ misbehaves for even  smaller R, with DfD^ infinite at R ^ 2 for p ^ 0.88.    Table 2  p = 0.47 (u/uo = 3). R = 1        M DfD^ (eq. (4))  0.01 1.03  0.25 1.24  0.5 1.30  1 1.34  4 1.37  10 1.41  50 1.50  500 1.56  10000 1.57  Table 3   R=l   P (vfuo) lim Z)/0p   Af-~ "  0.07 (20) 1.07  0.28 (5) 1.43  0.47 (3) 1.57  0.71 (2) 1.41  0.88 (1.6) 1.22    372    Volume 51, number 2 CHEMICAL PHYSICS LETTERS 15 October 1977    Table 4  p = 0.47, U/VQ = 3        /t 0/flSE (M=l) D/OE D/D^ (M^R3) DfD^  0.25  1.07  1.01  0.5  1.13  1.06  0.75  1.22  1.19  1 0.92 1.34 0.92 1.34  1.5 1-03  0.85   1.75 1.12  0.90   2 1.25  1-00   2.25 1.45  1-21   2.5 1.80  1.65   2.75 2.48  2.90   3.0 4.40  23.88   3.25 3.5 32.19 a)  :     a).    denotes a negative D.    4- Conclusions    In our opinion, the behavior of D for large and  small M,R indicates that the RA should be studied  critically. At large p, the RA, as represented by  FRKT II, does not reproduce D/D^ well for pure  fluids. It has been shown [2] that the RA may be  forced to agree with AGW at these densities using  the "nonhydrodynamic correction". However, the  extreme instability ofD in the RA with respect to  increases in R at large p indicates that the RA does  not even give a good treatment of the coupling of the  tagged particle motion to the collective modes of the  solvent at large p. Similarly, since the small values of  DfD^ observed for M, R &lt; 1 are not predicted by the  RA, it is clear that the RA does not contain back-  scattering. If back-scattering is important for pure  fluid At, R at large p, which seems certain [8],  another defect in the RA is established.    The failure of the RA at large R is not really sur-  prising, insofar as Dorfman et al. [10,11] have shown  that the repeated ring approximation (RRA) is  needed to obtain Stokes law for the drag on a  brownian particle via KT. We conclude that a theory  ofD/D^ for p &gt; 0.47 should be based at least on the  RRA, not the RA. Although evaluation ofD is  much harder in the RRA than in the RA, Ernst and  Dorfman [11] have shown that, roughly, the inverse    of D becomes a geometric sum in the RRA. If we  assume that the two terms in the denominator of  eq. (4) form the beginning of a geometric sum, we  find    ^RRA ^ + (k^T/nm^)I.                  (13)    Eq. (13) is striking in that explicit factors of^ and  m^ have dropped out of the correction to D^. For  large R, and assuming T? ^&gt; D, as is so for dense fluids,  we find    Urn /)RRA/7)sE=2/3,  J?-&gt;°°    (14)    i.e., eq. (13) gives the Stokes—Einstein law with a 6  in the denominator. The presence of a 6 is clearly  the consequence of the crude version of the RRA em-  ployed; Dorfman et al. have shown that the series  in D~1 must be treated in more detail to obtain the  "correct" Stokes law. None the less, some form  of the RRA is needed ifD is to approach a proper  brownian limit. We have explored various, empirical  ways of adjusting eq. (13) so that the "true" SE law  emerges, but such approaches do not appear fruitful.  We shall soon present a careful RRA theory for/)  of an arbitrary tagged particle analogous to the work  of Dorfman et al.    In summary, we feel that, by examining howZ)  behaves as a function of At and R, it is possible to  gain insight into the validity of a kinetic approxima-  tion which is unavailable from a study of pure fluids.  D^ is extremely unstable with respect to increase  in R at high density, and furthermore, our results  at small M, R indicate thatZ)1^ contains no back-  scattering. We conclude that the minimum valid  theory for D in dense pure fluids must contain re-  peated rings plus back-scattering. The theory presented  here should g^ve the correct M,R dependence ofZ? for  p &lt; 0.47 ifAfand R are reasonably close to unity.    Acknowledgement    We thank Professor B.J. Alder for valuable sugges-  tions about this article.    References    [1] N.J. Alder, D.M. Gass and T.E. Wainwright, J- Chem.  Phys. 53(1970)3813.    373    Volume 51. number 2 CHEMICAL PHYSICS LETTERS 15 October 1977    {2] P.M. Furtado,G.F. Mazenko and S. Yip, Phys. Rev. A14  (1976)869;    P. R&amp;ibois,.». Stat. Phys. 13 (1975) 393;    D. Lieberwortli and E.G. D. Cohen, Phys. Letters 58A  (1976)209.    [3] G.F. Mazenko, Phys. Rev. A7 (1973) 209, 222.    [4] S- Yip and G.F- Mazenko, in: Modern theoretical chem-  istry, Vol. 6, ed. B.J- Beme (Plenum, New York), to be  published.    [5] J.R. Dorfinan and E.G-D. Cohen, Pyhs. Rev. A 12  (1975)292.    [6] K. Kawasaki and L Oppenheun, Phys. Rev. 139 (1965)  A1763.    [7] J.L- Lebowitz, E- Helfand and E- Praestgaard, J. Chem.  Phys. 43 (1965) 774.    [8J P.T. Herman and B.J. Alder, J. Chem. Phys. 56 (1972)    987;    B.J. Alder, W.E. Alley and J.H. Drymond, J. Chem.    Phys. 61 (1974) 1415.    [9} P. Ehrenfest and T. Ehrenfest, The conceptual founda-  tions of the statistical approach in mechanics (Comell    Univ. Press, Ithaca, 1959) p. 54-  [10] J.R. Dorfinan, W.A. Kupennan, J.V. Sengers and C.F.    McClure, Phys. Fluids 16 (1973) 2347;    C.F. McClure, Ph.D. Thesis, University of Maiyland    (1972);    J.R. Dorfinan, H. van Beijeren and C-F. McClure, Arch.    Mechanics 28 (1976) 333-  [11] M.H. Ernst and J.R. Dorfman, Physica 61 (1972) 157.    374  ect to  increases in R at large p indicates that the RA does  not even give a good treatment of the coupling of the  tagged particle motion to the collective modes of the  solvent at large p. Similarly, since the small values of  DfD^ observed for M, R &lt; 1 are not predicted by the  RA, it is clear that the RA does not contain back-  scattering. If back-scattering is important for pure  fluid At, R at large p, which seems </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>77804235</aid>
+            <ce:pii>0009-2614(77)80423-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(77)80423-5</ce:doi>
+            <ce:copyright type="unknown" year="1977"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Supported by NSF grant CHE76-07384.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>Diffusion of an impurity in the hard sphere fluid</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Keyes</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Sterling Chemistry Laboratory, Yale University, New Haven, Connecticut 06520, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Alfred P. Sloan Foundation Fellow.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="11" month="7" year="1977"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The self-diffusion coefficient (<ce:italic>D</ce:italic>) of a hard sphere of variable size and mass, moving in a solvent of hard spheres of fixed size and mass, is calculated in a version of the ring approximation (RA). It is found that (a) the ring contribution to <ce:italic>D</ce:italic> vanishes for particles smaller or less massive than the solvent, (b) <ce:italic>D</ce:italic> reaches a finite limit, which varies with solvent density, as the tagged particle is made infinitely massive at fixed radius, and (c) <ce:italic>D</ce:italic> becomes infinite, and then negative, as the tagged particle radius is increased. The size and mass dependence of <ce:italic>D</ce:italic> in the RA is used as the basis of a criticism of the RA itself. It is argued that the repeated ring approximation is needed to provide a good theory for large, massive particles, and also, that “back-scattering” must be added to the RRA for pure fluids at high density.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Gass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Wainwright</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3813</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="BIB2A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Furtado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.F.</ce:given-name>
+                                 <ce:surname>Mazenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yip</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>869</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB2B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Résibois</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Stat. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>393</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB2C">
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lieberworth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.G.D.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="BIB3A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.F.</ce:given-name>
+                                 <ce:surname>Mazenko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB3B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.F.</ce:given-name>
+                                 <ce:surname>Mazenko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>222</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Yip and G.F. Mazenko, in: Modern theoretical chemistry, Vol. 6, ed. B.J. Berne (Plenum, New York), to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Dorfman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.G.D.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>292</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Oppenheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1763</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Lebowitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Helfand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Praestgaard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>774</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="BIB8A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>987</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB8B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Alley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Drymond</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1415</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ehrenfest</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ehrenfest</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The conceptual foundations of the statistical approach in mechanics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1959</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cornell Univ. Press</sb:name>
+                                 <sb:location>Ithaca</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>54</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="BIB10A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Dorfman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Kuperman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.</ce:given-name>
+                                 <ce:surname>Sengers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>McClure</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Fluids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2347</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB10B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>McClure</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Ph.D. Thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of Maryland</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB10C">
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Dorfman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>van Beijeren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>McClure</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Arch. Mechanics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>333</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Ernst</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Dorfman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

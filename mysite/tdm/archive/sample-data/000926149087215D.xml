@@ -1,0 +1,1433 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149087215D</prism:url><dc:identifier>doi:10.1016/0009-2614(90)87215-D</dc:identifier><eid>1-s2.0-000926149087215D</eid><prism:doi>10.1016/0009-2614(90)87215-D</prism:doi><pii>0009-2614(90)87215-D</pii><dc:title>Theoretical calculations on the structure of the hexahydrated divalent zinc, cadmium and mercury ions </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>172</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>49</prism:startingPage><prism:endingPage>54</prism:endingPage><prism:pageRange>49-54</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1990-08-24</prism:coverDate><prism:coverDisplayDate>24 August 1990</prism:coverDisplayDate><prism:copyright>Copyright © 1990 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Strömberg, Dan</dc:creator><dc:creator>Sandström, Magnus</dc:creator><dc:creator>Wahlgren, Ulf</dc:creator><dc:description>
+               Abstract
+               
+                  SCF calculations have been performed on the title compounds in order to study the possible reasons for the anomalously large spread in the mean HgO bond distance previously obtained for hydrate mercury (II) ions in solution. An energy minimum is found for all three complexes, [M(H2O)6]2+, M  Zn, Cd or Hg, for a regular Th ground-state nuclear configuration. The larger spread of the HgO distances can be explained in terms of a weak second-order Jahn—Teller effect. An enhanced vibronic coupling leads in the mercury case to larger vibrational amplitudes of the coupling mode without invoking a static distortion. The longer mean HgO distance found for the hydrated mercury (II) ion in solution than in a solid hexahydrate can be explained by assuming a larger asymmetry in the distribution of the HgO bonds. Calculations on the [Hg(H2S)6]2+ complex also show an energy minimum for the Th configuration, although in this case the adiabatic potential surface is very flat, and more refined methods of calculation could yield a distored ground-state configuration.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149087215D" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149087215D" rel="scidir"/></coredata><scopus-id>0002238924</scopus-id><scopus-eid>2-s2.0-0002238924</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0002238924" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-24T04:52:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149087215D</xocs:eid>
+      <xocs:pii-formatted>0009-2614(90)87215-D</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149087215D</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(90)87215-D</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09347</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150925">2015-09-25T15:30:23.696381-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19900824</xocs:date-search-begin>
+      <xocs:year-nav>1990</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>172</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>172</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 172, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>49</xocs:first-fp>
+      <xocs:last-lp>54</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>49</xocs:first-page>
+         <xocs:last-page>54</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19900824</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>24 August 1990</xocs:cover-date-text>
+      <xocs:cover-date-start>1990-08-24</xocs:cover-date-start>
+      <xocs:cover-date-year>1990</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1990 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>THEORETICALCALCULATIONSSTRUCTUREHEXAHYDRATEDDIVALENTZINCCADMIUMMERCURYIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>STROMBERG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>SANDSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>607</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>TEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EXAFSBASISPRINCIPLESDATAANALYSIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BEAGLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2395</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ITO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>99</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HITCHMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1817</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>JAHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1937</xocs:ref-pub-year>
+            <xocs:ref-first-fp>220</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>SHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9"/>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>WELLS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STRUCTURALINORGANICCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>BRODERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COMPREHENSIVECOORDINATIONCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>OPIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>425</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>BERSUKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>VIBRONICINTERACTIONSINMOLECULESCRYSTALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>PEARSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SYMMETRYRULESFORCHEMICALREACTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>PEARSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>561</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17"/>
+         <xocs:ref-info refid="BIB18"/>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>PETTERSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>SUCHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>348</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>ALMLOF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22"/>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>STROMBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>TATEWAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4338</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25"/>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>PETTERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2176</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>HUZINAGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1293</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>BENEDICT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1956</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>F191</xocs:ref-first-fp>
+            <xocs:ref-normalized-srctitle>HANDBOOKCHEMISTRYPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>IRISH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>50</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>GOGGIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>625</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31"/>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>AHRLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>MASLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1510</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>CAMINITI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>373</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>PERSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>STROMBERGX1990X49</xocs:refkey3>
+         <xocs:refkey4lp>STROMBERGX1990X49X54</xocs:refkey4lp>
+         <xocs:refkey4ai>STROMBERGX1990X49XD</xocs:refkey4ai>
+         <xocs:refkey5>STROMBERGX1990X49X54XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(90)87215-D</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149087215D</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149087215D</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(90)87215-D</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-25T15:30:23.696381-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1990-08-24</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149087215D-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149087215D/MAIN/application/pdf/28755465a8b9a61e17abaa699e3fd89b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149087215D/MAIN/application/pdf/28755465a8b9a61e17abaa699e3fd89b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>586545</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149087215D-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149087215D/PREVIEW/image/png/a7639859cfefe1e9ad9da01798a60003/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149087215D/PREVIEW/image/png/a7639859cfefe1e9ad9da01798a60003/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70485</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 172, number I  CHEMICAL PHYSICS LEnERS  24August 1990  Dan Stromberg  Institute of Inorganic Chemistry, University of Gothenburg, S-412 96 Goteborg. Sweden      Magnus Sandstrom  Department of Inorganic Chemistry, Royal Institute of Technology, S-10044 Stockholm, Sweden      and    Ulf Wahigren  Institute of Physics, University of Stockholm, Vanadisvagen 9, S-11346 Stockholm, Sweden  Received 26 February 1990; in final form 26 June 1990   SCF calculations have been performed on the tille compounds in order to study the possible reasons for the anomalously large  spread in the mean Hg O bond distance previously obtained for hydrated mercury (II) ions in solution. An energy minimum is  found for all three complexes, [M(H20)6 ~2+, M=Zn, Cd or Hg, for a regular Tb ground-state nuclear configuration. The larger  spread of the fig O distances can be explained in terms of a weak second-order Jahn Teller effect. An enhanced vibronic coupling  leads in the mercury case to larger vibrational amplitudes of the coupling mode without invoking a static distortion. The longer  mean 14g C) distance found for the hydrated mercury (II) ion in solution than in a solid bexahydrate can be explained by asswn-  ing a larger asymmetry in the distribution of the fig O bonds. Calculations on the [Hg(H25)6] 2+ complex also show an energy  minimum for the Tb configuration, although in this case the adiabatic potential surface is very flat, and more refined methods of  calculation could yield a distorted ground-state configuration.  1. Introduction     In X-ray diffraction studies of the hydration in so-  lution of the divalent ions of group 23, viz., Zn, Cd  and Hg, an anomalously large spread was found of  the mean Hg O bond length [1]. It was measured in  terms of the Debye WaIler factor, exp (   2 a2 k2),  where a is the root mean square (nus) deviation  from the mean distance assuming a symmetric Gaus-  sian distribution, and the scattering variable is  k= (4r/a)sin 9. The experimental a value may ac-  commodate both vibrational amplitudes and small  deviations from a regular structure [2].   It is well established that distorted octahedral con-  figurations of the oxygen atoms are found around the  metal ions in the hexahydrated copper(II) and chro-  mium (II) complexes, while other divalent ions of  similar size such as Ni(II) have a regular coordi-  nation [3 5]. This observation is easily understood  in terms of the first-order Jahn Teller effect [6]. In  a regular Th complex the metal atom d orbitals are  split into one group of three degenerate t2g orbitals,  and another group at higher energy with two degen-  erate e5 orbitals directed towards the ligand atoms.  With a cl~ or a high spin d4 electron configuration,  one of the two e5 orbitals will be singly occupied and  the complex will distort as a consequence of the first-  order Jahn Teller effect. The large distortions around  the hydrated Cu2~ and Cr2~ ions give rise to two  groups of distances in solution (Cu 4O~ 2.0; Cu   2O~ 2.3 A and Cr 40~ 2.0 2.1; Cr-2O~ 2.3 2.5  A), which are static on a diffraction or vibrational  timescale [3,7,8]. An infrared spectroscopic study  of the hydrogen bonds around hexahydrated Cu2~  49  0009-2614/90/S 03.50   1990   Elsevier Science Publishers WV. (North-Holland)  Theoretical calculations on the structure  of the hexahydrated divalent zinc, cadmium and mercury ions  Volume 172, number 1  CHEMICAL PHYSICS LETTERS  24August 1990  ions in solution, showed a separated band for the  weakly coordinated axial water ligands, which is not  found for Ni2~ 13], nor in a similar recent study on  a Hg2~ solution [9].   However, the hexahydrated complexes of the di-  valent Zn, Cd and Hg ions are all non-degenerate in  the ground state, and if a distortion is the reason for  the observed anomalies in the mercury case, it must  have another origin and probably a different char-  acter than for the corresponding hexahydrated di-  valent Cu and Cr complexes.   The present study was undertaken in an effort to  elucidate the reason for the large a value found for  the [Hg (H20 ) 612+ ion in solution. Structures with  two short and four longer bonds are common for  mercury (II) compounds [10,11], but recently a  hexapyridine mercury(II) complex was found with  two axial Hg N bonds longer (Art 0.08 A) than the  other four [12].   If the average nuclear configuration of the com-  plex in its ground state is regular, the ligands should  be very mobile in solutions with small force con-  stants in some vibrational modes. The symmetric  metal ligand stretching vibrational frequencies have  been measured by Raman spectroseopy (table 1) and  show that the force constant for this mode is higher  for the Hg complex than for the Cd, despite its longer  bond length. A higher mobility of the aqua ligands  (and also possible deviations from a regular coor-  dination) should thus be associated with the asym-  metric stretching vibrational mode. One mechanism  which has the potential to explain both a distortion  of a regular non-degenerate structure and a small  force constant in some (asymmetric or symmetrie)  vibrational mode, is the vibronic coupling in the sec-  ond-order (or pseudo) Jahn Teller effect, SOJT  [131. Following this theory, the destabilization of  the ground state can be explained in terms of a vi-  bronie interaction with a low-lying excited state [14].  The SOJT effect has been used to explain distorted  nuclear configurations for many systems [14,15].   A distortion of a regular octahedral coordination  by a tetragonal compression or elongation (Th +D2h)  was thus considered in the calculations of this study.  In order to compare the trends, calculations were  carried out on the three species [Zn(H2O)6]2~,  [Cd(H2O)6]2~ and [Hg(H2O)6]2~, and also on the  complex [Hg(H2S )6]2+, which is expected to have  a more covalent bond character and a greater ten-  dency to distort than the hydrated ion because of the  softer sulphur ligand [16]. No experimental data are  available on this complex, however.   We have previously investigated the first-order  Jahn Teller distortions of [Cu (H20 )~ ]2+ and  [Cr (H2O ) 612+ with quantum-chemical methods  [1,17]. These investigations were carried out at the  SCF level of approximation and yielded results in  the expected directions although the magnitude of  the calculated effects came out too small. It has also  been shown in a previous study that the apparently  irregular structures of the tellurites can in fact be ex-  plained in terms of a SOJT effect [18].      2. Computational details     All the calculations presented in this work have  been carried out at the SCF level of approximation,  except for a few estimations of excitation energies by  the CAS method. For the cadmium and mercury at-  oms, and effective core potential (ECP) with a fro-  zen outer core shell was used [19]. Relativistic ef-  fects were included in the calculations by fitting the  ECP parameters to orbital energies and shapes ob-  tained from relativistic atomic calculations using the  Sucher projection procedure [20] as implemented  by Almlof et al. [21]. No account was taken of spin   orbit effects or relativistic electron electron inter-  actions. This procedure has been shown to give re-  liable results in several previous applications [22,23].  ECP descriptions were also used for oxygen and sul-  phur, and have previously been shown to give very  accurate results in comparisons with all electron cal-  culations [3,17,23].   The basis sets used for Zn was the SDZC basis sug-  gested by Tatewaki and Huzinaga [24], augmented  by two diffuse p functions describing the 4p atomic  orbital and a polarizing d function. The basis set was  thus fully contracted in the core region, doubly split  for 4s and 4p and triply split for 3d. For cadmium  and mercury a contracted basis set with 7s-, 6p- and  Sd-type basis functions were used. The basis sets and  the ECP parameters for cadmium and mercury are  given in ref. [231, for oxygen in ref. [25] and sul-  phur in ref. [26]. The hydrogen basis is the Huzi-  naga 4s basis contracted to 2s with the exponents  50  volume 172, number 1  CHEMICAL PHYSICS LEYrERS  24August 1990  scaled by a factor of 1.25 A [27]. The internal H20  and H2S geometries were fixed at the experimental  values in the gas phase (O H 0.957 A, LHOH  104.5  and S H 1.3455 A, t HSH 93.3 , respec-  tively) [28,29].   The point symmetry of the regular complexes is  Th, see fig. 1. The symmetric-stretching vibrational  mode was calculated by simultaneously moving all  the atoms along the A5 symmetry coordinate. The  lowest excited state for the complexes is in all cases  of E5 symmetry, corresponding to a d to s atomic ex-  citation, and the symmetry of the vibrational mode  giving vibronic coupling of these states is conse-  quently also of E8 type. This asymmetric normal  Fig. 1~ The hexahydrated complex in Tb symmetry.  mode was calculated using the symmetry coordinate  &amp;=I1(2arL +4Ar~).   The theoretical estimates of the vibrational con-  tributions to the a values were carried out by cal-  culating the integral f  ,~x2 p !P(x) 12 dx, where W(x)  is the harmonic vibrational wave function, The ef-  fects of higher vibrational excitations were incor-  porated using a Boltzmann distribution for the oc-  cupation of the excited states. It should be stressed  that this can only partly explain the total rms devia-  tion since only one vibrational mode was considered.      3. Results and discussion     The experimental frequencies for the totally sym-  metric A, stretching vibration are similar for all the  complexes (table 1). Since the central atom is at rest  for this vibrational mode, the force constants must  also be similar. However, moving down the group  the Coulombic contribution to the binding should  decrease because of the increase in the bond dis-  tances (table 1), and similarly, this should be re-  flected by a steady decrease in the vibrational fre-  quencies. Instead, an increase is found for the  mercury complex. One possible interpretation of this  observation is that the covalent character in the  binding is more pronounced for the Hg O bonds than  for Zn.-O or Cd-O.   The calculated frequencies (table 2) for the sym-  metric A5 vibrations are somewhat low compared to  the experimental values, in particular for Hg. Low  vibrational frequencies are expected for systems dis-  sociating with correct charges, since corrections for  correlation effects, not considered in the SCF theory,  Table 1  Experimental data for the hexahydrated divalent Zn, Cd and Hg ions  Complex  iY(A,),,,~, a)  (cm )  i(A,)cry~ ~  (cm  )  (A)  SH2yd,    (kJmol )  r,01~,(M O)  (A)  r~ajM O)  (A)  Zn  386  385  0.071 b)  2063    2.10 b)  20926)  Cd  352  352  0.05e)  1831     2.29 e)  2.277(2)    Hg  370  360  0.102   1845    2.40,    2.341(6)   a) Ramanspectra,ref.   Il] (ref. (30]forZninaqueoussolution). b)Ref [31] (b=2u =O.OIOA?).  ~Ref, 1321.  C)) Ref. [33], mean X-ray value (neutron diffraction 2.096A). C) Ref. [34J.  ~ Ref. [35], 2.28, A when corrected for thermal motion (riding motion).   ) Ref. [il, b0.021 AZ. b) Ref [1]. Ref I3~l, 2.35 Awben eorrected forthermal motion.  51  Central  atom  Ligand  9(A,)  (cm  )  D(E,)  (cm )  a,~  (A)  r,  (A)  D,  (kimol )  Exeit. energy b)  (ev)  Zn  H24J  349  246  0.034  2.12  1540  12.5  Cd  1120  319  239     2.32  1318  11.7  Hg  H,0  312  184  0.044  2.40  1272  7.2(7.5) e)  Hg  H2S  171  94  0.052  2.84  866  ( 6.2) ~  24   August 1990  volume 172, number 1  CHEMICAL PHYSICS LEiTERS  Table 2  Calculated data for the hexasolvated complexes of divalent Zn, Cd and Hg in Tb symmetry   rms contribution from the E, vibration, b) Calculated energy for the d to s excitation ( A1.-  LE).  c) Values within parentheses are obtained using CAS calculations.  asymmetric E8 mode should thus be more important  in the mercury system, an effect which will tend to  destabilize the regular coordination in the ground  state. The destabilization is not found to be strong  enough actually to distort the complex, but it will  certainly increase the vibrational amplitude for this  mode. This is a typical case of a weak SOJT effect  [14].   As can be seen in table 1, the experimentally de-  termined metal oxygen distances and the peak fre-  quencies of the broad Raman bands of the symmet-  ric stretching A5 modes are similar in crystals and in  solution for the hexahydrated Zn and Cd complexes.  However, an apparent contradiction is found for the  hexahydrated Hg complex, which has a higher fre-  quency in solution than in the solid state. This gives  a higher stretching force constant which would imply  stronger bonds in solution, although the observed  mean Hg O distance is longer than in the solid hy-  drate. Similar trends in the bond lengths and vibra-  tion frequencies are also found for the oxygen-co-  ordinated dimethyl sulfoxide hexasolvates in solid  and in solution [1,36], again accompanied by  anomalously large a values for the DMSO-solvated  mercury(II) ion in solution [1].   A possible explanation is that for the destabilized  ground state of the mercury complex, the E,-type vi-  bration in the non-rigid environment in solution has  not only a large amplitude but also a high degree of  anharmonicity, giving rise to a large asymmetry in  the distribution of the Hg O distances. This would  cause an apparent increase in the mean value ob-  tained for the Hg O distances when a Gaussian dis-  tribution is fitted to the data [2], without a corre-  sponding decrease in the overall bond strength. As  similar effects are found in the aprotie DMSO so-  would make the potential well deeper. Considering  the level of accuracy in the calculation, one must  judge the results acceptable for Zn and Cd. It may  be noted that the deviations from the experimental  values for these two complexes are very similar, 31  and 33 cm  , respectively. The error obtained for  the Hg complex is larger, 58 cm  , which is also con-  sistent with a higher degree of covalency. This would  cause larger correlation effects in the mercury case  as compared to the other two systems, and a larger  error would thus be expected at the SCF level.   A comparison between the trends in the calculated  binding energies D~ and the measured hydration en-  thalpies AH~ (tables 1 and 2) supports this picture,  although in this case the effects are less clear. Both  quantities decrease when we go from Zn to Cd, but  in the next step, i.e. going from Cd to Hg, the mea-  sured hydration enthalpy increases somewhat, while  there is still a slight decrease in the computed bind-  ing energy. However, contributions to the experi-  mental MI  value from environmental effects, e.g.  electrostatic and polarisation interactions with the  surrounding solvent and the breaking and reforma-  tion of hydrogen bonds, do not allow a detailed com-  parison with the D8 energy.   The frequency for the first normal mode of E5  symmetry is markedly lower for the Hg complex than  for Zn and Cd, even if we assume that the error in  the calculated frequency in the mercury case could  be up to 30 cm  larger than for Zn and Cd (cf, the  discussion above). This difference between the com-  plexes can be interpreted in terms of the SOJT effect.  The calculated electronic excitation energy to the first   F state, is markedly lower in the mercury complex  (table 2) than in the other two systems. The vi-  bronic coupling to the ground state involving the  52  Volume 172, number 1  CHEMICAL PHYSICS LEiTERS  24August 1990  lutions [I], the hydrogen bonds are evidently not an  important factor for the anharmonicity.   The bond distances in the crystal hydrates are  slightly shorter than the calculated ones in all three  cases (tables 1 and 2). The largest difference is found  for mercury as would be expected from a larger cor-  relation error.   The observed a values include the integrated ef-  fects of all the populated vibrational modes in the  system, as well as contributions from other sources  of distortion. To calculate all vibrational contribu-  tions to the ruts deviations would be an overwhelm-  ing undertaking. However, it seems reasonable to as-  sume that the main characteristics of the difference  between the complexes should be described by the  Jahn Teller active asymmetric E,-mode considered  here. We have thus calculated the contributions from  the first four vibrational levels in E, symmetry at  room temperature (assuming a Boltzmann distri-  bution) for the Zn and Hg complexes. The calcu-  lated rms deviations (a~ in table 2) are about a fac-  tor of two smaller than the observed a values, which  is not surprising since only one vibrational mode is  considered in the calculations. lt may therefore be  more illuminating to compare their ratios, The ratio  of the calculated o~ values of the Hg and Zn com-  plexes is 1.3, and the ratio of the corresponding ob-  served a values is 1.44(15). It should be noted that  a a~ ratio of 1.44 applied to the harmonic ~(E,) fre-  quency of the zinc complex would correspond to  about 171(18) cm   for the mercury complex, while  our theoretical (SCF) value is 184 cm  . Based on  the calculated and observed ratios, it seems reason-  able to conclude that there is a substantial contri-  bution from the SOJT effect to the a value in the  mercury case. In particular, it is not necessary to as-  sume a non-regular average distribution of the Hg   O distances to explain the large experimental a val-  ues in solution.   Divalent mercury often forms, in contrast to zinc  and cadmium, two short and strong bonds to sulphur  ligands in the solid phase. In fact, no compound with  six Hg S bond in a regular hexacoordination is  known, although approximately tetrahedral four-co-  ordination is common for all three ions [10,111. It  is thus reasonable to assume that the ligand-induced  tendency to distortion of an octahedral coordination  is greater for the softer sulphur ligands than for those  coordinating through the harder oxygen atom.   Our calculations on the [Hg(H2S)6]2~ complex  verify that this is indeed the case, although a regular  hexacoordination still gives the lowest energy in our  model. The calculated E, vibration is only 94 cm  ,  however, and may well turn imaginary in a more  refined calculation. The ratio between the calcu-  lated o~ values for the [Hg(H2O)6J2~ and the  [Hg(H2S)6]2~ complexes is 1.2, which would cor-  respond to an increase in the ruts amplitude and give  an experimental a value of least 0.15 A for the Hg   S bonds. It is also possible that a hexasolvated com-  plex would in fact distort to an average configuration  with two short (or two long) opposite Hg S bonds.  It should be noted that the vibrational frequencies  calculated for the [Hg(H2S)6]24 complex (table 2)  correspond to lower force constants than for the hy-  drated complex due to the mass difference between  H2S and H2O.   The dissociation energy D8 is much smaller with  hydrogen sulphide as the ligand than with water in  the hexacoordinated complexes (table 2). This will  also affect the stability relative to a tetrahedral co-  ordination, and it is possible that the most stable  configuration in solution would actually be the te-  trasolvate, [Hg(H2S)4]2t.      4. Concluding remarks     The results of the present study provide a strong  indication that the hydrated mercury (H) ion has on  the average a regular coordination in solution. The  unusually large ruts deviations observed by X-ray  diffraction methods for the Hg O bonds in solution  can be explained in terms of the second-order Jahn   Teller effect, i.e. a vibronie coupling mainly between  a vibrational E,-type mode and an excited state with  an open d orbital on the Hg-atom. The longer mean  Hg O distances observed in solution than in solids  can be explained by assuming a larger anharmon-  icity. Several observed effects indicate that cova-  lency becomes more important for the hydrated mer-  cury complex than for the corresponding zinc and  cadmium ions, and the present theoretical results are  compatible with this interpretation.   According to the calculations, a regular structure  has the lowest energy also for the hexasolvate  53  Volume 172, number  CHEMICAL PHYSICS LEITERS  24August 1990  [9] P..A. Bergstrom, J. Lindgren and M. Sandstrom,  unpublished.  110] A.F. Wells, Structural inorganic chemistry, 5th Ed.  (Clarendon Press, Oxford, 1984).  [11] K. Brodersen and H.-U. Hummel, in: Comprehensive  Coordination Chemistry, Vol. 5 (Pergamon Press, Oxford,  1987).  [12)1. Persson, M. Sandstrom, C. StSlhandske and R. Akesson,  unpublished.  [13] U. Opik and M.H.L. Pryce, Proc. Roy. Soc. A 238 (1957)  425.  [14J lB. Bersuker and V.Z. Polinger, Vibronic interactions in  molecules and crystals (Springer, Berlin, 1989) eh. 3.4.  [151 R.G. Pearson, Symmetry rules for chemical reactions  (Wiley, New York, 1976).  161 R.G. Pearson, J. Chem. Educ. 64 ( 1987) 561.  [171R. Akesson, L.OEM. Pettersson, M. Sandstrom and U.  Wahlgren, unpublished.  [181 A. Stromberg and U. Wahlgren, unpublished.  [191 L.G.M. Pettersson, O. Gropen and U. Wahlgren, Chern.  Phys. 80 (1983) 7.  [201 J. Sucher, Phys. Rev. A 22 (1980)348.  [211 J. Almlaf, K. Fngri and H.H. Grelland, Chem. Phys. Letters  114 (1985) 53.  1221 0. Gropen, O. Boland and U. Wahlgren, unpublished.  [231 D. Stromberg, O. Gropen and U. Wahlgren, Chem. Phys.  133 (1989) 207.  1241 H. Tatewaki and S. Huzinaga, J. Chem. Phys. 71(1979)  4338.  125] L.G.M. Petterson and C.W. Bauschlicher Jr., unpublished.  126] L.G.M. Petterson, U. Wahlgren and 0. Gropen, J. Chem.  Phys.86 (1987) 2176.  1271 S. Huzinaga, J. Chem. Phys. 42(1964)1293.  1281 W.S. Benedict, N. Gailar and E.K. Plyler, J. Chem. Phys.  24(1956) 1139.    1291 R.C. Weast, ed., Handbook of chemistry and physics, 70th  Ed. (CRC Press, Bora Raton, 1989 1 990) p. F191.  1301 D.E. Irish and T. Jarv, Appt. Spectry. 37 (1983)50.  1311 P.L. Goggin, G. Johansson, M. Maeda and H. Wakita, Acta  Chem.Scand.A38 (1984) 625;  G. Johansson, private communication.  [321 S. Ahrland, L. Kullberg and R. Portanova, Acta Chem.  Scand.A32 (1978) 251.  [331 EN. Maslen, KJ. Watson, S.C. Ridout and F.H. Moore,  ActaCryst.C44(l988) 1510.  [34J R. Caminiti and G. Johansson, Acta Chem. Scand. A 35  (1981) 373.  [351 G. Johansson and M. Sandstram, Acta Chem. Scand, A 32  (1978) 109;A41 (1987) 113.  [36J1. Persson, Acta Chem. Scand.A 36(1982)7.  [Hg (H2S )6 12+, despite an increased vibronic cou-  pling. The calculated vibrational frequency for the  Ectype asymmetric vibrational mode is very low,  however, only 94 cm  in our model, and it is pos-  sible that this configuration would not be the most  stable in a more refined model or in a solution.   Spin orbit interactions have not been discussed in  the present study, and clearly the spin orbit effect  contributes more or less to all of the observed phe-  nomena. However, the observations considered in  the present study can be interpreted without re-  course to spin orbit effects, and in particular the sec-  ond-order Jahn Teller effect can be used to explain  most of the observed difference in the rms devia-  tions of the Zn O and the Hg O bonds.      Acknowledgement     We gratefully acknowledge the support given to  these investigations by the Swedish Natural Science  Research Council.      References    [1] M. Sandstrom, I. Persson and S. Ahrland, Acta Chem. Scand,  A32 (1978) 607,  [21 B.K. Teo, EXAFS: basis principles and data analysis  (Springer, Berlin 1986) ch. 5.3.  [3] B. Beagley, A. Eriksson, J. Lindgren, 1. Persson, L.G.M.  Pettersson, M. Sandstrom, U. Wahlgren and E.W. White, J.  Phys. Condens. Matter I (1989) 2395.  [4] H. Ito, Y. Ito, F. Kanamaru, K. Koto, N. Matsubayashi, I.  Watanabe and S. Ikeda, Z. Kristall. 181 (1987) 99.  [5] M.A. Hitchman, M. Lichon, R.G. McDonald, P.W. Smith,  R. Stranger, B.W. Skelton and A.H. White, J. Chem. Soc.  Dalton Trans. ([987) 1817.  [6] HA. Jahn and E. Teller, Proc. Roy. Soc. A 161(1937) 220.  [7]1. Watanabe, Department of Chemistry, Osaka University,  Japan, private communication.  [81 T.K. Sham, J.B. Hastings and M.L. Perlman, Chem. Phys.  Letters 83 (1981)391.  54  terpretation.   According to the calculations, a regular structure  has the lowest energy also for the hexasolvate  53  Volume 172, number  CHEMICAL PHYSICS LEITERS  24August 1990  [9] P..A. Bergstrom, J. Lindgren and M. Sandstrom,  unpublishe</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9087215D</aid>
+            <ce:pii>0009-2614(90)87215-D</ce:pii>
+            <ce:doi>10.1016/0009-2614(90)87215-D</ce:doi>
+            <ce:copyright type="unknown" year="1990"/>
+         </item-info>
+         <head>
+            <ce:title>Theoretical calculations on the structure of the hexahydrated divalent zinc, cadmium and mercury ions</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Dan</ce:given-name>
+                  <ce:surname>Strömberg</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute of Inorganic Chemistry, University of Gothenburg, S-412 96 Göteborg, Sweden</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Magnus</ce:given-name>
+                  <ce:surname>Sandström</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Inorganic Chemistry, Royal Institute of Technology, S-100 44 Stockholm, Sweden</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Ulf</ce:given-name>
+                  <ce:surname>Wahlgren</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute of Physics, University of Stockholm, Vanadisvägen 9, S-113 46 Stockholm, Sweden</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="26" month="2" year="1990"/>
+            <ce:date-revised day="26" month="6" year="1990"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">SCF calculations have been performed on the title compounds in order to study the possible reasons for the anomalously large spread in the mean HgO bond distance previously obtained for hydrate mercury (<ce:bold>II</ce:bold>) ions in solution. An energy minimum is found for all three complexes, [M(H<ce:inf loc="post">2</ce:inf>O)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">2+</ce:sup>, M  Zn, Cd or Hg, for a regular T<ce:inf loc="post">h</ce:inf> ground-state nuclear configuration. The larger spread of the HgO distances can be explained in terms of a weak second-order Jahn—Teller effect. An enhanced vibronic coupling leads in the mercury case to larger vibrational amplitudes of the coupling mode without invoking a static distortion. The longer mean HgO distance found for the hydrated mercury (<ce:bold>II</ce:bold>) ion in solution than in a solid hexahydrate can be explained by assuming a larger asymmetry in the distribution of the HgO bonds. Calculations on the [Hg(H<ce:inf loc="post">2</ce:inf>S)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">2+</ce:sup> complex also show an energy minimum for the T<ce:inf loc="post">h</ce:inf> configuration, although in this case the adiabatic potential surface is very flat, and more refined methods of calculation could yield a distored ground-state configuration.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sandström</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Persson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ahrland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>607</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Teo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>EXAFS: basis principles and data analysis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 5.3</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Beagley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ericksson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lindgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Persson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.M.</ce:given-name>
+                                 <ce:surname>Pettersson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sandström</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Wahlgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2395</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kanamaru</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Koto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Matsubayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ikeda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Kristall.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>181</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>99</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Hitchman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lichon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Stranger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Skelton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Dalton Trans.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1817</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Jahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Teller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>161</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1937</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>220</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>I. Watanabe, Department of Chemistry, Osaka University, Japan, private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Sham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Hastings</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Perlman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>391</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P.-Å. Bergström, J. Lindgren and M. Sandström, unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.F.</ce:given-name>
+                                 <ce:surname>Wells</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>5th Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Structural inorganic chemistry</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Clarendon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Brodersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-U.</ce:given-name>
+                                 <ce:surname>Hummel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Comprehensive Coordination Chemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pergamon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>I. Persson, M. Sandström, C. Stälhandske and R. Åkesson, unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Öpik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.L.</ce:given-name>
+                                 <ce:surname>Pryce</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>425</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.B.</ce:given-name>
+                                 <ce:surname>Bersuker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.Z.</ce:given-name>
+                                 <ce:surname>Polinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Vibronic interactions in molecules and crystals</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 3.4</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Pearson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Symmetry rules for chemical reactions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Pearson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Educ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>561</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Åkesson, L.G.M. Pettersson, M. Sandström and U. Wahlgren, unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Strömberg and U. Wahlgren, unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.M.</ce:given-name>
+                                 <ce:surname>Pettersson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Gropen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Wahlgren</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sucher</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>348</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Almlöf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fægri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Grelland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>O. Gropen, O. Boland and U. Wahlgren, unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Strömberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Gropen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Wahlgren</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tatewaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huzinaga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4338</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>L.G.M. Petterson and C.W. Bauschlicher Jr., unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.M.</ce:given-name>
+                                 <ce:surname>Petterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Wahlgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Gropen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2176</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huzinaga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1293</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Benedict</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Gailar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Plyler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1956</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Weast</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:edition>70th Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Handbook of chemistry and physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1989–1990</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>Boca Raton</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>F191</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Irish</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jarv</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>50</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Goggin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wakita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>625</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref>
+                        <ce:textref>b G. Johansson, private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ahrland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kullberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Portanova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.N.</ce:given-name>
+                                 <ce:surname>Maslen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Watson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.c.</ce:given-name>
+                                 <ce:surname>Ridout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C 44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1510</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caminiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>373</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sandström</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sandström</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Persson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Chem. Scand.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,803 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261489850031</prism:url><dc:identifier>doi:10.1016/0009-2614(89)85003-1</dc:identifier><eid>1-s2.0-0009261489850031</eid><prism:doi>10.1016/0009-2614(89)85003-1</prism:doi><pii>0009-2614(89)85003-1</pii><dc:title>Structure of silver microclusters </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>164</prism:volume><prism:issueIdentifier>2-3</prism:issueIdentifier><prism:startingPage>126</prism:startingPage><prism:endingPage>130</prism:endingPage><prism:pageRange>126-130</prism:pageRange><prism:number>2-3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1989-12-08</prism:coverDate><prism:coverDisplayDate>8 December 1989</prism:coverDisplayDate><prism:copyright>Copyright © 1989 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Montano, P.A.</dc:creator><dc:creator>Zhao, J.</dc:creator><dc:creator>Ramanathan, M.</dc:creator><dc:creator>Shenoy, G.K.</dc:creator><dc:creator>Schulze, W.</dc:creator><dc:creator>Urban, J.</dc:creator><dc:description>
+               Abstract
+               
+                  We have studied the structure of Ag microclusters using EXAFS. The measurements were performed over a wide range of cluster sizes at the National Synchrotron Light Source (NSLS), beam line X-18B. The clusters were prepared using the gas aggregation technique and isolated in solid argon at 4.2 K. A strong contraction of the interatomic distances was observed for Ag dimers and multimers. Clusters larger than a mean diameter of 20 Å show a small contraction of the nearest-neighbor distance and a structure consistent with an fcc lattice. By contrast, microclusters between 9 and 16 Å show a small nearest-neighbor expansion and a strong reduction or absence of higher-order shells in the EXAFS spectra. This suggests a different crystallographic structure for these Ag microclusters.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261489850031" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261489850031" rel="scidir"/></coredata><scopus-id>0001553844</scopus-id><scopus-eid>2-s2.0-0001553844</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001553844" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-24T15:19:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261489850031</xocs:eid>
+      <xocs:pii-formatted>0009-2614(89)85003-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261489850031</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(89)85003-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09293</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150926">2015-09-26T13:21:21.461608-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19891208</xocs:date-search-begin>
+      <xocs:year-nav>1989</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>164</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>164</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 164, Issues 2–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>126</xocs:first-fp>
+      <xocs:last-lp>130</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>126</xocs:first-page>
+         <xocs:last-page>130</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19891208</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>8 December 1989</xocs:cover-date-text>
+      <xocs:cover-date-start>1989-12-08</xocs:cover-date-start>
+      <xocs:cover-date-year>1989</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1989 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>STRUCTURESILVERMICROCLUSTERS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MONTANO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>METALCLUSTERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>WHETTEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CHESNOVSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICSCHEMISTRYSMALLCLUSTERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>GANTEFORD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>FARGES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5067</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MONTANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MONTANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>672</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MONTANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2076</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ABRAHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>853</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>ABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>95</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BALERNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>WASSERMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>164</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SRDANOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MONTANOX1989X126</xocs:refkey3>
+         <xocs:refkey4lp>MONTANOX1989X126X130</xocs:refkey4lp>
+         <xocs:refkey4ai>MONTANOX1989X126XP</xocs:refkey4ai>
+         <xocs:refkey5>MONTANOX1989X126X130XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(89)85003-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261489850031</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261489850031</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(89)85003-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-26T13:21:21.461608-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1989-12-08</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261489850031-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489850031/MAIN/application/pdf/f2946ed083f14139ea20f7a5752d9a26/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489850031/MAIN/application/pdf/f2946ed083f14139ea20f7a5752d9a26/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>396532</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261489850031-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489850031/PREVIEW/image/png/482cf97b3918dbd44552c3412391cd16/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489850031/PREVIEW/image/png/482cf97b3918dbd44552c3412391cd16/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>72381</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 164, number 2,3  CHEMICAL PHYSICS LETTERS  8 December 1989   The properties of small clusters lie between the well  established domains of atomic and molecular phys-  ics and that of condensed matter. From a techno-  logical point of view, it is important to understand  the properties of microclusters and their relation to  catalysis, information storage, photographic and  electronic imaging, microcircuitry, and the produc-  tion of better-quality thin films, to name a few ap-  plications. It is crucial to understand how the elec-  tronic and structural properties change as atoms come  together to form dimers, trimers, microclusters, and  so on, until finally a large unit with the full char-  acteristics of the bulk emerges. In small clusters the  surface atoms represent a large fraction of the ma-  terial, and they are expected to play a fundamental  role in determining the crystallographic and elec-  tronic properties of the cluster. It is important to de-  termine the geometrical shape and bond lengths of  such small aggregates of atoms. This knowledge is  necessary to establish a foundation for reliable the-  oretical calculations, and to supply information on  possible structural phase transformations occurring  as a function of cluster size. Optical spectroscopy [1]  and mass spectrometry [2] have been two of the ma-  jor tools employed in the study of small clusters but  they offer limited structural information. Recent ad-  vances in spectroscopic techniques have allowed a  more systematic probing of the variation in elec-  tronic properties with cluster size [3].   The development of new methods to produce well  defined microclusters of metals and semiconductors  has facilitated the study of the physical properties of  such systems. Finding the crystallographic structure  of microclusters is a crucial and challenging prob-  lem. Only a limited number of techniques have been  employed to characterize small clusters: electron dif-  fraction [4], extended X-ray absorption fine struc-  ture (EXAFS) [5 7], and STM [8] in recent times.  The advent of synchrotron radiation sources has  opened new opportunities to perform structural  studies of microclusters. In previous years we have  employed such sources to study metal clusters iso-  lated in rare gas solids [5,6].   In the present work we report a detailed study of  the structure of silver clusters as a function of size.  EXAFS was used as a structural probe to study the  local environment of the silver atoms in the clusters.  We have extended our measurements over a wide  range of sizes, ranging from two to several hundred  atoms. One needs a more specific terminology to dif  126  0009-2614/89/$ 03.50   Elsevicr Science Publishers BY. (North-Holland)  STRUCTURE OF SILVER MICROCLUSTERS    P.A. MONTANO a J  ZHAO b M. RAMANATHAN b,e G.K. SHENOY  W. SCHULZE d and J. URBAN d  a Department of Physics, Brooklyn College of CUNY, Brooklyn, NY 11212, USA  b Department of Physics, West Virginia University, Morgantown, WV 26506, USA  C Argonne National Laboratory, Argonne, IL 60439, USA  ~ Fritz Haber Institute c/er Max-Planck-Gesellschaft, 1000 Berlin 33, Germany      Received 16 June 1989; in final form 20 September 1989         We have studied the structure of Ag microclusters using EXATh. The measurements were performed over a wide range of cluster  sizes at the National Synchrotron Light Source (NSLS), beam line X-t8B. The clusters were prepared using the gas aggregation  technique and isolated in solid argon at 4.2 K. A strong contraction of the interatomic distances was observed for Ag dimers and  multimers. Clusters larger than a mean diameter of 20 A show a small contraction of the nearest-neighbor distance and a structure  consistent with an fcc lattice. By contrast, microclusters between 9 and 16 A show a small nearest-neighbor expansion and a strong  reduction or absence of higher-order shells in the EXAFS spectra. This suggests a different crystallographic structure for these Ag  microcluslers.  Volume 164, number 2,3  CHEMICAL PHYSICS LETTERS  8 December 1989  ferentiate between regions of different cluster sizes.  Clusters composed of only a few atoms have to be  considered as small molecules (dimers, trimers, ec.),  whereas microclusters are small aggregates of atoms  with properties significantly different from the bulk  (the actual size of such microclusters is strongly de-  pendent on the type of element). In this paper we  report X-ray absorption measurements for mole-  cules and microclusters of silver isolated in solid ar-  gon. For comparison purposes, we also report mea-  surements for large particles with a crystallographic  structure similar to bulk silver [6].   The microclusters were prepared using the gas-ag-  gregation technique. A narrow size distribution of  metal and semiconductor clusters can be obtained  using this method [8]. In this technique, the metal  and semiconductor atoms are evaporated from a  Knudsen cell in an argon atmosphere [6]. The clus-  ters are then transported by the gas stream through  an aperture into a liquid-helium cryopump, where  the gas is condensed. A collimated molecular beam  passes through a second aperture on the axis of the  cryopump and is used for gas-phase studies or de-  posited on a substrate. The deposition rate is mea-  sured using a quartz crystal that is introduced pe-  riodically in the path of the cluster beam, The cluster  size distribution for large metal aggregates (mean di-  ameter above 20 A) was determined by transmission  electron microscopy. The sample substrate consisted  of an amorphous carbon film 20 A thick supported  by a Cu grid. The taking of samples for TEM mea-  surements required fast handling (fraction of a sec-  ond) to avoid agglomeration of the silver clusters on  the carbon, which can lead to wrong conclusions  concerning the cluster size distribution. For clusters  smaller than 20 A mean diameter, time-of-flight mass  spectrometty was employed to characterize the size  distribution in the cluster beam. The experiments  were repeated several times to be assured of their re-  producibility. For the EXAFS measurements the  clusters were isolated in argon at 4.2 K, the metal  concentration was around 0.1 at% in order to avoid  coagulation effects in the matrix. The X-ray absorp-  tion and fluorescence spectra were recorded at beam  line X- 1 SB at the National Synchrotron Light Source  (NSLS). An intrinsic Ge solid-state detector was  used for the fluorescence measurements. Energy cal-  ibration was performed using a high-purity foil of Ag  (K absorption edge 25514 eV). The standard was  cooled to liquid-nitrogen temperature and analyzed  to obtain the EXAFS phase shifts and amplitudes.  For each microcluster sample, several measurements  were performed until a good signal-to-noise ratio was  obtained from the added data. Details of the method  of analysis can be found in ref. [61. Measurements  were also performed at the Stanford Synchrotron  Radiation Laboratory to test the reproducibility of  the results, in particular below 20 A mean diameter.   In EXAFS measurements one only obtains infor-  mation about the average nearest-neighbor (nn) dis-  tances. It is not possible to distinguish between the  surface and inner atoms unless the difference in nn  distances is very large. Silver metal has an fcc lattice  with a nn distance of 2.87 A at 78 K. The EXAFS  spectrum of silver at 78 K allows measurements up  to the 5th shell (6.44 A) (see fig. 1). We have ob-  served that silver clusters of average size larger than  20 A mean diameter show a contraction in the nn  distances [6]. Similar results were obtained for sup-  ported gold clusters [10]. This contraction can be  explained qualitatively and quantitatively in terms  of surface stresses [6,9]. We were also able to detect  outer atomic shells from our data and this allowed  us to conclude that the dominant crystallographic  phase was fcc silver (see fig. 1 and table 1). How-  ever, we observed the presence only of an for clusters  smaller than 14 A (mean diameter) and no higher  shells (ann) were detectable by EXAFS (see fig. 1).  Two factors that can contribute to the absence of nan  peaks are (1) the presence of a highly disordered  structure, and (2) a strong reduction in the coor-  dination number due to the presence of a large num-  ber of surface atoms, implying a different shape for  the microclusters than that expected from a simple  fcc lattice. We observed that the mean-square dis-  placements (p5) in the clusters were around 10 20%  larger than in silver metal at 78 K and we attribute  this difference to static disorder since the isolated  clusters are at 4.2 K. For samples containing the  smallest cluster sizes, we also detected the presence  of Ag dimers and multimers (trimers and quadra-  mers). The samples containing very small cluster  sizes show the presence of dimers as well as mono-  mers of silver and result in a large number of argon   silver distances. It is difficult to find a unique model  to describe the positions of the monomer and mul  127  Volume 164, number 2,3  CHEMICAL PHYSICS LETTERS  8 December 1989  Fig. 1. Magnitude of the Fourier transform of Xk3 for silver metal  at 78 K (top). Magnitude of the Fourier transform of Xk3 for 20  A silver clusters (middle). Magnitude of the Fourier transform  ofXk3 for 14 A silver clusters (bottom). The figures arc plotted  without phase shift corrections.      timers in the lattice; but our results suggest that mul-  tiple-site trapping occurs for the monomer and prob-  ably for dimers too. We illustrate this point in fig. 2,  where the magnitude of the Fourier transforms of Xk3  and Xk are shown for microclusters with 9 A mean  diameter. In this figure one can observe the presence  of small clusters as well as silver multimers (few at-  oms). Th peaks above 2.6 A are identified as Ag Ar  distances (any attempt to analyze the data using the  amplitude and phase shifts of a silver backscatterer  gave a poor fit to the data). We have observed sim  ilar effects for small clusters of Cu in argon [7]. The  presence of monomers and multimers was indepen-  dently confirmed by mass spectroscopic methods.  The interatomic distance for the dimer was found to  be 2.47  0.02 A, in good agreement with the optical  measurements [111. This fact can be used as further  evidence of the transferability of the phase shifts from  bulk silver to the microclusters. Multimers of Ag show  a strong contraction of the interatomic distance (see  fig. 3). For clusters larger than 20 A, a significant  contraction of the nn distance was observed [6]. As  the particle size decreases, however, instead of fur-  ther contraction a small expansion is observed for  particles around 16 A mean diameter (fig. 3). This  result was well reproduced in several independent  measurements and we believe that this might be an  indication of structural changes taking place in the  silver microclusters. There is some evidence of the  appearance of icosahedral crystallites in TEM mea-  surements of silver microclusters, although they were  not the only phase present in the samples 1121. The  EXAFS measurements suggest that for these micro-  clusters the most stable crystallographic phase is not  fcc. In general, we expect that for such cluster sizes  higher-order shells would be detectable. However, the  experimental results suggest a static or a dynamic  disorder of the higher shells as a consequence of a  larger number of nnn positions. This type of lattice  arrangement will be expected for icosahedral struc-  tures [7]. In fig. 3 we summarize the variation in nn  distance as a function of size. We have assumed a  diameter of 4.94 A for the dimer (twice the inter-  atomic distance) and 5 to 6 A for multimers (as-  suming a spherical shape) for plotting purposes.  Three regions are discernible: one where molecular  behavior is expected (multimers) with a strong con-  traction of the nn distance, a second one where the  crystallographic structure appears to deviate from  bulk fcc (small expansion or no change in nn dis-  tance), and a third where the clusters have the same  crystallographic structure as the bulk metal and a  smooth contraction of the nn distance is observed as  a function of cluster size. It should be mentioned that  no significant shifts in the energy of the K edge were  detected for the samples studied, which is not sur-  prising since the width of the X-ray transitions is large  at the K edge of silver, and small energy shifts would  be undetectable.  C    I..    z  4  RADIUS (A)  3000  2000  uJ  C  I-  z  4  w  0    I-  z  0  4  1000  4  RADIUS (Al  128  Volume 164, number 2,3  CHEMICAL PHYSICS LETTERS  8 December 1989  Table I  Interatomic distances (R) and coordination numbers (N) for silver metal and clusters of various sizes (the error is given in   parentheses)  Average size  (A)  1st shell    2nd shell    3rd shell  N  R(A)  4th shell    N  R(A)    N  R(A)                    N  R(A)          Ag (78 K)  12  2.87  6  4.06  24  4.96  12  5.74  17  7.6(1.5)  2.86(2)  2.8(0.7)  4.15(3)  13(3)  5.03(3)      15  8(2)  2.90(3)              9  8(2)  286(2)              dimer  0.9(0.2)  2.47(2)              multimers  2.8(0.7)  2.51(3)              .4  w  C.)  z  4  I  Cl)  0    z  z   ++ ++  3.0        2.9        2.8        2.7        2.6        2.5        2.4  0 2 4 6    RADIUS (A)  ~.-MULTlMERS        c DIMER  0 2 4 6   0 50 100 150   MEAN DIAMETER (A)    Fig. 3. Nearest-neighbor distance versus cluster diameter for Ag.  All the points above 25 A are from ref. [6].       In conclusion, we observed a significant contrac-  tion in the nn distances for silver multimers. A re-  gion of cluster sizes exists where the nn distance  shows evidence of small expansion. Clusters larger  than 20 A show a behavior similar to that reported  earlier for large silver clusters [6].     This work is supported at ANL by the US De-  partment of Energy, BES Materials Science, under  contract W-3 1-1 09-ENG-38. We also acknowledge  the support of the DFG.  Ui  0  I-  z  0  4  U.   C  I  0  4  RADIUS (A)    Fig. 2. Magnitude of the Fourier transform of Xk (top) and Xk3  (bottom) for a sample with 9 A average cluster size. The figures  are plotted without phase.shift corrections.  129  Volume 164, number 2,3  CHEMICAL PHYSICS LETTERS  8 December 1989  References    [1] M. Moskovitz, ed., Metal clusters (Wiley, New York, 1987).  [21 R.L. Whetten, D.M. Cox, D.J. Trevor and A. Kaldor, Surface  Sri. 156(1985)8.  [3] 0. Chesnovsky, P.J. Brueat, S. Yang, C.L. Pettiette, Ji.  Crayeraft and RE. Smalley, Physics and chemistry of small  clusters, NATO AS t series B, Vol. 1 58 (Plenum Press, New  York, 1987) p. 1;  0. Ganteford, M. Gausa, K.H. Meiwes-Broer and HO. Lutz,  Faraday Discussions Chem. Soc. 86 (1988)17.  [41 J. Fsrges, M.F. dc Fcraudy, B. Raoult sod G. Torchet, J.  Chem. Phys. 78 (1983) 5067.  [5J PA. Mootano and G.K. Shenoy, Solid State Commun. 35  (1980) 53.  [6] P.A. Mnntano, W. Schulze, B. Tesche, GIL Shenoy and T.J.  Morrison, Phys. Rev. B 30 (1984)672.  [7] P.A. Montano, G.K. Shenoy, E.E. Alp, W. Schulze and J.  Urban, Phys. Rev. Letters 56 (1986) 2076.  [8] D.W. Abraham, K. Saltier, E. Ganz, I-IJ. Msmin, RE.  Thomsen and J. Clarke, Appl. Phys. Letters 49 (1986)853.  [9] H. Abe, W. Schuize and B. Tesehe, Chem. Phys. 47 (1980)  95.  110] A. Balcrna, E. Bernicri, P. Picozzi, A. Reale, 5. Santucci, E.  Burattini and S. Mobilio, Surface Sci. 156 (1985) 209.  [11] H. Wasserman and J.S. Vermaak, Surface Sci. 22 (1970)  164.  [12] V.1. Srdanov and D.S. Pesic, .1. Mot. Spectry. 90 (1981) 27.  [13] 5. Ginrgio and J. Urban, Fourth International Symposium  on Small Particles and Inorganic Clusters, July 1988, in  press.  130  ave assumed a  diameter of 4.94 A for the dimer (twice the inter-  atomic distance) and 5 to 6 A for multimers (as-  suming a spherical shape) for plotting purposes.  Three regions are discernible: one where molecular  behavior is expected (multimers) with a strong con-  traction of the nn distance, a second one where the  crystallographic structure appears to deviate from  bulk fcc (small expansion or no change in nn dis-  tance), and a third where the clusters have the same  crystallographic structure as the bulk metal and a  smooth c</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>89850031</aid>
+            <ce:pii>0009-2614(89)85003-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(89)85003-1</ce:doi>
+            <ce:copyright type="unknown" year="1989"/>
+         </item-info>
+         <head>
+            <ce:title>Structure of silver microclusters</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>P.A.</ce:given-name>
+                  <ce:surname>Montano</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Zhao</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Ramanathan</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G.K.</ce:given-name>
+                  <ce:surname>Shenoy</ce:surname>
+                  <ce:cross-ref refid="AFF3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>W.</ce:given-name>
+                  <ce:surname>Schulze</ce:surname>
+                  <ce:cross-ref refid="AFF4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Urban</ce:surname>
+                  <ce:cross-ref refid="AFF4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Physics, Brooklyn College of CUNY, Brooklyn, NY 11212, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Physics, West Virginia University, Morgantown, WV 26506, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Argonne National Laboratory, Argonne, IL 60439, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Fritz Haber Institute der Max-Planck-Gesellschaft, 1000 Berlin 33, Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="16" month="6" year="1989"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">We have studied the structure of Ag microclusters using EXAFS. The measurements were performed over a wide range of cluster sizes at the National Synchrotron Light Source (NSLS), beam line X-18B. The clusters were prepared using the gas aggregation technique and isolated in solid argon at 4.2 K. A strong contraction of the interatomic distances was observed for Ag dimers and multimers. Clusters larger than a mean diameter of 20 Å show a small contraction of the nearest-neighbor distance and a structure consistent with an fcc lattice. By contrast, microclusters between 9 and 16 Å show a small nearest-neighbor expansion and a strong reduction or absence of higher-order shells in the EXAFS spectra. This suggests a different crystallographic structure for these Ag microclusters.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Moskovitz</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Metal clusters</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Whetten</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Cox</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Trevor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kaldor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Chesnovsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Brucat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Pettiette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Craycraft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Smalley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Physics and chemistry of small clusters</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>158</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>NATO AS1 series B</sb:comment>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ganteford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gausa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Meiwes-Broer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.O.</ce:given-name>
+                                 <ce:surname>Lutz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Farges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>de Feraudy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Raoult</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Torchet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5067</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Montano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Shenoy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Montano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schulze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tesche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Shenoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Morrison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>672</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Montano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Shenoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Alp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schulze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Urban</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2076</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Abraham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sattler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ganz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Mamin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Thomsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>853</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Abe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schulze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tesche</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>95</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Balerna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bernieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Picozzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Reale</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Santucci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Burattini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mobilio</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wasserman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Vermaak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>164</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.I.</ce:given-name>
+                                 <ce:surname>Srdanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Pesic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Spectry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Giorgio and J. Urban, Fourth International Symposium on Small Particles and Inorganic Clusters, July 1988, in press</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

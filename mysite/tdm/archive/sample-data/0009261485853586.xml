@@ -1,0 +1,689 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261485853586</prism:url><dc:identifier>doi:10.1016/0009-2614(85)85358-6</dc:identifier><eid>1-s2.0-0009261485853586</eid><prism:doi>10.1016/0009-2614(85)85358-6</prism:doi><pii>0009-2614(85)85358-6</pii><dc:title>The theoretical equation for the self-diffusion of interacting particles. Relation to the particle pair distribution function </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>118</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>585</prism:startingPage><prism:endingPage>588</prism:endingPage><prism:pageRange>585-588</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-08-16</prism:coverDate><prism:coverDisplayDate>16 August 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Sasaki, Shigeo</dc:creator><dc:description>
+               Abstract
+               
+                  The force constant, K, and the average number of particles interacting with one particle, N, appearing in a previously reported theoretical equation for mean-square displacements of interacting particles should be consistent with those estimated from a pair distribution function. The values K and N obtained from an analysis of the experimental mean-square displacement in polystyrene latex particles agree with those estimated from the particle pair distribution function.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261485853586" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261485853586" rel="scidir"/></coredata><scopus-id>46549091039</scopus-id><scopus-eid>2-s2.0-46549091039</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/46549091039" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011128">2001-11-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011128">2001-11-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-27T02:33:18</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261485853586</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)85358-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261485853586</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)85358-6</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06525</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150928">2015-09-28T05:27:21.147283-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19850816</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1006905600">2001-11-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>118</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>118</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 118, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>585</xocs:first-fp>
+      <xocs:last-lp>588</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>585</xocs:first-page>
+         <xocs:last-page>588</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19850816</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>16 August 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-08-16</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>THEORETICALEQUATIONFORSELFDIFFUSIONINTERACTINGPARTICLESRELATIONPARTICLEPAIRDISTRIBUTIONFUNCTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SASAKI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>664</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>LANNI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>905</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>OTTEWILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>PUSEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>PUSEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>VANMEGEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>383</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1956</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALMECHANICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>KOPSWERKHOVEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2242</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BATCHELOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>PHILLIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1487</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>KIRKWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1935</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>PALMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4171</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SASAKIX1985X585</xocs:refkey3>
+         <xocs:refkey4lp>SASAKIX1985X585X588</xocs:refkey4lp>
+         <xocs:refkey4ai>SASAKIX1985X585XS</xocs:refkey4ai>
+         <xocs:refkey5>SASAKIX1985X585X588XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)85358-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261485853586</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261485853586</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)85358-6</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-28T05:27:21.147283-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-08-16</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261485853586-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485853586/MAIN/application/pdf/1edb95586bd0a10b4270d276a33508f7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485853586/MAIN/application/pdf/1edb95586bd0a10b4270d276a33508f7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>302546</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261485853586-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485853586/PREVIEW/image/png/f50442318a42f6c41514dbe53e00d547/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485853586/PREVIEW/image/png/f50442318a42f6c41514dbe53e00d547/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67311</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 118, munlei 6    CHEMICAL PHYSICS LETTERS    16 August 1985    THE THEORETICAL EQUATION    FOR THE SELF-DIFFUSION OF INTERACTING PARTICLES.    RELATION TO THE PARTICLE PAIR DISTRIBUTION FUNCTION    Shigeo SASAKI1    Institute of Colloid and Surface Science, Clarkson University,  Potsdam, NY13676. USA    Received 23 Apnl 1985; in final form 21 May 1985    The force constant, K, and ihe average number of panicles inleracung with one particle, (.N}, appearing in a previously  reponed theoretical equation for mean-square displacements of i^'-sracting particles should be consistent with those estimated  from a pair distribution funciion- The values K and (TV) obtained from an analysis of ihe experimenial mean-square  displacement in polystyrene latex panicles agr e with those estimated from the panicle pair distribution function.    1. Introduction    Dynamics of interacting Brownian particles, espe-  cially of charged macroinolecules such as polystyrene  latex particles, have been intensively investigated in  the last decade [1] with the aid of dynamic light scat-  tering [2] and fluorescence photobleaching recovery  [3]. Recent investigations have shown that polysty-  rene latex particles exhibit liquid-like and crystal-like  properties strengthening the inter-particle interactions  [4]. It is interesting to clarify the dynamics of the in-  teracting particles in the liquid or crystal state of the  suspensions.    Brown et al. [2] found experimentally the follow-  ing relation between an apparent diffusion constant,  .Dap-, of the particle and the structure factor, S(k),  if the suspension which is in the liquid state:    d In gw^)] /dr|^o = -^W2 = -Do^fSW , (1)    where g^^Ct), DQ and k are a normalized time correla-  tion function of the electric field of the scattered light,  the diffusion constant of a particle in the absence of  particle interaction and a scattering wave vector de-  fined by k = (4ir/\) sin(0/2), where \ and 6 are the  light wavelength in the suspension and the scattering    1 Present address: Milsubishikase  Insuline of Life Sciences,  Minamiooya, Machida, Tokyo, Japan.    0 009-2614/85/S 03.30   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)    angle, respectively. A theoretical proof of this relation  followed on this experimental finding [5]. Pusey [6]  found from analyses of dynamic light scattering data  of polystyrene latex particles that mean-square dis-  placements of interacting particles can be described  by    &lt;KO-^0)]2)    =  o{(l - CtlDt + (a/D [1 - exp(-!Y)]/r}. (2)    By using a computer simulation, the same behavior of  mean-square displacements of particles (whose interac-  ting forces were assumed to be screened Coulombic)  was demonstrated [7].    It has been established by theoretical calculation  that mean-square displacements of Brownian pariieles  can be described by eq. (2) when the hydrodynamic  interaction between particles is neglected and that the  physical meanings of the parameters a and r in eq.  (2) is given by    a = i W/? and T = (1 + i/v)A/? ,    (3)    where  " is a friction coefficient of the particle [8].  Here it is assumed that the elastic force, whose force  constant is K, is exerted on the particle whose position  deviates from a dynamical equilibrium point where  the interaction forcea exerted by the other particles  surrounding it are equilibrated. Evenifinter-partic e    585    Volume US, number 6    CHEMICAL PHYSICS LETTERS    16 August 1985    infc*action forces are repulsive, two neighboring par-  ticles moving further from each other experience an  attractive force because the surrounding particles exert  forces on them to push them back together [9]. In  this case the repulsive forces exerted on these neigh-  boring particles by the surrounding particles are stron-  ger than the repulsive forces between the neighboring  particles. This dynamical situation is approximated  by the elastic force in deriving eq- (3). In order to  establish the validity of eq. (3), it is desirable to ex-  amine the consistency of the values of-K" and (AT) ob-  tained from the analyses of the observed mean-square  displacements using eqs. (2) and (3), with other .  thenno dynamic values obtained experimentally such  as pair distribution functions of particles. It will be  shown here that the values obtained for K and UV&gt; are  consistent with those estimated from the pair distribu-  tion function.    2. Theoretical    We briefly consider the theoretical relation between  the values of K and W) and the pair distribution func-  tion.    The pair distribution function g(r) is defined by [9]    p g(r) Awi3- dr = H"^) 4wr2 dr .               (4)    where nW(r) 4irr2 dr is the average number of parti-  cles in a spherical shell of thickness dr at r when one  particle is at the origin. Here p is the number density  of the particles. Integrating eq. (4) from a, the radius  of a particle, to a given radius r, we can get an average  number of particles,-/V"(r), distributed within a spher-  ical sheU between radii a and r under the condition  that one particle is at the origin:    N(r) = f g(r) 4-nr1 dr .    (5)    We can define the pair distribution function of parti-  cles interacting directly with the central particle,  iTi(r), andg(r) can be considered to be composed of  Sl(r) and another paxt,g^(r):    fr(r)=fri(r)+^(r).                               (6)    We restrict our consideration here to^(r). Let the ef-  fective interaction forces between two neighboring    particles be elastic, as is the case in deriving eq. (3).  According to statistical mechanics [9], the probabil-  ity that the distance between these interacting parti-  cles is between r and r + dr is given by    W2 r*B r 172 exp [-J :(r - i-o)2^ r] dr,    where ro is the dynamic equilibrium distance. The  probability that the particle directly interacting with  the central particle is found in the spherical shell of  thickness dr at r is given by    7 l(r) 4 rr2 dr    = WXK/lirkyT)1^ expl-K(r- r^l- k^ dr.  (7)    Comparing eqs. (4), (6) and (7), we obtain the relation  WWlvk-oTf-^    expt-J^r-ro)2^^ .  (8)    We must mention here that rQ is greater than the peak  position ofg^(r), r^. When r^ is known, rg is given by    ro=r^2(k^T/K)^1 .                      (9)    The S(lc) can be obtained from dynamic light scat-  tering data using eq. (1). The^(r) can be found from  the SQc) using the following relation [10] :    g(r) = 1 + (pli^r)-1 f [5'( fc) - l] k sin(fer) dk . (10)    3. Results and discussion    Here, we compare the values QfNs.nuK obtained    TaMs 1    Physical conditions of the experiment [6] and values    of W and K W    temperature  radius of the particle  number density of particles  average inter-part cle distance    r    a    W&gt;    K    20 C    25 am    1.89 X 1013 cm"3    400 run    9.7 X 103 s-     6.4 X 1 3 s~1    8.8    1.4 X 10~3 dyn an""1    586    Volume 118, number 6    CHEMICAL PHYSICS LEITERS    16 August 1985          r tnm l   l 0    Fig. l. r dependence of^0-),g&lt;r) and^iM. (a)AT(r) calculated  fiom eq. (5) is shown by the solid line. The position where  Nfr) =  V&gt; (=8.8) is indicated by the dotted line. (b) The  solid and dotted lines represent g(r) and gi Cr), respectively.    from the analysis of the measured mean-square dis-  placement of particles using eqs- (2) and (3), and the  g(r) obtained from the observed S(k) using eq. (10).  The experimental data are taken from Pusey's paper  [6]. The physical conditions used in the experiment  and the values of (AO and K aie given in table 1. Fig.  1 shows N(r), g(r) and^(r) as functions ofr. Here,  N(r) is obtained using eq. (5). The position where  N(r) = W) (=8.8) is found to be 485 nm which is near  the observed f ist minimum position ofg{r), r i  (=512 nm), as shown in fig. la. Using eq. (8), theg^(r)  is obtained for the values W) and K shown m table 1.  Here, TO = 388 5 nm is used. This value is given by eq.  (9) for r^ = 373 nm, which is the observed first peak  position ofg(r). Fig. Ib shows that the estimate d^(r)  and the observed g(r) in the region ofr less than r^  aie very similar to each other. These facts indicate  that particles distributed within r^ around the center  particle are all interacting with the center particle and    that the values of UV&gt; and K obtained from the the-  oretical equations (2) and (3) are consistent  wi0ig(r).  This suggests that the theoretical equations (2) and  (3) give reliable estimates of uv&gt; and K of the colloidal  suspension m the liquid state. However, it should be  mentioned that eqs. (2) and (3) are not always valid.  The inter-particle hydrodynamic interaction neglected  in deriving eqs. (2) and (3) has a serious effect on  Brownian motion at higher volume fractions of par-  ticles [11,12]. In the case of suspensions of charged  particles, the inter-particle hydrodynamic interaction  has a less important role in the Brownian motion of  particles than does the electrostatic interaction [13]  because of the longer effective range of the latter in-  teraction. In situations where the inter-particle hydro-  dynamic interaction can be neglected, eqs. (2) and (3)  give a useful analysis of the experimental mean-square  displacements of particles in colloidal suspension in  the liquid state.    It is worth noting that approximate values ofK.  and W&gt; can be obtained from g(r) using the following  equations:    rml    NRSf P g(r) 47iT2 dr ,    (11)    (12)    Eqs. (11) and (12) are valid only when ^(r) vanishes  substantially at r less than r^. g^r) can be calculated  for given two-body interaction forces using a super-  position approximation [14] or a mean spherical  model [15]. We can calculate theoretically expected  mean-square displacements of particles whose two-  interaction forces are known using eqs. (2), (3) and  (11),(12).    Acknowiedgement    The reseach described in this paper was supported  by a grant from Eastman Kodak Company and was  conducted in the laboratory of Professor Josip P.  Kratohv l at Clarkson University.    587    Volume 118, number 6 CHEMICAL PHYSICS LETTERS 16 August 1985    References    [11 W. Hess and R- Klein, Advan. Phys. 32 (1983) 173.  [2] J.C. Brown, P-N. Pusey, J.W. Goodwing and R.H-    OttewiU, J. Phys- AS (1975) 664.  [3] F. LaJu.i and B.R. Ware, Rev. Sei, Instr. 53 (1982) 905.  [4] R.H. Ottewai, Progr. CoUoid Polym. ScL 67 (1980) 71.  [51 P.N. Pusey. J- Phys. AS (1975) 143.  [6] P.N. Pusey, J. Phys. All (1978) 119.  [7] W van M gen and I. Snook, J. Chem. Soc. Faraday    Trans. U 80 (1984) 383  [8] S- Sasaki and M. Mandel, J- Chem. Soc- Faraday    Trails II, to be published    [9] T.L. Hill, Statistical mechanics (McGiaw-Hill, New York,    19565-  [10] S.H. Chen, in: Physical chemistry, VoL aA-- the    liquid state, eds. H. Eyring, D. Henderson and W. Jost    (Academic Press, New York, 1971).  Ill] M.M. Kops-WciIchovcn and H.M. Fijnaut, J. Chem.    Phys. 77 (1982)2242.  [12] G.K. Batchelor, J. Fluid Mech. 76 (1976) 1-  [13] G.D-J. Phfllies, J. Chem. Phys. 81 (1984) 1487.  [14] J G. Kirkwood, J. Chem- Phys. 3 (1935) 300.  [15] R.G. Palmer and J.D Weeks, J. Chem. Phys. 58 (1973)    4171-    588   by the solid line. The position where  Nfr) =  V&gt; (=8.8) is indicated by the dotted line. (b) The  solid and dotted lines represent g(r) and gi Cr), respectively.    from the analysis of the measured mean-square dis-  placement of particles using eqs- (2) and (3), and the  g(r) obtained from the observed S(k) using eq. (10).  The experimental data are taken from Pusey's paper  [6]. The physical conditions used in the experiment  and the values of (AO and K aie given in table 1. Fig.  1 shows N(r), g(r) and^(r) as functions ofr. Here,  N(r) is obtained using eq. (5). The position where  N(r) = W) (=8.8) is found to be 485 nm which is near  the observed f ist minimum position ofg{r), r i  (=512 nm), as shown in fig. la. Using eq. (8), theg^(r)  is obtained for the values W) and K shown m table 1.  Here, TO = 388 5 nm is used. This value is given by eq.  (9) for r^ = 373 nm, which is the observed first peak  position ofg(r). Fig. Ib shows that the estimate d^(r)  and the observed g(r) in the region ofr less than r^  aie very similar to each other. These facts i</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85853586</aid>
+            <ce:pii>0009-2614(85)85358-6</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)85358-6</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>The theoretical equation for the self-diffusion of interacting particles. Relation to the particle pair distribution function</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Shigeo</ce:given-name>
+                  <ce:surname>Sasaki</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute of Colloid and Surface Science, Clarkson University, Potsdam, NY 13676, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Mitsubishikasei Institute of Life Sciences, Minamiooya, Machida, Tokyo, Japan.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="23" month="4" year="1985"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The force constant, <ce:italic>K</ce:italic>, and the average number of particles interacting with one particle, <ce:italic>N</ce:italic>, appearing in a previously reported theoretical equation for mean-square displacements of interacting particles should be consistent with those estimated from a pair distribution function. The values <ce:italic>K</ce:italic> and <ce:italic>N</ce:italic> obtained from an analysis of the experimental mean-square displacement in polystyrene latex particles agree with those estimated from the particle pair distribution function.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Hess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Pusey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Goodwing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Ottewill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>664</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lanni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Ware</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Sci. Instr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>905</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Ottewill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Progr. Colloid Polym. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Pusey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Pusey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>van Megen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Snook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>383</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Faraday Trans. II</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Sasaki and M. Mandel, J. Chem. Soc. Faraday Trans. II, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Statistical mechanics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1956</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>H.</ce:given-name>
+                                       <ce:surname>Eyring</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>D.</ce:given-name>
+                                       <ce:surname>Henderson</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>W.</ce:given-name>
+                                       <ce:surname>Jost</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Physical chemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>8A</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1971</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>the liquid state</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Kops-Werkhoven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Fijnaut</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2242</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Batchelor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Fluid Mech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.D.J.</ce:given-name>
+                                 <ce:surname>Phillies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1487</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Kirkwood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1935</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Palmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Weeks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4171</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

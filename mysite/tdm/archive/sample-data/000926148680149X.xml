@@ -1,0 +1,1468 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148680149X</prism:url><dc:identifier>doi:10.1016/0009-2614(86)80149-X</dc:identifier><eid>1-s2.0-000926148680149X</eid><prism:doi>10.1016/0009-2614(86)80149-X</prism:doi><pii>0009-2614(86)80149-X</pii><dc:title>CO cage recombination in hemoglobin Picosecond photolysis and nanosecond observation</dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>128</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>79</prism:startingPage><prism:endingPage>83</prism:endingPage><prism:pageRange>79-83</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1986-07-11</prism:coverDate><prism:coverDisplayDate>11 July 1986</prism:coverDisplayDate><prism:copyright>Copyright © 1986 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Pin, S.</dc:creator><dc:creator>Valat, P.</dc:creator><dc:creator>Tourbez, H.</dc:creator><dc:creator>Alpert, B.</dc:creator><dc:description>
+               Abstract
+               
+                  Carboxy hemoglobin in aqueous solution was photodissociated by laser pulses of 30 ps at 532 nm. Kinetic studies show that only upon complete photodissociation can the pure CO geminate binding process be revealed. The protein region of the iron cage, where the geminate ligand diffuses before reaching the heme, is smaller than a single subunit and larger than the heme pocket.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148680149X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148680149X" rel="scidir"/></coredata><scopus-id>0347356440</scopus-id><scopus-eid>2-s2.0-0347356440</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0347356440" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011105">2001-11-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011105">2001-11-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:52:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148680149X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(86)80149-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148680149X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(86)80149-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08482</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T05:43:31.189078-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19860711</xocs:date-search-begin>
+      <xocs:year-nav>1986</xocs:year-nav>
+      <xocs:indexeddate epoch="1004918400">2001-11-05T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>128</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>128</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 128, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>79</xocs:first-fp>
+      <xocs:last-lp>83</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>79</xocs:first-page>
+         <xocs:last-page>83</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19860711</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>11 July 1986</xocs:cover-date-text>
+      <xocs:cover-date-start>1986-07-11</xocs:cover-date-start>
+      <xocs:cover-date-year>1986</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1986 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>COCAGERECOMBINATIONINHEMOGLOBIN</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ALPERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>VALAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>AUSTIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5355</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ALBERDING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ARNONE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>NISHIKURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>651</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>PERUTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>54</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>JELKMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>382</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HOFRICHTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2235</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>CHERNOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5606</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CATTERALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>257</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>DLOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6239</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>LINDQVIST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>525</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>LINDQVIST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>811</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>HASINOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2630</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>SAWICKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1533</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SAWICKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7538</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>VALAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>HASINOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>526</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>DUDDEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>NOE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>573</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>GREENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>GIBSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>CAMPBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>DUDDEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>75</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>ALPERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>351</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTERACTIONBETWEENIRONPROTEININOXYGENELECTRONTRANSPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>PIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>997</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>DOSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4831</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>PERUTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>726</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>BOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1904</xocs:ref-pub-year>
+            <xocs:ref-first-fp>402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PINX1986X79</xocs:refkey3>
+         <xocs:refkey4lp>PINX1986X79X83</xocs:refkey4lp>
+         <xocs:refkey4ai>PINX1986X79XS</xocs:refkey4ai>
+         <xocs:refkey5>PINX1986X79X83XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(86)80149-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148680149X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148680149X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(86)80149-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T05:43:31.189078-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1986-07-11</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148680149X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148680149X/MAIN/application/pdf/76e18f669edfeab9f610b3ab2083b9ed/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148680149X/MAIN/application/pdf/76e18f669edfeab9f610b3ab2083b9ed/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>528886</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148680149X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148680149X/PREVIEW/image/png/44b19f02d0973c1cf031e8264d5de8a9/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148680149X/PREVIEW/image/png/44b19f02d0973c1cf031e8264d5de8a9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67230</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 128, number 1 CHEMICAL PHYSICS LETTERS 11 July 1986    CO CAGE RECOMBINATION IN HEMOGLOBIN.  PICOSECOND PHOTOLYSIS AND NANOSECOND OBSERVATION    S. PIN, P. VALAT, H. TOURBEZ and B. ALPERT    Laboratoire de Biologie Physico-Chimique, Unwersite de Pans VII, Tour 42-43,  2, Place Jussieu, 75251 Paris, France  and Insfitut Curie, 91405 Orsay, France    Received 19 March 1986; in final form 3 April 1986    Carboxy hemoglobin in aqueous solution was photodissociated by laser pulses of 30 ps at 532 nm. Kinetic studies show that  only upon complete photodissociation can the pure CO geminate binding process be revealed. The protein region of the iron  cage, where the geminate ligand diffuses before reaching the heme, is smaller than a single subunit and larger than the heme  pocket.    1. Introduction    Since the original observation of geminate iron   ligand binding in hemoglobin [1], the possible effect  of photolysis yield on the kinetics of CO recombina-  tion has never been considered. In this paper, we re-  port a room-temperature study which shows that the  pure nanosecond geminate recombination is observed  only upon complete photodissociation. At low pho-  tolysis levels, an important fraction of CO molecules  imprisoned inside the apoprotein comes into compe-  tition with the geminate association. A distinction  between these two mechanisms is possible from the  kinetic character of the iron ligand reaction.    Ligand detachment produces an electronic desta-  bilization of the heme which lasts  450 ps [2]. Be-  cause CO geminate recombination depends strongly  upon the duration of the excitation pulse [I], CO  recombination was studied in the nanosecond time  range after picosecond photodissociation in order to  disturb as little as possible the geminate religation  process.    The rebinding kinetics so far published [3,4] as-  sumed implicitly that the ligand diffuses in the heme  pocket. However, no studies have been carried out to  determine the real size of the protein domain where  the displacements of the geminate ligand are localized.  In order to obtain the first experimental data on the    size of the geminate recombination domain, indica-  tors (such as inositol hexaphosphate and protons)  bound to the protein region near and far from the  heme pocket [5,6] were used for this study.    2. Experimental    Human hemoglobin (Hb) was prepared according  to the procedure ofPerutz [7]. Stripped hemoglobin  was obtained by passing fresh hemoglobin solution  through an (AG 501 Biorad) resin [8]. This stock  was diluted in the buffer solution to give the desired  concentration (3 X 10~5 M in heme). Inositol hexa-  phosphate (IHP) was purchased as the sodium salt of  phytic acid (Sigma Chemical Co., type V, lot No.  5756) dissolved in the buffer solution when required  in tenfold molar to tetramer Hb excess, and then the  pH was adjusted to 7 or 9. Buffer concentration was  2 X 10-3 M.    Oxygen in the solution was removed under vacu-  um, and CO gas equilibration was performed directly  in the tonometer containing the deoxyhemoglobin  form. Then the fraction of total CO ligation was mea-  sured on the Cary 219 spectrophotometer with a  thermostatted sample compartment. CO dissociation  experiments have been performed under different  conditions ofpH (7 and 9), with and without IHP    0 009-2614/86/S 03.50   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)    79    Volume 128, number 1 CHEMICAL PHYSICS LETTERS 11 July 1986    and temperature (7 35 C). To be sure that the nano-  second recombination involves principally the CO  molecule which returns to its original binding site  (and not some free CO molecules imprisoned inside  the apoprotein or dissolved in the aqueous solvent)  geminate experiments were performed at low CO  concentration and 95% of full CO association.    Photodissociation of HbCO was produced by a  30 ps pulse of the second harmonic (532 nm) from  a YAG Quantel laser. Pulse energies varied from 0.4  to 1 mJ/mm2.    The hemoglobin solutions exposed to the laser  were contained in rectangular cells (2X10 mm)  with the 10 mm side facing the laser beam. Transient  light transmission changes of the irradiated sample  were measured at the Soret absorption band (419  and 438 nm) of the protein across the 2 mm cell  width using a flash-lamp-mohochromator photo-  multiplier apparatus with a time resolution of 5 ns.  The instrumentation utilized was modified from ar-  rangements previously described [1,2]. The photo-  dissociating and interrogating beams overlapped in  the sample volume. The intensity of the flash lamp  was adjusted sufficiently low to avoid an appreciable  photodissociation and yet high enough to permit the  measurement of the variation in absorbance (500 ns  after the excitation pulse) with an accuracy of  0.01  OD for an optical density of 1.2 at 419 nm. The data  shown are the average of 15 shots.    3. Results    The time reaction laws were monitored at the iso-  bestic points (419 and 438 nm) for the slower optical  information on proton structural adjustments as was  shown in previous time-resolved absorption studies  [1,9]. The extent of HbCO dissociation just after  the picosecond laser excitation was monitored as a  function of laser energy. At low laser energy, the am-  plitude of the variation was directly proportional to  the energy. At high intensities, the OD change (due  to CO liberation) was found to reach a limiting value  independent of the laser energy. This limiting OD  change seems to indicate that only 75 80% of the  starting material was photolysed. However, our ex-  perimental time resolution (5 ns) of the kinetic spec-  trophotometer was not sufficient to record the rapid-  ly changing light intensity at the beginning of the li-  gand recombination without distortion, and the above  value therefore represents a lower limit. The light sat-  uration effect demonstrates that the HbCO present  in the irradiated volume was completely dissociated  at high laser energies. We must note, here, that with  shorter pulse widths (10 ps) Chernoffet al. [10] re-  port the same apparent initial photodissociation of  HbCO and see less than 10% CO recombination in  the first 1.2 ns after the photolysis pulse. Our obser-  vation is consistent with this work. Thus, at the high-  est laser energies, we have fitted the experimental  curve, excluding the experimental original OD varia-  tion. At the time t = 0 (time of laser picosecond ex-  citation) we have chosen the real optical amplitude  for 100% of HbCO dissociated complex. At low laser  energies the experimental OD variations were too  small to yield accurate corrected values. We have con-  sidered that the experimental zero-time amplitude  gave, approximately, the original photolysis level.    With these assumptions, the reaction time-course  of the CO recombination for the low levels of photol-  ysis (less than %50%) was best represented by a sum  of two exponentials in accord with previous studies  [9,11,12]. However, the proportion of the compo-  nents and the rate constants vary with the photolysis  level.    At complete photodissociation, the combination  was found to obey the relation:    C,-C,=^exp[-(r/r)1/2],    where Cy is the concentration of deligated hemoglobin  at time t after laser excitation and C , that at the end  of the geminate recombination. Very satisfactory fits  were obtained in all cases. The quality of the fits is  illustrated by the smooth curve superimposed on the  experimental recombination signal (fig. 1).    The discrepancy between the reaction time-courses  at complete and low level of photolysis neatly sepa-  rates the contribution of pure geminate recombination  (heme ligand bond formation) and the back reaction  from some free CO molecules. To minimize the com-  peting reaction of CO molecules trapped inside the  protein medium with the CO molecule which returns  to its original iron binding site (geminate pair recom-  bination process), it was necessary to work at almost  complete photodissociation and at very low ligand  concentration. Indeed, at total photodissociation using    80    Volume 128, number 1 CHEMICAL PHYSICS LETTERS 11 July 1986    AD(,  0.5    Table 1    Temperature dependence (at pH 7) on the percentage of  heme-CO recombined at the end of geminate binding (500  ns after the photolytic pulse). Accuracy measurements:  0.02    Temperature ( C)    Heme-recombined  fraction    &lt;    01    c;    0    s02    ?,1          100                          300    350ns 250    200  TIME    Fig. 1. Experimental and smooth kinetic curves of CO gemi-  nate recombination in human hemoglobin produced by 30  ps Hash photolysis. Experiment was performed at 15 C. Op-  tical measurements were done at 419 nm and ADsoo repre-  sents the absorbance change 500 ns after the photolysis pulse.  This time corresponds at the end of CO geminate binding.  A complete CO dissociation during the excitation time gives  the theoretical absorbance change of A &gt;o-    3 X 10-5 M of hemoglobin and 100 pM of CO, the ra-  tio gives 2 free CO molecules which compete with one  gemmate CO molecule. This ratio reaches 6 when the  level of the photolysis decreases to 40%. It increases  to 20 when the partial photolysis is only 10%. From  this remark and previous work [13,14], we confirm  that at room temperature nanosecond gemmate re-  combination in hemoglobin follows a f1/2 kinetics  as expected for diffusion processes [10,13 15].  Therefore, to obtain the recombination involving  principally the real geminate pair recombination pro-  cess, all data reported in the following were taken  under light saturation conditions.    Next the temperature dependence of the CO gemi-  nate recombination was investigated. Indeed, the gem-  inate CO binding to hemoglobin is simultaneously  controlled by the interaction of the ligand with the    0.77  0.70  0.62  0.55    7  15  25  35    iron and the movement of the ligand through the  protein. Table 1 shows the temperature dependence  of the percentage of heme CO recombined at the  end of geminate ligand rebinding. Contrary to the  kinetics of chemical iron ligand binding, increasing  temperature decreases the geminate ligand binding  yield. This contrast shows that CO geminate recom-  bination in hemoglobin is governed more by diffu-  sion inside the bulk protein than by the chemical  reactivity of the iron.    At different pH values, in the presence as in ab-  sence of IHP, the fractions of the heme which had  recombined with CO at the end of the geminate phase  were also measured. Table 2 summarizes the results  obtained at 20 C with and without IHP, at two pH  values (7 and 9). The values are the average of 12  experiments obtained with different preparations.  The data clearly indicate that only the IHP (at pH  7) perturbs the geminate recombination of the photo-  dissociated HbCO, and slows down the heme CO re-  combination.    Table 2    Effect of IHP on heme-recombined fraction at the end of  CO geminate binding (500 ns after the Hash photolysis).  Experiments were performed at 20 C in bis Tris (pH 7) and  Tris buffer (pH 9). Estimated accuracy  0.02    pH Heme-recombined fraction    without IHP        with IHP    0.65  0.65    0.50  0.65    81    \Volume 128, number 1 CHEMICAL PHYSICS LETTERS 11 July 1986    4. Discussion    Because the fast relaxations reported here ex-  clude structural R-T change contributions (&gt;1 JUS)  [9,16,17] one can consider that in our photolysis  experiment sudden removal of bound CO produces  deoxyhemoglobin with the pre-existent equilibria  between the different quaternary states of the pro-  tein conformations. And over the nanosecond time  period, hemoglobin interactions with the surround-  ing medium (protons and allosteric effectors) appear  quite stable and without changes. In the present  study, monitored at 419 and 438 nm, the isobestic  points for slower tertiary structure changes [1,9],  we can neglect conformational relaxation and con-  sider that all initial parameters (except the CO free  molecules) were unchanged during the CO gemmate  rebinding.    It is known that, at the end of the geminate phase,  the number ofligands which return to their original  binding sites depends significantly on pulse duration  [1,18,19]. Long laser pulses can rephotolyse bound  CO molecules until all of the CO is removed to the  aqueous buffer solution. The higher extent of recom-  bination at the end of the geminate phase in the pres-  ent study at 20 C ( &lt;65%) (see table 2) compared to  that in the nanosecond photolysis (^35%) [1,20] is  probably due to the existence of repetitive HbCO  photodissociation with the nanosecond pulses. In-  deed some studies of CO recombination following  picosecond excitation showed no evidence of recom-.  bination in the first 700 ps after the photolysis  [21,22]. From our CO kinetic data, in a 30 ps pho-  tolysis experiment, any CO molecule can recombine  with its original iron during the picosecond pulse.  So, using photolysis laser pulses of 30 ps fwhm, and  monitoring the CO recombination in the nanosecond  time range, one sees the real geminate religation pro-  cess of the iron-CO pairs. Undoubtedly longer pho-  tolysis flashes perturb the distance between these  partners, disturb the distribution ofligand molecules  inside the protein [1,18,19], and modify the proba-  bility of escape of CO molecules from the protein.  Thus the recombination kinetics depend on the dura-  tion of the excitation light and on its intensity.    The effect of the photolysis time on the binding  kinetics has been clearly demonstrated [1]. In con-  trast, the effect of photolysis level is less clear. First    described by Gibson [23] in the millisecond time  range, it was totally forgotten in shorter-time photo-  dissociation experiments. As suggested by the pres-  ent studies on partially photodeligated Hb, the distri-  bution of ligand molecules throughout the apoprotein  ensemble varies widely with the extent of the photo-  dissociation. And thus, the kinetic character of the  reaction (which is related to the distance between  the iron and the ligand) depends drastically on the  population of ligand molecules which remain inside  the protein.    Thus it becomes obvious that for long pulse widths,  high ligand concentrations or partial photolysis, two  binding processes compete and the kinetics ofligand  rebinding to the iron sites differ from pure cage re-  combination (kinetics in exp( f1^)) and from sim-  ple non-geminate association (kinetics in   exp(-f)).  This competition is the reason why contradictory data  are reported in the literature [1,9,11 13,24].    Nanosecond photodissociation of HbCO has shown  that the escape rate of CO from the protein increases  with the temperature [12,20,25,26]. These rates  should also depend on the irradiation conditions.  Thus, it is important to determine the true geminate  rates and compare the different recombination yields  under different pulsed excitation conditions. Since  picosecond laser pulses can be considered as delta  functions, the real fractional CO recombination at  different temperatures can be calculated (table 1).  It can be seen that a pulse width of a few nanoseconds  [20,26] can drastically perturb the effect of temper-  ature on the geminate recombination.    Results shown in table 2 show that the IHP effec-  tor greatly modifies the geminate recombination. As  demonstrated by XANES spectroscopy [27], the elec-  tronic state of the heme iron is totally independent  of the hemoglobin heterotropic effectors, thus the  modifications in the iron-CO pairs must be essential-  ly dependent upon the diffusion capacity of the ligand  inside the globin. The protein moiety is a strongly in-  homogeneous medium, and the ligand displacements  into this matrix appear very restricted. Thus the dif-  ference in binding affinity of the hemoglobin, with  and without the effectors, could be attributed to some  steric change of the protein interior [12,28,29]. How-  ever, protein structure is not static. X-ray models of  proteins are the space average of a large number of  structures which are interconverting by thermal mo-    82    Volume 128, number 1    CHEMICAL PHYSICS LETTERS    11 July 1986    tion. The fluctuations in the polypeptide chain con-  formation would be sufficient to create a high degree  of randomness to the ligand movements on the 100  ns timescale. AUosteric effectors could alter the mo-  lecular motions of the apoprotein, and in this way  change the rates of geminate ligand binding. However  pH changes, which shift the S-shape ligandation curve  (Bohr effect) [30], do not affect the CO geminate re-  ligation. These heterotropic interactions   which in-  fluence the ligand binding equilibria   apparently act  too far from the heme [6] to perturb the CO geminate  recombination. Indeed in the geminate regime, the  iron and ligand are coupled in a spatial cage with di-  mensions smaller than those of the apoprotein. CO  geminate recombination (observed in the room-tem-  perature range) must reflect the continuous rearrange-  ments of the amino-acid residues relatively close to  the heme. In addition, it is known that IHP binding  to hemoglobin creates some perturbations in the ter-  tiary structure of the (3 chains which extend to the  heme region [5]. These considerations indicate that  the size of the iron CO cage is much smaller than  the volume of a hemoglobin subunit, restricted to a  small sphere centered on the heme iron, and larger  than the heme pocket, itself. Thus ligand diffusion  inside the hemoglobin and the rate of escape of CO  from this protein should depend principally on inter-  nal flexibility of this cage region. Raising tempera-  ture increases the protein fluctuations and favors  the ligand random diffusion process, thus resulting  in a smaller fraction of CO geminate molecules which  rebind the iron. It thus appears that the CO gemmate  molecules are never restricted to displacement inside  the heme cavity alone, but enter the globin matrix  around this heme cavity.    References    [1] B. Alpert, S. El Mohsni, L. Lindqvist and F. Tfibel,    Chem.Phys. Letters 64 (1979) 11.  [2] P. Valat, H. Tourbez and B. Alpert, Laser Chem. 1    (1982)45.  [3] R.H. Austin, K.W. Beeson, L. Eisenstein,    H. Frauenfelder and I.C. Gunsalus, Biochemistry 14    (1975)5355.    [4] M. Alberding, S.S. Chan, L. Eisenstein,  H. Frauenfelder, D. Good, I.C. Gonsalus,  T.M. Nordmund, M.F. Perutz, A.H. Reynolds and  L.B. Sorensen, Biochemistry 17 (1978) 43.  [5] A. Arnone and M.F. Perutz, Nature 249 (1974) 34.  [6] K. Nishikura, Biochem. J. 173 (1978) 651.  [7] M.F. Perutz, J. Crystal Growth 2 (1968) 54.  [8] W. Jelkmann and C. Bauer, Anal. Biochem. 75 (1976)    382.  [9] J. Hofrichter, J.H. Sommer, E.R. Henry and    W.A. Eaton, Proc. Natl. Acad. Sci. US 80 (1983) 2235.  [10] D.A. Chernoff, R.M. Hochstrasser and A.W. Steele,    Proc. Natl. Acad. Sci. US 77 (1980) 5606.  [ 11] R. CatteraU, D.A. Duddell, R.J. Morris and    J.T. Richards, Biochim. Biophys. Acta 705 (1982)  257.  [12] D.D. Diott, H. Frauenfelder, P. Langer, H. Roder    and E.E. Dilorio, Proc. Natl. Acad. Sci. US 80 (1983)  6239.  [13] L. Lindqvist, S. El Mohsni, F. Tfibel, B. Alpert and    J.C. Andre, Chem. Phys. Letters 79 (1981) 525.  [14] L. Lindqvist, M.P. Fontaine, E. Breheret, B. Alpert    and J.C. Andre, Photochem. Photobiol. 2 (1983) 811.  [15] B.B. Hasinoff, J. Phys. Chem. 82 (1978) 2630.  [16] C.A. Sawicki and Q.H. Gibson,J. Biol. Chem. 251    (1976)1533.  [ 17 ] C.A. Sawicki and Q.H. Gibson, J. Biol. Chem. 252    (1977)7538.    [18] P. Valat and B. Alpert, Laser Chem. 4 (1985) 173.  [19] B.B. Hasinoff, J. Phys. Chem. 85 (1981) 526.  [20] D.A. Duddel, R.J. Morris and J.T. Richards, Biochim.    Biophys. Acta 621 (1980) 1.  [21] L.J. Noe, W.G. Eisert and P.M. Rentzepis, Proc. Natl.    Acad. Sci. US 75 (1978) 573.  [22] B.I. Greene, R.M. Hochstrasser, R.B. Weisman and    W.A. Eaton, Proc. Natl. Acad. Sci. US 75 (1978) 5255.  [23] Q.H. Gibson, Biochem. J. 71 (1959) 293.  [24] B.F. Campbell, D. Magde and V.S. Sharma, J. Mol.    BioL 179 (1984) 143.  [25] D.A. Duddel, R.J. Morris and J.T. Richards, J. Chem.    Soc. Chem. Commun. (1979) 75.  [26] B. Alpert, L. Lindqvist, S. El Mohsni and P. Tfibel, in:    Interaction between iron and protein in oxygen and    electron transport, ed. C. Ho (North-Holland,    Amsterdam, 1982) p. 351.  [27] S. Pin, P. Valat, R. Cortes, A. Michalowicz and    B. Alpert, Biophys. J. 48 (1985) 997.  [28] W. Doster, D. Beece, S.P. Bowne, E.E. Dilorio,    L. Eisenstein, H. Frauenfelder, L. Reinisch,    E. Shyamsunder, K.H. Winterhalter and K.T. Yue,    Biochemistry 21 (1982) 4831.  [29] M.F. Perutz, Nature 228 (1970) 726.  [30] C. Bohr, K.A. Hasselbach and A. Krogh, Skand. Arch.    PhysioL 16 (1904) 402.    83  ing equilibria   apparently act  too far from the heme [6] to perturb the CO geminate  recombination. Indeed in the geminate regime, the  iron and ligand are coupled in a spatial cage with di-  mensions smaller than those of the apoprotein. CO  geminate recombination (observed in the room-tem-  perature range) must reflect the continuous rearrange-  ments of the amino-acid residues relatively close to  the heme. In addition, it is known that IHP binding  to hemoglobin creates some perturbations in the ter-  tiary structure of the (3 chains which extend to the  heme region [5]. These considerations indicate that  the size of the iron CO cage is much smaller than  the volume of a hemoglobin subunit, restricted to a  small sphere centered on the heme iron, and larger  than the heme pocket, itself. Thus ligand diffusion  inside the hemoglobin and the rate of escape of CO  from this protein should depend principally on inter-  nal flexibility of this cage region. Raising tempera-  ture increases the protein fluctuations and favors  the ligand random diffusion process, thus resulting  in a smaller fraction of CO geminate molecules which  rebind the iron. It thus appears that the CO gemmate  molecules are never restricted to displacement inside  the heme cavity alone, but enter the globin matrix  around this heme cavity.    References    [1] B. Alpert, S. El Mohsni, L. Lindqvist and F. Tfibel,    Chem.Phys. Letters 64 (1979) 11.  [2] P. Valat, H. Tourbez and B. Alpert, Laser Chem. 1    (1982)45.  [3] R.H. Austin, K.W. Beeson, L. Eisenstein,    H. Frauenfelder and I.C. Gunsalus, Biochemistry 14    (1975)5355.    [4] M. Alberding, S.S. Chan, L. Eisenstein,  H. Frauenfelder, D. Good, I.C. Gonsalus,  T.M. Nordmund, M.F. Perutz, A.H. Reynolds and  L.B. Sorensen, Biochemistry 17 (1978) 43.  [5] A. Arnone and M.F. Perutz, Nature 249 (1974) 34.  [6] K. Nishikura, Biochem. J. 173 (1978) 651.  [7] M.F. Perutz, J. Crystal Growth 2 (1968) 54.  [8] W. Jelkmann and C. Bauer, Anal. Biochem. 75 (1976)    382.  [9] J. Hofrichter, J.H. Sommer, E.R. Henry and    W.A. Eaton, Proc. Natl. Acad. Sci. US 80 (1983) 2235.  [10] D.A. Chernoff, R.M. Hochstrasser and A.W. Steele,    Proc. Natl. Acad. Sci. US 77 (1980) 5606.  [ 11] R. CatteraU, D.A. Duddell, R.J. Morris and    J.T. Richards, Biochim. Biophys. Acta 705 (1982)  257.  [12] D.D. Diott, H. Frauenfelder, P. Langer, H. Roder    and E.E. Dilorio, Proc. Natl. Acad. Sci. US 80 (1983)  6239.  [13] L. Lindqvist, S. El Mohsni, F. Tfibel, B. Alpert and    J.C. Andre, Chem. Phys. Letters 79 (1981) 525.  [14] L. Lindqvist, M.P. Fontaine, E. Breheret, B. Alpert    and J.C. Andre, Photochem. Photobiol. 2 (1983) 811.  [15] B.B. Hasinoff, J. Phys. Chem. 82 (1978) 2630.  [16] C.A. Sawicki and Q.H. Gibson,J. Biol. Chem. 251    (1976)1533.  [ 17 ] C.A. Sawicki and Q.H. Gibson, J. Biol. Chem. 252    (1977)7538.    [18] P. Valat and B. Alpert, Laser Chem. 4 (1985) 173.  [19] B.B. Hasinoff, J. Phys. Chem. 85 (1981) 526.  [20] D.A. Duddel, R.J. Morris and J.T. Richards, Biochim.    Biophys. Acta 621 (1980) 1.  [21] L.J. Noe, W.G. Eisert and P.M. Rentzepis, Proc. Natl.    Acad. Sci. US 75 (1978) 573.  [22] B.I. Greene, R.M. Hochstrasser, R.B. Weisman and    W.A. Eaton, Proc. Natl. Acad. Sci. US 75 (1978) 5255.  [23] Q.H. Gibson, Biochem. J. 71 (1959) 293.  [24] B.F. Campbell, D. Magde and V.S. Sharma, J. Mol.    BioL 179 (1984) 143.  [25] D.A. Duddel, R.J. Morris and J.T. Richards, J. Chem.    Soc. Chem. Commun. (1979) 75.  [26] B. Alpert, L. Lindqvist, S. El Mohsni and P. Tfibel, in:    Interaction between iron and protein in ox</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8680149X</aid>
+            <ce:pii>0009-2614(86)80149-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(86)80149-X</ce:doi>
+            <ce:copyright type="unknown" year="1986"/>
+         </item-info>
+         <head>
+            <ce:title>CO cage recombination in hemoglobin</ce:title>
+            <ce:subtitle>Picosecond photolysis and nanosecond observation</ce:subtitle>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Pin</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Valat</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Tourbez</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Alpert</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Laboratoire de Biologie Physico-Chimique, Université de Paris VII, Tour 42-43, 2, Place Jussieu, 75251 Paris, France</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation>
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Institut Curie, 91405 Orsay, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="19" month="3" year="1986"/>
+            <ce:date-revised day="3" month="4" year="1986"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Carboxy hemoglobin in aqueous solution was photodissociated by laser pulses of 30 ps at 532 nm. Kinetic studies show that only upon complete photodissociation can the pure CO geminate binding process be revealed. The protein region of the iron cage, where the geminate ligand diffuses before reaching the heme, is smaller than a single subunit and larger than the heme pocket.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>El Mohsni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lindqvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tfibel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Valat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tourbez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Laser Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Austin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Beeson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Eisenstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Frauenfelder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.C.</ce:given-name>
+                                 <ce:surname>Gunsalus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5355</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alberding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Eisenstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Frauenfelder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Good</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.C.</ce:given-name>
+                                 <ce:surname>Gonsalus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Nordmund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Perutz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Reynolds</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Sorensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Arnone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Perutz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>249</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nishikura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>173</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>651</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Perutz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>54</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jelkmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>382</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hofrichter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Sommer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Henry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Eaton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. US</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2235</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Chernoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Hochstrasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. US</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5606</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Catterall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Duddell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Richards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochim. Biophys. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>705</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>257</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Dlott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Frauenfelder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Langer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Roder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Dilorio</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. US</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6239</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lindqvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>El Mohsni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tfibel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Andre</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>525</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lindqvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Fontaine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Breheret</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Andre</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Photochem. Photobiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>811</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Hasinoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2630</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Sawicki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Gibson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biol. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>251</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1533</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Sawicki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Gibson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biol. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>252</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7538</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Valat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Laser Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Hasinoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>526</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Duddel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Richards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochim. Biophys. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>621</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Noe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Eisert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Rentzepis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. US</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>573</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.I.</ce:given-name>
+                                 <ce:surname>Greene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Hochstrasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Weisman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Eaton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. US</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Gibson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.F.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Magde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.S.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Duddel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Richards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>75</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lindqvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>El Mohsni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Tfibel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Ho</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Interaction between iron and protein in oxygen and electron transport</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>351</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Valat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cortes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Michalowicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alpert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>997</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Doster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Beece</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Bowne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>DiIorio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Eisenstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Frauenfelder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Reinisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Shyamsunder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Winterhalter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Yue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4831</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Perutz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>228</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>726</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bohr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Hasselbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Krogh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Skand. Arch. Physiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1904</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>
