@@ -1,0 +1,775 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261474853315</prism:url><dc:identifier>doi:10.1016/0009-2614(74)85331-5</dc:identifier><eid>1-s2.0-0009261474853315</eid><prism:doi>10.1016/0009-2614(74)85331-5</prism:doi><pii>0009-2614(74)85331-5</pii><dc:title>Multi-particle effects in second harmonic generation </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>25</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>405</prism:startingPage><prism:endingPage>408</prism:endingPage><prism:pageRange>405-408</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1974-04-01</prism:coverDate><prism:coverDisplayDate>1 April 1974</prism:coverDisplayDate><prism:copyright>Copyright © 1974 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Samson, R.</dc:creator><dc:creator>Pasmanter, R.A.</dc:creator><dc:description>
+               Abstract
+               
+                  It is shown that at certain fluid densities the intensity of two polarizations of the second harmonic light scattered by simple fluids is essentially due to a three-body effect. In principle this opens the possibility of direct spectral observation of triplet correlation functions. The order of magnitude of the scattered intensity is estimated and it is concluded that with the present experimental techniques, the effect probably is not observable. These computations are based on a microscopic expression for the second harmonic intensity, which retains multipolar interactions between the particles to all orders.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261474853315" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261474853315" rel="scidir"/></coredata><scopus-id>22244431794</scopus-id><scopus-eid>2-s2.0-22244431794</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/22244431794" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-30T11:15:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261474853315</xocs:eid>
+      <xocs:pii-formatted>0009-2614(74)85331-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261474853315</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(74)85331-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05489</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151002">2015-10-02T18:27:38.711717-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19740401</xocs:date-search-begin>
+      <xocs:year-nav>1974</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>25</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>25</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 25, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>30</xocs:sort-order>
+      <xocs:first-fp>405</xocs:first-fp>
+      <xocs:last-lp>408</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>405</xocs:first-page>
+         <xocs:last-page>408</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19740401</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 April 1974</xocs:cover-date-text>
+      <xocs:cover-date-start>1974-04-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1974</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1974 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>MULTIPARTICLEEFFECTSINSECONDHARMONICGENERATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SAMSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BLOEMBERGEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NONLINEAROPTICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>KIELICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1295</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>RAVECHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3987</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>RAVECHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4999</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>WEISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MOUNTAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LANDAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>215</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CLASSICALTHEORYFIELDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>PASMANTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>470</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>MCLEAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3682</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ARGONHELIUMRAREGASES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PRESENTEDVANDERWAALSCENTENNIALCONFERENCESTATISTICALMECHANICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>TERHUNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>681</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>281</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14"/>
+         <xocs:ref-info refid="BIB15"/>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>873</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SAMSONX1974X405</xocs:refkey3>
+         <xocs:refkey4lp>SAMSONX1974X405X408</xocs:refkey4lp>
+         <xocs:refkey4ai>SAMSONX1974X405XR</xocs:refkey4ai>
+         <xocs:refkey5>SAMSONX1974X405X408XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(74)85331-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261474853315</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261474853315</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(74)85331-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-02T18:27:38.711717-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1974-04-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261474853315-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474853315/MAIN/application/pdf/7386d3f1fa5a28dbd588af175b003a6a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474853315/MAIN/application/pdf/7386d3f1fa5a28dbd588af175b003a6a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>446754</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261474853315-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474853315/PREVIEW/image/png/b88358fe8e777dd1a9ac8a05ff9b4955/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474853315/PREVIEW/image/png/b88358fe8e777dd1a9ac8a05ff9b4955/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>81012</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>1 April 1974  Volume 25, number 3  CHEMICAL PHYSICS LEITERS  MULTI-PARTICLE EFFECFS IN SECOND HARMONIC GENERATION    R. SAMSON  Chemical Physics Deparr,nenr, Weizmann Institute of Science, Reho rot, Israel    and  R.A. PASMANTER    Chemical Physics Department, Weizmann !nsriture of Science, Rehovot, Israel  and van der Waals Laboratorium, University of Amsterdam, Amsterdam, The Netherlands      Received 9 December 1973       It is shown that at certain fluid densities the intensity of two polarizations of the second harmonic light scattered  by simple fluids is essentially due to a three-body effect. In principle this opens the possibility of direct spectral ob-  servation of triplet correlation functions. The order of magnitude of the scattered intensity is estimated and it is con-  cluded that with the present experimental techniques, the effect probably is not observable. These computations aie  based on a microscopic expression for the second harmonic intensity, which retains multipolar interactions between  the particles to all orders. -       It is well known- that some features observed in methods of measuring three-particle correlation func-  light scattering experiments are completely due to fions in simple fluids: Weiss proposed translational  molecular cooperative effects, a good example being absorption [51 and Mountain depolarized (linear)  depolarized light scattering by atomic fluids (see ref. light scattering neat the critical point [6j. One of the  [1] for a recent review). For the generation of second reasons that make triplet correlation functions inter-  harmonic radiation, it is a necessary condition that esting is that in their detailed structure they might he  the system should not have a center of inversion [21. sensitive to the formation of bound states, such as is  Hence, in fluids of centrosymmetric molecules, sec- possible in three-body collisions.  ond harmonic generation is a two (and more) particle The first question one has to ask is whether the  phenomenon [3], while in atomic fluids it must be a three-body effect referred to above, is not obliterated  three (and more) particle effect. This opens up tue by other, competing processes. The non-linear suscep-  prospect of using harmonic generation in atomic tibility(3~ss that relates the polarization Pat 2c~~ to the  fluids as a means for obtaining information about applied electric field E oscillating at a frequency w    - three-body correlations. To date th~ :;~ost established  method for obtaining the triplet distribution function P ~3~B: EE (1)  is to deduce it from the pair distribution function by  means of closure relations E41. The disadvantage of vanishes for systems with inversion symmetry.  this method resides in its indirectness: one needs very If one includes quadrupolar coupling to the mci-  accurate data for the pair distribution function in dent field and quadrupolar polarization (2~, there  order to get reliable results for the triplet distribution are two additional contributions at the second har-  function. In contrast, second harmonic generation by monic frequency that should be taken into account:  simple fluids, if measurable, would provide a direct  probe of triplet correlations. In the recent literature P‘ = t4~C : EVE (2)  there have appeared a number of suggestions for direct   - 405  Volume 25, number 3 - CHEMICAL PHYSICS LE~FERS 1 AprIl 1974                respectively. The -susceptibilities (~)C and (4)D do not  vanish for spherical systems, thus making second har-  monic generation by a single spherical particle possible.  However, at 900 scattering, for symmetry reasons,  these single-particle processes do not contribute, both  for the polarized (VV) and the depolarized (VH) com-  ponents when the incoming beam is polarized per-  pendicular to the plane of scattering [7]. This still  leaves unimpaired the two-body contributions from  eqs. (2) and (3). The latter will be calculated below  and will be shown to be smaller than the three-body  contributions to eq. (1) at certain fluid densities.   A microscopic expression for the non-linear suscep-  tibility (3)Bof the fluid can be derived from a Kubo-  type response theory in the same way as was done  previously for the linear susceptibility [81, namely by  expanding the polarization of the dielectric in powers  of the interaction with the external field. One thus ar-  rives at the expression  (3)~ = [(hwj+L)4Mki, [M_k., (hw~_Ly‘i14~] 1. (4) B~‘ = E B~2‘        a,b,c  Here, coi, ~ k1 and le5 are the frequencies and wave- where  vectors of the incident and the scattered optical fields       = ~ (7  andMk is the kth Fourier component of the dipole  abc b a c ha be‘  moment density operator. The fluid liouvillian L in-  eludes both single-particle terms and interactions. The (2)Aa is the polarizabiity of atom a  latter feature makes expression (4) a suitable starting  point for cluster expuilsiumis. Technically, titis is done    = Ip~, ~rt~L~Y‘p~J, (8)  by expanding the resolvents (1~w+L)‘ in powers of  the intermolecular potential V. The coefficients in ~4~G is very similar in structure to the tensors  this cluster expansion are expressed in terms of molec- and (4)Ddefined in eqs. (2) and(3) and is glven by  ular quantities (hyperpolarizabilities), the accurate  calculation of which is a vesy complex problem, but    = L wj+L~Y‘q~, L~‘(s~a~“~ 11  whose orders of magnitude oan be estimated.    The pair contribution ~31B, to (3)Bis obtained hy      + E~tzwj+J~aY‘p~, ~ (9~  expanding the resoivents (hw±Ly“1 to first order in  V. For centrosymmetric molecules this is the tirst non- Everywhere, Greek superscripts stand for cartesian  vanishing contribution. For V a muhipole series is components, while Latin subscripts indicate molecular  chosen, so that electronic cloud overlap effects are ordinal numbering. The cxponentials appearing in Mk  completely neglected. For reasons of parity invariance, have been put equal to unity, since the distances be-  the dipole—dipole interaction (Ebb pa,- (2)Tab~Mb) tween correlated particles are much less than one  does not contribute to ~ For centrosymmetric wavelength of the laser light. The physical process  molecules with a permanent quadrupole moment, the described by eq. (7) is the following: particle a has    406    lowest order contribution comes from the dipole—    quadrupole interaction (~~(2)q~ (3)Uab ‘TMb‘ ~u3 and   (3) (2)q~ are the dipole and quadrupole moments of mol    ecule a). In this case one obtains essentially the phe    nomenological expression of Kielich et al. [3]:   = ~ - ~3~ab ~2~hi, (a*b), (5)   a,b    where (4) Fa is ihe fourth rank tensor associated with  third harmonic generation induced in a molecule a at  frequency 2w1 by the square of the external electric  field E, in the presence of the quadrupole field  ~3~Uab :(2)q~ of molecule b. In order to obtain eq. (5)  from (4), (Z)q has been treated as a c-number. The  slowness of center of mass motion as compared to  electronic motion makes it possible to take (~) U also  as a c-number.   In order to get the triplet contribution ~3~B3 (the  first non-vanishing contribution for atomic systems)  to (3)B one has to expand at least to second order in  V. Now the lowest multipole contribution is a term  bilinear in the dipole—dipole and the dipole—quadru-  pole interaction. Thus one obtains for (~)B~:    (a#b, OE c, b rc), (6)  and    (2)Q = ~4~D: EE,  1April1974  Volume 25, number 3  CHEMICAL PHYSICS LETTERS - - -  1.25 pA2tD~2Y)2k~/d3, - (14~  an induced dipole moment at frequency w~ particle  b a quadrupole moment at frequency w~ 2w~ in-  duced through a bilinear interaction with the exter-  nal field and the field generated by the dipole of par-  ticle a; this quadrupole moment induces a dipole mo-  ment in particle e which finally radiates at frequency     Since the intensity of the scattered light is related  to the self-correlation of the- polarization tf the me-  dium, it contains a three-body contribution    (B~B~)    (in the case of VV-scattering). In addition, there are  four-body terms  (B~B~) (c~d)    and similarly five- and six-body terms. Expression  (11) is not the only four-body contribution to the  intensity. The cluster expansion of ~3~B also yields a  four-body term (3)B4, however its self-correlation  can easily be shown to be much smaller than (11).  The actual calculation of these ensemble averages in-  volves the integration of functions of the type    ~b~~c~‘b‘ ~1~‘~‘ weighted by a suitable distribution  function over the multi-dimensional molecular con-  figuration space (e.g., for the three-body term this is-  a six-dimensional integration).   Employing a hard sphere distribution function and  using Monte Carlo integration techniques, we ob-  tained for the intensity per particle 13 due to the  three-body term:    13 OE (B3)2 = (12.5±2.7) (J,A2Gmr/d4)2,  where k. is the wave number of the incident light  (k1 10~ A‘). Since ~4)C, (4)D and (4)Ghave the    same order of magnitude, the three-body intensity    due to (12) is seen to predominate over the two-body    intensity due to (14) already at densities of approxi    mately I amagat.      In the evaluation of the absolute intensity, several    difficulties have to be faced. For G~Z of the noble    gases there exist neither experimental nor theoretical   (10) data. Analysis of the formulae (8) and (9) provides    the following crude order of magnitude estimate for   GrZZZ =(AZZ)2/e, (15)    where e is the elementary electric charge. In order of  magnitude this approximation agrees with SCF results  of McLean and Yoshimine on linear molecules [9].  Taking as an example xenon* (A ‘4 A3 [10], d394A  [11]) at llquiddensity(p=(4.4A)3 [101), one obtains:   (B3)2 =6.6X10~5 cm9 erg‘. (16)  (11)    This is about 1/500 times the intensity measured for    non-centrosymmetric molecules and approximately    1/25 tintes that of centrosymmetric molecules [12].      This result already makes it doubtful whether the    measurement is te~sible at all. 1-lowever, it still leaves    the possibility open, because of:    (a~ the uncertainty in the exact numerical value of    G~~    (b) the hitherto unknown influence of a more realistic   (12) particle distribution function than the hard core func    tion, employed in our calculations.  where p is the particle number density and d is the    The following considerations diminish the feasibil  hard sphere diameter.  ity of the experiment even further:    As was mentioned before, there are two-body con- (a) The small value ofB3 obtained from eq. (12)  tributions from the quadrupole terms in eqs. (2) and forces us to take a high value for the density p. How-  t,3). In the same way as ~3)B was expanded to find  ever, when dealing with such densities one can no  (3~B3,14)D can be expanded to yield  longer neglect the four (and more) particle terms such    as eq. (11). By analogy to what happens in depolar     = E ~2~Aa - ~2~Tab - ~4~Dh. (13) ized (linear) scattering by simple fluids, one expects        a,b -  these terms to reduce strongly the observed intensity    [1, 13]. in depolarized (linear) light scattering by sim  There is a similar result for ~ The intensity per  particle due to (13) is, in the VV case:  * Among the noble games, Xe gives the largest result for B3.   407  CHEMICAL PHYSICS LETTERS  1April1974  - Volume 25, number 3  - pie fluids at liquid density, the observed intensity is  about 1/50 times the extrapolated pair contribution  [13]. This effect is essentially due to the fact that  upon introducing more particles to the system, the  degree of anisotropy decreases. The maximuminten-  sity might be attained at some intermediate density,  but in order to establish the maximum intensity and  the density at which it occurs, orme would need accur-  ate numerical results on the four-, five- and six-body  terms as well.  (b) Since close collisions constitute the major contri-  bution to the ensemble average (10), the inclusion of  cloud overlap effects could modify our results con-  siderably. These effects are expected to diminish the  total intensity, just as they do in the case of depolar-  ized light scattering by simple fluids [1], since they  make the overall electronic density of the cluster  more isotropic.  (e) To our best knowledge, the only attempt to per-  form measurements of second harmonic generation  by simple fluids was done by Maker [14]. FIe claims  to observe dielectric breakdown in Ar at rather low  optical densities (approximt~te1y 5% of that employed  in experiments on water), long before second harmonic  generation becomes observable.   While this work was in progress, we learnt that  Drs. Gelbart and Heller were studying the same pro-  blems [1, 15].     Part of this research was supported by the Dutch  Foundation for the Fundamental Research on Matter  (F.O.M.).      Note added in proof -     In the meantime the work by Dr. Gelbart on sec-  ond harmonic generation by atomic fluids has been pub-  lished [16]. InGelbart‘s work, second harmonic radia-  tion by simple fluids is ascribed to three-body clusters -  Various semi-empirical models and ab initio computer -  calculations of the three-body hyperpolarizability  (our (3)B3) are presently being considered by Dr.  Gelbart. These calculations would include electronic  cloud distortion effects, that have been neglected in  our work      References    [il W.M. Gelbart, Depolarized Light Scattering by Simple  Fluids, Advan. Chem. Phys. (1974), to be published.  [21 N. l3loembergen, Non-linear optics (Benjamin, New  York, 1965).  [3] S. Kielich, J.R. Lalanne and F.B. Martin, Phys. Rev.  Letters 26 (1971) 1295.  [4] H.J. Raveche and R.D. Mountain, J. Chem. Phys. 57  (1972) 3987:  H.J. Raveche, R.D. Mountain and W.B. Streett, J. Chem.  Phys. 57 (1972) 4999.  [5] S. Weiss, Chem. Phys. Letters 19 (1973) 41.  [6] R.D. Mountain, J. Phys. (Paris) 33, Colloque C-1 (1972)  265.  [7] L.D. Landau and E.M. Lifshitz, The classical theory of  fields, 2nd Ed. (Addison-Wesley, Reading, 1962) p. 215.  [8] R.A. Pasmanter, R. Samson and A. Ben-Reuven, Chem.  Phys. Letters 16(1972)470; to be published.  [91 A.D. McLean and M. Yoshimine, J. Chem. Phys. 46  (1967) 3682.  [101 G.A. Cook, Argon, helium and the raie gases (Enter-  science, New York, 1961).  [Ill E.B. Smith, presented at the van der Waals Centennial  Conference on Statistical Mechanics, Amsterdam, Au-  gust 1973.  [12) R.W. Terhune, P.D. Maker and C.M. Savage, Phys. Rev.  Letters 14(1965) 681.  [13] BJ. Alder, J.J. Weiss and H.L. Strauss, Phys. Rev. 7A   (1972) 281.  1141 P.D. Maker, private oemmunication.  [15] D.F. Heller and W.M. Gelbart, unpublished;  W.M. Gelbart, Mol. Phys. 26 (1973) 873.  [161 W.M. Gelbart, Chem. Phys. Letters 23 (1973) 53.  408 - - - -- -  same way as ~3)B was expanded to find  ever, when dealing with such densities one can no  (3~B3,14)D can be expanded to yield  longer neglect the four (and more) particle terms such    as eq. (11). By analogy to what happens in depolar     = E ~2~Aa - ~2~Tab - ~4~Dh. (13) ized (linear) scattering by simple fluids, one expects        a,b -  these terms to reduce strongly the observed intensity    [1, 13]. in depolarized (linear) light scattering by sim  There is a similar result for ~ The intensity per  particle due to (13) is, in the VV case:  * Among the noble games, Xe gives the largest result for B3.   407  CHEMICAL PHYSICS LETTERS  1April1974  - Volume 25, number 3  - pie fluids at liquid density, the observed intensity is  about 1/50 times the extrapolated pair contribution  [13]. This effect is essentially due to the fact that  upon introducing more particles to the system, the  degree of anisotropy decreases. The maximuminten-  sity might be attained at some intermediate density,  but in order to establish the maximum intensity and  the density at which it occurs, orme would need accur-  ate numerical results on the four-, five- and six-body  terms as well.  (b) Since close collisions constitute the major contri-  bution to the ensemble average (10), the inclusion of  cloud overlap effects could modify our results con-  siderably. These effects are expected to diminish the  total intensity, just as they do in the case of depolar-  ized light scattering by simple fluids [1], since they  make the overall electronic density </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>74853315</aid>
+            <ce:pii>0009-2614(74)85331-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(74)85331-5</ce:doi>
+            <ce:copyright type="unknown" year="1974"/>
+         </item-info>
+         <head>
+            <ce:title>Multi-particle effects in second harmonic generation</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Samson</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemical Physics Department, Weizmann Institute of Science, Rehovot, Israel</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.A.</ce:given-name>
+                  <ce:surname>Pasmanter</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemical Physics Department, Weizmann Institute of Science, Rehovot, Israel</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation>
+                  <ce:textfn>van der Waals Laboratorium, University of Amsterdam, Amsterdam, The Netherlands</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="9" month="12" year="1973"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">It is shown that at certain fluid densities the intensity of two polarizations of the second harmonic light scattered by simple fluids is essentially due to a three-body effect. In principle this opens the possibility of direct spectral observation of triplet correlation functions. The order of magnitude of the scattered intensity is estimated and it is concluded that with the present experimental techniques, the effect probably is not observable. These computations are based on a microscopic expression for the second harmonic intensity, which retains multipolar interactions between the particles to all orders.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Depolarized Light Scattering by Simple Fluids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>to be published.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bloembergen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Non-linear optics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1965</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Benjamin</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kielich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Lalanne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.B.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1295</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Raveché</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Mountain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3987</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Raveché</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Mountain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Streett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4999</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Mountain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Colloque C-1</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Landau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Lifshitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>2nd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The classical theory of fields</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1962</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Addison-Wesley</sb:name>
+                                 <sb:location>Reading</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>215</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Pasmanter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Samson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ben-Reuven</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>470</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>to be published.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>McLean</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yoshimine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3682</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Argon, helium and the rare gases</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1961</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Interscience</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>presented at the van der Waals Centennial Conference on Statistical Mechanics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Amsterdam</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Terhune</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Maker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Savage</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>681</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strausss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>281</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P.D. Maker, private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>a D.F. Heller and W.M. Gelbart, unpublished</ce:textref>
+                     </ce:other-ref>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>873</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

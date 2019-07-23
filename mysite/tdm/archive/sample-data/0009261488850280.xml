@@ -1,0 +1,1351 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261488850280</prism:url><dc:identifier>doi:10.1016/0009-2614(88)85028-0</dc:identifier><eid>1-s2.0-0009261488850280</eid><prism:doi>10.1016/0009-2614(88)85028-0</prism:doi><pii>0009-2614(88)85028-0</pii><dc:title>Cu K-edge XANES of Cu(II) ions in aqueous solution: A measure of the axial ligand distances </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>149</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>289</prism:startingPage><prism:endingPage>294</prism:endingPage><prism:pageRange>289-294</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1988-08-19</prism:coverDate><prism:coverDisplayDate>19 August 1988</prism:coverDisplayDate><prism:copyright>Copyright © 1988 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Onori, G.</dc:creator><dc:creator>Santucci, A.</dc:creator><dc:creator>Scafati M. Belli, A.</dc:creator><dc:creator>Della Longa, S.</dc:creator><dc:creator>Bianconi, A.</dc:creator><dc:creator>Palladino, L.</dc:creator><dc:description>
+               Abstract
+               
+                  The K-edge X-ray absorption near-edge structure (XANES) of a Cu(II) ion in NaOH solution (2 M) has been measured and compared with Cu(II) ions in aqueous solution. The spectra have been analyzed using multiple scattering theory. All spectral features have been interpreted in terms of one-electron transitions and the distance of axial ligands has been quantitatively determined byXANES. There is no need to invoke shake down or shake up effects at the Cu K-edge.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261488850280" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261488850280" rel="scidir"/></coredata><scopus-id>0000738957</scopus-id><scopus-eid>2-s2.0-0000738957</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000738957" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011107">2001-11-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011107">2001-11-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-04T17:30:31</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261488850280</xocs:eid>
+      <xocs:pii-formatted>0009-2614(88)85028-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261488850280</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(88)85028-0</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X1007X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T14:22:12.451478-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19880819</xocs:date-search-begin>
+      <xocs:year-nav>1988</xocs:year-nav>
+      <xocs:indexeddate epoch="1005091200">2001-11-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>149</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>149</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 149, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>289</xocs:first-fp>
+      <xocs:last-lp>294</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>289</xocs:first-page>
+         <xocs:last-page>294</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19880819</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>19 August 1988</xocs:cover-date-text>
+      <xocs:cover-date-start>1988-08-19</xocs:cover-date-start>
+      <xocs:cover-date-year>1988</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1988 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CUKEDGEXANESCUIIIONSINAQUEOUSSOLUTIONAMEASUREAXIALLIGANDDISTANCES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ONORI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MONTGOMERY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>659</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>MANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>97</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>FISHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1958</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>FISHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1967</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>RAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2748</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>OHTAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MAGINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1535</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MUSINU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1184</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>LICHERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5308</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>NEILSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1245</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>MAGINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>252</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BELLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>355</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>DURHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>DURHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5945</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>BENFATTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5774</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>ONORI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>212</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOPHYSICSSYNCHROTRONRADIATION</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SPRINGERSERIESINBIOPHYSICS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>GARCIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>C8</xocs:ref-first-fp>
+            <xocs:ref-last-lp>49</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>HASNAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>C8</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1129</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>CHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>666</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>BAIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2767</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>HAHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>595</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>KOSUGI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>YOKOYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>BIANCONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4292</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ONORIX1988X289</xocs:refkey3>
+         <xocs:refkey4lp>ONORIX1988X289X294</xocs:refkey4lp>
+         <xocs:refkey4ai>ONORIX1988X289XG</xocs:refkey4ai>
+         <xocs:refkey5>ONORIX1988X289X294XG</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(88)85028-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261488850280</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261488850280</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(88)85028-0</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T14:22:12.451478-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1988-08-19</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261488850280-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261488850280/MAIN/application/pdf/40b906da2997ace4bb7f11a4992206d1/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261488850280/MAIN/application/pdf/40b906da2997ace4bb7f11a4992206d1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>460682</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261488850280-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261488850280/PREVIEW/image/png/ac72443bb5666a05a99b32082bc396ac/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261488850280/PREVIEW/image/png/ac72443bb5666a05a99b32082bc396ac/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62822</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>CHEMICAL PHYSICS LETTERS  19 August 1988  Volume 149, number 3  Cu K-EDGE XANES OF Cu(1I) IONS IN AQUEOUS SOLUTION:  A MEASURE OF THE AXIAL LIGAND DISTANCES    G. ONORI, A. SANTUCCI  Dipartimento di Fisica, Universita di Perugia and JNFN, Sezione Perugia, 06100 Perugia, Italy      A. SCAFATI, M. BELL!  Laboratorio di Fisica, 1st it uto Superiore di Sanitd and INFI !, Sezione Sanita, 00161 Rome, Italy      S. DELLA LONGA, A. BIANCONI   Gruppo Nazionale di Cibernetica e Biofisica (GNCB), Dipartimento di Fisica, Universith di Roma,  La Sapienza, 00185 Rome. Italy      and    L. PALLADINO  Dipartimento di Fisica, Universita dell Aquila and INFN, LNF, 67100 L Aquila, Italy      Received 3 May 1988; in final form 26 May 1988         The K-edge X-ray absorption near-edge structure (XANES) of a Cu (II) ion in NaOH solution (2 M) has been measured and  compared with Cu (II) ions in aqueous solution. The spectra have been analyzed using multiple scattering theory. All spectral  features have been interpreted in terms of one-electron transitions and the distance of axial ligands has been quantitatively deter-  mined by XANES. There is no need to invoke shakedown or shake up effects at the Cu K-edge.  1. Introduction     Cupric complexes (3d9 electronic structure) may  exist as hexa-, penta-, and tetra-coordinated species.  Because of the Jahn Teller effect hexa-coordinated  Cu( II) species show appreciably distorted octahed-  ral structures [1]. This tetragonal distortion is well  established in crystal structures of various copper (II)  hydrates [2 5]. It is believed to exist also for the  [Cu (H20 ) 6 2 + cluster in aqueous solutions because  of Cu U bond stretching along one axis driven by  the dynamical Jahn Teller effect. Recent X-ray dif-  fraction studies have clearly shown the existence of  distorted coordination polyhedra around Cu(II) in  aqueous solutions of Cu(CIU4)2 [6,7], CuSU4 [8],    Also at Universita deII Aquila, Dipartimento STBB, ColIc-  maggio, L Aquila, Italy.  and Cu(NU3)2 [9]. Un the other hand, the exis-  tence of two different coordination distances for  Cu (11) water pairs was not evident in an X-ray dif-  fraction study of copper(II) perchlorate solutions  [10].   Direct physical measurement of structural param-  eters by X-ray and neutron diffraction is only ap-  plicable to electrolyte solutions at high concentrations  (greater than 1 M) but in these conditions presum-  ably, a large fraction of the ions are not simple hy-  drated ions but complexes [11]. The use of  synchrotron radiation offers the possibility for the  application of high-resolution X-ray absorption  spectroscopy in dilute solutions to probe the Jahn   Teller distortion. However, the two bond lengths were  not clearly resolved from the extended X-ray ab-  sorption fine structure (EXAFS) [12] using plane  wave analysis.  0 009-2614/88/S 03.50   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)  289  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988   By changing the focus from the high-energy EXAFS  range to the low-energy range, the absorption spectra  exhibit X-ray absorption near-edge structures  (XANES) [13]. This is determined by multiple  scattering processes of the excited photoelectron with  neighbouring atoms and is sensitive to the local elec-  tronic and geometric environment of the absorbing  atom. Theoretical advances in the use of multiple  scattering theory [14 17] to determine the pho-  toabsorption cross section in real space allows a  quantitative interpretation of the XANES spectra to  determine the stereochemistry around a metal site.   It has been shown that Cu (II) XANES spectra are  sensitive to different axial bond lengths in Cu oc-  tahedral sites [18 20]. In previous work [18] on  CuC12 in aqueous solution and on Cu (II) complexes  with adenosine triphosphate (ATP) in solution at  various pH values, the analysis of XANES spectra  allowed us to identify distortions from octahedral  coordination in dilute solutions (typically 10 mM).  In a study of Cu(II) ions in solutions [19] and in  superoxide dismutase [201 the sensitivity of XANES  to tetragonal site distortion was found.   In this work we have attempted a quantitative de-  termination of the Jahn Teller distortion for Cu (II)  ions in dilute solution by XANES. The high-reso-  lution Cu K-edge XANES spectrum has been mea-  sured and extensive multiple scattering calculations  have been performed to fit the experimental data us-  ing the oxygen axial distance as a free parameter.   Another object of our investigation is the study of  the Cu site structure for a Cu (II) ion in 2 M NaUH  solution in which a soluble complex is formed that  an ESR study [21] indicates as [Cu(OH)4]2 with  an approximately square planar structure.   In the interpretation of the Cu (II) XANES there  is a long-standing problem in the assignment of a peak  on the Cu K-edge absorption rising edge to a mul-  tiple scattering process or to a many-body (shake  down) process [22]. Polarized Cu K-edge XANES  spectra of square planar Cu complexes [23 25] have  demonstrated that the shoulder on the rising edge is  due to a core transition observed only when the elec-  tric field is in the z direction. Some authors have in-  terpreted these findings as evidence for a shake-down  effect [24,25].   Here we show that all spectral features of the  XANES spectrum of the square planar complex, in-  eluding the shoulder on the absorption rising edge,  can be interpreted using one-electron multiple scat-  tering theory, there being no need to invoke multi-  electron effects such as  shake down . In fact this  shoulder is determined by the polarized electric field  EIIz absorption due to multiple scattering of two ax-  ial oxygen atoms at 2.8 A on the z axis. These ions  arc sufficiently distant to be unobservable in ESR  spectra but they can be detected by XANES.      2. Experimental     30 mM solutions of CuC12 were prepared from re-  agent grade CuCI2 6H2U in doubly distilled H2U and  in 2 M NaUH.   The X-ray absorption spectra at the K-edge of cop-  per were collected at the wiggler beam line PWA  (Project Wiggler ADUNE) of the ADUNE storage  ring in Frascati. X-rays were monochromatized with  a high-resolution Si (111) channel cut crystal mono-  chromator, with a 1 mm entrance slit 30 m from the  source. The higher-order harmonics were suppressed  by changing the current in the electromagnetic poles  of the wiggler.   The liquid samples were contained in special Te-  flon cells with Kapton windows, 2 mm thick; the  measurements were performed immediately after  preparation of the solutions, at room temperature.  The energy resolution was about 1.5 eV and the  XANES spectra were recorded using 0.5 eV energy  steps.   In the analysis of the XANES, the pre-edge back-  ground was subtracted, and the absorption coeffi-  cient was normalized to the high energy value, about  100 eV above the edge. The energy zero of the ab-  sorption spectra was taken as the energy of the pre-  edge peak P shown in fig. 1.      3. Results and discussion     In fig. I we report the XANES spectra and their  derivatives for Cu (II) ions in aqueous solution and  in 2 M NaUH, at the same Cu concentration.   Peak P is due to a ls *3d Cu transition, which is  dipole forbidden. Peak A on the rising edge can be  identified in the derivative spectra and is well re  290  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988  C,)  LU  z  .(   C  0  9030  Fig. 1. Experimental XANES spectrum (E) and its derivative (X ) for Cu(II) ions in aqueous solution (left) and for Cu(II) ions in 2  M NaOH solution (right).  solved in NaOH solution because of the larger sep-  aration between A and B spectral features. We  observe a red-shift of peak A in NaUH solution while  the energy of the absorption maximum B does not  change. Moreover a new peak C is observed. The en-  ergy positions of the observed features are reported  in table 1.   We have analyzed the experimental data by using  the multiple scattering XANES program of Durham  et al. [15]. In the XANES calculations the final states  are generated by the multiple scattering (MS-X)  procedure. The muffin-tin approximation has been  used to describe the potential; the radii of the muf-  fin-tin potential for copper, ~ and for oxygen, R0,  have been determined by looking for convergence of  the intersphere constant potential V by varying the  muffin-tin radii. Considering the shortest Cu U dis-  tance as d, the muffin-tin radii for copper, ~ and      Table I  for oxygen, R0_ d R0~, have been determined by  changing R and imposing the condition that the two  muffin-tin potentials should assume the same value  V~~(R) = V0(d R) at the touching point R of the  two muffin-tin spheres. This value of the potential  will be the constant intersphere potential V. The  muffin-tin radius of the two axial oxygens has been  taken to be the same as the other oxygens. The phase  shifts for the scattering process have been generated  for each different CuU4U2 cluster with different Cu   U axial bond length.   We started our analysis with model calculations  for a CuUe cluster by changing the Cu U distance  and considering a tetragonal distortion. The effect of  this distortion induces a large dichroism in the  XANES spectra. The polarized spectrum with the  electric field E parallel to the equatorial (x, y) plane  is the same as that for E]z for a symmetrical CuU6  Energy shifts with respect to the ls .3d Cu transition for the peaks observed in the XANES spectra and their derivatives  Solution  Derivative    AE,  ~b  Absorption            AEA   ~B  aEc  Cu(II) aqueous            2 M NaOH  5.2  12.5  7.6  18.1  21.5  Cu(II) aqueous  10.3  15.3  12.8  18.1      8980 8990 9000 9010 9020 9030   ENERGY (cv)   8990 9000   ENERGY (eV)  291  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988  cluster, but considering clusters with different Cu U  axial distances along the z direction, the E(Iz spec-  trum shows a large variation.   In fig. 2a we report the different spectra for several  Cu U axial bond lengths from 2.0 to 3.8 A. Peak A  in these spectra moves towards low energies as the  axial distance increases. In fig. 2b the calculated en-  ergy position of peak A as a function of 1 /R2 is plot-  ted. From fig. 2b it appears that the energy of this  multiple-scattering resonance follows the 1 /.R2 rule  [26], which is the expected trend for a small vari-  ation of the interatomic distance in the energy-in-  dependent phase-shift approximation. It is interesting  to note that this rule is followed over a large range  of Cu U distances.   In contrast the spectrum for E z (in the equa-  torial plane) is not affected by elongation of the ax-  ial distance: in fact the main absorption peak B  remains at the same energy if there are no changes  in the equatorial Cu U bonds. The fact that peak B  in the experimental spectra of the two samples does  not show any significant energy shift indicates that  the bond distances in the equatorial plane are  unchanged.   The calculated spectra reported in fig. 3 have been  obtained by looking for the best agreement between  the calculated and experimental derivative spectra,  leaving as free parameter the axial Cu U bond. It is  well known that the XANES calculations give only  qualitative agreement with the experimental spectra  as regards the amplitudes of the absorption peaks.  Use of the derivative spectra reduces the difficulty  in predicting experimental amplitudes.   The equatorial bond length has been fixed at 1.95  A to account for the main peak B. By changing the  axial distance in steps of 0.05 A in the range 2.0 4.3  A, we have found the best fit at 2.38   0.05 A in the  spectrum of Cu(II) in aqueous solution and  2.8 0.05 A for Cu(II) in NaOH solution. The er-  rors have been estimated from the fact that a change  of 0.02 A in the axial distance gives an appreciable  disagreement between experimental data and the  calculated values. A second source of error in the es-  timation of absolute distances is the muffin-tin ap-  proximation. By changing the muffin-tin radii of  copper and oxygen we found a change in the phase  shifts and amplitudes and we estimate that the error  on the distances from this source is of the order of  0.05 A. We found the best fit using 1.08 and 0.88 A  for the muffin-tin radii of Cu and U, respectively.   In conclusion we have reported for the first time  a fitting of the derivative of the XANES spectra of  Cu (II) in solution and have obtained a quantitative  measure of the axial bond lengths by XANES. The  a , \/R-2.2A   R-a8A , ~ SQUARE PI.AN   b 0          0  0  0  0  0  0        0    0    0  0  0  15        &gt;              5  S          4            2  0 .05 .1   15     y ~2 )P)  .2  .25 .3   ~-5 0 5    10      ENERGY )eV)   15 20  25  Fig. 2. (a) Calculated polarized XANES spectra for a Cu05 cluster with four oxygens in the (x, y) plane at a fixed Cu O distance of   1.96  A, and two oxygens on the z axis at different Cu O distances d~. Spectra with the electric fieldEparallel to the taxis: d, =2.2 A   (dashed  line); d2= 2.8 A (thick dots); d3=3.3 A (dash-dotted line); d4= 3.8 A (solid line); d5=square planar (light dots). (b) Shift tiE of   the  peak A as a function of 1 /R2, where R is the axial Cu O distance.  292  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988  z  0    0-    0  CO    C  shoulder A in the absorption rising edge of Cu com-  plexes can be described as a multiple-scattering res-  onance. The fact that the ESR spectra for Cu( II) in  NaUH solution indicated only a square planar co-  ordination for the Cu (II) sites may be due to the fact  that the axial oxygen distance of 2.8 A is so long that  it does not affect the ESR signal.      Acknowledgement   We wish to thank Professor A. Reale for his val-  uable advice and Professor E. Burattini for the op-  portunity of working in the PWA laboratory; this  research has been partly supported by the funds from  the Italian Ministry of Education (MPI 40%), by  INFN, and by the CNR project for the use of su-  percomputers in physics.  References    [1] H. Montgomery and E.C. Lingfelter, Acta Cryst. 20 (1966)  659.  [21 N.Y. Mani and S. Ramaseshan, Z. Krist. 115 (1961) 97.  [315. Fisher and R. Weiss, Aeta Cryst. B 29 (1973)1958.  [4] J. Fisher, R. Elchinger and R. Weiss, Acta Cryst. B 29 (1973)  1967.  [5] 5. Ray, A. Zalkin and D.H. Templeton, Acta Cryst. B 29  (1973) 2748.  [61 H. Ohtaki andM. Maeda, Bull. Chem. Soc. Japan 47 (1974)  2197.  [7] M. Magini, Inorg. Chem. 21(1982)1535.  [8] A. Musinu, 0. Pasehina, 0. Pieealuga and M. Magini, In-  org. Chem. 22(1983) 1184.  [9] G. Lichen, A. Musinn, 0. Paschina, 0. Piccaluga, 0. Pinna  and A.F. Sedda, J. Chem. Phys. 80 (1984) 5308.  [10] G.W. Neilson and J.R. Newsome, 5. Chem. Soc. Faraday  Trans. It 77 (1981) 1245.  [11] M. Magini, 5. Chem. Phys. 74 (1981) 252.  [12] TiC. Sham, J.B. Hastings and M.L. Perlman, Chem. Phys.  Letters 83 (1981) 391.  0.              0.  w  &gt;    C      LU  o 0.  z  0  I-    &amp;    0  0)   U;                UJ  &gt;  I-  4  &gt;    w  C                  Fig. 3. Calculated spectra (solid lines) for a Cu06 cluster with four oxygens in the (x, y) plane at 1.96 A and two oxygens on the   z axis:  at 2.32 A distance (a); at 2.8 A distance (b). From top to bottom: spectrum with the electric field E.Lz axis; spectrum with EIIz   axis;  calculated unpolarized spectrum compared with the experimental spectrum (dotted line) ofthe Cu(tt) ion in aqueous solution (a) and  of the Cu (II) ion in 2 M NaOH solution (b); derivatives of the same spectra are also shown.  10 15  ENERGY 1eV)  0 5 10 15 20 25  ENERGY leVI  293  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988  [13] M. Belli, A. Scafati, A. Bianconi, A.S. Mobilio, L.  Palladino, A. Reale and E. Burattini, Solid State Commun.  35(1980)355.  [141 P.S. Durham, J.B. Pendry and C.H. Hodges, Solid State  Commun.38 (1981) 159.  [15] P.J. Durham, SB. Pendry and C.H. Hodges, Computer Phys.  Commun.25 (1982) 193.  [16] T.A. Smith, SE. Penner-Hahn, M.A. Berding, S. Doniaeh  and K.O. Hodgson, S. Am. Chem. Soc. 107 (1985) 5945.  [17] M. Benfatto, C.R. Natoli, A. Bianconi, 5. Garcia, A.  Marcelli, M. Fanfoni and!. Davoli, Phys. Rev. B 34 (1986)  5774.  [181 G. Onori, M. Belli, A. Scafati, S. Mobilio, E. Bernieri, A.  Bianconi and S. Garcia, in: Springer series in biophysics,  Vol. 2. Biophysics and synchrotron radiation, eds. A.  Bianeoni and A. Congiu Castellano (Springer, Berlin, 1987)  p.212.  [19] 5. Garcia, A. Bianconi, M. Benfatto and C.R. Natoli, S. Phys.  (Paris) 47(1986) C8-49.  [20] S.S. Hasnain, L. Alagna, N.J. Blackburn and R.W. Strange,  S. Phys. (Paris) 47(1986) CS-i 129.  [21] Y.Y. Chao and D.R. Kearns, 5. Phys. Chem. 81(1977) 666.  [22] R.A. Bair and W.A. Goddard Itt, Phys. Rev. B 22 (1980)  2767,  [23] SE. Hahn, R.A. Scott, K.0. Hodgson, S. Doniaeh, S.R.  Desjardins and E.t. Solomon, Chem. Phys. Letters 88  (1982) 595.  [24] N. Kosugi, T. Yokoyama, K. Asakura and H. Kuroda, Chem.  Phys.91 (1984) 249.  [25] T. Yokoyama, N. Kosugi and H. Kuroda, Chem. Phys. 103  (1986) 101.  [26] A. Bianconi, E. Fritsch, 0. Colas and S. Petiau, Phys. Rev.  B 32(1985)4292.  294   d3=3.3 A (dash-dotted line); d4= 3.8 A (solid line); d5=square planar (light dots). (b) Shift tiE of   the  peak A as a function of 1 /R2, where R is the axial Cu O distance.  292  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988  z  0    0-    0  CO    C  shoulder A in the absorption rising edge of Cu com-  plexes can be described as a multiple-scattering res-  onance. The fact that the ESR spectra for Cu( II) in  NaUH solution indicated only a square planar co-  ordination for the Cu (II) sites may be due to the fact  that the axial oxygen distance of 2.8 A is so long that  it does not affect the ESR signal.      Acknowledgement   We wish to thank Professor A. Reale for his val-  uable advice and Professor E. Burattini for the op-  portunity of working in the PWA laboratory; this  research has been partly supported by the funds from  the Italian Ministry of Education (MPI 40%), by  INFN, and by the CNR project for the use of su-  percomputers in physics.  References    [1] H. Montgomery and E.C. Lingfelter, Acta Cryst. 20 (1966)  659.  [21 N.Y. Mani and S. Ramaseshan, Z. Krist. 115 (1961) 97.  [315. Fisher and R. Weiss, Aeta Cryst. B 29 (1973)1958.  [4] J. Fisher, R. Elchinger and R. Weiss, Acta Cryst. B 29 (1973)  1967.  [5] 5. Ray, A. Zalkin and D.H. Templeton, Acta Cryst. B 29  (1973) 2748.  [61 H. Ohtaki andM. Maeda, Bull. Chem. Soc. Japan 47 (1974)  2197.  [7] M. Magini, Inorg. Chem. 21(1982)1535.  [8] A. Musinu, 0. Pasehina, 0. Pieealuga and M. Magini, In-  org. Chem. 22(1983) 1184.  [9] G. Lichen, A. Musinn, 0. Paschina, 0. Piccaluga, 0. Pinna  and A.F. Sedda, J. Chem. Phys. 80 (1984) 5308.  [10] G.W. Neilson and J.R. Newsome, 5. Chem. Soc. Faraday  Trans. It 77 (1981) 1245.  [11] M. Magini, 5. Chem. Phys. 74 (1981) 252.  [12] TiC. Sham, J.B. Hastings and M.L. Perlman, Chem. Phys.  Letters 83 (1981) 391.  0.              0.  w  &gt;    C      LU  o 0.  z  0  I-    &amp;    0  0)   U;                UJ  &gt;  I-  4  &gt;    w  C                  Fig. 3. Calculated spectra (solid lines) for a Cu06 cluster with four oxygens in the (x, y) plane at 1.96 A and two oxygens on the   z axis:  at 2.32 A distance (a); at 2.8 A distance (b). From top to bottom: spectrum with the electric field E.Lz axis; spectrum with EIIz   axis;  calculated unpolarized spectrum compared with the experimental spectrum (dotted line) ofthe Cu(tt) ion in aqueous solution (a) and  of the Cu (II) ion in 2 M NaOH solution (b); derivatives of the same spectra are also shown.  10 15  ENERGY 1eV)  0 5 10 15 20 25  ENERGY leVI  293  Volume 149, number 3  CHEMICAL PHYSICS LETTERS  19 August 1988  [13] M. Belli, A. Scafati, A. Bianconi, A.S. Mobilio, L.  Palladino, A. Reale and E. Burattini, Solid State Commun.  35(1980)355.  [141 P.S. Durham, J.B. Pendry and C.H. Hodges, Solid State  Commun.38 (1981) 159.  [15] P.J. Durham, SB. Pendry and C.H. Hodges, Computer Phys.  Commun.25 (1982) 193.  [16] T.A. Smith, SE. Penner-Hahn, M.A. Berding, S. Doniaeh  and K.O. Hodgson, S. Am. Chem. Soc. 107 (1985) 5945.  [17] M. Benfatto, C.R. Natoli, A. Bianconi, 5. Garcia, A.  Marcelli, M. Fanfoni and!. Davoli, Phys. Rev. B 34 (198</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>88850280</aid>
+            <ce:pii>0009-2614(88)85028-0</ce:pii>
+            <ce:doi>10.1016/0009-2614(88)85028-0</ce:doi>
+            <ce:copyright type="unknown" year="1988"/>
+         </item-info>
+         <head>
+            <ce:title>Cu K-edge XANES of Cu(II) ions in aqueous solution: A measure of the axial ligand distances</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Onori</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Santucci</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Fisica, Università di Perugia and INFN, Sezione Perugia, 06100 Perugia, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Scafati M. Belli</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratorio di Fisica, Istituto Superiore di Sanità and INFN, Sezione Sanità, 00161 Rome, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Della Longa</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Bianconi</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Gruppo Nazionale di Cibernetica e Biofisica (GNCB), Dipartimento di Fisica, Università di Roma, La Sapienza, 00185 Rome, Italy</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Also at Università dell'Aquila, Dipartimento STBB, Collemaggio, L'Aquila, Italy.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>L.</ce:given-name>
+                  <ce:surname>Palladino</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Fisica, Università dell'Aquila and INFN, LNF, 67100 L'Aquila, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="3" month="5" year="1988"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The K-edge X-ray absorption near-edge structure (XANES) of a Cu(II) ion in NaOH solution (2 M) has been measured and compared with Cu(II) ions in aqueous solution. The spectra have been analyzed using multiple scattering theory. All spectral features have been interpreted in terms of one-electron transitions and the distance of axial ligands has been quantitatively determined byXANES. There is no need to invoke <ce:italic>shake down or shake up</ce:italic> effects at the Cu K-edge.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Montgomery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Lingfelter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>659</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.V.</ce:given-name>
+                                 <ce:surname>Mani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramaseshan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Krist.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>97</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fisher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1958</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fisher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Elchinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1967</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zalkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Templeton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2748</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ohtaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maeda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Chem. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Magini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1535</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Musinu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Paschina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Magini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1184</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Musinn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Paschina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.</ce:given-name>
+                                 <ce:surname>Sedda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5308</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Newsome</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1245</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Faraday Trans. II</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Magini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>252</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Sham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Hastings</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Perlman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>391</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Belli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Scafati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Mobilio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Palladino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Reale</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Burattini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>355</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Durham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Pendry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Durham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Pendry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Computer Phys. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Penner-Hahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Berding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Doniach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5945</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Benfatto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Marcelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fanfoni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Davoli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5774</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Onori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Belli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Scafati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mobilio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bernieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Garcia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Springer series in biophysics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>A.</ce:given-name>
+                                    <ce:surname>Bianconi</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>A.</ce:given-name>
+                                    <ce:surname>Congiu Castellano</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Biophysics and synchrotron radiation</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>2</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>212</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Benfatto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Paris</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>C8</sb:first-page>
+                              <sb:last-page>49</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Hasnain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Alagna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Blackburn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Strange</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Paris</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>C8</sb:first-page>
+                              <sb:last-page>1129</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Chao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Kearns</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>666</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Bair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Goddard</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2767</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Hahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Doniach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Desjardins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Solomon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>595</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kosugi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yokoyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Asakura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kuroda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yokoyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kosugi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kuroda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Fritsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Colas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Petiau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4292</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

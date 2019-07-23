@@ -1,0 +1,947 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261483870341</prism:url><dc:identifier>doi:10.1016/0009-2614(83)87034-1</dc:identifier><eid>1-s2.0-0009261483870341</eid><prism:doi>10.1016/0009-2614(83)87034-1</prism:doi><pii>0009-2614(83)87034-1</pii><dc:title>X-ray absorption near edge structure (XANES) studies of the distribution of low-lying unoccupied states in PdCl2
+             </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>101</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>567</prism:startingPage><prism:endingPage>572</prism:endingPage><prism:pageRange>567-572</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1983-11-04</prism:coverDate><prism:coverDisplayDate>4 November 1983</prism:coverDisplayDate><prism:copyright>Copyright © 1983 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Sham, T.K.</dc:creator><dc:description>
+               Abstract
+               
+                  L edge absorption spectra of PdCl2 have been obtained with synchrotron radiation. These results are compared with those of Pd metal. It is found that their near edge structure can be understood qualitatively on the basis of dipole transition and the conventional description of bonding in these systems.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261483870341" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261483870341" rel="scidir"/></coredata><scopus-id>26744460130</scopus-id><scopus-eid>2-s2.0-26744460130</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/26744460130" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011127">2001-11-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011127">2001-11-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T14:11:53</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261483870341</xocs:eid>
+      <xocs:pii-formatted>0009-2614(83)87034-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261483870341</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(83)87034-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X12274</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T22:06:32.797675-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19831104</xocs:date-search-begin>
+      <xocs:year-nav>1983</xocs:year-nav>
+      <xocs:indexeddate epoch="1006819200">2001-11-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>101</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>101</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 101, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>567</xocs:first-fp>
+      <xocs:last-lp>572</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>567</xocs:first-page>
+         <xocs:last-page>572</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19831104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>4 November 1983</xocs:cover-date-text>
+      <xocs:cover-date-start>1983-11-04</xocs:cover-date-start>
+      <xocs:cover-date-year>1983</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1983 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>XRAYABSORPTIONNEAREDGESTRUCTUREXANESSTUDIESDISTRIBUTIONLOWLYINGUNOCCUPIEDSTATESINPDCL2</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHAM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>738</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SYNCHROTRONRADIATIONRESEARCH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>DEHMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>KUTZLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3274</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>LEAPMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>397</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MATTHEISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1663</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>HORSLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1451</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BALZAROTTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6349</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>SHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSINTERNATIONALCONFERENCEEXAFSNEAREDGESTRUCTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>SHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2269</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>GRUNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7157</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13"/>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>MATERLIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>KUTZLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>626</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>BIANCONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSINTERNATIONALCONFERENCEEXAFSNEAREDGESTRUCTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>817</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>FIGGIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONLIGANDFIELDTHEORY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>MCMASTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COMPILATIONXRAYCROSSSECTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LOCALDENSITYAPPROXIMATIONINQUANTUMCHEMISTRYSOLIDSTATEPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHAMX1983X567</xocs:refkey3>
+         <xocs:refkey4lp>SHAMX1983X567X572</xocs:refkey4lp>
+         <xocs:refkey4ai>SHAMX1983X567XT</xocs:refkey4ai>
+         <xocs:refkey5>SHAMX1983X567X572XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(83)87034-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261483870341</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261483870341</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(83)87034-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T22:06:32.797675-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1983-11-04</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261483870341-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261483870341/MAIN/application/pdf/bb954bbc46e051ef82ff6c0f2b9b4db8/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261483870341/MAIN/application/pdf/bb954bbc46e051ef82ff6c0f2b9b4db8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>566203</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261483870341-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261483870341/PREVIEW/image/png/a8fdb6adce42abb02683c008bea6b3aa/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261483870341/PREVIEW/image/png/a8fdb6adce42abb02683c008bea6b3aa/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>77791</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 101, number 6    CHEMICAL PHYSICS LETTERS    4 November 1983    X-RAY ABSORPTION NEAR EDGE STRUCTURE (XANES) STUDIES  OF THE DISTRIBUTION OF LOW-LYING UNOCCUPIED STATES IN PdC^    T.K. SHAM  Chemistry Department. Brookhaven National Laboratory, Upton. New York 11973, USA    Received 21 March 1983; in final form 23 August 1983    L edge absorption spectra ofPdCI^ have been obtained with synchrotron radiation. These results are compared with  those ofPd metal. It is found that their near edge structure can be understood qualitatively on the basis ofdipole transi-  tion and the conventional description of bonding in these systems.    1. Introduction    The absorption features in the edge jump region of  an X-ray absorption spectrum, now commonly known  as the X-ray absorption near edge structure (XANES).  has recently received considerable attention. XANES  refers to the early portion of the X-ray absorption  spectrum and contains absorption features below and  ==60 eV above the ionization threshold of an edge in  contrast to the extended X-ray absorption fine struc-  ture (EXAFS) which extends to as much as 1000 eV  above the threshold- Absorption below the threshold  primarily arises from bound state to bound state di-  pole transitions and often exhibits sharp resonances  (sometimes called white lines) [1^]. Absorption slight-  ly above the threshold involves transitions to upper  final states and can be very complicated because these  final states are only slightly above the vacuum level  and can be easily influenced by a slight modification  of the potential of the absorbing atom (such as the  presence ofligands and the creation of the core hole).  Shape resonance in molecules [3,4] in the gas phase  and transitions to higher bands in metals [5] often  occur in this region. The main concern in this study  however is the absorption below the ionization thresh-  old and its relationship to bonding-    The origin of the absorption feature below the  threshold in the near edge region has been reasonably  well understood for transition metals and their com-  pounds [1,2]. The distribution of the density of the  low-lying unoccupied states and dipole selection rules    are responsible for the presence or absence of white  lines [1 12] although quantitative agreement be-  tween ground state calculation and experiment cannot  always be obtained [12]. The basic principles of this  absorption process have been discussed by Brown [2]  and by Brown et al. [1] on the basis of a single-particle  approximation. More recently, both theory and experi-  ment have given strong support to this density of state  picture. For example, Mattheiss et al. [6] have carried  out detailed relativistic band calculations for Pt and  Au. They show that the Lo^ edge features in Pt and  Au are indeed related to the distribution of the unoc-  cupied density of d states. Kutzler et al. [4] using the  Xo- SW technique [7] have been able to reproduce the  near edge structure in certain high-symmetry complexes  rather successfully. Horsley [8], using the same tech-  nique but combining quantitatively both L^ and  3  edge results in the inte--pretation, has deduced the  number of d holes in a series of Pt and Ir compounds  and has used these numbers to establish sensible chem-  ical trends. Balzarotti et al- [9] have demonstrated  that for titanium metal and its carbides and nitrides,  the local partial density of states at the metal site is  adequate to describe the XANES. It has also been  shown that for a series of elements across the periodic  table, the change of the near edge absorption features  from noble metals to main group metals to halogen  ion and to alkaline metal ion is entirely consistent with  the filling of the corresponding s, p, and d states [10].  Under favorable conditions, the crystal field splitting  has also been studied [11]. The objective of this work -    0 009-2614/83/0000-OOOO/S 03.00   1983 North-Holland    567    Volume 101, number 6    CHEMICAL PHYSICS LETTERS    4 November 1983    is to study the relationship between near edge struc-  ture and tlie distribution of the density of unoccupied  slates in PdCl^. These results are also compared with  those ofPd metal.    PdC^ is cliosen for several reasons, first the oxida-  tion state of the Pd site in PdCl^ is formally Pd(II),  this assures the presence of low-lying unoccupied d  states; second, the local symmetry of PdCl^ + is D^  so that the symmetry of the unoccupied molecular  orbitais can be established in tlie crystal field approx-  imation: third, experimentally, the binding energies  of the L shell ofPd are 3.2-3.6 keV. Tlie intrinsic  lifetime of these L core holes are long enough for  meaningful measurements of the width of the white  lines. These widths are relevant to the distribution  of the density of unoccupied states. Finally, it is inter-  esting to note that PdCl-  is a very important catalytic  component in tlie industrial Wacker process in which  monoolelins are convened to corresponding aldehydes  or ketones.    2- Experimental results and discussion    X-ray absorption spectra were recorded at SSRL  using tlie 11-3 beam line which was equipped with a  focusing mirror and a double crystal monoclironiator  (Si(l 11)). Measurements were made in the transmis-  sion mode witli an ==50% detuned IQ beam to minimize  higher order radiation. Spectra of both PdCL, (fine  power mixed with vaseline) and Pd metal (evaporated  thin film) were recorded under tlie same beam-line  conditions- Near edge spectra ofPdC^ and Pd metal  were obtained alternately to establisli tlie relative  energy calibration. Tlie uncertainty was  :0.5 eV.    Typical L^ ^ edge spectra of PdCl^ and Pd metal  are sliown in fig. 1. Tlie energy resolution at these  energies is ;te! .5 eV. The L^ 3 and LJ fine structures  in tlie near edge region are shown in fig. 2 and .fig. 3  respectively. Tlie first derivative of the LI edge spec-  trum is also shown in fig. 3-    * Tlie molecular structure ofPdCl; is polymeric (similar to  CuCli) \iilh bridging chlorine atom , but the local symmetry  is near square planar with a four-fold axis. Band theory cal-  culation is needed for quantitative discussion. For qualita-  tive discussion, however, a crystal field type description is  adequate.    075    T ' r    .  1-3    -i i i r    Lg (o) Pd C'a          (b) Pd METAL          ' ' t i ' t ' ' '    3200       3300    P40TON ENERGY ( eV )    i    l    i    '    '    i  3400    Fig. l. LZ, 3 edge X-ray absorption spectrum of (a) PdClz and  (b) Pd me'lal.    It can be seen from fig. 1 that the Pd L, 3 edges of  PdCl^ exhibit sharp resonances followed by much  broader oscillations. It is interesting to note that  wliile the EXAFS between PdCl^ and Pd metal are  very different as expected, the first 20 eV of the edge  jump are surprisingly similar. A detailed comparison  of the L-7 3 edges of these compounds reveals several  interesting features- First, there is little chemical shift  in tlie position of the white line (the ==0.4 eV shift is  within the uncertainty); second, the PdCl^ white lines  are noticeably narrower than those of Pd metal, and  finally the jump of the white line in PdCl^ is greater  than that in Pd metal. In the case of the L^ edge, there  is no sharp white line as expected. The first derivative  shows an additional feature in the L^ spectrum ofPd  metal.    Tlie interpretation of the above observations can be  greatly facilitated by considering the local symmetry  and molecular orbital diagram of PdCl^ and the band  structure of Pd metal. Since the local structure (see  footnote in section 1) ofPdCl^ is D^, similar to that  ofK^PdCl^, a molecular orbital (MO) diagram of    568              3150     3160    3170    3180    3190    3200  o    S       I  I I I I I I I I I I I I !  I I I 1 I I I I 1    Fig. 2. L;^3 n2ar cdfic structure ofPdda and Pd metal; E^, the tentative ionization threshold, is marked with a tic mark. see text.          0 1C    0.05    3600 f   3620    3606    i______    3640          3600 3620 3640          3600 3620 3640    0 010    0.005    -0 005    -0.010          3600 3620 3640    PHOTON ENERGY (eV )    Fig. 3. Li near edge structure ofPdCl; and Pd metal and their first derivative; the ionization threshold (tic mark) is calibrated  with respect to the La 3 edge according to ref. (18].    Volume 101. number 6    CHEMICAL PHYSICS LETTERS    4 November 1983    5p    5s            ^   Pd (d8) Cl  -^M-   Cl 4Ct  Cl  --     eu(P&gt;-vl&gt;  eu+o^u  fftt^ 2u"i'    \ ^    ,gi5s)rt   "ig --V'"' \\\  i\ \ -, \ \\  \\ \ -       h. ( ^-v2!    fg-!'lg ' Zg-1^ \^-e^;"v \ \ ^\ \ It  Iim  y \'\^ bz,.xy^\0, A^ eg(xz.yz)i&lt;$i---^' eu+Ogg+b^g^ -"Zu-^Zu 8ir ^g-'^lg-'- '  ' 4o-   &lt;^-\ '  un    \^\ '   e^^  \^- 11!1 y        lg     Pd fee    l-'ts. 4. Simplified molecular orbiul duel-am of PdCH" accord-  ing to I&gt;4]i symmetry. Tlic mct-il centered ir MOs arc not  iluv. n for cl.iril\.    PdCl2"" is used to illustrate the local symmetry of the  unoccupied states- Tlie siniplissed MO diagram of  PdCl^" having a d^ configuration is shown in fig. 4  where the ligand centered v orbitais are omitted for  clarity. It is apparent from fig. 4 tliat the lowest unoc-  cupied molecular orbital bjo is of mainly metal d 2_y2  character- The upper unoccupied MO (a^) is ofPd 5s  character. Tiansitions from 2p to these MOs are dipole  allowed. The first two peaks in the 1,3 (L^) edge of  PdCh can be easily assigned to 2p -&gt;  4d (big) and  2p -A 5s (ajg) transitions respectively. The third peak.  ==12 eV above the white line is too sharp to be con-  sidered ilie beginning of the EXAFS. It is tentatively  assigned to 2p to another higher-state transition. Tlie  corresponding wliite line at the L^ (1/5) edge ofPd  metal lias been previously assigned to 2p -&gt;  d band  irJiisition [ 10]. This assignment is supported by the  band theory calculation ofMoruzzi et al. [13] and the  absence of white line at the L-s (L-,) edge ofAg of  which tliere is no empty d state at the Fermi level.  Tlie slioulder at ==9 eV above the Pd metal white line  is assigned 10 p -r s,d transition. This assignment is  consistent with the density of state calculation  which shows some s and d states at ^9 eV above tlie  Fermi level as shown m fig. 5 [13]. The broad struc-  ture at ==14 eV above the white line is probably a di-  rect transition to the higher energy bands- The exact  nature of these absorption features just above the  ilireshold is still not very clearly understood. Materik    0 20    0.0    0.10 -    o-o    0.0          -505  ENERGY (eV) tRelotive to Fermi Level)    Fig. 5. Density of states calculation for Pd metal [13]. The  occupancy is plotted against the energy. From top to bottom  are plots ofs, p and d density of slates respectively.    el al. [14] have recently compared experimental L  edge results of rare earth metals with accurate single-  particle band structure calculation over a range of 100  eV above tlie threshold and show that the one-electron  theory describes the XANES reasonably well. Kutzler  et al. [15] have also studied the white lines oflanthanide  complexes and found that they correspond to a core to  d-like bound state transition.    It may first appear surprising that there is little chem-  ical shift between the white lines ofPd metal and PdCl- .  Similar observation has been reported by Bianconi et al.  [16]. They found no chemical shift between the L edge  white lines of Pd and PdO samples supported on Si0-&gt;  substrates while the XPS 3d core level binding energy  shift between these two samples was 1.7 eV. Several  factors need to be considered before we can interpret  the L edge wliite line chemical shifts. These factors are:    the ground state chemical shift of the atomic-like core  level; the shift of the position of the valence d states  relative to the vacuum level upon compound forma-  tion; and finally the pulling down of the d state involved  in the transition by the creation of the 2p core hole.  Considering the oxidation state of the Pd atom m these  systems it is expected that the atomic-like 2p core level    570    Volume 101- number 6    CHEMICAL PHYSICS LETTERS    4 November 1983    in PdCl7 should be more tightly bound than that in Pd  metal- For chemically active d states (4d in Pd) how-  ever, the situation between PdCl-&gt;, an insulator and Pd,  a metal is different. In Pd metal, a high density of un-  occupied d states concentrates just above the Fermi  level which is only ==4-5 eV below the vacuum level.  Thus the ionization threshold is wt-S eV above the ris-  ing edge of the white line. In PdCl^, the unoccupied  Pd d states are considerably tighter bound than those  in the metal. If we only consider the first two peaks  in the 1,3 edge spectra of PdCl-  as the features arising  from bound state to bound state transitions (an under-  estimate), the lower bound of the ionization threshold,   "(h has to be at least 10 eV above the edge as shown  in fig. 2- It must be the effect of the local bonding that  sliifts tlie d states in PdCl-? down to compensate the  ground state core level shift (with respect to vacuum).  The pulling down of the valence states upon core hole  creation is a well-known phenomenon [17]- It is reason-  able to conjecture that a more localized unoccupied  valence state (metal center MO) may be more suscep-  tible to the influence of the core hole than a delocal-  ized unoccupied state (d band). This effect sliould  furtlier compensate the ground state shift of the core  levels. The magnitude of this relaxation shift for these  transitions is not well known but tlie difference of this  relaxation shift is not expected to be greater than tlie  ground state chemical shift due to bonding. What  emerges from the above discussion is that the ground  state binding energy shift of the unoccupied valence d  states and relaxation compensate tlie expected ground  state binding energy shift of the Pd p shell between  PdCl^ and Pd metal. It is the ionization threshold that  is a relevant parameter for binding energy comparison  (analogous to XPS binding energy shift). Ionization  thresholds for PdCl^ are clearly at higher energy ( =4  eV, fig. 2) than those for Pd metal.    The comparison of the widtli of the white lines be-  tween PdCl^ and Pd metal however has significant  meaning. The width at half maximum of the white line  between these compounds differs by &gt;1.0 eV with the  PdCl^ width being narrower. The PdCl-? white line is  also more symmetric than the white line of the metal.  The above observations are expected on the basis of  ground state bandwidths when comparing a somewhat  localized unoccupied MO in a compound (see footnote  in section 1) with the dispersive d band in a metal.  These results clearly demonstrate the sensitivity and    usefulness of the XANES tecluuque in studying the  energy distribution of the density of unoccupied states.  The ground state width of tlie unoccupied portion of  the d band at tlie Fermi level in Pd is  =0.5 eV. A crude  estimate shows that the ground state widtli of tlie low-  lying unoccupied l&gt;Jg(d 2  2) is ^0.3 eV. This width  comes about from vibronic coupling and extended  interaction (energy bands) of the PdC^ unit in PdCl^  crystal. It is interesting to note that the energy and  band width of the afg(d^2)-i-a^(d^2)b^(d^_y;)  transition ofPdCl^" In solution'are 23000 cm-I  (2.85 eV) and  5000 cm-1 (0.62eV) [18] respectively.  Tlie more intense white lines seen in PdCl-, also indi-  cate that the number of d vacancy is higher in Pad-,  than in Pd metal-    The PdCl-, L] edge structures are relatively simple  and tlie first peak can be assigned to 2s -&gt;  5p(z^,e^)-  type transition. It is interesting to note that while the  L.2 3 edge wliite lines of PdCl7 appear at the same  plioton energy as tliose ofPd metal, tlie rising edge of  the PdCl^ Lj spectrum shifts to higher energy by 4 eV.  When tlie difference of the ionization threshold for all  the L edges is calibrated with theoretical value [19]^,  E^ for the LJ edge with respect to tlie L-&gt; 3 edge can  be obtained- These tentative E^ positions are marked  in fig. 3. The position ofE^ in the L^ spectrum of  PdCl-&gt; indicates that the2-^ values for the L^ 3 edges  are underestimates as expected from tlie MO diagram.  .The energy difference between bound state to bound  state transitions and the thresholds in all L edge spec-  tra are consistent with the MO description.    3. Conclusions    The L edge XANES results ofPdCl^ and Pd metal  clearly show that PdCl-&gt; has higher and narrower den-  sity of unoccupied states than Pd metal as expected  and that this technique can be used to probe the low-  lying unoccupied states. The near edge structures in  both materials are in qualitative accord with tlie con-  ventional bonding descriptions; they are indeed related  to tlie nature and distribution of tlie unoccupied states-  However, detailed assignment of the entire absorption  spectrum awaits more elaborate considerations of the  excitonic and band nature of the final states as well as    * The L edge jumps are at 3173, 3330 and 3605 eV.    571    Volume 101. number 6    CHEMICAL PHYSICS LETTERS    4 November 1983    multielectron processes. Accurate calculation such as  Xa scattering wave calculation (see. for example, ref.  j20]) including the excited states is now being pursued  to facilitate quantitative interpretation.    Acknowledgement    Research carried out at Brookhaven National Labo-  ratory under contract with the U.S. Department of  Energy is supported by its Office of Basic Energy  Sciences. Work done at SSRL supported by the  NSF through the Division of Material Research and  ilie NIH through the Biotechnology Resources Pro-  gram ill tlie Division of Research Resources (in coop-  eration with DOE) is acknowledged.    References    (11 M. Brown. R.E- Peierls and E.A. Stern. Phys. Rev. B15    (1977)735.  12] P.C. Brou n. in' Synchrotron radiation research, eds.    H. Winick and S. Uoniach (Plenum Press, New York,    1980).    P] J.L. Dchnier and D. Dill. J. Chem. Phys- 65 (1977) 5327-  {4) r.W. Kutzler, C.R. NatoU. D.K- Misemcr, S- Doniach and    K.O. Hodgson. l. Chem. Phys. 73 (1980) 3274.  (5] R.D. Leaprnan and L.A. Grunes, Phys. Rev. Letters 45    (1980)397.    16] L.F. Mattheiss and R.E. Dietz, Phvs. Rev. B22 (1980)    1663.    [7] K.H. Johnson, Advan. Quantum Cliem. 7 (1973) 143.  [8] J.A- Horsley. 1. Chem. Phys. 76 (1982) 1451.  [9] A. Balzarotti, M. DeCrescenzi and L. Incoccia, Phys.  Rev. B25 (1982) 6349-    [10] T.K. Sham, in: Proceedings of the International Con-  ference on EXAFS and Near Edge Structure, Frascati,  Italy, 1982. to be published.    [Ill T.K. Sham, J. Am. Chern. Soc. 105 (1983) 2269.    (12j L.A. Grunes. R.D. Leapman, C.N. Wilker, R. Hoffmann  and A.B. Kunz, Phys. Rev. B25 (1982) 7157.    [13] V.L. Moruzz, private communication;    V.L. Moruzz. C.D. Gelait Jr. and A.R. Williams, to be  pablisaied-    1141 G. Materlik, J.E. Muller and J.W. Wilkins. Phys. Rev.  Letters 50 (1983) 26 7.    [151 F.W. Kutzler, K.O. Hodgson, O.K. Misemer and  S. Doniach, Chem. Phys. Letters 92 (1982) 626.    [16] A. Bidnconi, I. Davoli, S. Stizza, C. Furiani and    V. Sessa, in: Proceedings of the International Confer-  ence on EXAFS and Near Edge Structure. Frascati,  Italy, 1983, to be published.    [17] T.K. Sham and G. Wendin, Phys. Rev. Letters 44 (1980)  817. and references therein.    ( 18] B.N. Fiagis, Introduction to ligand field theory (Witey,  New York. 1966).    [ 19] W.H. MeMaster. N. Kerr Del Grande, J.H. Mallen and  J-H. Hubbell, Compilation of X-ray cross sections  (National Technical Information Service, Sprinefleld,  1969).    [20] C.Y. Yang and D-A. Case, in: Local density approxima-  tion in quantum chemistry and solid state physics, eds.  J.P. DaW and 1. Avery (Plenum Press. New York, 1983).    572  the same  plioton energy as tliose ofPd metal, tlie rising edge of  the PdCl^ Lj spectrum shifts to higher energy by 4 eV.  When tlie difference of the ionization threshold for all  the L edges is calibrated with theoretical value [19]^,  E^ for the LJ edge with respect to tlie L-&gt; 3 edge can  be obtained- These tentative E^ positions are marked  in fig. 3. The position ofE^ in the L^ spectrum of  PdCl-&gt; indicates that the2-^ values for the L^ 3 edges  are underestimates as expected from tlie MO diagram.</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>83870341</aid>
+            <ce:pii>0009-2614(83)87034-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(83)87034-1</ce:doi>
+            <ce:copyright type="unknown" year="1983"/>
+         </item-info>
+         <head>
+            <ce:title>X-ray absorption near edge structure (XANES) studies of the distribution of low-lying unoccupied states in PdCl<ce:inf loc="post">2</ce:inf>
+            </ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>T.K.</ce:given-name>
+                  <ce:surname>Sham</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemistry Department, Brookhaven National Laboratory, Upton, New York 11973, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="21" month="3" year="1983"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">L edge absorption spectra of PdCl<ce:inf loc="post">2</ce:inf> have been obtained with synchrotron radiation. These results are compared with those of Pd metal. It is found that their near edge structure can be understood qualitatively on the basis of dipole transition and the conventional description of bonding in these systems.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Peierls</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Stern</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>738</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Winick</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Doniach</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Synchrotron radiation research</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Kutzler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Misemer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Doniach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3274</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Leapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Grunes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>397</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Mattheiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Dietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1663</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Horsley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1451</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Balzarotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>DeCrescenzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Incoccia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6349</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Sham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Proceedings of the International Conference on EXAFS and Near Edge Structure</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Frascati</sb:name>
+                                 <sb:location>Italy</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>to be published</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Sham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2269</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Grunes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Leapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Wilker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hoffmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Kunz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>V.L. Moruzz, private communication; V.L. Moruzz, C.D. Gelatt Jr. and A.R. Williams, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Materlik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Wilkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Kutzler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.O.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Misemer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Doniach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>626</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Davoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Stizza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Furiani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sessa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Proceedings of the International Conference on EXAFS and Near Edge Structure</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Frascati</sb:name>
+                                 <sb:location>Italy</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>to be published</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Sham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wendin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>817</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.N.</ce:given-name>
+                                 <ce:surname>Figgis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Introduction to ligand field theory</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1966</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>McMaster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.Kerr</ce:given-name>
+                                 <ce:surname>Del Grande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Mallett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Hubbell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Compilation of X-ray cross sections</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1969</sb:date>
+                              <sb:publisher>
+                                 <sb:name>National Technical Information Service</sb:name>
+                                 <sb:location>Springfield</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Case</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.P.</ce:given-name>
+                                    <ce:surname>Dahl</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Avery</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Local density approximation in quantum chemistry and solid state physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

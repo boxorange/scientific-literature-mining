@@ -1,0 +1,1701 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149180034U</prism:url><dc:identifier>doi:10.1016/0009-2614(91)80034-U</dc:identifier><eid>1-s2.0-000926149180034U</eid><prism:doi>10.1016/0009-2614(91)80034-U</prism:doi><pii>0009-2614(91)80034-U</pii><dc:title>Simulation of an anion in water: effect of ion polarizability </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>184</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>560</prism:startingPage><prism:endingPage>565</prism:endingPage><prism:pageRange>560-565</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-10-04</prism:coverDate><prism:coverDisplayDate>4 October 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Karim, Omar A.</dc:creator><dc:description>
+               Abstract
+               
+                  A polarizable-polar water model is used to study the structure of wate near a chloride ion. A semi-classical description of ion polarizability is included. Significant changes in the solute-solvent distribution functions are observed. When compared with a simulation without ion polarizability, it is found that the hydration number is further decreased when ion polarizability is present.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149180034U" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149180034U" rel="scidir"/></coredata><scopus-id>4243258717</scopus-id><scopus-eid>2-s2.0-4243258717</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4243258717" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-06T01:24:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149180034U</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)80034-U</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149180034U</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)80034-U</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10652</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151008">2015-10-08T00:26:10.162786-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19911004</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>184</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>184</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 184, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>34</xocs:sort-order>
+      <xocs:first-fp>560</xocs:first-fp>
+      <xocs:last-lp>565</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>560</xocs:first-page>
+         <xocs:last-page>565</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19911004</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>4 October 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-10-04</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SIMULATIONANIONINWATEREFFECTIONPOLARIZABILITY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KARIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>O</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>WOLYNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>MCCAMMON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>210</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYSIMPLELIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BARNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>459</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CIEPLAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6393</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>FORESMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5892</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LYBRAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2923</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CIEPLAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6755</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>CALDWELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9144</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>NIESAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7949</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>STRAATSMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>IMPEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5071</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>PETTITT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5836</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>SPRIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7556</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SPRIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6483</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>CORONGUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4629</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>DANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2481</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>CIEPLAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6761</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>CAILLOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5544</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>CAILLOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5555</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>SPRIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2283</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>CHANDRASEKHAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>903</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>ASHCROFT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>543</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SOLIDSTATEPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>STRAATSMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>433</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>VERLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>RYCKAERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>EWALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1921</xocs:ref-pub-year>
+            <xocs:ref-first-fp>253</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>ADAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>156</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>SOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>47</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>BRUMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3903</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>PAULING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1927</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>COULSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>BARNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>JORGENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>926</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>KRYNICKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>199</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>NEILSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>325</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>BROOKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5156</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB37">
+            <xocs:ref-normalized-surname>FRIEDMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KARIMX1991X560</xocs:refkey3>
+         <xocs:refkey4lp>KARIMX1991X560X565</xocs:refkey4lp>
+         <xocs:refkey4ai>KARIMX1991X560XO</xocs:refkey4ai>
+         <xocs:refkey5>KARIMX1991X560X565XO</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)80034-U</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149180034U</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149180034U</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)80034-U</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-08T00:26:10.162786-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-10-04</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149180034U-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180034U/MAIN/application/pdf/055b59197f254daafa7664c43eaa097a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180034U/MAIN/application/pdf/055b59197f254daafa7664c43eaa097a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>535210</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149180034U-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180034U/PREVIEW/image/png/84c5c76a451946d6df1872628c9444e0/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180034U/PREVIEW/image/png/84c5c76a451946d6df1872628c9444e0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>72413</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  Simulation of an anion in water: effect of ion polarizability    Omar A. Karim  Department of Physics, University of North Carolina at Wilmington, Wilmington, NC 28403-3297, USA      Received 24 June 1991         A polarizable polar water model is used to study the slructure of water near a chloride ion. A semi-classical description of ion  polarizability is included. Significant changes in the solute solvent distribution functions are observed. When compared with a  simulation without iOn polarizability, it is found that the hydration number is further decreased when ion polarizability is   present.  1. Introduction     The study of ions in aqueous solution is of fun-  damental interest and ions in solution also partici-  pate in many important chemical and biochemical  processes. Computer simulations have been ex-  tremely useful in attempts to understand the prop-  erties of ionic solutions [l 3]. A variety of potential  models have been proposed and used for simulating  such systems. Recently it has been recognized that  many-body polarization effects must be taken into  account to correctly model some of the properties of  solutions [4 6]. Polarizable polar models for water  and ionic solutions are still in relatively early stages  of development, although significant advances have  been made [7 11]. While non-polarizable models  for water give good structural properties for bulk  water, they overestimate, for instance, the hydration  number of the chloride ion [12,13]. A desirable po-  tential model should preserve many of the properties  obtained correctly from non-polarizable models, im-  prove the description of properties dependent on  many-body effects and also be computationally ef-  ficient. The recently proposed Spnk Klein (SK)  model [1 4] meets some of these requirements. This  empirical model has been shown to give hydration  numbers for the chloride ion in accord with exper-  iment [151. Ion polarizability was not included in  the initial work [15] describing the hydration of the  chloride ion. Although no tuning of the ion water  potentials was attempted, a good hydration structure  was obtained. Ion water cluster calculations [5 8]  have led the way to the inclusion of non-additive  forces but there have been relatively few studies of  ionic solutions with the inclusion of non-additive  potentials [16 201. Some of these will be discussed  subsequently.   In this work we have partially reparametrized the  SK model, which leads to an improved prediction of  some of the experimentally known properties of liq-  uid water. Further, we have included ion polariza-  bility into simulations with the model and studied  some of the consequences for chloride ion hydration.  In section 2 we describe the computer model and the  simulation methods, Implementation of a semi-clas-  sical model for ion polarizability is discussed. Re-  sults are presented and analyzed in section 3, fol-  lowed by a discussion in section 4.      2. Model and ion polarizability     The SK model used here includes electronic po-  larization in thermal equilibrium with the configu-  mtional degrees of freedom. While this should be of  concern iii studying time-dependent phenomena, it  is of less importance in considering equilibrium  properties. A cold-polarization version of the SK  model has been developed [211, but is computa-  tionally more demanding. We have therefore chosen  the finite-temperature polarization model for this  work. In an effort to improve the self-diffusion con-  stant obtained from the original SK model, we al.  tered the Lennard-Jones (U ) parameters for the  560  0009-26141911$ 03.50 it) 1991 Elsevier Science Publishers B.V. All rights reserved.    TIP4P ~  SKb)  RSK  (A)     0.655  0.610  l0 6A~ (kJAoJmol)  2.510  2.510  3.038  10 3C~ (kJA6/mol)  2.552  1.987  2.892  lO6Ac1o (kJ A~2fmo1)  16.53  16.53  18.18  lO-3Cc10 (kJ A6/mol)  6.114  5.393  6.508  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  model. The reparametrized SK model (RSK) does  lead to a self-diffusion constant closer to the exper-  imentally observed value. However, the result is still  about 25% below the experimental value. The pa-  rameters for the SK and the RSK model are shown  in table 1. Only those parameters which differ for the  RSK model are shown. For a complete description  of the SK model the reader is referred to the original  work [14].   Ion polarizability is modeled by assigning a linear  polarizability at the ion center of mass. For imple-  mentation with the SK model, it is assumed that the  net charge on the chloride ion can be resolved into  an effective nuclear charge of + 7e and an electron  shell [23] charge of   8e. The nuclear charge is ftxed  at the center of mass of the ion. The polarization  (shell) charge position is obtained from the value of  the electric field vector at the nuclear site and the ion  polarizability. The polarization charge (q0) is as-  sumed to be harmonically bound to the nuclear site  and have zero inertia [24]. Thus, if the local electric  field at the nuclear site is E, then the polarization  charge position r0 is assigned to r0=a10~E/q0, where  r0 is the vector from the nuclear site to the polari-  zation charge site. All molecular dynamics (MD)  simulations were performed in the NVE ensemble,  with periodic boundary conditions. The Verlet [25]  algorithm with SHAKE [26], Ewald [27,28] ~  summation and a time step of 2.5 fs was used to in-  tegrate to equations of motion for each molecule. Ve-  locities were resealed occasionally to obtain the de-  sired average temperature.   For the bulk water simulations a cubical box of side  18.6 A and 216 molecules was used. Averages were  taken over 100 ps after equilibrium. The chloride ion  simulation consisted of one anion and 215 water  molecules. The anion was introduced by replacing  one of the water molecules, with no alteration in the  box size. In brief, the following algorithm was used:  with a given configuration, the forces on all the sites  and the electric field at the chloride center of mass  were calculated; the force on the chloride polariza-  tion site was transferred to the center of mass; all the  particles were moved one time step, consistent with  the forces and constraints; a new location for the ion  polarization site was found on the basis of the elec-  tric field obtained in the first step, and the cycle was  repeated. Transferring the force from the polariza-  tion site to the center of mass is a good approxi-  mation when the separation between the two sites is  small [24 J. This is found to be the case. All charge  sites interacted with all the other charge sites in the  sample, with no truncation, and the Ewald sum [28]  (see footnote 1) was used to include long-range  forces. The implementation of ion polarizability vi-  olates energy conservation, since the ion polariza-  bility is treated as a slave to the net field at the center  of mass. However, the energy fluctuation is only 3  parts in iO~ and the average energy drift is even  smaller. No local thermal effects were observed from  monitoring temperatures in different layers of the  simulation box. Each sample was equilibrated for 10  ps, and averages were taken from a subsequent 30 Ps  simulation.      3. Results  3.1. The reparametrized Sprik Klein model  ~  Tenth-order Kubic harmonics were used with conducting  boundary conditions.      Table 1  Parameters for the simulation model. A and Care U parameters   The SK model is a modification of the TIP4P  model [221 for water to include molecular polariz-  ability. As a first Step ~fl this work, the SK model [151  for bulk water was simulated. The results (not  shown) were confirmed against the original work. A  major drawback of the SK model is the slow molec-  ular relaxation. In particular, the self-diffusion con-  stant obtained is too small. To explore the parameter  dependence of the dynamics, the Li parameters were  altered. It was found necessary to also alter the Gaus-  sian width (~) of the polarization charges [14] so as  to reproduce the second peak of the oxygen oxygen  ~Ref.{22l. b)Ref [151  561  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  (O O) radial distribution function (rdf). With the  present form of the model, it appears that an average  molecular dipole moment (ii) of 2.8 D is necessary  to correctly reproduce the second O O peak. The pa-  rameters of the RSK model are shown in table 1,  along with the original SK model [15] values. The  rdfs obtained from the RSK model are shown in fig.  1 and experimental results [29] are included for  comparison. From the figure, it is evident that the  rdfs are reproduced well. The first maximum in the  O O rdf is shifted toward shorter distances, as with  the TIP4P model [22]. The agreement is excellent  after and including the first minimum in the O O  rdf. Calculated equilibrium properties are shown in  table 2, where the results from previous work [15]  have been included for comparison. The RSK model  2  o  o    o  r (A)  Fig. I. The pair distribution functions for the RSK model. (a)  g00 (r), (b) go_H(r) and (c) hHH(r). Dashed curve from ex-  periment [29].      Table 2  Properties of bulk water from simulation. LL~ is the average mo-  lecular polarization energy and Pis the average pressure    SK ~  RSI(  Expt.  P (kbar)  0.0  0.1  0.2  0.0  T(K)  295  295 5     p (D)  2.80 0.01  2.80 0.01  2.6    U~ (kJ/mol)  24.9  25.4 0.2     U(kJ/mol)   40.6   41.1 0.3  ~4l.5~  D   (109m1/s)  1.5 0.4  1.8 0.2  2 4m  ~Ref.[l4]. b)RCf [30j  Ref.[31l. ~Ref.[32l.  gives an improvement in the energy (U) (with a fi-  nite-temperature correction [15]). The value of the  self-diffusion constant (D, obtained from the mean  square displacement) is larger, although the result is  still below the experimental value. On the whole, the  properties of the SK and the RSK models are very  similar except for a somewhat larger self-diffusion  constant and a better fit to the experimental O O rdf  at the first minimum for the RSK model. No attempt  was made to optimize the model parameters further.    3.2. Effects of ionic polarizability     We have chosen a polarizability of a~0~= 3.69 A3  for the chloride polarizability [33]. The value of ion  polarizability depends on the local environment. This  value for a~ was chosen since there is some evi-  dence that ions in dilute aqueous solutions resemble  gaseous ions more closely [34] as compared with ions  in crystals. The U parameters for the ion water in-  teractions [22] were adjusted from their original  value to conform to the U parameters of RSK model.  These are shown in table 1.   Using the RSK model with the above value of a~011,  the Cl O and Cl H rdfs were obtained. To evaluate  the contribution of ion polarizability to the rdfs, an  independent simulation was run with the same model  but with a~0~=0, i.e., a non-polarizable ion. The re-  sults are displayed in fig. 2. Two features are im-  mediately apparent. The height of the first peak in  the rdfs is significantly lowered as a direct conse-  quence of non-zero a~. The location of the first  minimum is also shifted toward shorter distances.  There is some evidence of more structure beyond the  first peak in the rdfs when ion polarization is  included.   To explore the parametrization dependence of the  models used here, a simulation was performed for a  polarizable chloride ion with the SK water model.  The results are shown in fig. 3 and the corresponding  curves for the RSK model are included for compar-  ison. It is evident that the two sets of curves are very  similar. When compared with the original simula-  tion result [15] (not shown), the SK model with a  polarizable chloride ion leads to a lowering of the first  peak and a  contraction  of the rdfs. The relative  difference between the SK and the RSK model is  small, provided the ion polanzability is treated in an  2 4 6 8  562  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  2      O        2        o  2 4 6 8  6      5        a    5  Fig. 3. The ion water pair distribution functions with a,,,, = 3.69  A. (a) g0.~(r) and (b) gc,~(r). Solid curve: the RSK model.  Dotted curve: the Sl( model.    identical way. This gives confidence that the results  we obtain do not depend significantly on an alter-  native parametrization of the model.   For each of the three ion hydration models studied  here, the running coordination numbers are shown  in fig. 4, in the regions corresponding to the location  of the first minimum of the relevant rdfs. It is ap-  parent that the hydration number is largest in the case  r (A)    Fig. 4. Running coordination numbers. (a) Ion oxygen and (b)  ion-hydrogen. Dotted curve: RSK model, a1,,,,=O.00 A3. Solid  curve: RSK model, a-,,,=3.69 A3. Dashed curve: SK model,  a~0,,= 3.69 A~.      of a non-polarizable ion. The calculated hydration  numbers are shown in table 3, where other proper-  ties associated with the chloride ion simulation are  also included. (Note that the average separation (rn)  between the ion center of mass and the polarization  site is very small compared to the ion size.) The po-  sitions of the first maximum (r~1~ ~ ~), the first min-  imum (r~jm~n)) for the ion oxygen rdf are listed,  with analogous quantities for the ion hydrogen rdf.  The location of the second maximum for the ion hy-  drogen rdf (r~,~ t) is included for comparison  [15]. The hydration numbers n0 and ~H are calcu-  lated on the basis of the oxygen and hydrogen atoms  respectively. With a polarizable ion, both the RSK  and the SK models show a hydration number in the  range indicated by experiment [35], 5.3 6.2. The  SK hydration number is further decreased as com-  pared with the previous work [15] with a non-po-  larizable ion. Our results strongly suggest that the ef-  fects of including ionic polarizability act to decrease  the hydration number for dilute aqueous anions.      4. Discussion and summary     In this work we have investigated the contribution  of ion polarization to the solvation structure around  (a)                  (b)  3 4  r (A)    Fig. 2. The ion water pair distribution functions for the RSI(  model. (a) gci_o(r) and (b) gciH (r). Solid curve: a,,~= 3.69 A3.  Dotted curve: a10,,= 0.00 A3.    2    o    2    o  2 4 6 8   r (A)  563    SK ~  SK  RSK  RSK  a,,,,, (A3)  0.00  3.69  0.00  3.69  r0 (A)     0.045 0.005     0.045 0.005  n0  6.1 0.1  5.4 0.1  6.4:0.1  5.9 0.1  n,3  5.9 0.1  5.3 0.1  6.3:0.1  5.8 0.1  r~ 3 (A)  3.18 0.03  3.10 0.03  3.18 0.03  3.13 0.03  r~ 1 ~ (A)     3.68 0.03  3.80 0.03  3.73 0.03  rl]4 ~ (A)  2.25 0.02  2.15 0.05  2.25 0.05  2.15 0.05  r)~)4   (A)     2.95 0.05  2.95 0.05  2.95 0.05  (A)  3.50 0.05  3.50 0.05  3.55 0.05  3.45 0.05  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  Table 3  Hydration numbers and properties of the distribution functions   3 Ref. [ 15 1.  a chloride ion. The main conclusion is that ion Po-  larization decreases the hydration number by ap-  proximately a half unit. This is in addition to the de-  crease observed due to solvent polarization effects.  The effect and importance of including ion polar-  izability in a model has been studied in the case of  ion water clusters [5 8]. To our knowledge, few  studies of ions in dilute solution with the inclusion  of many-body forces have been published [16 18].  In these calculations the non-bonded interactions  were truncated near 8 A. Truncation of long-range  forces can have potentially important consequences  regarding the hydration structure of anions [36].  This initial work can be compared with part of a re-  cent simulation [17] of ionic solutions where three-  body ion water water potentials were employed. In  the latter calculation, it was observed that the chlo-  ride hydration number is significantly changed when  three-body potentials are included. A similar result  is obtained here when ion polarizability is included.  A decrease in height of the first ion oxygen peak is  observed here for the chloride, a feature which seems  common to anions and cations [16,17]. The rdfs ob-  tained here are qualitatively similar to previous work  [17], although there are some quantitative differ-  ences. The hydration number for the chloride ion is  close to six for both models.   In the case of a single ion at least two possible  mechanisms, related to ion polarization, can be re-  sponsible for decreasing the hydration number. There  may be an increased mobility of water molecules be-  tween the first and second hydration shells of the ion.  This mechanism seems the more likely one for weakly  polarizable ions, such as sodium, where polarization  of the ion can be expected to play a less direct role  in solvation. For strongly polarizable ions such as the  chloride, a second mechanism is also possible. The  ion will not present a spherically symmetric poten-  tial profile to its neighbors due to the induced po-  larization. This can act to repel some of the neigh-  boring water molecules while attracting others more  strongly. As a consequence, one could then expect a  shortening of the ion oxygen distance was well as a  lowering of the first peak in the rdf. This seems the  more likely mechanism for the decrease in hydration  number observed here when ion polarizability is in-  cluded. Further study in this direction is needed.   The average electric field at the polanzability cen-  ter of an isolated solvated ion can be expected to  vanish. This implies that the average value of the in-  duced ion polarization should be zero. In this sim-  ulation it was observed that the orientation of the  ion dipole moment is long-lived. There is significant  correlation over the length of the 30 ps production  runs. This fact is not of great concern in the present  work, since the temporary  locking  of the ion po-  larization in a particular direction is not significant,  there being no preferred direction. However, in the  case of a pair of ions the isotropy around the ions is  broken, and it will become important that averages  be taken over periods of time long enough to allow  the ion polarization to relax. This relaxation may oc-  cur on the time scale of local solvent configurational  relaxation times.   We have studied some of the hydration character-  istics of the chloride ion where the model includes  solvent and solute polarizability, resulting in non-  additive effective interactions. Long-range forces  564  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  were included through Ewald summation and not  truncated. The effects of ion polarization are signif-  icant in the case of the chloride ion. Open questions  remain regarding single ion hydration and dynamics.  It would also be interesting to investigate the case of  ion pairs [37] in solution.      Acknowledgement     Acknowledgement is made to the Donors of The  Petroleum Research Fund, administered by the  American Chemical Society, for partial support of  this research. This work was also supported by grants  from the North Carolina Board of Science and Tech-  nology and the North Carolina Supercomputing  Center. OAK thanks Michiel Sprik and Tjerk  Straatsma for helpful comments.      References    [Il P.G. Wolynes, Ann. Rev. Phys. Chem. 31(1980)345.  [2] J.A. McCammon, O.A. Karim, I.E. Lybrand and C.F. Wong,  Ann. NY Acad. Sci. 482 (1986) 210.  [31 J.P. Hansen and I.R. McDonald, Theory of simple liquids  (Academic Press, New York, 1986).  [4] P. Barnes, J.L. Finney, J.D. Nicholas and J.E. Quinn, Nature  (London) 282 (1979) 459.  [51 P. Cieplak, T.P. Lybrand and P.A. Kollman, J. Chem. Phys.  86(1987)6393.  [6] J.B. Foresman and CL. Brooks III, J. Chern. Phys. 87  (1987) 5892.  [71 T.P. Lybrand and PA. Kollman, J. Chem. Phys. 83(1985)  2923;  P. Cieplak, PA. KollmanandT.P. Lybrand, J. Chem. Phys.  92 (1990) 6755.  [81 J. Caldwetl, L.X. Dang and P.A. Kollman, J. Am. Chem.  Soc. 94 (1990) 9144.  [91 U. Niesar, G. Corongui, E. Clementi and D.K. Bhattacharya,  J. Phys. Chem. 94 (1990) 7949.  [101K. Watanabe and ML. Klein, Chem. Phys. 131 (1989) 157.  [Il] T.P. Straatsma and JA. McCammon, Mol. Simul. 5(1990)  181.  [12] R.W. Impey, P.A. Madden and I.R. McDonald, J. Phys.  Chem.87 (1983) 5071.  [l3lB.M. Pettitt and P.J. Rossky, J. Chem. Phys. 84(1986)  5836.  [141 M. SprikandM.L. Klein, J. Chem, Phys. 89(1988)7556.  [151 M. Sprik, M.L. Klein and K. Watanabe, J. Phys. Chem. 94  (1990)6483.  [161 G. Corongui, M. Migliore and E. Clementi, J. Chem. Phys.  89(1989)4629.  [17] L.X. Dang, i.E. Rice, J. Caldwell and P.A. Kollman. J. Am.  Chem. Soc. 113 (1991)2481.  [181 P. Cieplak and PA. Kollman, J. Chem. Phys. 92 (1990)  6761.  [191 S-B. Thu and G.W. Robinson, Z. Nalurforsch. 46a (1990)  221.  [201 J.M. Caitlol, D. Levesque and J.J. Weis, J. Chem. Phys. 91  (1989) 5544, 5555.  [211 M. Sprik, J. Phys. Chem. 95(1991)2283.  [22] J. Chandrasekhar, D.C. Spellmeyer and W.L. Jorgensen, J.  Am.Chem. Soc. 106 (1984) 903.  [231 N.W. Ashcroft and ND. Mermin, Solid state physics (Holt,  Rinehart and Winston, New York, 1976) p. 543.  [241 T.P. Straatsma and JA. McCammon, Chem. Phys. Letlers  177 (1991) 433.  [25] L. Verlet, Phys. Rev. 159 (1967) 98.  126] J.P. Ryckaert, G. Cioccotti and H.J.C. Berendsen, J.  Comput. Phys. 23(1977) 327.  [271 P.P. Ewald, Ann. Phys. (Leipzig) 64 (1921) 253.  [281 D.J. Adams and G.S. Dubey, J. Comput. Phys. 72 (1987)  156.  [29] A.K. Soper and M.G. Philips, Chem. Phys. 107 (1986) 47.  [301 P. Brumer and M. Karplus, J. Chem. Phys. 58(1973)3903.  [3l]L.Pauting,Proc.Roy.Soc.A t14(t927) 181.  [32]C.A. Coulson and D. Eisenberg, Proc. Roy. Soc. A 291  (1966) 445;  P. Barnes and J.L. Finney, Faraday Discussions Chem. Soc.  69(1980).  1331 W.L. Jorgensen, J. Chandrasekhar, J. Madura, R.W. Impey  and M.L. Klein, J. Chem. Phys. 79 (1983) 926.  [341 K. Krynicki, CD. Green and D.W. Sawyer, Faraday  Discussions Chem. Soc. 66 (1978)199.  [35] G.W. Neitson, Physica B 120 (1983)325.  [361 CL. Brooks lII,J. Chem. Phys. 86(1987)5156.  [37] H.L. Friedman, Faraday Discussions Chern. Soc. 85(1988)  565  py around the ions is  broken, and it will become important that averages  be taken over periods of time long enough to allow  the ion polarization to relax. This relaxation may oc-  cur on the time scale of local solvent configurational  relaxation times.   We have studied some of the hydration character-  istics of the chloride ion where the model includes  solvent and solute polarizability, resulting in non-  additive effective interactions. Long-range forces  564  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  were included through Ewald summation and not  truncated. The effects of ion polarization are signif-  icant in the case of the chloride ion. Open questions  remain regarding single ion hydration and dynamics.  It would also be interesting to investigate the case of  ion pairs [37] in solution.      Acknowledgement     Acknowledgement is made to the Donors of The  Petroleum Research Fund, administered by the  American Chemical Society, for partial support of  this research. This work was also supported by grants  from the North Carolina Board of Science and Tech-  nology and the North Carolina Supercomputing  Center. OAK thanks Michiel Sprik and Tjerk  Straatsma for helpful comments.      References    [Il P.G. Wolynes, Ann. Rev. Phys. Chem. 31(1980)345.  [2] J.A. McCammon, O.A. Karim, I.E. Lybrand and C.F. Wong,  Ann. NY Acad. Sci. 482 (1986) 210.  [31 J.P. Hansen and I.R. McDonald, Theory of simple liquids  (Academic Press, New York, 1986).  [4] P. Barnes, J.L. Finney, J.D. Nicholas and J.E. Quinn, Nature  (London) 282 (1979) 459.  [51 P. Cieplak, T.P. Lybrand and P.A. Kollman, J. Chem. Phys.  86(1987)6393.  [6] J.B. Foresman and CL. Brooks III, J. Chern. Phys. 87  (1987) 5892.  [71 T.P. Lybrand and PA. Kollman, J. Chem. Phys. 83(1985)  2923;  P. Cieplak, PA. KollmanandT.P. Lybrand, J. Chem. Phys.  92 (1990) 6755.  [81 J. Caldwetl, L.X. Dang and P.A. Kollman, J. Am. Chem.  Soc. 94 (1990) 9144.  [91 U. Niesar, G. Corongui, E. Clementi and D.K. Bhattacharya,  J. Phys. Chem. 94 (1990) 7949.  [101K. Watanabe and ML. Klein, Chem. Phys. 131 (1989) 157.  [Il] T.P. Straatsma and JA. McCammon, Mol. Simul. 5(1990)  181.  [12] R.W. Impey, P.A. Madden and I.R. McDonald, J. Phys.  Chem.87 (1983) 5071.  [l3lB.M. Pettitt and P.J. Rossky, J. Chem. P</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9180034U</aid>
+            <ce:pii>0009-2614(91)80034-U</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)80034-U</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Simulation of an anion in water: effect of ion polarizability</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Omar A.</ce:given-name>
+                  <ce:surname>Karim</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Physics, University of North Carolina at Wilmington, Wilmington, NC 28403-3297, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="24" month="6" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A polarizable-polar water model is used to study the structure of wate near a chloride ion. A semi-classical description of ion polarizability is included. Significant changes in the solute-solvent distribution functions are observed. When compared with a simulation without ion polarizability, it is found that the hydration number is further decreased when ion polarizability is present.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Wolynes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.A.</ce:given-name>
+                                 <ce:surname>Karim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Lybrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. NY Acad. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>482</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>210</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of simple liquids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Barnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Finney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Nicholas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Quinn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature (London)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>282</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>459</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cieplak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Lybrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Kollman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6393</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Foresman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Brooks</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5892</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Lybrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Kollman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2923</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cieplak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Kollman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Lybrand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6755</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Caldwell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.X.</ce:given-name>
+                                 <ce:surname>Dang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Kollman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9144</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Niesar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Corongui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Clementi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Bhattacharya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7949</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Straatsma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Simul.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Impey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5071</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Pettitt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5836</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sprik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7556</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sprik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6483</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Corongui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Migliore</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Clementi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4629</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.X.</ce:given-name>
+                                 <ce:surname>Dang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Rice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Caldwell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Kollman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2481</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cieplak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Kollman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6761</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Caillol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Levesque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5544</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Caillol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Levesque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5555</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sprik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2283</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chandrasekhar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Spellmeyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Jorgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>903</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.W.</ce:given-name>
+                                 <ce:surname>Ashcroft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Mermin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Solid state physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Holt, Rinehart and Winston</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>543</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Straatsma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>433</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Verlet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Ryckaert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Cioccotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.C.</ce:given-name>
+                                 <ce:surname>Berendsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Ewald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Phys. (Leipzig)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1921</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>253</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Adams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Dubey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>156</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Soper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Philips</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>47</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Brumer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Karplus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3903</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Pauling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1927</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Coulson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Eisenberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 291</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Barnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Finney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Jorgensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chandrasekhar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Madura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Impey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>926</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Krynicki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Green</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Sawyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>199</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>325</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Brooks</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5156</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

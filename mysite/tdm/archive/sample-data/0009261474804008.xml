@@ -1,0 +1,390 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261474804008</prism:url><dc:identifier>doi:10.1016/0009-2614(74)80400-8</dc:identifier><eid>1-s2.0-0009261474804008</eid><prism:doi>10.1016/0009-2614(74)80400-8</prism:doi><pii>0009-2614(74)80400-8</pii><dc:title>A model for the ab initio calculation of some solvent effects </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>26</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>501</prism:startingPage><prism:endingPage>504</prism:endingPage><prism:pageRange>501-504</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1974-06-15</prism:coverDate><prism:coverDisplayDate>15 June 1974</prism:coverDisplayDate><prism:copyright>Copyright © 1974 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Hylton, Jane</dc:creator><dc:creator>Christoffersen, Ralph E.</dc:creator><dc:creator>Hall, George G.</dc:creator><dc:description>
+               Abstract
+               
+                  A theory of solvent-solute interactions is presented, in which a classical model due to Kirkwood is used to derive an expression for the potential affecting a molecule due to a solvent. From this the quantum mechanical hamiltonian for the molecule in the presence of the solvent can be deduced, and a variational minimization of the total energy of the system leads to an ab initio scheme which includes solvent effects. The solvation energy of He in CCl4 is reported as an illustration of the method.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261474804008" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261474804008" rel="scidir"/></coredata><scopus-id>84889398622</scopus-id><scopus-eid>2-s2.0-84889398622</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84889398622" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011121">2001-11-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011121">2001-11-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-04T18:56:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261474804008</xocs:eid>
+      <xocs:pii-formatted>0009-2614(74)80400-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261474804008</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(74)80400-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07786</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T16:17:19.49021-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19740615</xocs:date-search-begin>
+      <xocs:year-nav>1974</xocs:year-nav>
+      <xocs:indexeddate epoch="1006300800">2001-11-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>26</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>26</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 26, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>501</xocs:first-fp>
+      <xocs:last-lp>504</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>501</xocs:first-page>
+         <xocs:last-page>504</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19740615</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 June 1974</xocs:cover-date-text>
+      <xocs:cover-date-start>1974-06-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1974</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1974 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>AMODELFORABINITIOCALCULATIONSOLVENTEFFECTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HYLTON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KIRKWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1934</xocs:ref-pub-year>
+            <xocs:ref-first-fp>351</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KIRKWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1938</xocs:ref-pub-year>
+            <xocs:ref-first-fp>506</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1559</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>LATIMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1939</xocs:ref-pub-year>
+            <xocs:ref-first-fp>108</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ONSAGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1936</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1486</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LINDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HYLTONX1974X501</xocs:refkey3>
+         <xocs:refkey4lp>HYLTONX1974X501X504</xocs:refkey4lp>
+         <xocs:refkey4ai>HYLTONX1974X501XJ</xocs:refkey4ai>
+         <xocs:refkey5>HYLTONX1974X501X504XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(74)80400-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261474804008</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261474804008</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(74)80400-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T16:17:19.49021-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1974-06-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261474804008-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474804008/MAIN/application/pdf/babda1d3fc4d35d8cc36da5ec2ec8623/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474804008/MAIN/application/pdf/babda1d3fc4d35d8cc36da5ec2ec8623/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>381239</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261474804008-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474804008/PREVIEW/image/png/dfdf4e7b673894ee158bfac21c8492d0/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474804008/PREVIEW/image/png/dfdf4e7b673894ee158bfac21c8492d0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56932</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 26, number 4  CHEMICAL PHYSICS LEITERS  15 June1974  A MODEL FOR THE AB INITIO CALCULATION OF SOME SOLVENT EFFECTS*, **  Jane HYLTON, Ralph E. CHRISTOFFERSEN and George G. HALL  Chemistry Depennzent. (Jnit‘ersizy of Kansa s.  Lawrence, Kansas 66045. USA  Received 5 December 1973   A theory of solvent—solute interactions is presented, in which a classical model due to Kirkwood is used to derive  an expression fer the potential affecting a molecule due to a solvent. From this the quantum mechanical hamiltonian  for the molecule in the presence of the solvent can be deduced, and a variational minimization of the total energy of  the system leads to an ab initio scheme which includes solvent effects. The solvation energy of He in CC1.3 is reported  as an illustration of the method.  L introduction  2. The classical electrostatic model   Many experimental studies have shown that the  configuration of a molecule, its spectra, and many of  its properties can be modified significantly by its en-  vironjuent, it is important, therefore, that ab initio  methods of calculating molecular structure and prop-  erties be developed that can provide for the inclusion  of these effects.   in this preliminary investigation, a model of  solvent—solute interaction is described, which should  be applicable at least to non.polar solvents lt results  in a number of additional terras in the hamiltonian  for the molecule, and the solvent effect is found by  repeating the energy calculation for the new hamil-  tonian and comparing with the result for the free  molecule. To illustrate the method, calculations are  reported for the solvation energy of He, in a solvent  ofCCt4,   * Supported in part by grants from the National Science~  ** Foundation and the Upjohn Company.  • Due to a serious error part of the article published in VoL  • 24, no. 4,-15Febn*ary 1974, p. 501—504 was not printed.  The present article contains the missing text (section 3,  from eq (12) onwards)   The model for the solvent effi ow proposed  considers the molecule to be enclosed in a sphere that  is embedded in a polaiizable solvent medium. The  medium is characterized as a continuum by its dielec-  tric constant e, and the ~o1vent molecule is represent-  ed by charged particles e- situated at fixed points r1  inside the sphere of radius ‘sa“ (fig. 1).  Fig I Illustration of the classtcal electrostatic model  Volume 26, number 4  CHEMICAL PHYSICS LET1TERS  15 June 1974   The classical electrostatic potential V(r) due to a  single point charge in a sphere has been deduced from  the electrostatic equations by Kirkwood [1, 21. Inside  the sphere the potential cari be written as  U—!‘S‘ .c~(1tl)(i—e) I  ~ (1+l)e+1   i,j 10  X (‘~,/a2)1P,(cos ~ (8)   e1 e1 (j + »(1  e) where each summation extends over all particles.   lr—r11 + ~Q   X (n‘1/a~P1 (cos 0f), (1) 3. The quantum mechanical model    The quantum mechanical hamiltonian for the mol-  ecule in the presence of the solvent is the sum of the    (2) free molecule hamiltonian 1-f and the solvent term U.  In the usual atomic units [3], U can now be written  as a sum of nuclear—nuclear, nuclear—electronic and  electron—electron terms, i.e.,       (l+l)(l—c) 1  1=0 (/+1)e+/ ~  RR I  X ~ ~ a2 ~) Pl(COSOass)        IR r,\!  — EEZ4_-~_) F1(cosO01)  u ~fpv‘ dr, (4) + ~ (~)‘P,(cos0ij)) ~ u,.           a      The rationale behind this use of the classical por.ential  in the hamiltonian is that it provides a model in which  the dielectric medium responds instantaneously to the  (5) fluctuations in the electric field caused by the electron-  ic motion. This assumption is appropriate for non-  polar solvents, but requires modification when solvent  relaxation effects become important.   (6) The terms in U which have 1 = O can be taken to-   z gether, since the spatial variables do not arise. The  results can be written as  so that   - ‚ U0 =—4(Q2/a)(l —c~), (10)   U=.~Ee,l‘~(r1). (7)   - j,! where Q is the total charge on the molecule. This is  simply the Boiii charging elleigy teun [41, and vanish-  Thus for the additional energy of the system inside  es for neutral molecules. The terms havmg I = I can   the sphere due to the effect of the medium on the . . . -   - be written in a form reminiscent of Onsager s dipolar  charges contained in the sphere the model rives the   ener~ [5J  expression  U1 = — ~ [2cc — 1)f~2c t 1)1 ~2/a3, (11)      502  while outside it is  VOUi(r) eIE (~)‘Pi(cos0i),      where the point charge is e1 at r1 and is the angle  at the centre of the sphere between the vectors  r and r1.   The potential inside the sphere due to the remain-  ing point charges is identical in form and can be found  by summing over all charges:    V=EV1(r).      The total electrostatic energy due to a charge distribu-  tion p(r) acted on by a potential V(r) is  (9)  where V‘ is the potential Vwith infinite self-energy  terms removed. For a set of point charges, V‘ is the  potential due to the external polarization,    V‘ = ~ Vf(r),    and the charge distribution is given by  ‚ Ee~(r—r1). l,11&lt;a,  No. of ~aus~ians  Er.crgy of free  atom (harirees)  &lt;C)  (harirees)  !f~  (hartrees)  CU1)  ~kcaIfm oie)  C L‘2)  (kcallmolc)  C L‘3)  (kcalfmole    1  --2.3009869  0.0000073  —0.0059148  —3.401  --O.27R  —0.033    2  —2.747t~61  0.0000448  0.0065831  -3.664  —0.402  —0.067    3  —2.8356798  0.0002053  —0.0072904  —3.934  —0.530  —0.117    4  —2.8551603  0.0005699  —0.0074870  —4.064  —0.610  —0.162    5  —2.859~950  0.0011349  —0.0078887  —4.117  —0.652  —0.193    6  —2.8611163  0.0020910  —0.0079585  —4.118  —0.668  —0.213    7  —2.8614911  0.0026589  —0.00M821  —4.066  —0.645  —0.205    8  —2.8616094  0.0019565  --0.0070975  —4.022  —0.610  —0.178    9  -2.8616524  0.0014162  -0.0069134  .4.029  —0.606  —0.L70                  503  Volume 26, number 4  CHEMICAL PHYSICS LETFERS  15 June 1974  where p is the dipole operator   nue. elec.    E Zc,r~, — ~ r1.  tions and energIes. In particular, molecular orbitals  can be found by finding the eigenvectors of a modified   (12) Fock operator derived from JC‘:    W‘=JC+U+C. (14)    It is computationally convenient, if not essential,  in these wavefunction calculations to assume that the 4. Solvation energy for helium  wavefunction extends everywhere This contradicts  the classical assumption, which underlies the model, To illustrate the method, a calculation has been per-  that the electrons are confined within a sphere. It is formed of the solvation energy of a helium atom in its  also at variance with the conditions that would apply ground state in a solvent of dielectric constant 2.238,  in a real liquid, since the electrons in any particular i.e., Cd4 - The choice of a radius for the sphere ought  molecule are confined to that molecule by the short to be related to the pair distribution function for the  range overlap repulsions due to electrons around other solvent (see Linder [61). Lt was taken as  molecules. Both of these difficulties can be overcome  a4.337 bohrs, (15)  by introducing into the model an additional repulsive  potential which will constrain the electrons to remain  which is somewhat larger than the usual van der Waals  substantially inside the sphere without introducing dis- radius for the atom [4].  continuities into the wavefunction. A suitable poten-    Table 1 lists some results for the energies when dif  tial for this purpose is  fering numbers of gaussians are used to approximate    to the occupied orbital. Terms in U up to U3 are cal  C= ~(r~/a)“, (13) culated, and the fast convergence, as Iincreases, of the    contributions to Uis demonstrated as well as the small-  since this remains small inside the sphere but rises rap. ness of(C). In these calculations n = 12. The solvation  idly outside. The power n should be greater than any  energy is calculated as  power required in the calculation of U, so that if the   E = E‘ — (C) — E 16  sum over lis terminated with Z in then n ~„ m. Al-  though the energy of the molecule is now optimized   where E is the energy of the free atom and E‘ is the  with I •h Uand C terms, it is desirable that the mean  energy corresponding to hamiltonian f-i‘.  values of these should be monitored to ensure that the  constraint energy (C&gt; remains much smaller that the  solvation energy. Since U is a sum over zero-, one- and 5. Discussion  two-electron operators, it is readily incorporated into  the usual ab initio calculations of molecular wavefunc-   From the results in table 1 it can be seen that as the  Table 1  Solvation energy of helium  15 June 1974  Volume 26, number 4  CHEMICAL PHYSICS LETTERS   Further characterization of this solvent interaction  method is under Investigation, including analysis of  different forms of potential function C and choice of    sphere radius a. These results will be reported soon in   (17) greater detail with examples given comparing calcu    lated solvation effects with experimental work.      Acknowledgement     The authors would like to express their appreciation  to the University of Kansas for support of the computer  time required for this work.      References    [11 J.G. Kirkwood, J. Chem. Phys. 2(1934)351.  (21 JG. Kirkwood and Fi-1. \Vestheimer, J. Chem. Phys. 6  (1938) 506.  (31 G.G. Hall and H. Shull, Nature 184 (1959) 1559.  [4) W.M. Latimer, KS. Pitzer and C.M. Slansky, J. Chem.  Phys. 7 (1939) 108.  (SI L Onsager, i.Am. Chem. Soc. 58 (1936) 1486.  (61 B. Linder, Advan.Chem. Phys. 12 (1967) 225.  size N of the basis set increases, the energy of the free  atom dacreases: at the same time the total solvent crier-  gy E5, which can be approximated by      E5 U1 -t- U2 / U3,    reaches a minimum at N =6 and then stabilizes  towards a slightly higher value at N =9. The latter  value can be taken as the solvation energy of He in  CCI4 and is    E5 = —0.00069134 hartrees —4.338 kcal/mole. (18)    The minimum of the solvation energy atN = 6 can be  accounted for if the radii of the gaussians involved are  considered. For small basis sets there will be no diffuse  functions extending towards the boundary of the  sphere, and so both E~ and E5 will be small. 1f there  is just one diffuse function extending into the region  of the surface of the sphere, then the wavefunction  cannot adjust to the potentials C and U in that region.  As more diffuse basis functions are added to the sys-  tem, the accuracy of the wavefunction in the region  of the sphere boundary will increase as will the accu-  racy of E5.  504  trons are confined within a sphere. It is formed of the solvation energy of a helium atom in its  also at variance with the conditions that would apply ground state in a solvent of dielectric constant 2.238,  in a real liquid, since the electrons in any particular i.e., Cd4 - The choice of a radius for the sphere ought  molecule are confined to that molecule by the short to be related to the pair distribution function for the  range overlap repulsions due to electrons around other solvent (see Linder [61). Lt was taken as  molecules. Both of these difficulties can be overcome  a4.337 bohrs, (15)  by introducing into the model an additional repulsive  potential which will constrain the electrons to remain  which is somewhat larger than the usual van der Waals  substantially inside the sphere without introducing dis- radius for the atom [4].  continuities into the wavefunction. A suitable poten-    Table 1 lists some results for the energies when dif  tial for this purpose is  fering numbers of gaussians are used to approximate    to the occupied orbital. Terms in U up to U3 are cal  C= ~(r~/a)“, (13) culated, and the fast convergence, as Iincreases, of the    contributions to Uis demonstrated as well as the small-  since this remains small inside the sphere but rises rap. ness of(C). In these calculations n = 12. The solvation  idly outside. The power n should be greater than any  energy is calculated as  power required in the calculation of U, so that if the   E = E‘ — (C) — E 16  sum over lis terminated with Z in then n ~„ m. Al-  though the energy of the molecule is now optimized   where E is the energy of the free atom and E‘ is the  with I •h Uand C terms, it is desirable that the mean  energy corresponding to hamiltonian f-i</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>74804008</aid>
+            <ce:pii>0009-2614(74)80400-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(74)80400-8</ce:doi>
+            <ce:copyright type="unknown" year="1974"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Supported in part by grants from the National Science Foundation and the Upjohn Company.</ce:note-para>
+            </ce:article-footnote>
+            <ce:article-footnote>
+               <ce:label>☆☆</ce:label>
+               <ce:note-para>Due to a serious error part of the article published in Vol. 24, no. 4, 15 February 1974, p. 501–504 was not printed. The present article contains the missing text (section 3, from eq. (12) onwards).</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>A model for the ab initio calculation of some solvent effects</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jane</ce:given-name>
+                  <ce:surname>Hylton</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Ralph E.</ce:given-name>
+                  <ce:surname>Christoffersen</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>George G.</ce:given-name>
+                  <ce:surname>Hall</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemistry Department, University of Kansas, Lawrence, Kansas 66045, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="5" month="12" year="1973"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A theory of solvent-solute interactions is presented, in which a classical model due to Kirkwood is used to derive an expression for the potential affecting a molecule due to a solvent. From this the quantum mechanical hamiltonian for the molecule in the presence of the solvent can be deduced, and a variational minimization of the total energy of the system leads to an ab initio scheme which includes solvent effects. The solvation energy of He in CCl<ce:inf loc="post">4</ce:inf> is reported as an illustration of the method.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Kirkwood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1934</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>351</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Kirkwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Westheimer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1938</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>506</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.G.</ce:given-name>
+                                 <ce:surname>Hall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shull</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>184</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1559</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Latimer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Pitzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Slansky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1939</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>108</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Onsager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1936</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1486</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Linder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

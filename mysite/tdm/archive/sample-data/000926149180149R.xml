@@ -1,0 +1,823 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149180149R</prism:url><dc:identifier>doi:10.1016/0009-2614(91)80149-R</dc:identifier><eid>1-s2.0-000926149180149R</eid><prism:doi>10.1016/0009-2614(91)80149-R</prism:doi><pii>0009-2614(91)80149-R</pii><dc:title>Optical spectra of Ni(II) in Ni2GeO4 and germanate spinels </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>185</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>111</prism:startingPage><prism:endingPage>116</prism:endingPage><prism:pageRange>111-116</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-10-11</prism:coverDate><prism:coverDisplayDate>11 October 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Lenglet, M.</dc:creator><dc:creator>Jørgensen, C.K.</dc:creator><dc:description>
+               Abstract
+               
+                  A structural reinvestigation of Ni2GeO4 has been performed by means of EXAFS and ligand-field spectroscopy and reveals two optically different nickel sites. The presence of germanium on either tetrahedral or octahedral sites in mixed germanates increases the ionicity of the Ni(II)tetraO or Cr(III)O bonds.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149180149R" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149180149R" rel="scidir"/></coredata><scopus-id>0039463998</scopus-id><scopus-eid>2-s2.0-0039463998</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0039463998" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:52:59</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149180149R</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)80149-R</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149180149R</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)80149-R</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10779</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T10:08:13.92815-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19911011</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>185</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>185</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 185, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>111</xocs:first-fp>
+      <xocs:last-lp>116</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>111</xocs:first-page>
+         <xocs:last-page>116</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19911011</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>11 October 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-10-11</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>OPTICALSPECTRANIIIINNI2GEO4GERMANATESPINELS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LENGLET</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>LENGLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>478</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>LENGLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L363</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ARSENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1281</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>TARTE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>551</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MANCEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>341</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MANCEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>357</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SCHMITZDUMONT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>76</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>REINEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>172</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>REINEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>182</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>LENGLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>LENGLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>483</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>REINEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>114</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>REINEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>260</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BERTAUT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>516</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>RAOUX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1079</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>TEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2815</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LENGLETX1991X111</xocs:refkey3>
+         <xocs:refkey4lp>LENGLETX1991X111X116</xocs:refkey4lp>
+         <xocs:refkey4ai>LENGLETX1991X111XM</xocs:refkey4ai>
+         <xocs:refkey5>LENGLETX1991X111X116XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)80149-R</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149180149R</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149180149R</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)80149-R</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T10:08:13.92815-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-10-11</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149180149R-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180149R/MAIN/application/pdf/76ab37bfc79e175ec1f492361da33b2f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180149R/MAIN/application/pdf/76ab37bfc79e175ec1f492361da33b2f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>455102</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149180149R-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180149R/PREVIEW/image/png/3e8b4d8e6c382d5169ff9b497618affc/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180149R/PREVIEW/image/png/3e8b4d8e6c382d5169ff9b497618affc/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58118</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Spinel composition  Cation distribution  Li0 5NiCr0 5GcO4  Ge [Li0 5NiCr05 104  Li05M05Cr15Ge0504  Li05M05lCr15Ge0.5 104  Volume 185, number   1,2  CHEMICAL PHYSICS LETTERS  11 October 1991  Table 1  Oistribution in germanates deduced from IR pattern  1. Introduction     We have published the characterization of the  Ni (11) O chemical bond for tetrahedral and octa-  hedral coordination in spinels by X-ray photoelec-  tron spectroscopy, X-ray spectrometry and ligand-  field spectroscopy [I j. The characteristic parame-  ters of the Ni (II) tesra~0 bond are not very sensitive  to the Jahn Teller effect, unlike those of Cu(lI) O  bonds [2,3]. Among the inverse spinels, Ni20e04  shows a specific optical absorption spectrum with re-  markable bond-splitting effects. The purpose of this  paper is a structural reinvestigation of Ni2GeO4 and  mixed spinels containing high-valency cations by li-  gand-field spectrometry and X-ray spectrometry.      2. Optical absorption spectroscopy     Tarte et al. [4] suggest that the Pauling electro-  static rule should be added to the classical factors  which determine the cation distribution in spinels  containing several high-valency cations (at least one  trivalent and one tetravalent). These authors have  synthesized a series of complex germanates includ-  ing the following compositions: Li0 5ZnCr0 5GeO4,  Li0 5NiCr0 5Ge04 and Li05M05Cr15Ge05O4 (M  =  Mg2~, Co2~, Ni24, Zn2~); and they have proposed  the distribution shown in table 1 deduced from the  JR pattern.   Tarte comes to the conclusion that whenever the  expected cation distribution leads to the simulta-  neous occurrence of significant quantities of high-  valency cations on both tetrahedral and octahedral  sites, the distribution is in contradiction with the  known preferences of the cations for the tetrahedral  and octahedral environments. We have accordingly  studied a series of spinel complex germanates among  which we shall consider here the following compo-  sitions: (1  x)Ni2GeO4 xNiGa2O4,(l  x)Ni2GeO4   xNiCr2O4, Li05NiCr05GeO4 and Li05Ni05Cr15-  Ge0 504.    2.1. Octahedral Ni2~ environment: Ni2GeO4 and  Ni2 ~Ga2~Ge1  x 4 spine/s     An examination of the Tanabe Sugano diagram  for Ni2 + in an octahedral environment shows that  111  Elsevier Science Publishers B.V.  Optical spectra of Ni (II) in Ni2GeO4 and germanate spinels    M. Lenglet  Laboratoire de Fkvsicochimie des Materiaux, INSA de Rouen, B.? 08, 7613) Mont Sain! Aignan Cedex, France      and    C.K. Jorgensen  Departement de Chimie Minerale, Analytique et Appliquee, Universite de Geneve, CH-121! Geneva 4, Switzerland      Received l4January 1991; infinalform 6iune 1991         A structural reinvestigation of Ni20e04 has been performed by means of EXAFS and ligand-field spectroscopy and reveals Iwo  optically different nickel sites. The presence of germanium on either tetrahedral or octahedral sites in mixed germanates increases  the ionicity of the Ni (II ) ~ ~~ O or CrUt! ) O bonds.  Volume 185, number 1,2  CHEMICAL PHYSICS LETTERS  11 October 1991  Fig. 1. Optical spectra absorption of Ni2~Ga2~Ge, _~O4 com-  pounds: (1) x=O; (2) x=O.25; (3) x=O.5; (4) x=O.75; (5)  x=1.      up to eight transitions are possible in the energy range  of interest, three spin-allowed and five spin-forbid-  denfl Spin-allowed bands are usually much more in-  tense than spin-forbidden bands, so one would pre-  dict three intense and five weak bands if Ni2~  occupied only one type of cation site. In this case,  however, six of the seven observed bands are mod-  erately intense (curve 5, fig. I ). Thus, the optical ab-  sorption spectrum of Ni2GeO4 may be interpreted in    Table 2  terms of two optically different nickel atoms in two  inequivalent crystallographic environments. The six  intense bands have, therefore, been assigned in groups  of two, each pair arising from the same spin-allowed  transition in the two cation sites; see table 2. The re-  placement of the Ge4~ ions by Ga3~ leads to a very  pronounced decrease in the splitting of the 3A2g_*3Tlg  (03) transition (fig. 1). The large values of the Ra-  cah parameters (table 3) are consistent with litera-  ture data relative to oxidized compounds with sim-  ilar Ni(lI) 0 distances; see table 4.    2.2. Tetrahedral and mixed N12~ environment:  Ni2_~Cr2~Ge, _x04 and other mixed germanales     In this system, an inversion of the cation distri-  bution is observed. The normal and inverse mixed  spinels are separated by a miscibility gap from each  other as in the Ni2_~Zn~Ge204 system [8].   In the range 0~x~0.25, the cation distribution  can be established from the ligand-field spectra con-  verted to the Kubelka Munk function by measuring  the absorption at 4500 cm  as in NiCr2O4 NiM2O4  (M=Fe [9], Ga [10]). Tetrahedral Ge4~ ions are  replaced by Ni2t   The evolution of the Racah parameters with in-  creasing values of x may be correlated with increas-  ing ionicity of the Nj(Il)tet~a~0 bond resulting from  the stronger covalency of the Ga 0 and Ge 0 bonds  (table 1). The detection limit of tetrahedral Ni2 + us-  ing absorption measurements is very low because of  its high absorptivity in a noncentrosynimetric site.  The molar extinction coefficient of spin-allowed  transitions of Ni(H20)~, (N~~a) and (NiCI4)2 ,  (N~~a) ranges between 1 and 10 cm   mol   and  10_2 and l0 ~ cm  mol  , respectively. Near-in-  frared bands of Ni~~ and N~~a (respectively lo-  cated at 8000 and 9000 cm ) are of equal in-  tensity in NiCr05Ga,204 and Ni,9Cr02Ge0904  spinels characterized by the following distribution:  Sites  Energy of  the transition from the  3A2g level (cm~)    Parameters    Dq  (cm  ~  B    3T2g  31,8 and  Eg   Tig  3Tig      1  8000  13100  20600  23200  800  830  2  9100  15300    26100  910  920   25000 15000 cm-1  112  Optical transition energy and ligand-field parameters of  mixed germanates          Formula Cation distribution  Energy of the transition from the   3A25 level (1 0~ cm   )      Optical parameters (cm   )  Ref.     3T25  E5 3T,5  T5 3T,5      D0 B       (1)~ (2)a) (1) (2) (1)    (2)   (1) (2) (1) (2)    octahedral environment  (1  x)Ni2GeO4-xNiGa2O4   x~ 1 Ga[NiGa)04 x=O.5 Ga050e05[Ni,5Ga05]04 x=0.25 Ga025Geo75[Ni,75Ga0251O4    x=O Gc[Ni2]04Li05NiCr05GeO4 GelLiosNiCro5J04Ni08Zn,2GeO4 Zn[Nio8Zno2Ge,104   9.3 13.15 15.8 22.5  8 9.25 13.1 15.35 20.6 248 9.1 13 15.25 20.6 23.4   8.15 9.2 13  23  9.5 13 16.3  26.5    25.9  26.1  26.1    26.2   945 905    925  900 SOU 910 840 920 800 910 830 920 820 920 805 920   950 860      Energy of the transition from the ~i, level (1 O~ cm- )      Optical parameters (Cm  )       3T2 3T,      D0 B    tetrahedral or mixed environment  (1  x)Ni2GeO4-xNiCr2O4   x=l Ni[Cr,l04   x=O.2 Ni0 2Geog [Ni,6Cro4l04  Li05Ni05Cr15Ge05O4 Li0 5Ni05[Cr, 5Ge05l04   8.5 15.76       415 815  800 390 850 ~450 845  2      [II]  o  a      00    C  e  B  Q  n  Table 3  r-)  ni  r-   -o  r-)  ni  -I  (Ii  o  C-   C  (1), (2) mean (site 1), (site 2).  Volume 185, number 1,2  CHEMICAL PHYSICS LETTERS  11 October 1991  Table 4    Ni-O (nm) ~  Dq  B  Ref.  Ni(OH)2  0.205  850  930  [5]  nepouite  0.203  910  905  [5,6]  Nio Mg,~Al2O4    980  900  [71  NiGa2O4  0.204  945  905  this study    From EXAFS   studies.  Fig. 2. Optical spectra of mixed nicke! gernianales: (1)  Li0 5N1,35Cr,,Ge0504 (2) Li0  NiCr0 5GeO4 (3) Ni0 5Zn,2GeO4  (4) Li0 5ZnCr0 50e04.  tetra octa  xj 2+r  3+ xi2+r  3+r  3+~2     ~~i ~  t09~..~r08~,a03 ~  ~j2+r  4+ XT 2+C  3+r~2   ~  ..je09  ~    From the experimental data, one can conclude that  the molar extinction coefficient of Ni(II) tetrahe-  dral is at least ten times stronger than that of Ni(Il)  octahedral in spinels. The detection limit of fourfold  coordinated Ni(II) is estimated to be of the order of  l 2 at%.   The coordination of nickel in other mixed ger-  manates, as illustrated in fig. 2, reveals the validity  of Tarte s conclusions about factors determining the  cation distribution in spinels containing several high-  valency cations.   For Li0 5ZnCr0 5Ge04, the expected cation distri-  bution (in fact, realized) is determined by the very  strong preference of zinc for tetrahedral sites. The  reverse situation is found in Li0 5NiCr0 5Ge04, ow-  ing to the strong preference of nickel for octahedral  sites. A completely different situation is observed for  the spinels Li0 5M3 5Cr1 5Ge0504 with very surpris-  ing behavior of the nickel compound, owing to the  strong preferences of Ni2~ and Cr3  for octahedra!  environment, the expected distribution is clearly  Li05Ge05[Ni35Cr,5]04 with, tn addition, a high  probability of a 1: 1 ordering of lithium and ger-  manium, which would give an increased stability to  this structure.   A satisfactory explanation may be found in the  Pauling electrostatic rule [4]. In the spinel structure,  every oxygen is bound to one tetrahedral and three  octahedral cations. Tarte has accordingly deter-  mined the contributions of one tetrahedral plus one  octahedral cation of moderate to high valency to the  bonding capacity of the oxygen atom and deduced  the possible contribution for the two remaining cat-  ions. It is clear that the bonding capability of the ox-  ygen atom to the remaining cations decreases sig-  nificantly if the two first atoms, one tetrahedral and  one octahedral have both a high valency. For a given  combination of high-valency cation, the situation is  worst when the highest valency cation is located on  a tetrahedral site.   This interpretation explains the behavior of the  Zn2_~MGe04 (0 ~ 2), M =Co, Ni: three solid so-  lutions are observed for x values near O (phenakite  structure), 1 and 2 (normal and inverse spinels).  These three domains of solid solutions are separated  by two wide miscibility gaps. The second one (be-  tween x~ 1 and x~2), apparently surprising, is eas-  ily understood by means of the Pauling electrostatic  rule.   Assignments of the optical transitions and crystal  field parameters are reported in table 3.   This study allows the following conclusions:   (1) The Pauling electrostatic rule may explain the  large miscibility gap observed in systems such as  Zn2GeO4-Ni2GeO4 Ni2GeO4 NiCr2O4.   (2) The presence of germanium on either tetra-  hedral or octahedral sites in mixed germanates in-  creases the ionicity of the N~(lI),etra0 and the  Cr(II1) 0 bonds (ZnCr2O4, B=640 cm ;  Li0 5ZnCr0 5Ge04, B=680 cm ).   (3) In germanate spinels containing only tetra-  hedral germanium, the optical absorption spectrum  reveals two nickel atoms, optically different, in two  different crystallographic environments.  114    XPS Ni 2P31 2      0 1S  E0  X-ray absorption spectroscopy              main peak  E,, fwhm  satellite  AE~, fwhm  Is/I,,,    XANES    EXAFS                  ~K AE()d.05~)  LtE()d.00x)0 2  R (A)  CN    Q                 (1) (2)  (1)  (2)    NiFe2O4  NiGa2O4  Ni2GeO4   855.7 2.5 856.3 3.5   6.3 3.7 6.1 ~5.5  0.40  0.49  530.8  531.2   10.7 18.1 10.2 18.9  75.7  78.6  2.04  2.04,  2.04  2.07 2.01  6  6  6  3 3    0.43 X 10_2  2.7X10   OE95xl02  Volume 185, number 1,2  CHEMICAL PHYSICS LETTERS  lI October 1991  3. EXAFS study of Ni2GeO4     According to Reinen [12], the specific optical ab-  sorption spectrum of Ni2GeO4 can be explained by  the crystallographically plausible assumption that the  coordinating atoms of Ni2  are compressed along  their trigonal axes. He has developed a crystal-field  formalism which allows a quantitative treatment of  spectra. Nevertheless, this hypothesis does not in-  duce two different Ni 0 lengths. Bertaut et al. [131  have studied the magnetic structure and properties  of nickel germanate. In Ni2GeO4, an antiferromag-  netic order sets in below T= 15 K. The propagation  vector of the magnetic structure is k= [~ ~ and the  spin value S( Ni) = 1.11. The true symmetry is  rhombohedral, splitting the B~ sites (1=1, 2, 3,4) in  two antiferromagnetic lattices b=B, and e=  B2 + B3 + B4.   In an attempt to get a better insight in the local  environment of nickel an investigation by means of  X-ray absorption spectroscopy (XANES, EXAFS)  has been performed.   The EXAFS spectra of polycrystalline samples were  recorded at Orsay, using the X-ray beam delivered  by the DCI storage ring. DCI was operated at 1.85  GeV and about 250 mA. The Bragg monochromator  was a two-crystal (Si 311) device. Absorption spec-  tra were measured in the transmission mode at room  temperature. Data collection consisted in stepping  the monochromator in progressively increasing en-  ergy increments: 0.25 eV for XANES and 2 eV over  the EXAFS range (8200 9200 eV).   The EXAFS data have been analyzed using the now  well-known procedure [14]. The phase-shift func-  tion and scaling factor induced by the central-atom  absorber Ni and oxygen backscatterers were com-  puted from experimental data using the classical  EXAFS formula within the plane wave approxima-  tion. They were computed with NiFe2O2 as reference  compound.   At first, the NiFe2O4 spectrum is treated using the  Teo and Lee parameters [15]. The solution: R=  0.204 0.002 nm, CN=6 is in good agreement with  the experimental data determined from X-ray and  neutron diffraction studies: R=O.2O3 nm.   The adjusted parameters resulting from the var-  ious calculations are listed in table 5. The EXAFS  data relative to Ni2GeO4 have been analyzed on the  basis of one or two Ni (11) 0 distances. The best-fit  phase parameters were obtained with an equal num-  ber of Ni 0 distances at 0.201 and 0.207 nm (table  5). Ni K X-ray absorption and XPS Ni 2P3/2 Of  NiGa2O4 and Ni2GeO4 are compared in fig. 3. The  characteristic parameters of the Ni( II )~c,a~O bond  in Ni2GeO4 are not compatible with a single site for  Ni2~  ions (table 5).   It is well established that the peak and satellite  structures of Ni 2P3/7 spectra are strongly influenced  by different parameters characterizing the chemical  bond: coordination nature of the neighbouring cat-  ions and magnetic structure. The XPS Ni 2173/2 spec-  tra in Ni2GeO4 recorded at 293 and 593 K are sim  Table 5  XPS, XANES and EXAFS parameters of nickel ~      AE,~ = energy separation in eV between the main line and satellite; 1,/Im = relative intensity ratio of the satellite to the main   line is the  ratio of the peak height; AEK=EK.,,,,,C (compound)  EK.,~,,. (metal) in eV; AE(,,,.fl,,,)=energy separation in eV between the   pre-edge  and the main peak.  115  Volume 185, number 1,2  CHEMICAL PHYSICS LETTERS  11 October1991    /  ~ ~   8325  8350 eV      Fig. 3. Ni 2p~ spectra (a) and Ni K.edge XANES (b) in Ni-  Ga2O4 (I) and Ni2GeO4 (2).      ilar. Thus, magnetic interactions do not influence  XPS spectra unlike those of NiO and ferrimagnetic  compounds [16]. The Ni 2P3/2 spectrum is char-  acterized by a large overlap on the satellite with the  main peak. The two lines are quasi-symmetric but  too large for only one octahedral nickel environ-  ment. The Ni K-edge of Ni2GeO4 is broadened,  a  shifted towards higher energy and shows a splitting  more pronounced than that of NiGa2O4. This struc-  ture may be attributed either to a site distortion or  to the existence of two different sites.   In conclusion, from this structural reinvestigation  of Ni2GeO4 by EXAFS and ligand-field spectros-  copy, we suggest the presence of two nickel atoms  optically different in two different crystallographic  environments (the low-energy component of each of  the three bands may be attributed to the site 1,  Ni 0: 2.07 A).      References    [I] M. Lenglet, A. d Huysser, J.P. Bonnelle, J. Durr and C,K.  Jorgensen, Chem. Phys. Letters 136 (1987) 478.  [21 M. Lenglet, A. d Huysser, J. Arsene, J.P. Bonnelle and C.K.  Jorgensen, J. Phys. C 19(1986) L363.  [3] J. Arsene, M. Lenglet and C.K. Jorgensen, Mal. Res. Bull.  19(1984)1281.  [4] P. Tarte and A. Rulmont, J. Mater, Sei. Letters 7(1988)  551.  [5] A. Manceau and G. Calas, Clay Minerals 21(1986)341.  [61 A. Manceau and G. Calas, Clay Minerals 22(1987)357.  [7] O. Schmitz-Dumont, A. Lule and D. Reinen, Ber. Bunsenges.  Physik. Chem. 69(1965)76.  [8] D. Reinen, Z. Anorg. Allg. Chem. 356 (1968) 172, 182.  [9] M. Lenglet, A. d Huysser and C.K. Jorgensen, Inorg. Chim.  Acta 133 (1987) 61.  1101 M. Lenglet and A. d Huysser, Compt. Rend. Acad. Sei.  (Parisl 310 (1990) 483.  [II] D. Reinen, Slruct. Bonding 7 (1970)114.  112] D. Reinen, Theoret. Chim. ActaS (1967) 260.  [13] E.F. Bertaut, Vu Van Qui, R. Pauthenet and A. Murasik, J.  Phys. (Paris) 25(1964) 516.  114] D. Raoux, J. Petiau, P. Bondot, A. Fontaine, P. Lagarde, P.  Levitz, G. Loupias and A. Sadoc, Rev. Phys. AppL 15(1980)  1079.  ll5lB.K.TeoandP.A.Lee,J.Am.Chem.Soc.lOl (1979)2815.  [16] M. Lenglet, A. d Huysser and C.K. Jorgensen, Cheni. Phys.  Letters, submitted for publication.  860  850  b  116  ion and scaling factor induced by the central-atom  absorber Ni and oxygen backscatterers were com-  puted from experimental data using the classical  EXAFS formula within the plane wave approxima-  tion. They were computed with NiFe2O2 as reference  compound.   At first, the NiFe2O4 spectrum is treated using the  Teo and Lee parameters [15]. The solution: R=  0.204 0.002 nm, CN=6 is in good agreement with  the experimental data determined from X-ray and  neutron diffraction studies: R=O.2O3 nm.   The adjusted parameters resulting from the var-  ious calculations are listed in table 5. The EXAFS  data relative to Ni2GeO4 have been analyzed on the  basis of one or two Ni (11) 0 distances. The best-fit  phase parameters were obtained with an equal num-  ber of Ni 0 distances at 0.201 and 0.207 nm (table  5). Ni K X-ray absorption and XPS Ni 2P3/2 Of  NiGa2O4 and Ni2GeO4 are compared in fig. 3. The  characteristic parameters of the Ni( II )~c,a~O bond  in Ni2GeO4 are not compatible with a single site for  Ni2~  ions (table 5).   It is well established that the peak and satellite  structures of Ni 2P3/7 spectra are strongly influenced  by different parameters characterizing the chemical  bond: coordination nature of the neighbouring cat-  ions and magnetic structure. The XPS Ni 2173/2 spec-  tra in Ni2GeO4 recorded at 293 and 593 K are sim  Table 5  XPS, XANES and EXAFS parameters of nickel ~      AE,~ = energy separation in eV between the main line and satellite; 1,/Im = relative intensity ratio of the satellite to the main   line is the  ratio of the peak height; AEK=EK.,,,,,C (compound)  EK.,~,,. (metal) in eV; AE(,,,.fl,,,)=energy separation in eV between the   pre-edge  and the main peak.  115  Volume 185, number 1,2  CHEMICAL PHYSICS LETTERS  11 October1991    /  ~ ~   8325  8350 eV      Fig. 3. Ni 2p~ spectra (a) and Ni K.edge XANES (b) in Ni-  Ga2O4 (I) and Ni2GeO4 (2).      ilar. Thus, magnetic interactions do not influence  XPS spectra unlike those of NiO and ferrimagnetic  compounds [16]. The Ni 2P3/2 spectrum is char-  acterized by a large overlap on the satellite with the  main peak. The two lines are quasi-symmetric but  too large for only one octahedral nickel environ-  ment. The Ni K-edge of Ni2GeO4 is broadened,  a  shifted towards higher energy and shows a splitting  more pronounced than that of NiGa2O4. This struc-  ture may be attributed either to a site distortion or  to the existence of two different sites.   In conclusion, from this structural reinvestigation  of Ni2GeO4 by EXAFS and ligand-field spectros-  copy, we suggest the presence of two nickel atoms  optically different in two different crystallographic  environments (the low-energy component of each of  the three bands may be attributed to the site 1,  Ni 0: 2.07 A).      References    [I] M. Lenglet, A. d Huysser, J.P. Bonnelle, J. Durr and C,K.  Jorgensen, Chem. Phys. Letters 136 (1987) 478.  [21 M. Lenglet, A. d Huysser, J. Arsene, J.P. Bonnelle and C.K.  Jorgensen, J. Phys. C 19(1986) L363.  [3] J. Arsene, M. Lenglet and C.K. Jorgensen, Mal. Res. Bull.  19(1984)1281.  [4] P. Tarte and A. Rulmont, J. Mater, Sei. Letters 7(1988)  551.  [5] A. Manceau and G. Calas, Clay Minerals 21(1986)341.  [61 A. Manceau and G. Calas, Clay Minerals 22(1987)357.  [7] O. Schmitz-Dumont, A. Lule and D. Reinen, Ber. Bunsenges.  Physik. Chem. 69(1965)76.  [8] D. Reinen, Z. Anorg. Allg. Chem. 356 (1968) 172, 182.  [9] M. Lenglet, A. d Huysser and C.K. Jorgensen, Inorg. Chim.  Acta 133 (1987) 61.  1101 M. Lenglet and A. d Huysser, Compt. Rend. Acad. Sei.  (Parisl 310 (1990) 483.  [II] D. Reinen, Slruct. Bonding 7 (1970)114.  112] D. </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9180149R</aid>
+            <ce:pii>0009-2614(91)80149-R</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)80149-R</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Optical spectra of Ni(II) in Ni<ce:inf loc="post">2</ce:inf>GeO<ce:inf loc="post">4</ce:inf> and germanate spinels</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Lenglet</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire de Physicochimie des Matériaux, INSA de Rouen, B.P. 08, 76131 Mont Saint Aignan Cedex, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>C.K.</ce:given-name>
+                  <ce:surname>Jørgensen</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Département de Chimie Minérale, Analytique et Appliquée, Université de Genève, CH-1211 Geneva 4, Switzerland</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="14" month="1" year="1991"/>
+            <ce:date-revised day="6" month="6" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A structural reinvestigation of Ni<ce:inf loc="post">2</ce:inf>GeO<ce:inf loc="post">4</ce:inf> has been performed by means of EXAFS and ligand-field spectroscopy and reveals two optically different nickel sites. The presence of germanium on either tetrahedral or octahedral sites in mixed germanates increases the ionicity of the Ni(II)<ce:inf loc="post">tetra</ce:inf>O or Cr(III)O bonds.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lenglet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>d'Huysser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Bonnelle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dürr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Jørgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>478</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lenglet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>d'Huysser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Arsene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Bonnelle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Jørgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C 19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L363</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Arsene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lenglet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Jørgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mat. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1281</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Tarte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rulmont</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>551</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manceau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Calas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clay Minerals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>341</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manceau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Calas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clay Minerals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>357</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Schmitz-Dumont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lulé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reinen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ber. Bunsenges. Physik. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>76</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reinen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Anorg. Allg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>356</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>172</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reinen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Anorg. Allg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>356</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>182</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lenglet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>d'Huysser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Jørgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lenglet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>d'Huysser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compt. Rend. Acad. Sci. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>483</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reinen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Struct. Bonding</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>114</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reinen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>260</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.F.</ce:given-name>
+                                 <ce:surname>Bertaut</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Vu Van</ce:given-name>
+                                 <ce:surname>Qui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pauthenet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Murasik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>516</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(Paris)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Raoux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Petiau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bondot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fontaine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lagarde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Levitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Loupias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sadoc</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Phys. Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1079</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Teo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2815</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M. Lenglet, A. d'Huysser and C.K. Jørgensen, Chem. Phys. Letters, submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

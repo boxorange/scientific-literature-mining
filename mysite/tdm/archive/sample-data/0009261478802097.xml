@@ -1,0 +1,615 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261478802097</prism:url><dc:identifier>doi:10.1016/0009-2614(78)80209-7</dc:identifier><eid>1-s2.0-0009261478802097</eid><prism:doi>10.1016/0009-2614(78)80209-7</prism:doi><pii>0009-2614(78)80209-7</pii><dc:title>Depolarization of light and pair—pair correlations of argon gas </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>56</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>156</prism:startingPage><prism:endingPage>160</prism:endingPage><prism:pageRange>156-160</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1978-05-15</prism:coverDate><prism:coverDisplayDate>15 May 1978</prism:coverDisplayDate><prism:copyright>Copyright © 1978 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Pinski, F.J.</dc:creator><dc:creator>Campbell, C.E.</dc:creator><dc:description>
+               Abstract
+               
+                  A simple integral equation for the pair—pair correlation function of a fluid is solved for room temperature argon in the density range 1 to 600 amagat. It is used to calculate the depolarized intensity as a function of density and its sensitivity to the anisotropic pair polarizability. Good agreement with experiment is found at low density. Semi-quantitative agreement is obtained up to 600 amagat.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261478802097" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261478802097" rel="scidir"/></coredata><scopus-id>49349121123</scopus-id><scopus-eid>2-s2.0-49349121123</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49349121123" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-24T12:32:46</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261478802097</xocs:eid>
+      <xocs:pii-formatted>0009-2614(78)80209-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261478802097</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(78)80209-7</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06653</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150925">2015-09-25T23:55:31.865922-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19780515</xocs:date-search-begin>
+      <xocs:year-nav>1978</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>56</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>56</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 56, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>39</xocs:sort-order>
+      <xocs:first-fp>156</xocs:first-fp>
+      <xocs:last-lp>160</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>156</xocs:first-page>
+         <xocs:last-page>160</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19780515</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 May 1978</xocs:cover-date-text>
+      <xocs:cover-date-start>1978-05-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1978</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1978 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>DEPOLARIZATIONLIGHTPAIRPAIRCORRELATIONSARGONGAS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PINSKI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>THIBEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>MCTAGUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>OXTOBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>535</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>699</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6A">
+            <xocs:ref-normalized-surname>PERCUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EQUILIBRIUMTHEORYCLASSICALFLUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6B">
+            <xocs:ref-normalized-surname>STELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHASETRANSITIONSCRITICALPHENOMENA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CAMPBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROGRESSINLIQUIDPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8A">
+            <xocs:ref-normalized-surname>MITCHELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1949</xocs:ref-pub-year>
+            <xocs:ref-first-fp>627</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8B">
+            <xocs:ref-normalized-surname>GOSMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THERMODYNAMICPROPERTIESARGONTRIPLEPOINT300KPRESSURES1000ATMOSPHERES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>281</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PINSKIX1978X156</xocs:refkey3>
+         <xocs:refkey4lp>PINSKIX1978X156X160</xocs:refkey4lp>
+         <xocs:refkey4ai>PINSKIX1978X156XF</xocs:refkey4ai>
+         <xocs:refkey5>PINSKIX1978X156X160XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(78)80209-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261478802097</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261478802097</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(78)80209-7</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-25T23:55:31.865922-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1978-05-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261478802097-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478802097/MAIN/application/pdf/c5127d4b5ce79c0a1d9a592a6f90e9e9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478802097/MAIN/application/pdf/c5127d4b5ce79c0a1d9a592a6f90e9e9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>482329</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261478802097-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478802097/PREVIEW/image/png/0036b51ce2a65adffe883fe507210039/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478802097/PREVIEW/image/png/0036b51ce2a65adffe883fe507210039/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59728</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 56. number 1 CHEMICAL PHYSICS LETTERS 15 May 1978    DEPOLARIZATION OF LIGHT AND PAIR-PAIR CORRELATIONS OF ARGON GAS    F.J. PINSKI + andC.E. CAMPBELL    School of Physics and Astronomy, University of Minnesota,  Minneapolis. Minnesota 55455. USA    Received 10 February 1978    A simple integral equation for the pair—pair correlation function of a fluid is solved for room temperature argon in the  density range 1 to 600 amagat. It is used to calculate the depolarized intensity as a function of density and its sensitivity to  the anisotropic pair polarizabflity. Good agreemen-; with experiment is found at low density. Semi-quantitative agreement  is obtained up to 600 amagat.    1. Introduction    The depolarized light scattered from simple fluids  provides information about the correlation between  two pairs of particles in the fluid and about the cou-  pling between the fluid and light. The depolarized in-  tensity is given by [1]    ID -f0(xW(y)P(x,y)Y^(x)Y^(y) dxdy ,      (1)    where f3(r) is the anisotropic pair polarizability which  describes the coupling of light to the fluid, and F(x,y)  is the pair—pair correlation function:    N N  P(x,y)=N-^ T, [&lt;s0c-ry)o0'-^)&gt;    l^f fC-r-l    -&lt;5(x-ry)X5(y-ry)&gt;] ,                 (2)    where the thermal average is denoted by &lt; &gt;. P(x,y)  is the correlated probability of finding a pair separated  by x with finding a pair separated byy (the uncorre-  lated probabilities are subtracted). Neither &lt;3(r) nor    * Research supported in part by the National Science Founda-  tion under grant DMR 76-14777.    * Present address: Department of Physics, State University of  New York at Stony Brook, Stony Brook, New York 11794.  USA.    P(x,y) is well known for any nontrivial system.    A simple integral equation is presented in this note  for the pair—pair correlation function along with an  investigation of the density dependence of the depo-  larization ratio and its sensitivity to the details ofp(r).  For room temperature argon, good agreement with  the experimental results [2,3] is found at densities  smaller than 200 amagat. Semi-qualitative agreement  is found for the remaining part of the investigated den-  sity range (up to 600 amagat). The results are sensitive  to the form ofp(r), with the one provided by Oxtoby  and Gelbart [4] giving the best agreement with exper-  iment.    The next section contains a discussion of the pair-  pair correlation function and our approximate integral  equation for this function. These pair—pair correla-  tions are used in section 3 to obtain the depolarization  ratio. A summary is presented in section 4 with a dis-  cussion of other prospective calculations.    2. The pair—pair correlation function    The pair—pair correlation function, as defined in  eq. (2), is used to determine the joint thermal average  of a pair of two-body operators:    &lt;Aff&gt;-C4&gt;&lt;B&gt;= \Nfa(x)b(y)P(x,y) dx dy ,     (3)    156    CHEMICAL PHYSICS LETTERS                         15 May 1978    Volume 56, number 1    where    N    A = S aOy)  i-&lt;/    and    N    B=Zi &amp;(ry).  i&lt;l    Z=/dr,...d^exp[g-^].           (7)    The pair distribution function is then expressed as a  functional derivative    An example is given by the equation for the depolar-  ized intensity in eq. (1). P(x,y) is a linear combination  of two, three and four particle distribution functions  for the fluid as shown in its definition. This combina-  tion is much simpler than either the three- or four-  body distribution functions because it is relatively  easy to approximate, and the information contained  in P is easily displayed in terms of its Legendre expan-  sion, with each coefficient depending only on the  two scalar quantities, JC andy. These advantages have  been obtained at the cost of losing some of the infor-  mation inherent in the usual three- and four-body dis-  tribution functions by integrating over some coordi-  nates. The depolarized intenisty, however, depends  only on the 1=2 coefficient in the Legendre expan-  sion of P.    All of the explicit three- and four-body correla-  tions in P are obtained by subtracting the self-correla-  tion of all pairs of particles, Le., the terms where  (i, j) = (k, I) or (/, fe) in eq. (2). The remainder is de-  fined to be p^H, where    pH(x,y) = P(x,y)/p -g(x)[8(x-i-y) +8(x-y)] . (4)    The radial distribution function g(x) in this notation  can be written as    (5)    with p being defined as the number density of the  fluid.    The binary collision approximation has been used  in the theory of the depolarized intensity at low den-  sity; it is equivalent to setting H to zero, i.e., elimi-  nating all three- and four-body correlations [5]. With-  in the binary collision approximation, P is given by    ^.C^y) = Pg(x)[S(x -i-JO + 5(x -y)] . (6)    To improve upon this approximation, we have devel-  oped a scheme which uses the partition function Z as  a generating functional for the correlation functions  [6]. In the canonical ensemble, the partition function  is given in terms of the two-body potential Vaad the  temperature T by    g(x) =(-2keT/Np) 8 In Z/5 V(x) . (8)    The pair—pair distribution function is proportional to  the second functional derivative of In Z and can be  written as    P(x, y) = [4(kQ r)2/JVp2 ] 5 2 in Z/8 V(x)8 V(y)    (9a)    =(-2ksT/p}8g(x)/8V(y) .                (9b)    An immediate consequence is that any analytic ap-.  proximation for g in terms of V caa be functionally  differentiated, giving an approximation for P. The  only such approximation fora- which is known to give  P the symmetry in x andy implicit in eqs. (2) and (9a)  is the hypemetted chain equation (HNC) [7]. The re-  sulting approximation (oTP(x,y) is best expressed by  an integral equation forff(x,y)'.    fl(x,y) =g(xjg(y)[M(x+y) +M(x -y)]    -l-pg(x)fdzM(x-z)H(z,y),              (10)  where M is defined as    M(r) =N-1 Z) [1 - \IS\k)} e^"-             (11)  *    and where S(k), the liquid structure function, is  written in terms ofg(r) as    S(k) = I +pfdr{g(r) - 1] e-*"--             (12)    This linear integral equation for H separates into a set  of decoupled equations for each Legendre coefficient  which depends only on the magnitudes ofjc andy.  These coefficients are defined by    H(x,y) = Z) [(2/+ l)/4ir] H,(x,y) , 3&gt;,(cos 0) , (13)    where '3&gt;^ is the /th Legendre polynomial and 0 is the  angle between x and y.    For room temperature argon, we have solved for  the / = 0 and (' == 2 coefficients at a number of densities  between 1 and 600 amagat. A Lennard—Jones 6—12 po-  tential was used with a = 3.41 A, E/kyT= 0.41 and    157    Volume 56, number 1    CHEMICAL PHYSICS LETTERS    15 May 1978          Fig. 1. Contour plots of/=0 and 7=2 Legendre projections  of H(x,y)IN for argon at T = 293 K and p = 400 amagat.    T= 293 K. The HNC equation was used to calculate  g(r) and S(k). Contour plots of the / = 0 and /= 2 re-  sults at 400 amagat are displayed in fig. 1. Since the  expansion coefficients in eq. (13) are symmetric in x  andy, only half of each function has been displayed.  The diagonal part (x =y) of these two coefficients at  several densities is shown in fig. 2. The most signifi-  cant feature of these results is a large negative extrem-  um on the diagonal near 3.6 A, which is comparable  to the distance at which g(r) attains a maximum due  to nearest neighbors. Since H contains three- and four-  body correlations, the minimum in H is at least partly  due to regions around a pair where another particle is  excluded because of geometric considerations. Also  note that the 7=2 coefficient is remarkably insensi-    -18.          Fig. 2. The diagonal part (x =y) of the / = 0 (a) and I =2 Os)  Legendre projections vifH(y,y){N at T= 293 K for three  densities: ——. 400 amagat; ——, 200 amagat; and -.-.-.,  100 amagat.    158    tive to changes in the density in the range of 100 to  400 amagat.    3. The depolarization ratio    The depolarization ratio A is the depolarized inten-  sity TQ divided by the Brillouin intensity /g and can  be expressed as    A^n/^B^/lSao-S'CO)]    X fdxdy^x)P(y)P(x,y)Y^x)Y^(y),      (14)    where (XQ is the atomic polarizabuity and where S(0)=  S(k -&gt;• 0) which is known in terms of the compressibil-  ity and temperature [8]. The form offS(r) for point  dipoles is    PQm(r)=6a^r3,                       (15)    which has been used as an approximation for fS(r) at  all distances for fluids composed of real particles.  While this form is exact at large r, short range correc-  tions reflecting the atomic structure are important  and have been calculated by Oxtoby and Gelbart [4].  These results are parametrized in the form    ^OG^) = ^DroO-) - A exp(-r/B) ,             (16)  withA = 172 A3 and B = 0.477 A and QQ = 1.64 A3.    The calculated and experimental [2,3] values of A are  shown in fig. 3 as a plot of A/p as a function ofp den-  sities less than 120 amagat. Three features are worth  noting. First, the intercept on this plot (which is the  slope ofA(p) at zero density) is the only point where  the binary collision approximation and the HNC ap-  proximation coincide. Significant corrections to the  binary collision approximation exist even at very low  density. A second feature is the sensitivity of the re-  sults to the form of0(r); the result which uses 0QG  falls below the calculation using ^nro ^Y shout 40%.  Finally, the result using (SQQ is in fairly good agree-  ment with the experiment of McTague et al. [3]; how-  ever, better agreement with Thibeau's experiment [2]  is obtained by using 0r»ID-    The calculated and experimental results over the  density range p ^ 600 amagat are shown in figs. 4 and  5. Pig. 4 is a plot of the depolarization ratio given in    15 May 1978    Volume 56, number 1 CHEMICAL PHYSICS LETTERS          Fig. 3. Low density behavior of the depolarization ratio di-  vided by the density [A/p, eq. (14)]. The experimental re-  sults ofThibeau [2] are denoted by X, those of McTague et  aL [3] denoted by dashes. The dot-dash line is the binary col-  lision approximation with eq. (15) for 0(r) [eq. (6)]. and the  solid lines are the hypemetted chain approximation [eq. (10)]  with two different approximations for the anisotropic pair  polarizability [P(r)l: DID [eq. (15)] and OG [eq. (16)1.    eq. (14). It shows a monotonic increase in A with in-  creasing density. At high densities, the increase is pri-  marily due to the decreasing amount of the Brillouin  intensity (in the denominator of A). The Brillouin  scattering is removed by multiplying A by 155(0),  producing a quantity proportional to IQ which is  plotted in fig. 5. Note that /p reaches a maximum  between 200 and 300 amagat, and at 600 amagat, it  falls to a value comparable to its value at 100 amagat.    At very low density (&lt;10 amagat), the binary col-  lision model is a good approximation. As the density  is increased, this model fails; at 140 amagat it gives re-  sults which are a factor of 2 greater than experiment.  The HNC approximation brackets the experimental          200       400       600    Density    [Amagat]    -ff  Fig. 4. The depolarization ratio A(p) labeled as in fig. 3 ex-  cept that the dashed curve is the experiment of ref. [2]. The  molecular dynamics results of Alder et aL [8] are labeled by o.          0         200        400        600  Density [ Amagat 1    Fig. 5. The depolarization intensity/D = l5S(0)A, labeled as  in figs. 3 and 4.    result of Thibeau- When 0Dn&gt; was "sed, a result above  the experiment was obtained and with PQQ, the result  was below. The discrepancy between the two experi-  ments at low density suggests a rather large uncertain-  ty at all densities. Therefore, the sensitivity of/p to  the choice ofp(r) can be considered as a major feature  of the theoretical result.    4. Discussion    The consideration of depolarized light scattering  from simple fluids has led to a study of correlations  involving more particles than the well-studied two-  body correlations embodied in the radial distribution  function. Unfortunately, the experimental informa-  tion about higher-order correlations is somewhat ob-  scured by the uncertainty in t3(r), the coupling func-  tion between the fluid and light. Some assessment can  be made of the validity of the HNC approximation in-  dependent of the choice offS(r). It is well-known, for  example, that approximations forg(r) such as HNC  and the Percus—Yevick approximation are increasing-  ly accurate as the density is lowered. The same is ex-  pected to be true for the HNC approximation for  P(x,y), so that our results should be very good at low  density (sSlOO amagat). This suggests the possibility of  determining 0(r) in conjunction with experimental  results.    On the other hand, the HNC results are certainly in  error at high densities (&gt;300 amagat). Our experience  in several calculations o{g(r) is that the results ob-  tained at some density p are more characteristic of a  higher density, p'. This suggests that scaling the theo-    159    Volume 56, number 1 CHEMICAL PHYSICS LETTERS 15 May 1978    retical results in fig. 5 would improve the agreement  between the experiment and the calculation which    usedpoG-    The error introduced into our results by the HNC    approximation can be subjected to a direct test by  comparing to the essentially exact molecular dynamics  results for simple fluids obtained by Alder et al. [8].  One of their calculations corresponds to room temper-  ature argon at 570 amagat using the same Lennard—  Jones potential. A separate calculation ofP(x,y) is  not made, but instead A is calculated directly using  ^DID Ior ^le anisotropic pair polarizability. Their re-  sults are exact for the system with the potential and  fS that were chosen, and are a standard for assessing all  approximations. It is seen in figs. 4 and 5 that their  value of A lies about 10% above our approximate re-  sults for the same system. A similar shift in our results  which use (?QG would give better agreement with ex-  periment.    The HNC and molecular dynamics results can be  viewed as complemsntary. HNC is valid in the low den-  sity regime where molecular dynamics is not a feasible  method. Furthermore, HNC provides a quick, inexpen-  sive semi-quantitative survey of higher densities which  could be used to investigate the sensitivity of A to  p(r) and other parameters, such as the temperature  and two-body potential.    Our method of generating the approximation — by  functional variation of an approximation for g(r) —  lends itself to obvious refinement. The symmetry re-  quirement on P(x,y) could be relaxed. The Percus—  Yevick (PY) approximation, or perhaps a symmetrized  version ofPY could be used, or several other approxi-  mations could be explored.    In solving the HNC approximation forP [eq. (10)],  we have always used the HNC approximation foig(x)  as input. Somewhat different results would be ex-  pected if the PY approximation or some other, per-  haps better, approximation for g had been used. Since  the potential does not explicitly appear in the integral  equation for P [eq. (10)] any g(r) and S(k) could have  been used — including ones obtained from experiment,  if available.    Finally, it should be re-emphasized that with suffi-  cient computing resources, P(x,y) can be obtained ex-  actly using molecular dynamics or Monte Carlo inte-  gration techniques. We have written an algorithm for    calculating projections ofP and have applied it to  liquid ^He [9], where we find semi-quantitative agree-  ment between the HNC approximation and the Monte  Carlo results. Furthermore, by using the time depen-  dent generalization ofP we hope to be able to use mo-  lecular dynamics to discover the frequency depen-  dence ofP(x,y,t). The importance of such a calcula-  tion lies in the fact that this function (or its Fourier  transform) plays a role in second-order light scattering  comparable to the role played by the dynamic struc-  ture function S(k. &lt;«?) in inelastic neutron scattering  and Brillouin scattering. Moreover, because of the ex-  tended nature of^(r), it is not actually possible to ex-  perimentally separate this higher-order correlation  function from the interaction with light. The impor-  tance of molecular dynamics computer experiments  is thus enhanced as the most direct probe of higher-  order correlation functions.    Acknowledgement    We would like to acknowledge numerous helpful  discussions with J.W. Halley, P. Kleban and J. McTague.    References    [1] W.M. Gelbart, Advan. Chem. Phys. 26 (1974) 1.  [2] M. Thibeau, B. Oksengom and B. Vodar, J. Phys. (Paris)    29 (1968) 287.  [3] J.P. McTague, W.D. EUenson and L.H. Hall, J. Phys.    (Paris) 33 (1972)Cl-241.    [4] D.W. Oxtoby and W.M. Gelbart, MoL Phys. 30 (1975) 535.  [5] W.M. Gelbart, J. Chem. Phys. 57 (1972) 699.  [6] J.K. Percus, in: The equilibrium theory of classical fluids,  eds. Frish and Lebowitz (Benjamin, New York, 1964);    G. Stell, in: Phase transitions and critical phenomena,  Vol. 5B, eds. C. Domb and M. Green (Academic Press,  New York, 1975) ch. 3.  [7] C.E. CampbeD, in: Progress in liquid physics, ed. C.A.    Croxton (WBey, New York, 1977) ch. 6.  [8] A. Michels, H. Wijker and H-K. Wijker, Physica 15 (1949)  627;    A.L. Gosman, R.D. McCarty and J.G. Must, Thenno-  dynamic Properties of Argon from the Triple Point to  300 K at Pressures to 1000 Atmospheres, NSRDS-NBS  27 (US Govt. Printing Office, Washington, 1969).  [91 B.J- Alder, JJ. Weis and H.L. Strauss, Phys. Rev. A7  (1973)281.    160  ture argon at 570 amagat using the same Lennard—  Jones potential. A separate calculation ofP(x,y) is  not made, but instead A is calculated directly using  ^DID Ior ^le anisotropic pair polarizability. Their re-  sults are exact for the system with the potential and  fS that were chosen, and are a standard for assessing all  approximations. It is seen in figs. 4 and 5 that their  value of A lies about 10% above our approximate re-  sults for the same system. A similar shift in our results  which use (?QG would give better agreement with ex-  periment.    The HNC and molecular dynamics results can be  viewed as complemsntary. HNC is valid in the low den-  sity regime where molecular dynamics is not a feasible  method. Furthermore, HNC provides a quick, inexpen-  sive semi-quantitative survey of higher densities which  could be used to investigate the sensitivity of A to  p(r) and other parameters, such as the temperature  and two-body potential.    Our method of generating the approximation — by  functional variation of an approximation for g(r) —  lends itself to obvious refinement. The symmetry re-  quirement on P(x,y) could be relaxed. The Percus—  Yevick (PY) approximation, or perhaps a symmetrized  version ofPY could be used, or several other approxi-  mations could be explored.    In solving the HNC approximation forP [eq. (10)],  we have always used the HNC approximation foig(x)  as input. Somewhat different results would be ex-  pected if the PY approximation or some other, per-  haps better, approximation for g had been used. Since  the potential does not explicitly appear in the integral  equation for P [eq. (10)] any g(r) and S(k) could have  been used — including ones obtained from experiment,  if available.    Finally, it should be re-emphasized that with suffi-  cient computing resources, P(x,y) can be obtained ex-  actly using molecular dynamics or Monte Carlo inte-  gration techniques. We have written an algorithm for    calculating projections ofP and have applied it to  liquid ^He [9], where we find semi-quantitative agree-  ment between the HNC approximation and the Monte  Carlo results. Furthermore, by using the time depen-  dent generalization ofP we hope to be able to use mo-  lecular dynamics to discover the frequency depen-  dence ofP(x,y,t). The importance of such a calcula-  tion lies in the fact that this function (or its Fourier  transform) plays a role in second-order light scattering  comparable to the role played by the dynamic struc-  ture function S(k. &lt;«?) in inelastic neutron scattering  and Brillouin scattering. Moreover, because of the ex-  tended nature of^(r), it is not actually possible to ex-  perimentally separate this higher-order correlation  function from the interaction with light. The impor-  tance of molecular dynamics computer experiments  is thus enhanced as the</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>78802097</aid>
+            <ce:pii>0009-2614(78)80209-7</ce:pii>
+            <ce:doi>10.1016/0009-2614(78)80209-7</ce:doi>
+            <ce:copyright type="unknown" year="1978"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Research supported in part by the National Science Foundation under grant DMR 76-14777.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>Depolarization of light and pair—pair correlations of argon gas</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>F.J.</ce:given-name>
+                  <ce:surname>Pinski</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C.E.</ce:given-name>
+                  <ce:surname>Campbell</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Department of Physics, State University of New York at Stony Brook, Stony Brook, New York 11794, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="10" month="2" year="1978"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A simple integral equation for the pair—pair correlation function of a fluid is solved for room temperature argon in the density range 1 to 600 amagat. It is used to calculate the depolarized intensity as a function of density and its sensitivity to the anisotropic pair polarizability. Good agreement with experiment is found at low density. Semi-quantitative agreement is obtained up to 600 amagat.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Thibeau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Oksengorn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Vodar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(Paris)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>McTague</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Ellenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Hall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>C1-241.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Oxtoby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>535</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>699</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="BIB6A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Percus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:surname>Frish</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:surname>Lebowitz</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The equilibrium theory of classical fluids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1964</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Benjamin</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB6B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>C.</ce:given-name>
+                                       <ce:surname>Domb</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>M.</ce:given-name>
+                                       <ce:surname>Green</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Phase transitions and critical phenomena</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5B</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ch. 3.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>C.A.</ce:given-name>
+                                       <ce:surname>Croxton</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Progress in liquid physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ch. 6.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="BIB8A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mitchels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wijker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Wijker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1949</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>627</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB8B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Gosman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>McCarthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Hust</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Thermodynamic Properties of Argon from the Triple Point to 300 K at Pressures to 1000 Atmospheres</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>27</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1969</sb:date>
+                              <sb:publisher>
+                                 <sb:name>US Govt. Printing Office</sb:name>
+                                 <sb:location>Washington</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>NSRDS-NBS</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>281</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

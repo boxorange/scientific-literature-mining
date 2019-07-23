@@ -1,0 +1,1793 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261489851565</prism:url><dc:identifier>doi:10.1016/0009-2614(89)85156-5</dc:identifier><eid>1-s2.0-0009261489851565</eid><prism:doi>10.1016/0009-2614(89)85156-5</prism:doi><pii>0009-2614(89)85156-5</pii><dc:title>The d and f resonances in the core level absorption spectra of TeF6
+             </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>163</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>392</prism:startingPage><prism:endingPage>400</prism:endingPage><prism:pageRange>392-400</prism:pageRange><prism:number>4-5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1989-11-17</prism:coverDate><prism:coverDisplayDate>17 November 1989</prism:coverDisplayDate><prism:copyright>Copyright © 1989 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Tse, John S.</dc:creator><dc:description>
+               Abstract
+               
+                  The post-edge resonant features observed in the Te p and d core level absorption spectra of TeF6 have been characterized with stabilized bound state and continuum multiple scattering Xα calculations. The nature of the resonances above the Te 4p edge is similar to that observed in SF6 and can be attributed to excitations into quasibound channels with substantial kd character. The localization of the continuum channel is due to strong interactions between the Te d and F p and d orbitals. The origin of the resonances above the Te 4d edge is different. It is better described as a manifestation of the atomic-like d→kf delayed onset as a consequence of the Te centrifugal potential.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261489851565" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261489851565" rel="scidir"/></coredata><scopus-id>45249127457</scopus-id><scopus-eid>2-s2.0-45249127457</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/45249127457" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2018-05-11T02:54:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261489851565</xocs:eid>
+      <xocs:pii-formatted>0009-2614(89)85156-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261489851565</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(89)85156-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09116</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180511">2018-05-11T04:56:04.778159Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19891117</xocs:date-search-begin>
+      <xocs:year-nav>1989</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>163</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>163</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 163, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>21</xocs:sort-order>
+      <xocs:first-fp>392</xocs:first-fp>
+      <xocs:last-lp>400</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>392</xocs:first-page>
+         <xocs:last-page>400</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19891117</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>17 November 1989</xocs:cover-date-text>
+      <xocs:cover-date-start>1989-11-17</xocs:cover-date-start>
+      <xocs:cover-date-year>1989</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1989 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>DFRESONANCESINCORELEVELABSORPTIONSPECTRATEF6</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TSE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>RESONANCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>NEFEDOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>DEHMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4496</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SETTE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1684</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>COOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>762</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LUCCHESE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>421</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>TSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>920</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>YATES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1766</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>THIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>HITCHOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>GIANTURCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>840</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>GIANTURCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SEKIYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SEKIYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>FERRETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4726</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14"/>
+         <xocs:ref-info refid="BIB15"/>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>ADDISONJONES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SZE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>DILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>DEHMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRONMOLECULEPHOTONMOLECULECOLLISIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>DAVENPORT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>954</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>BOZEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>257</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>HORSLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EXAFSNEAREDGESTRUCTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>TSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1791</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>ROSCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5984</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>LATTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-first-fp>510</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>ROBIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHEREXCITEDSTATESPOLYATOMICMOLECULES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>MACEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>LOOMBA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4546</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>TAYLOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>GIORDAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6632</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>KREILE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>259</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>HITCHOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>FIGGIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>38</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONLIGANDFIELDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>TAMBE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>256</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB37">
+            <xocs:ref-normalized-surname>SCHIFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>QUANTUMMECHANICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>EDERER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>760</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>HAENSEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1375</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>COMES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>516</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TSEX1989X392</xocs:refkey3>
+         <xocs:refkey4lp>TSEX1989X392X400</xocs:refkey4lp>
+         <xocs:refkey4ai>TSEX1989X392XJ</xocs:refkey4ai>
+         <xocs:refkey5>TSEX1989X392X400XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(89)85156-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261489851565</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261489851565</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(89)85156-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2018-05-11T04:56:04.778159Z</xocs:timestamp>
+         <xocs:cover-date-start>1989-11-17</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261489851565-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489851565/MAIN/application/pdf/6b989ca626b795e83292d8ca2087dedb/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489851565/MAIN/application/pdf/6b989ca626b795e83292d8ca2087dedb/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>845246</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261489851565-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489851565/PREVIEW/image/png/a2d777323377b7af3df9808c4466e1b0/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489851565/PREVIEW/image/png/a2d777323377b7af3df9808c4466e1b0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68403</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  THE d AND f RESONANCES IN THE CORE LEVEL ABSORPTION SPECTRA OF TeF6 *  John S. TSE  Division of Chemistry, NationalResearch Council of Canada, Ottawa, Ontario, Canada K1A 0R9  Received 15August1989   The post-edge resonant features observed in the Te p and d core level absorption spectra of TeF6 have been characterized with  stabi]ized bound state and continuum multiple scattering Xcs calculations. The nature of the resonances above the Te 4p edge is  similar to that observed in SF6 and can be attributed to excitations into quasibound channels with substantial kd character. The  localization of the continuum channel is due to strong interactions between the Te d and F p and d orbitais. The origin of the  resonances above the Te 4d edge is different. It is better described as a manifestation of the atomic-like d i kf delayed Onset as a  consequence of the Te centrifugal potential.  1. Introduction     The study of resonant enhancement in the inten-  sity in photoionization and photoabsorption exper-  iments has been of topical interest [1]. This phe-  nomenon was first observed in the core level  photoabsorplion spectra of highly fluorinated main  group compounds [2,3]. Due to recent advances in  synchrotron radiation and electron energy loss spec-  troscopy (EELS), this phenomenon has now been  identified in many other molecules. The study of the  intensity enhancement also has some practical sig-  nificance as it has been shown that the energy of the  excitation can be related to the structure of the mol-  ecule [4].   In an one-electron model, according to Fermi s  golden rule, the enhancement in the cross section in  absorption and ionization is due to an increase in the  transition moment involving the ground and excited  states. Under certain conditions, the scattering of  photoelectrons by the anisotropic coupling of the  molecular field will result in the localization of the  continuum channel. The overlap between the quasi-  bound channel with the ground state wavefunction  will then be increased. For the highly fluorinated  compounds, it has been suggested that a potential  barrier can be generated by the electron-rich fluorine    * Published as NRCC 30529.  atoms [3}. As a result of the repulsive interactions,  the outgoing electron is  trapped  temporarily in-  side the molecular core and becomes quasibound.  This interpretation is similar in spirit to the centrif-  ugal potential in the atoms which have been shown  to be responsible for the delayed-onset in core ex-  citations [5]. Since the localization process is de-  pendent on the shape of the potential, this phenom-  enon has been called  shape resonance  [1,3]. An  alternative explanation based on molecular orbital  theory [1,6] has been proposed to rationalize the en-  hancement processes. The strong excitation is at-  tributed to an electronic transition into a spatially  localized orbital embedded in the continuum. The  localized orbital can have antibonding or Rydberg   valence mixed character [1,6,7 J. Several causes of  resonant enhancement have been evaluated in a re-  cent theoretical investigation. It was shown, through  a comprehensive study on the valence level pho-  toionization cross section of XeF2 [7,8], that the  shape resonance and the molecular orbital descrip-  tion are complementary and both processes can con-  tribute to the change in the cross section of excita-  tions [9].   Traditionally, the study of shape resonance has  been concentrated on highly fluorinated compounds,  in particular, SF6 110]. In the inner shell absorption  spectra of SF6, two strong peaks were observed above  the S 2p edge but no discernible structure was found  392  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17 November 1989  in the S Is post-edge region. Lt is easy to assign the  peaks to excitations into orbitais of g symmetry. Mo-  lecular orbital calculations [11,12] showed that the  localization of the unoccupied S d orbitais is a result  of the antibonding interactions with the p orbitaIs  [11,12 J of the F ligands. Hence, the resonances re-  semble atomic p 6d transitions and can acquire large  oscillator strengths. This explanation, however, has  been questioned recently and the anomalous inten-  sity of the peaks was attributed to many-electron  processes [13]. The new assignment is unsatisfac-  tory in many ways. A more thorough experimental  [14] and theoretical [15] assessment on the S 2p  photoabsorption spectrum in SF6 will be presented  elsewhere. In order to gain more insight into the na-  ture of the shape resonance phenomenon, experi-  mental studies have been extended to the analogous  SeF6 [16]. A similar enhancement in the valence  level photoionization cross sections was observed.  More recently, the inner shell absorption spectra of  SeF6 and TeF6 have been measured using high res-  olution electron energy loss spectroscopy [17]. The  most exciting observation is the presence of rich res-  onance features above the Te d core levels. These  features have been tentatively assigned to the atomic  d s f transitions [17]. The objective of this investi-  gation is to characterize and quantify these obser-  vations with theoretical continuum multiple scatter-  ing Xa calculations. In particular, the Te 4p and 4d  post-edge absorption spectra will be studied in detail.      2. Computational details     The continuum multiple scattering Xa (MS Xa)  method developed by Dehmer and Dill [18,19] and  independently by Davenport [20] was used in the  present study. The MS Xce is a first principle one-  electron model based on the density functional the-  ory [211. The approximations involved with the  method are the muffin-tin partitioning of the mol-  ecule into atomic spheres to facilitate the solution of  the molecular Schrodinger equation and in the choice  of the exchange parameters [2 11. In the continuum  calculations [18 20], important effects of photo-  electron scattering through anisotropic coupling by  the molecular potential are duly taken. into account  [19]. Although MS Xs calculations are not ex-  pected to give quantitative results for comparison  with experimental spectra [19], important features  in the photoabsorption and photoionization spectra,  such as the Cooper minimum and resonant enhance-  ment, are always faithfully reproduced [19]. The MS  Xa method has been applied to many calculations  of the valence level ionization cross sections with very  favourable results [1,22]. Application of this method  to core level absorption and ionization has also met  with considerable success [9,23,24]. As mentioned  earlier, the primary aim of the present theoretical  study is to better characterize the continuum states  and not to provide accurate assignments to the ex-  perimental spectra. Moreover, relativistic effects  probably will be important for the description of the  electronic properties of the TeF6. A relativistic for-  mulation of the continuum XOE model is not yet  available.   The atomic and outer sphere radii and the ex-  change parameters were taken from a previous cal-  culation on TeF6 [25]. In the ground state calcula-  tion, the partial wave expansions were truncated at  lz~ 5, 4 and 2 for the outersphere, Te and F spheres  respectively. In the continuum calculations, the ex-  pansion was extended to 1=6, 5 and 3 respectively.  A latter tail [261 was added to the molecular poten-  tial during the SCF procedure to correct for the  asymptotic behaviour. In th SCF calculations, the Te  4p level was treated as core but the Te 4d are in-  cluded in the valence level. The absorption cross sec-  tion of the Te 4p and 4d were calculated from the  respective transition state potential. All symmetry-  allowed transitions were considered in the calcula-  tions. In  h symmetry, the dipole allowed contin-  uum channels for 4p (t1~) excitations are ka~, keg,  kt~ and ktsg. The degenerate Te 4d split into t2g and  eg orbitais in an octahedral field. The kt1~ and kt2~  channels are accessible from both the t2~ and e8 or-  bitals. In addition, the ka2~, and ke~ are symmetry  allow ed for the t28 initial state only. Since the nature  of a continuum channel is primarily determined by  the molecular field and is independent on the initial  orbital [24,271, and the t28 absorption excitations  include all the symmetry allowed continuum chan-  nels for eg, only the results for the t~ component of  the Te 4d will be discussed in detail.   The nature of the continuum channels is charac-  terized by two methods. The eigeuphase sum is a  393  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17 November 1989  measure of the phase shift of the photoelectron due  to the scatterings by the molecular potential [28].  For a noninteracting photoelectron, the continuum  wavefunction is a plane wave and the eigenphase sum  is a smooth function of its kinetic energy. If the  photoelectron were strongly scattered by the molec-  ular potential, as in the resonance, the continuum  channel would be signified by a rapid change in the  eigenphase sum. One of the advantages of the MS  Xc~ method is the elimination of the finite atomic  basis set by the use of partial wave expansion [21].  Unfortunately, the numerical nature of the calcula-  tions has created difficulties in the interpretation of  the wavefunctions. It is possible to give a pictorial  description of the continuum channel [29], how-  ever, at times it is difficult to associate the electron  density with the individual atomic component. In  order to get a better understanding of the composi-  tion of the continuum orbitaIs, an alternative ap-  proach of stabilizing the empty levels by placing the  molecule in a positive potential was used. This  sta-  bilization method  [30] has yielded reasonable re-  sults in the characterization of the continuum orbit-  aIs in temporary negative ion (TNI) [31] and  photoionization spectroscopy [7]. To ensure the im-  position of positive potential would not create arti-  fact energy levels, test calculations using electronic  charge varied from +2e to +4e were performed. In  all cases, the composition and the corrected binding  energy for the empty orbitais with substantial va-  lence character are not strongly affected by the choice  of the positive potential. Most of the results reported  here were obtained with a 3+ electronic charge uni-  formly distributed on the Watson sphere. As a result,  the energy eigenvalues spectrum is shifted by 15.5  eV to lower energy (2q/r Ry; q = electronic charge,  r=outersphere radius) permitting the low lying con-  tinuum orbitais to be analysed in the usual manner  as it was bound.  3. Results and discussion  3.1. Te 4p core level   The theoretical Te 4p post-edge absorption spec-  trum of TeF6 is shown in fig, la. The Te 4p ioni-  zation cross section is predicted to be very weak [32].  The theoretical spectrum shows two broad peaks. The  first peak located 7 eV above the ionization thresh-  old has a weak maximum. The intensity of the sec-  ond peak is slightly stronger and is found at 20 eV  above the threshold. The eigenphase sum for the  symmetry-allowed continuum channels for the Te ~4p  excitation is plotted in fig. lb. The peaks can be as-  signed to shape resonances according to the criteria  suggested by Kreile et al. [33]. The lower energy peak  is due to a resonance in the kt28 channel. The eigen-  phase sum of the continuum channel changed by 0.7ic  over an energy range of 4 eV. Similarly, the higher  energy peak can be traced back to an e8 resonance as  the eigenphase sum of this continuum channel has  changed rapidly over a small energy range. The other  dipole allowed kaig and t18 channels make negligible  contribution to the cross section and, according to  the behaviour of their eigenphase sums, are only  weakly interacting with the molecular potential.   MS Xa stabilization calculations give a clearer de-  scription of the resonances. Interspersed among the  t40  Photon Energy / eV    Fig. 1. Theoretical Te 4p (top) cross section and (bottom) ei-  genphase sum for the continuum channels in TeF6.  394  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  densely packed Rydberg empty levels, two orbitais of  significant atomic Te and F and intersphere charges  can be found in an energy search of the t28 symmetry.  The first orbital has an orbitai energy of   1,08 Ry  and charge distributions: g0~1 = 43% (d), q11,~ = 45%,  qT~= 1% (d) and q~= 11% (p) with the majority an-  gular character given in parentheses. The second or-  bitai is located at  0.76 Ry with q0~~=55% (d, g),  q~,,~=28%, qT~=tO% (d) and q~=7% (p, d). After  the correction for the stabilization potential, the ap-  parent orbital energies become 0.06 Ry (+0.83 eV)  and 0.38 Ry (+ 5.2 eV), respectively. The first or-  bital is very close to the ionization threshold. The  second orbital is located in the continuum and can  be correlated with the 7 eV t28 resonance channel  predicted by the continuum MS Xa calculations. The  orbital energy estimated from the stabilization  method is reasonably close to the  exact  value ob-  tained from continuum calculations. Contour dia-  grams for the wavefunction of the two orbitais are  depicted in fig. 2. The first orbital shows strong an-  tibonding interactions between the atomic spheres,  and the molecule is enclosed by a diffuse orbital of  d symmetry. In contrast, the second orbital shows  strong bonding interactions between the Te and F d  orbitals. However, the d wave is much more com-  pact with the charge density concentrated around the  molecular interior. Furthermore, there is a nodal  surface separating the molecular core from the out-  side region. This nodal structure is not present in the  first orbital. These observations have an important  significance. It demonstrates that as the orbital  (photoelectron) energy increases, the d wave be-  comes more contracted with commitant develop-  ment of a nodal structure in the wavefunction. This  description corresponds exactly to the observation  made in the continuum calculations. The large ei-  genphase shift in the t28 continuum channel (~ n) is  an indication of the penetration of an antinode into  the potential barrier [3]. As a result, the amplitude  of the continuum wavefunction in the molecular re-  gion is greatly enhanced and so is the absorption cross  section.   The energy of the e6 resonance is 20 eV above  threshold, the characterization of the resonant chan-  nel using the stabilization method will require a  charge of + 6.0e units. As a result of the large pos-  itive potential, a greater number of empty levels  shifted into the bound state. As the density of the  virtual state becomes so dense, the numerical pro-  cedure for the energy search becomes unreliable. Be-  cause of this technical difficulty, the e8 resonance is  not studied by the stabilizalion method. Further-  more, recent experiment [13] and calculation [12]  have also shown that the e8 resonance may not be  well described by an independent-particle state.   The theoretical results presented here share many  similarities to those for SF6. Two strong peaks have  Fig. 2.Contour map for the t2~ wavefunctions, (a) non-resonant and (b) resonant obtained from the stabilization method (see text).  The unit of the coordinates in bohr.  395  17 November 1989  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  been observed in the post-edge region of the exper-  imental S 2p spectrum [10,16,34]. The positions of  the peaks are located at 2.7 and 15.3 eV above the  ionization threshold [34]. The theoretical results  obtained from SCF [11,12], SCF/C1 [14] and MS  Xa [14] are consistent with each other. All calcu-  lations predict two strong excitations into orbitais of  predominantly S d character. The low energy peak  can be assigned to the S 2p (t~~)  *t26 transition and  the higher energy peak to S 2p *e8. Analysis of the  wavefunction of the excited states show that the S d  orbitais are bounded by the out-of-phase interac-  tions with the F 2p and the in-phase interactions with  the F d orbitais perpendicular to the S F bonds  [11,121. It should be noted that the atomic wave-  functions on F have been restricted to valence s and  p orbitais in the MO calculation [11]. However, the  resemblance between the wavefunction of the ex-  cited t28 orbital in SF6 [12] and that observed here  for TeF6 is remarkable. The observation further sub-  stantiates the equivalence in the molecular orbital  and MS Xa description of the resonance phenom-  enon [9]. It also shows that the stabilization method  [301 is able to give reliable information on the char-  acter of the excited states.   In a way, the splitting of the empty S and Ted or-  bitais due to the influence of the F ligands is anal-  ogous to the well known ligand field splittings in  transition metal complexes [35]. It is important to  point out that the basic mechanisms for the splitting  are fundamentally different and the physical model  developed for ligand field theory may not be directly  applicable. The splitting of the d levels in the con-  tinuum is partly due to molecular symmetry, but  more importantly, the orthogonal interactions with  the ligands lead to a renormalization of the d wave-  function. Having realized the differences, it is of some  interest to apply the existing theory to get an order  of magnitude estimate on the t2g and e8 splitting in  the hexafluorides. In the point charge approxima-  tion, the ligand field splitting for the d orbitais in an  octahedral molecule is lO(r4)d/6R5, where R is the  interatomic distance [35]. Rough estimates8 of  &lt;r4&gt;d for neutral S 3d and Te Sd gave a 12g and e8    ~ The r4&gt;d values were obtained with atomic Hartree Fock   Slater calculations. &lt;r4)d for S6~ is 10.3 au and for Te64 is  61.8 au.  splitting greater than the separation observed in the  absorption spectra. A more reasonable agreement was  found when the &lt;r4&gt;d values for the S6~ and Te6~  ion were used. In the latter case, the t2g e8 splitting  in SF6 and TeF6 is estimated to be 2.0 and 5.7 eV,  respectively.   In agreement with the theoretical prediction, the  Te 4p post-edge spectrum is very weak and shows no  discernible feature [17]. In contrast, distinct ab-  sorption bands centered at 4 and 16 eV above the  ionization threshold can be observed in the Te 3p  spectrum. These features have been assigned to sym-  metry forbidden transitions. However, according to  our calculations, these bands may as well be corre-  lated to the excitations into the Te d dominated t28  and e6 orbitals. More refined calculations and an im-  provement in the experimental condition to elimi-  nate non-dipole-allowed transitions using synchro-  tron radiation are required before a more definitive  assignment can be made.    3.2. Te 4d       Resonant-like structures above the ionization edge  of both the Te 4d and Te 3d levels have been ob-  served in TeF6 [17]. The rich features in the ab-  sorption spectra can only be understood by invoking  transitions into f-type continuum orbitais [17]. In  particular, the three broad peaks above the threshold  have been tentatively assigned to the ligand field split  f-type t1~, ~ and t2~, transitions, It is of interest to  investigate whether the origin of the post-edge struc-  tures in the Te d spectra is caused by similar inter-  actions with the ligands as in the p level spectra.   The MS Xa absorption cross section for the t28  component of the Te 4d level is shown in fig. 3a. The  eg component, which is not shown here, has a similar  profile but is weaker in intensity. The major contri-  bution to the cross section is derived from transi-  tions into the kt2~ and kt10 channels which are both  accessible from the 12g and e8 initial orbitai. The the-  oretical cross section is dominated by two peaks at  67 and 72 eV, which are 12 and 17 eV above the Te  4d edge, respectively. The eigenphase sums of the  corresponding continuum channels are given in fig.  3h. It is clearly shown that in the energy region 65  to 75 eV, the ka2~, kt1~ and kt20 channels are in res-  onance. Although, there is also a change in the ei-  396  volume i 63, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  -o      o  L)  Q)  Q)  Q)  Q)  o  L)  U  5)  u  -c  o  o    5)  Fig. 3. Theoretical Te 4d (top) cross section and (bottom) ei-  genphase sum for the continuum channels in TeF6.      genphase sum in the ke0 channel, it is not large  enough to be classified as resonance [33].   In an octahedral field, the f orbitais transforni as  a2~, t1,, and t2~. Since there is no combination of the  iigand orbitais of a2,, symmetry and the f orbitaIs are  pointing directly into the F atoms in t1,, symmetry,  simple ligand field considerations would predict the  following energy ordering, a2,, &lt; t~,, &lt;t ~ The small  calculated splittings of the f orbitais indicates that  the interactions between the f channel and the ii-  gands are small. Stabilized empty orbitaIs with sig-  nificant valence character and energy close to the   exact  continuum resonant energy can be readily  identified from the energy search. For the t2,, and a20  symmetries, the appropriate orbitais are located at   10 and li eV, respectively. The charge distribu-  tion for the a2,, orbital is, q0,,t=84% (f), q1~5~5%,  qTe= 10% (f), qQ)=0.4% (d); and for the t2,, orbital,  q0~1=63% (f), q~5_~ 11%, qTe= 18% (f), q1~=7% (p,  d). For the t ~ symmetry, an orbital of considerable  valence character is found at 14.7 eV with electron  populations, q0,,, = 72% (p, f), ~ 0.6%, ~Te = 22%  (f), qQ)=6 Io (s, p, d). The closeness of the a2~ and  t21, orbitais and their 4 eV separation from the higher  energy t1,, orbital are in good accord with results ob-  tained from the more exact continuum calculations.  For each symmetry, a comparison of the wavefunc-  tions of the  resonant  channels with an empty va-  lence orbital preceeding the resonance is displayed  in fig. 4.   The off-resonant orbital in a2~ symmetry is a dif-  fuse pure f wave with no contribution from the Ii-  gands. This observation is not unexpected, as al-  ready indicated, there is no combination of the  ligands  p orbitaIs which transforms as a2~. At the  resonance, the f wave contracts around the molec-  ular region and a nodal surface divides the space into  an inner and an outer region. A more vivid display  of the localization of the f wave is given in fig. 5. The  3-D contour maps show strong resemblance to the  eigenchannel plots for the off- and on-f-resonant in  molecular nitrogen [29]. Resonances in the other  symmetry allowed t1,, and 120 channels of TeF6 also  85 show a similar behaviour. In the non-resonant re-  gime, the wavefunctions are generally diffuse but be-  come increasingly localized when the energy is close  to the resonance.   Comparison of figs. 2 and 4 reveals a distinct dif-  ference in the nature of the interactions leading to  the localization of the d and f wavefunctions. Per-  haps, with the exception of the t11, orbitais (note the  strong p symmetry in the outersphere region), the  Te F interactions are much weaker in the f reso-  nance. The f wave penetrates gradually into the mo-  lecular interior as the energy increases. This obser-  vation is analogous to that observed in the heavy  atoms where the continuum wavefunction is local-  ized by the centrifugal potential [5,36]. The com-  petition between repulsive centrifugal forces and at-  tractive Coulombic forces creates a barrier and  divides the atom into two regions   an inner attrac-  tive region and an outer region where the potential  decays exponentially [37]. At low kinetic energy, the  continuum f channel is excluded from the inner re-  gion and behaves like a plane wave in the outer re-  gion. At appropriate energies, the f continuum chan-  nel penetrates into the inner region and becomes  quasibound. The localization of the wavefunction  results in good overlap between the initial state and  os so es 70 75  Photon Energy / eV  80  397  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  Fig. 4. Contour map for the a21 (tOP); t2u (middle) and t1,, wavefunctions obtained from the stabilization method (see text). The   non-  resonant orbitais are shown on the left and the resonant orbitaIs on the right. The unit of the coordinates in bohr.   - 7.5 -5  25 0 2.5 5 7.S -7.5  5  as o as s  398  Volume t63, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  the cross section for the transition will be enhanced.  The delayed onset of the transition intensity maxi-  mum is well known in atomic spectroscopy [5]. The  width, intensity and position of the delayed-onset  maximum is very sensitive to the potential [36]. For  instance, in XeF2, the Xe 4d ~kf delayed onset has  been observed at 22.6 eV [81, which is 4 eV lower  than the atomic value t 38]. On the other hand, the  band width in the XeF2 molecule is much narrower  than that in the atom. From the experimental and  theoretical evidence gathered here, it is very likely  that the resonant structures observed in the Te 3d  and 4d absorption spectra are due to d   kf delayed-  onset transitions. The closeness in the energy of the  a21,, t~,, and t1)1 suggests that the interactions with the  ligands are relatively small. The lack of antibonding  Te F interactions, especially in a21, which is forbid-  den by the molecular symmetry, shows that the ef-  fects of the ligand is not a major factor in the con-  finement of the f orbital. Finally, the observed  absorption peaks are very close in energy to the  atomic delayed-onset transition. The d ~kf delayed  onset in atomic Te 4d photoionization cross section  has been calculated at 10 eV above the threshold  [32].   Three strong peaks can be identified from the ex-  perimental Te 3d and 4d absorption spectra. In the  Te 4d spectrum, the peaks are located at 3, 11 and  22 eV above the threshold. Peaks are found at 3, 10  17 eV in the Te 3d spectrum, The reason for the dis.  crepancy in the term values of the corresponding  peaks in the 4d and 3d spectrum is unclear. These  peaks have been assigned to the d ~f t1,,, a2,, and t2,,  transitions in order of increasing energy. In com-  parison, the continuum MS X~ calculations predict  only two strong features at 10 and 15 eV above the  ionization threshold. The energy ordering of the or-  bitals t2,, az,, &lt;t,, suggested by the calculations also  differs from that of the experimental assignment.      4. Conclusion     The analysis of the one-electron orbitals derived  from continuum and stabilization MS Xa calcula-  tions show that the strong structures observed in the  Te d and p post-edge absorption spectra are due to  resonant transitions. The localization of the d con-  tinuum channels due to an effective potential cre-  ated by the strong interactions with the F ligands is  responsible for the resonances in the p level spectra.  A different explanation for the nature of the tran-  sitions observed in the Te d spectra is proposed. Al-  though, the assignments to d ~kf resonances are con-  sistent with an earlier suggestion [17], the  mechanism leading to the localization of the f con-  tinuum is more appropriately described as an atomic  phenomenon due to penetration of the wavefunction  into the barrier created by the centrifugal potential  of the Te atom. The MS Xa stabilization method   7,    o    i  o.  o    -I  O.      q  o-  o  Fig. 5. 3-D perspective of the Contour map for the a21 wavefunc-  tianS. (Top) non-resonant and (bottom) resonant.  399  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  [30] is shown to be an efficient and reliable tech-  nique for the characterization of low energy resonant  [[7] K.H. Sze and C.E Brion, Chem. Phys. in press; Abstract    The third chemical congress of north america, PHYSO1 14,  Toronto (1988).  [18] D. Dill and J.L. Dehnier, J. Chem. Phys. 65 (1976) 5327.  [191 J.L. Dehmer and D. Dill, in: Electron molecule and photon   molecule collisions, eds. T. Rescigno, V. McKoy and B.  Schneider (Plenum Press, New York, 1979).  [20] J.W. Davenport, Phys. Rev. Letters 36(1 976) 954.  [21 J K.H. Johnson, Advan. Chem. Phys. 7(1973)143.  [221 J.D. Bozek, G.M. Bancroft, J.N. Cutler, K.H. Tan, B.W.  Yates and J.S. Tie, Chem. Phys. 132 (1989) 257, and  references therm.  [23] J.A. Horsley, in: EXAFS and near edge structure, Vol. 3,  eds. KO. Hodgson, B. Hedman and J.E. Penner-Hahn  (Springer, Berlin, 1984),  [24] J.S. Tse, Z.F. Liu, J.D. Bozek and G.M. Bancroft, Phys. Rev.  A39 (1989) 1791.  [25] N. Rosch, V.H. Smith Jr. and M.H. Whangbo, J. Am. Chem.  Soc. 96 (1974) 5984.  [26] L. Latter, Phys. Rev. 99 (1955)510.  [27] M.B. Robin, Higher excited states of polyatomic molecules,  Vols. 1 3 (Academic Press, New York, 1985).  [28] J. Macek, Phys. Rev. A3 (1970) 1101.  [29) D. Loomba, S. Wallace, D. Dill and J.L. Delimer, J. Chem.  Phys.75 (1981) 4546.  [30] H.S. Taylor, Advan. Chem. Phys. 18 (1970)91.  [31] J.C. Giordan, John. H. Moore and J.A. Tossell, J. Am. Chem.  Soc. 103 (1981) 6632.  [321 J.J. Yeh and I. Lindau, At. Data NucI. Data Tables 32  (1985) 1.  [33] J. Kreile, A. Schweig and W. Thiel, Chcm. Phys. Letters 108  (1984) 259.  [34] A.P. Hitchock and C.E. Brion, Chem. Phys. 33(1976)55.  [35] B.N. Figgis, Introduction to ligand fields (Interscience, New  York, 1966) pp. 38 40.  [36] B.R. Tambe and S. Manson, Phys. Rev. A 30 (1984) 256.  [37] LI. Schiff, Quantum mechanics (McGraw-Hill, New York,  1955).  [38] D.L. Ederer, Phys. Rev. Letters 13 (1964) 760;  R. 1-laensel, G. Keitel, P. Schreiber and C. Knuz, Phys. Rev.  188 (1969) 1375;  F.J. Comes, R. Haensel, U. Nielson and W.H.E. Schwarz, J.  Chem. Phys. 50 (1973) 516.  channels.  Acknowledgement  The author wishes to thank Dr. N. Kosugi for many  helpful discussions.  References  [1] DU. Trulilar, ed, Resonances, ACS Symp. Ser. 263, (Am.  Chem. Soc., Washington, 1984).  [2] V.1. Nefedov, J. Struct. Chem. 9(1968)217.  [3] J.L. Dehmer, J, Chem. Phys. 56(1972) 4496.  [4] F. Sctte, J. Stiihr, F. Setie and AL. Johnson, Phys. Rev.  Letters 53 (1984) 1684.    l5J 1W. Cooper, Phys. Rev. Letters 13 (1964)762.  f6] R.R. Lucchese, D.K. Watson and BY. McKoy, Phys. Rev.  A22 (1980) 421.  [7] J.S. Tse, J. Chem. Phys. 89 (1988) 920.  [8] BW. Yates, K,H. Tan, G.M. Bancroft, LL. Coatsworth, IS.  Tse and G. Sehrobilgen, J. Chem. Phys. t 8(1986)1766.  [9] W. Thiel, J. Electron Spectry. 31(1983)151.  [10] A.P. Hitchock, J. Electron. Spectry. 25(1982) 245, update  January, 1989.  [It] F.A. Gianturco, C. Guidotti and U. Lamanna, J. Chem.  Phys. 57 (1972) 840;  F.A. Gianturco, C. Guidotti, U. Lamarina and R. Moccia,  Chem. Phys. Letters 10(1971)269.  [12] H. Sekiyama, Y. Kitajima, N. Kosugi, H. Kuroda and T.  Ohta, Photon Factory Activity Report, 3, VI-120 (1984)1  1985).  [13] T.A. Ferrett, D.W. Lindle, P.A. Heimann, MN. Piancastilli,  P.11. Kobrin, HG. Kerhoff, U. Becker, W.D. Brewer and  DA. Shirley, J. Chem. Phys. 89 (1988) 4726.  [14] G.M. Bancroft, K.H. Tan, P.O. Sairaren, S. Aksela and H.  Aksela, to be published.  [15] N. Kosugi and J.S. Tse, to be published.  [16] B.M. Addison-Jones, K.H. Tan, B.W. Yates, J.N. Cutler,  G.M. Bancroft and J.S. Tse, J. Electron. Spectry. 48 (1989)  155.  400  ization of the f con-  tinuum is more appropriately described as an atomic  phenomenon due to penetration of the wavefunction  into the barrier created by the centrifugal potential  of the Te atom. The MS Xa stabilization method   7,    o    i  o.  o    -I  O.      q  o-  o  Fig. 5. 3-D perspective of the Contour map for the a21 wavefunc-  tianS. (Top) non-resonant and (bottom) resonant.  399  Volume 163, number 4,5  CHEMICAL PHYSICS LETTERS  17November 1989  [30] is shown to be an efficient and reliable tech-  nique for the characterization of low energy resonant  [[7] K.H. Sze and C.E Brion, Chem. Phys. in press; Abstract    The third chemical congress of north america, PHYSO1 14,  Toronto (1988).  [18] D. Dill and J.L. Dehnier, J. Chem. Phys. 65 (1976) 5327.  [191 J.L. Dehmer and D. Dill, in: Electron molecule and photon   molecule collisions, eds. T. Rescigno, V. McKoy and B.  Schneider (Plenum Press, New York, 1979).  [20] J.W. Davenport, Phys. Rev. Letters 36(1 976) 954.  [21 J K.H. Johnson, Advan. Chem. Phys. 7(1973)143.  [221 J.D. Bozek, G.M. Bancroft, J.N. Cutler, K.H. Tan, B.W.  Yates and J.S. Tie, Chem. Phys. 132 (1989) 257, and  references therm.  [23] J.A. Horsley, in: EXAFS and near edge structure, Vol. 3,  eds. KO. Hodgson, B. Hedman and J.E. Penner-Hahn  (Springer, Berlin, 1984)</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>89851565</aid>
+            <ce:pii>0009-2614(89)85156-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(89)85156-5</ce:doi>
+            <ce:copyright type="unknown" year="1989"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Published as NRCC 30529.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>The d and f resonances in the core level absorption spectra of TeF<ce:inf loc="post">6</ce:inf>
+            </ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>John S.</ce:given-name>
+                  <ce:surname>Tse</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Division of Chemistry, National Research Council of Canada, Ottawa, Ontario, Canada K1A 0R9</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="15" month="8" year="1989"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The post-edge resonant features observed in the Te p and d core level absorption spectra of TeF<ce:inf loc="post">6</ce:inf> have been characterized with stabilized bound state and continuum multiple scattering Xα calculations. The nature of the resonances above the Te 4p edge is similar to that observed in SF<ce:inf loc="post">6</ce:inf> and can be attributed to excitations into quasibound channels with substantial <ce:italic>k</ce:italic>d character. The localization of the continuum channel is due to strong interactions between the Te d and F p and d orbitals. The origin of the resonances above the Te 4d edge is different. It is better described as a manifestation of the atomic-like d→<ce:italic>k</ce:italic>f delayed onset as a consequence of the Te centrifugal potential.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.G.</ce:given-name>
+                                    <ce:surname>Truhlar</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Resonances</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Am. Chem. Soc</sb:name>
+                                 <sb:location>Washington</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ACS Symp. Ser. 263</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.I.</ce:given-name>
+                                 <ce:surname>Nefedov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Struct. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4496</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1684</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>762</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Lucchese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Watson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.V.</ce:given-name>
+                                 <ce:surname>McKoy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>421</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Tse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>920</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Bancroft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Coatsworth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Tse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Schrobilgen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1766</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Thiel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>update January, 1989</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Gianturco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guidotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Lamanna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>840</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Gianturco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guidotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Lamanna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Moccia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sekiyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kitajima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kosugi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kuroda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ohta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Photon Factory Activity Report</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>3, VI-120</sb:comment>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sekiyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kitajima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kosugi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kuroda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ohta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Photon Factory Activity Report</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>3, VI-120</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Ferrett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Lindle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Heimann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Piancastilli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Kobrin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Kerhoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Becker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Brewer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shirley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4726</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.M. Bancroft, K.H. Tan, P.O. Sairaren, S. Aksela and H. Aksela, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>N. Kosugi and J.S. Tse, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Addison-Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Cutler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Bancroft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Tse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Sze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>in press; Abstract - The third chemical congress of north america, PHYS0114, Toronto</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Rescigno</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>V.</ce:given-name>
+                                    <ce:surname>McKoy</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Schneider</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Electron-molecule and photon-molecule collisions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Davenport</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>954</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Bozek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Bancroft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Cutler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Tse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>257</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therin</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Horsley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>K.O.</ce:given-name>
+                                    <ce:surname>Hodgson</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Hedman</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.E.</ce:given-name>
+                                    <ce:surname>Penner-Hahn</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>EXAFS and near edge structure</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>3</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Tse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.F.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Bozek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Bancroft</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1791</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Rösch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Whangbo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5984</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Latter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1955</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>510</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Robin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Higher excited states of polyatomic molecules</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1–3</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Macek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Loomba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wallace</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4546</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Giordan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>John.H.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Tossell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6632</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Lindau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>At. Data Nucl. Data Tables</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kreile</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Schweig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Thiel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>259</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.N.</ce:given-name>
+                                 <ce:surname>Figgis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Introduction to ligand fields</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1966</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Interscience</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>38</sb:first-page>
+                              <sb:last-page>40</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Tambe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Manson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>256</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.I.</ce:given-name>
+                                 <ce:surname>Schiff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Quantum mechanics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1955</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Ederer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>760</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Haensel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Keitel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Schreiber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Knuz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1375</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Comes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Haensel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Nielson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.E.</ce:given-name>
+                                 <ce:surname>Schwarz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>516</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

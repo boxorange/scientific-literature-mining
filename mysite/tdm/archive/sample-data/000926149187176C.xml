@@ -1,0 +1,777 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149187176C</prism:url><dc:identifier>doi:10.1016/0009-2614(91)87176-C</dc:identifier><eid>1-s2.0-000926149187176C</eid><prism:doi>10.1016/0009-2614(91)87176-C</prism:doi><pii>0009-2614(91)87176-C</pii><dc:title>Isotope-dependent quenching of singlet molecular oxygen (1Δg) by ground-state oxygen in several perhalogenated solvents </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>184</prism:volume><prism:issueIdentifier>1-3</prism:issueIdentifier><prism:startingPage>128</prism:startingPage><prism:endingPage>132</prism:endingPage><prism:pageRange>128-132</prism:pageRange><prism:number>1-3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-09-20</prism:coverDate><prism:coverDisplayDate>20 September 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Afshari, Ebrahim</dc:creator><dc:creator>Schmidt, Reinhard</dc:creator><dc:description>
+               Abstract
+               
+                  The deactivation of O2(1Δg) by ground-state O2 was investigated by the direct time-resolved phosphorescence technique in four perhalogenated solvents at 295 K. A very strong isotope effect of k
+                     16
+                     Q/k
+                     18
+                     Q=70 was observed on the quenching rate constant, which is reproduced by the model developed by Maier, Wild, Klingshirn and Plötz for O2(1Δg) deactivation in pure O2. Thus, solvent molecules do not support quenching by O2. k
+                     16
+                     Q ranges from 2600 M−1 s−1 in perfluorohexane to 4100 M−1 s−1 in perflourodecalin and is about three times larger than in gaseous 16O2. The variation of k
+                     16
+                     Q correlates with changes in the packing fraction of the solvents.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149187176C" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149187176C" rel="scidir"/></coredata><scopus-id>0001493374</scopus-id><scopus-eid>2-s2.0-0001493374</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001493374" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011115">2001-11-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011115">2001-11-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2019-02-06T13:00:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149187176C</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)87176-C</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149187176C</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)87176-C</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X12183</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190206">2019-02-06T18:24:19.680483Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19910920</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005782400">2001-11-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>184</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>184</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 184, Issues 1–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>24</xocs:sort-order>
+      <xocs:first-fp>128</xocs:first-fp>
+      <xocs:last-lp>132</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>128</xocs:first-page>
+         <xocs:last-page>132</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19910920</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>20 September 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-09-20</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ISOTOPEDEPENDENTQUENCHINGSINGLETMOLECULAROXYGEN1GBYGROUNDSTATEOXYGENINSEVERALPERHALOGENATEDSOLVENTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>AFSHARI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HURST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5756</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6976</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6983</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1100</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>WAYNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SINGLETO2</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>PLOTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>WILD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MARQUARDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>431</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9"/>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BATTINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HAMZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3733</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>OSBURN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>146</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>MATHESON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3343</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>CHATELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>387</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>BONDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>441</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1918</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>AFSHARIX1991X128</xocs:refkey3>
+         <xocs:refkey4lp>AFSHARIX1991X128X132</xocs:refkey4lp>
+         <xocs:refkey4ai>AFSHARIX1991X128XE</xocs:refkey4ai>
+         <xocs:refkey5>AFSHARIX1991X128X132XE</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)87176-C</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149187176C</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149187176C</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)87176-C</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2019-02-06T18:24:19.680483Z</xocs:timestamp>
+         <xocs:cover-date-start>1991-09-20</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149187176C-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149187176C/MAIN/application/pdf/eabe9763db43d0d32fb96833c903787c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>464531</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149187176C-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149187176C/PREVIEW/image/png/c17d2cc11f03f399d77b3c702053ffd7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74487</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 184, number 1,2,3  CHEMICAL PHYSICS LETITERS  20 September 1991  1802, however, proceeds about two orders of mag-  nitude slower at 295 K [6]. The surprisingly large  isotope effect on the collisional deactivation of  02(  A8) in pure 02 was interpreted successfully by  Maier and co-workers by considering the coupled  transitions  1. Introduction     The main deactivation process of singlet molecu-  lar oxygen 02(  A5) in solution is quenching by ter-  minal oscillators X Y of solvent molecules. Its rate  constant ~ depends strongly on ~ the highest  fundamental vibrational energy of X Y [1,21. ~  increases by about four orders of magnitude if ~  variesfrom 1250cm-  (C F) to 3400cm-  (0 H).  The linear correlation of in ~ with ~ is repro-  duced by a model basing on collision-induced cou-  pling of the highest frequency vibration of X Y to  the possible vibronic transitions of 02 [1  4]. The  competing deactivation channels are described by  tAg, v=0+3E~, v =O  ~3~,v=m+3~, u=5 m+Em  (2)  and the different off-resonance energies Em of both  isotopes [6,7].   Em has to be transformed into translational energy  for the diatomic quencher 02. Consequently, the  acceptance of the off-resonance energy is much more  difficult for 02 than for polyatomic quenchers.  (1) Therefore, slight changes in Em of about 400 cm  as observed comparing the quenching of 16O(  A8)  and  802( A5) by the respective ground-state mole-  cules, results in the very strong effect on the quench-  ing rate constant [6,71. However, the same change  in Emn of eq. (1) has only a moderate effect (factor  ~ 7) on the rate constant of 02 (  As) quenching by  oscillators X Y if X Y is part of a polyatomic sol-  vent molecule [21.   If 02 (  A8) quenching by 02 occurs in polyatomic  solvents, the picture could be quite different. Colli-  sion complexes of 02 and solvent molecule could   As, v=O+X-Y(v  =0)  -, v=rn+X-Y(v  =fl)+Emn.   The off-resonance energy Em~ can be distributed  over the large number of vibrational modes of the  entire solvent molecule facilitating the acceptance of  the  A~ excitation energy by polyatomic quenchers.  This is, of course, not the case for diatomic  quenchers.   Pure, natural oxygen (99.8% 1602) in its ~I;  ground state acts in the gas phase and in the liquid  phase as a rather strong quencher of 1602( ~) [5   7]. The deactivation of  802( A5) by ground-state  128  0009-26 14/91/$ 03.50   1991 Elsevier Science Publishers BY. All rights reserved.  Isotope-dependent quenching of singlet molecular oxygen ( Ag)  by ground-state oxygen in several perhalogenated solvents    Ebrahim Afshari and Reinhard Schmidt  Jnstitutflir Physikalischc Chernie, Universitat Frankfurt, Niederurseler hang, W-6000 Frankurt am Main, Germany      Received 28 May 1991; in final form 24 June 1991         The deactivation of 02 ( ~) by ground-state 02 was investigated by the direct time-resolved phosphorescence technique in four  perhalogenated solvents at 295 K. A very strong isotope effect of k~/k~ = 70 was observed on the quenching rate constant, which  is reproduced by the model developed by Maier, Wild. Klingshim and Pldtz for 02 (  its) deactivation in pure 02. Thus, solvent  molecules do not support quenching by 02. k~ ranges from 2600 M - s  in perfluorohexane to 4100 M  s  in perfluorode-  calm and is about three times larger than in gaseous 1602 The variation of k~ correlates with changes in the packing fraction of  the solvents.  Volume 184, number 1,2,3  CHEMICAL PHYSICS LETTERS  20 September 1991  provide suitable accepting modes for the off-reso-  nance energy leading to an increase in the rate con-  stant kLf and a decrease in the k~6/k~f isotope effect.   In this Letter, we report for the first time results  on the quenching of the isotopes  602( A5) and  1802 (  As) by the respective ground-state molecules  in solution, determined by the time-resolved phos-  phorescence technique. Measurements have been  made in several perhalogenated solvents, where sep-  aration of quenching by 02 and by the solvent is pos-  sible already at 02 partial pressures Pc2 c I bar.      2. Experimental     The solvents used were perfluorodecalin (PFD,  95%) from Fluka, 1,1 ,2-trichlorotrifluoroethane  (freon 113, Uvasol) from Merck, perfluorohexane  (PFH, 99%), and tetrachloromethane (TET, 99 + %)  from Aldrich. All solvents were purified by repeated  column chromatography with neutral A1203  (Woelm). 5,10,1 5,20-tetraphenylporphine (TPP,  Gold Label) and phenalenone (P HE) were from  Aldrich. PHE was crystallized twice from ethanol.   Natural oxygen of 99.5% purity (1602) was sup-  plied from Messer Griesheim and  02 (isotopic pu-  rity 9 7.6%) from Merck, Sharp and Dome. Solutions  of defined concentrations [021 were prepared by four  freeze pump thaw cycles on a vacuum line at io~  mbar followed by addition of 02 to the degassed so-  lutions at 295 K. A digital pressure meter Piezovac  PV ill from Leybold Heraeus (0 1030 mbar) was  used to measure the vapor pressure p~ of the solvents  and the total pressure Pt after adding 02. Low con-  centrations [02] ~ lO~ M were prepared from ox-  ygenated solutions (P0, 200 mbar) by three sub-  sequent freeze pump thaw cycles reducing 1021 by  a factor of about 1000. 02 ( A8) was produced by  sensitization with PHE. The instrumentation for  time-resolved 02 (  As) phosphorescence measure-  ments at 1275 nm for lifetimes r~&gt; 7 ms is described  in detail in ref. [21. Excitation pulse energy was less  than 10 j.tJ, pulse duration 10 ms. The evaluation of  the experimental decay curves E ( t), which are con-  volutes of monoexponential 02(  A8) decay, broad  excitation pulse shape (duration 10 ms) and elec-  tronic response function of the Ge detector (3.5 ms),  was performed with an improved computer pro-  gram. The experimentally determined fluorescence  decay of TPP at 660 nm serves as excitation function  F(t) of our system. It is the convolution of excita-  tion pulse and detector response function. The pro-  gram convolutes P( 1) with the monoexponential de-  cay B exp (   t/t~) yielding A (t), which is fitted to  E(1) using the Marquardt algorithm [8]. 02( A8)  lifetimes obtained by this improved procedure are  30% shorter than the values r~&gt; 7 ms estimated with  the simpler program in our earlier work 12].      3. Results     Fig. I shows example plots of the experimental  02(  A8) phosphorescence decay curve, E(t), and the  corresponding excitation function, F(1). The best fit,  A (1), for the calculated convolution of monoexpo-  nential decay and P( 1) is also given as the super-  imposed curve in fig. 1. Very close descriptions of  the experimental curves could be achieved.   To avoid undesired quenching of 02 ( A8) by the  sensitizer PHE, we determined  A8 lifetimes in de-  pendence of [PHE] in PFD. The linear Stern Vol-  mer plot gave the quenching rate constant k~ =  3.2x 10~ M  r . Depending on the experiment  3.5xl06~[PHE]~l.5xl05 M was chosen,            I,        S  1   S        8        Fig. I. Excitation function F(s) measured as time-dependent flu-  orescence intensity of TPP in C6H6 at 660 nm. Experimental de-  cay E( 5) of  ~o2(  A5) phosphorescence at 1275 nm in air-satu-  rated PFD; [PHE] = 1.3x lOtM. Both decays recorded under  identical excitation conditions; Aac = 365 nm. A(s) is the con-  volution of F(s) with Bexp(  t/r~) calculated to fit E(t).   ms.  0.2    Time tel  129  Volume 184, number 1,2,3  CHEMICAL PHYSICS LETTERS  20 September 1991  keeping 02(  A8) quenching by PHE negligible.   Table I lists  A8 lifetimes of air saturated and highly  diluted solutions of I602 and 802. The comparison  demonstrates that in perhalogenated solvents,  quenching of 1602 ( A8) by air takes place. The effect  depends on the 02 solubility coefficient and, because  of Pa, ~Pt  p~, on the vapor pressure of the liquid.  The dominant quencher of air is  ~02. N2 deacti-  vates 02(  A8) at least ten times weaker than ~602 [5].  In addition, the solubility of N2 is only about 60% of  the 02 value in most organic solvents. The I60,(  A8)  lifetimes in degassed solvents are distinctly longer  than the values published earlier by us for air-satu-  rated solvents (PFH: 96, freon 113: 99, and TET: 87  ms [2,3]). However, even the largest deviation by  the factor 2 is not so important as to cause a revision  of the interpretation of the huge solvent effect on the  02 ( A8) deactivation. The maximum value of  6t~ is  observed in PFD with 309 ms. In agreement with our  previous results, C F oscillators deactivate  ~02(  A8)  distinctly weaker than C Cl, for which already a  heavy-atom effect operates [3]. In the last column,  values of  8tA are given which exceed  6ta in the mean  by about 40%. The implications of the weak but sig-  nificant 02 isotope effect on the mechanism of  02 ( A8) deactivation by solvent molecules will be  discussed in a separate publication [9].   Figs. 2 and 3 illustrate the deactivation of  ~t~2(~A8) and  802( A8) by the respective ground-  state molecules. For both isotopes, the data are rea-  sonably described by straight lines corresponding to  quenching rate constants of k~ =4100  300 M     s   and k~,!=60 t5M  s . Thus, a very strong  isotope effect k)~/kU = 70 on the quenching of  02(A5) by 02 in PFD results. Table 2 collects the  Solvent  Ta  (ms) a)  l8~  (ms)  ~  18ta    (ms)  PFD  60 4  309 20  463 30  PFH  68 5  214 15  271 20  freon 113  72 5  133 10  207 15  lET  59 5  128 10  180 15  Solvent  k~  (M  r )  k,1j  (M~ r )  1021 a)  (M)  PFD  4100 300  60 15  l.6lxlO26~  PFH  2600 200  100 30  2.85x102 1  freon 113  3200 200  100 30  2.05Xl0~    lET  3900 400     l.24x1021   rate constants   determined directly via time-resolved   A8 phosphorescence.   k~5=3200 M  s   obtained in freon 113 has to  be compared with the only existing literature value  of 2700   700 M   s , which has been determined  by Matheson et al. in the same solvent by a very dif  60      48        26  C    24      12      0      Fig. 2. Stern Volmer plot of 16Q ( A5) quenching by 602 in PFD.  [PHE]=3.Sx lOtM.  103,cse0] (Ml  S    C    2.4  103x[15o2] (Ml  Fig. 3. Stern Volmer plot of  ~02(  A5) quenching by ~~O2 in PFD.  [PHEI=3.5x 106 M.    Table 2  Rate constants of 02( A5) quenching by 02 in perhalogenated  solvents  Table 1  02(  ~~a) lifetimes in perhalogenated solvents. Mean values of the  largest reproducible results  a)Atp_lbar 12)Ref [10]. c)Ref. [11].  ~ Extrapolated according to ref. 1121.  a) Air saturated. 6) [16021 ~ 100M. c) [ ~02] ~ 10  M.  130  System  k~  (M    c )  k)t/k3  perhalogenated solvent, 295 K  2600 4100  70  gaseous02,295K  t020~  l7Oa) (120)6)  liquid 02, 77K  640 c)  460c (460) b)  Volume 184,   number 1,2,3  CHEMICAL PHYSICS LETTERS  20 September 1991  deactivation by 02 still occurs in solution in a bi-  molecular collision, as it takes place in pure gaseous  or liquid 02.   Maier and co-workers developed a model for the  02 ( A8) quenching by 02 describing the probability  P( m) of a single deactivation event as product of a  proportionality constant K, of the Franck Condon  factors F of the coupled transitions of  A8 and ~  according to eq. (2) and of an off-resonance factor  f depending on Em, on the temperature T, on the re-  duced mass ji, and on the parameters a and E of the  attractive Morse potential between the colliding 02  molecules [7],  P(m)=KFs(tn)Fx(5 sn)f(Em, T,p, a, ). (3)    The total transition probability is obtained as the sum  P= ~ F(,n) over the different relaxation  channels.   In agreement with the experimental result,  k~/k~ =460 was calculated by Maier et al. at 77 K  [7]. Using the same model and parameters, we cal-  culate at 295 K k~~f/k)f = 120. This value agrees as  well with the result obtained in the gas phase, as with  the isotope effect determined in PFD, see table 3.   Thus, we suppose that also in solution, deactiva-  tion of 02(  A8) by 02 occurs only in binary colli-  sions but not in collisions with complexes of 02 and  solvent molecule. The large isotope effect demon-  strates that the off-resonance energy has to be con-  verted in solution at least primarily into transla-  tional energy of the colliding 02 molecules.   The moderate increase of k~ in solution com-  pared to the gas-phase value at 295 K is probably due  to variations of the 02 02 collision frequency and  not a consequence of solvent-assisted distribution of  off-resonance energy. As discussed by Chatelet et al.,  the following equation holds for the quenching rate  constant [14], where F is the deactivation proba-  bility per collision:  ferent indirect method [13]. These authors mea-  sured the bleaching of 1 ,3-diphenylisobenzofurane  at different [02] in the high-pressure domain  (Po2 100 bar) after excitation of 02 by 1066 nm  giant pulses of a Nd: YAG laser. The agreement of  the results is amazing in view of the very complex  technique used.   The data of table 2 indicate a weak but significant  solvent effect on ki~ which increases from PFFI to  PFD by about 60%. The values of k~j are much more  uncertain and should be regarded as upper limits for  the rate constant. Due to the low quenching activity  of 802 and the very long lifetimes of  802( A8) in  perhalogenated solvents, these systems are extremely  sensitive to contaminations by quenchers. Actually  repeated cycles of evacuation and filling with 1802  lead finally in an irreproducible way to reduced life-  times. In good solvents with large vapor pressure, as  for example TET, this effect is so dominant that no  value of k~8 can be given. In contrast, with PFD,  which has the worst solubility properties and the  lowest vapor pressure, the most reproducible results  have been obtained. We, therefore, assume the value  of k~/k~ = 70 measured in PFD as the most real-  istic one.        4. Discussion     In table 3, our data on the quenching of 02(  A8)  by 02 in solution are compared with results of Maier  et al. obtained in gaseous and liquid 02 [6,7]. Only  a moderate increase of k~ and a weak decrease of   are noted if solution-phase and gas-phase  values at 295 K are considered. Apparently 02 ( A8)    Table 3  Quenching of 02(  A,) by 02  kQ=PZ.  (4)   The collision frequency Z is directly proportional  to the pair distribution function, depending in the  liquid phase but not in the vapor phase on the num-  ber density is of the solvent. Chatelet et al. deter-  mined experimentally for the isothermal gas (g)   liquid (2) phase transition at 150 K,  k~(Q)/k~(g)    131  a) Ref [6].  ~ Calculated from the model and the parameters given in ref    [7].  C) Ref [73.  Volume 184, number 1,2,3  CHEMICAL PHYSICS LETTERS  20 September 1991  = 1.34 [141. With further increasing density, the pair  distribution function and, thus, k~(2) still increase.  n corresponds via eq. (5) and the 02 van der Waals  volume, Vw= 13 cm3 mol  [15], with the packing  fraction q,  and the weak solvent dependence are qualitatively  explained by the packing-fraction dependence of the  collision frequency.      Acknowledgement     Financial support by the Deutsche Forschungs-  gemeinsehaft and the Fonds der Chemischen Indus-  trie is gratefully acknowledged. We thank J. Vogel-  sang (University Stuttgart) and Ch. Grewer  (University Frankfurt am Main) for the develop-  ment of the convolution program.      References    [1] JR. Hurst and GB. Schuster, J. Am. Chem. Soc. 105 (1983)  5756.  [2] R. Schmidt and H.-D. Brauer, J. Am. Chem. Soc. 109  (1987) 6976.  131 R. Schmidt, J. Am. Chem. Soc. 111(1989) 6983.  141 R. Schmidt, K. Seikel and H.-D. Brauer, Ber. Bunsenges.  Physik. Chem. 94 (1990) 1100.  [5] R.P. Wayne, in: Singlet 02, Vol. 1, ed. A.A. Frimer (CRC  Press, Boca Raton, 1985) p.81.  16] J. PlotzandM. Maier, Chem. Phys. Letters 138 (1987) 419.  1~] E. Wild, H. Klingshirn and M. Maier, J. Photochem. 25  (1984) 131,  18] D.W. Marquardt, J. Soc. md. AppI. Math. 11(1961) 431.  19] E. Afshari and R. Schmidt, J. Phys. Chent, to be submitted  for publication.  [10] R. Battino, T.R. Rettich and I. Tominaga, J. Phys. Chem.  Ref Data 12(1983)163.  [11] MA. Hamza, 0. Serratrice, M.-J. Stebe and J.-J. Delpuech,  J. Am. Chem. Soc. 103 (1981) 3733.  112] JO. Osbum and P.L. Markovic, Chem. Eng. (1969) 146.  [13] I.B.C. Matheson, J. Lee, U.S. Yamanashi and M.L.  Wolbarsht,J.Am. Chem. Soc. 96(1974)3343.  114] M. Chatelet, A. Tardieu, W. Spreitzer and M. Maier, Chem.  Phys. 102 (1986) 387.  15] A. Bondi, J. Phys. Chem. 68 ( 1964 ) 44 1.  [t6]C. Il3elalande and G.M. Gale, J. Chem. Phys. 73(1980)  1918.  q= Vwn/6.023x 1023.  (5)   To illustrate the influence of the packing fraction  on the rate constant, we take the following data pairs  (k~f(Q), M  r ; i~) from the results obtained by  Chatelet et a]. at 150 K in pure liquid 02: 840, 0.38;  1020, 0.43; and 1740,0.49 [14]. Thus, kt~ increases  distinctly with q. j is even larger in perhalogenated  solvents at room temperature. From literature data  on van der Waals volumes, we calculate ,j(PFH)  =0.51, ~(freon 113)=0.52, q(TET)=0.54 and  ~(PFD)=0.57 [15]. Exactly in the same order of  solvents, k~ increases, as can be seen from table 2.  Hence, the difference of the quenching rate con-  stants between gas phase and solution phase and the  weak solvent effect on are caused by variations  of the 02 02 collision frequency which depends via  the pair distributioa function on the packing frac-  tion of the solvent [14,16].      5. Conclusions     The strong ~ 180 isotope effect on the rate  constant of 02 ( Ag) quenching by 02 is described  quantitatively by a model developed by Maier and  co-workers for pure 02 systems [6,7]. Therefore,  deactivation occurs in binary collisions of 02 mol-  ecules in perhalogenated solvents as well as in pure  02. Electronic excitation energy is converted into vi-  brational energy, off-resonance energy into transla-  tional energy of the colliders. Assistance by solvent  molecules during acceptance of the off-resonance en-  ergy does not occur. The moderate increase of k~ in  solution compared to the gas-phase value at 295 K  132  . Only  a moderate increase of k~ and a weak decrease of   are noted if solution-phase and gas-phase  values at 295 K are considered. Apparently 02 ( A8)    Table 3  Quenching of 02(  A,) by 02  kQ=PZ.  (4)   The collision frequency Z is directly proportional  to the pair distribution function, depending in the  liquid phase but not in the vapor phase on the num-  ber density is of the solvent. Chatelet et al. deter-  mined experimentally for the isothermal gas (g)   liquid (2) phase transition at 150 K,  k~(Q)/k~(g)    131  a) Ref [6].  ~ Calculated from the model and the parameters given in ref    [7].  C) Ref [73.  Volume 184, number 1,2,3  CHEMICAL PHYSICS LETTERS  20 September 1991  = 1.34 [141. With further increasing density, the pair  distribution function and, thus, k~(2) still increase.  n corresponds via eq. (5) and the 02 van der Waals  volume, Vw= 13 cm3 mol  [15], with the packing  fraction q,  and the weak solvent dependence are qualitatively  explained by the packing-fraction dependence of the  collision frequency.      Acknowledgement     Financial support by the Deutsche Forschungs-  gemeinsehaft and the Fonds der Chemischen Indus-  trie is gratefully acknowledged. We thank J. Vogel-  sang (University Stuttgart) and Ch. Grewer  (University Frankfurt am Main) for the develop-  ment of the convolution program.      References    [1] JR. Hurst and GB. Schuster, J. Am. Chem. Soc. 105 (1983)  5756.  [2] R. Schmidt and H.-D. Brauer, J. Am. Chem. Soc. 109  (1987) 6976.  131 R. Schmidt, J. Am. Chem. Soc. 111(1989) 6983.  141 R. Schmidt, K. Seikel and H.-D. Brauer, Ber. Bunsenges.  Physik. Chem. 94 (1990) 1100.  [5] R.P. Wayne, in: Singlet 02, Vol. 1, ed. A.A. Frimer (CRC  Press, Boca Raton, 1985) p.81.  16] J. PlotzandM. Maier, Chem. Phys. Letters 138 (1987) 419.  1~] E. Wild, H. Klingshirn and M. Maier, J. Photochem. 25  (1984) 131,  18] D.W. Marquardt, J. Soc. md. AppI. Math. 11(1961) 431.  19] E. Afshari and R. Schmidt, J. Phys. Chent, to be submitted  for publication.  [10] R. Battino, T.R. Rettich and I. Tominaga, J. Phys. Chem.  Ref Data 12(1983)163.  [11] MA. Hamza, 0. Serratrice, M.-J. Stebe and J.-J. Delpuech,  J. Am. Chem. Soc. 103 (1981) 3733.  112] JO. Osbum and P.L. Markovic, Chem. Eng. (1969) 146.  [13] I.B.C. Matheson, J. Lee, U.S. Yamanashi and M.L.  Wolbarsht,J.Am. Chem. Soc. 96(19</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9187176C</aid>
+            <ce:pii>0009-2614(91)87176-C</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)87176-C</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Isotope-dependent quenching of singlet molecular oxygen (<ce:sup loc="pre">1</ce:sup>Δ<ce:inf loc="post">g</ce:inf>) by ground-state oxygen in several perhalogenated solvents</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Ebrahim</ce:given-name>
+                  <ce:surname>Afshari</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Reinhard</ce:given-name>
+                  <ce:surname>Schmidt</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institut für Physikalische Chemie, Universität Frankfurt, Niederurseler Hang, W-6000 Frankfurt am Main, Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="28" month="5" year="1991"/>
+            <ce:date-revised day="24" month="6" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The deactivation of O<ce:inf loc="post">2</ce:inf>(<ce:sup loc="pre">1</ce:sup>Δ<ce:inf loc="post">g</ce:inf>) by ground-state O<ce:inf loc="post">2</ce:inf> was investigated by the direct time-resolved phosphorescence technique in four perhalogenated solvents at 295 K. A very strong isotope effect of <ce:italic>k</ce:italic>
+                     <ce:sup loc="post">16</ce:sup>
+                     <ce:inf loc="post">Q</ce:inf>/<ce:italic>k</ce:italic>
+                     <ce:sup loc="post">18</ce:sup>
+                     <ce:inf loc="post">Q</ce:inf>=70 was observed on the quenching rate constant, which is reproduced by the model developed by Maier, Wild, Klingshirn and Plötz for O<ce:inf loc="post">2</ce:inf>(<ce:sup loc="pre">1</ce:sup>Δ<ce:inf loc="post">g</ce:inf>) deactivation in pure O<ce:inf loc="post">2</ce:inf>. Thus, solvent molecules do not support quenching by O<ce:inf loc="post">2</ce:inf>. <ce:italic>k</ce:italic>
+                     <ce:sup loc="post">16</ce:sup>
+                     <ce:inf loc="post">Q</ce:inf> ranges from 2600 M<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> in perfluorohexane to 4100 M<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> in perflourodecalin and is about three times larger than in gaseous <ce:sup loc="pre">16</ce:sup>O<ce:inf loc="post">2</ce:inf>. The variation of <ce:italic>k</ce:italic>
+                     <ce:sup loc="post">16</ce:sup>
+                     <ce:inf loc="post">Q</ce:inf> correlates with changes in the packing fraction of the solvents.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hurst</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Schuster</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5756</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-D.</ce:given-name>
+                                 <ce:surname>Brauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6976</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6983</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Seikel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-D.</ce:given-name>
+                                 <ce:surname>Brauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ber. Bunsenges. Physik. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1100</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Wayne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>A.A.</ce:given-name>
+                                    <ce:surname>Frimer</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Singlet O<ce:inf loc="post">2</ce:inf>
+                                       </sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>Boca Raton</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Plötz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wild</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Klingshirn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Photochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Marquardt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Soc. Ind. Appl. Math</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>431</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>E. Afshari and R. Schmidt, J. Phys. Chem., to be submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Battino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Rettich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tominaga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Ref. Data</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Hamza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Serratrice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-J.</ce:given-name>
+                                 <ce:surname>Stebe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-J.</ce:given-name>
+                                 <ce:surname>Delpuech</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3733</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Osburn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Markovic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>146</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.B.C.</ce:given-name>
+                                 <ce:surname>Matheson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Yamanashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Wolbarsht</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3343</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chatelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tardieu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Spreitzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>387</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bondi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>441</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1918</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

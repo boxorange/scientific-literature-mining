@@ -1,0 +1,695 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148485040X</prism:url><dc:identifier>doi:10.1016/0009-2614(84)85040-X</dc:identifier><eid>1-s2.0-000926148485040X</eid><prism:doi>10.1016/0009-2614(84)85040-X</prism:doi><pii>0009-2614(84)85040-X</pii><dc:title>Orientation and bonding of ethylene and ethylidyne on Pt(111) by means of near-edge x-ray absorption fine structure spectroscopy </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>105</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>332</prism:startingPage><prism:endingPage>335</prism:endingPage><prism:pageRange>332-335</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1984-03-16</prism:coverDate><prism:coverDisplayDate>16 March 1984</prism:coverDisplayDate><prism:copyright>Copyright © 1984 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Koestner, R.J.</dc:creator><dc:creator>Stöhr, J.</dc:creator><dc:creator>Gland, J.L.</dc:creator><dc:creator>Horsley, J.A.</dc:creator><dc:description>
+               Abstract
+               
+                  Near-edge X-ray absorption fine structure (NEXAFS) spectra have been measured for ethylene chemisorbed on Pt(111) at 90 and 300 K. From the polarization dependence of the spectra at 90 K, ethylene is found to lie down with a π bond to the surface. The spectra collected at 300 K indicate a CC bond normal to the surface in ethylidyne, and a SCF Xα calculation was carried out to assign the K-edge transitions in this species. The ethylidyne carboncarbon bond (which is nominally a single bond) appears to be shorter (≈0.03 A) than that for chemisorbed ethylene.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148485040X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148485040X" rel="scidir"/></coredata><scopus-id>84918107242</scopus-id><scopus-eid>2-s2.0-84918107242</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84918107242" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020124">2002-01-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020124">2002-01-24</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-30T11:19:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148485040X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(84)85040-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148485040X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(84)85040-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06124</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T05:35:56.964962-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19840316</xocs:date-search-begin>
+      <xocs:year-nav>1984</xocs:year-nav>
+      <xocs:indexeddate epoch="1011830400">2002-01-24T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>105</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>105</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 105, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>332</xocs:first-fp>
+      <xocs:last-lp>335</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>332</xocs:first-page>
+         <xocs:last-page>335</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19840316</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>16 March 1984</xocs:cover-date-text>
+      <xocs:cover-date-start>1984-03-16</xocs:cover-date-start>
+      <xocs:cover-date-year>1984</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1984 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ORIENTATIONBONDINGETHYLENEETHYLIDYNEPT111BYMEANSNEAREDGEXRAYABSORPTIONFINESTRUCTURESPECTROSCOPY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KOESTNER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2414</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>STEININGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>685</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>IBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>FREYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>487</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>KESMODEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2180</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>KOESTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>IBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>326</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRONENERGYLOSSSPECTROSCOPYSURFACEVIBRATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>ALBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KOESTNERX1984X332</xocs:refkey3>
+         <xocs:refkey4lp>KOESTNERX1984X332X335</xocs:refkey4lp>
+         <xocs:refkey4ai>KOESTNERX1984X332XR</xocs:refkey4ai>
+         <xocs:refkey5>KOESTNERX1984X332X335XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(84)85040-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148485040X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148485040X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(84)85040-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T05:35:56.964962-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1984-03-16</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148485040X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148485040X/MAIN/application/pdf/32d1e038bef3b76c75cc229cd99ce73a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148485040X/MAIN/application/pdf/32d1e038bef3b76c75cc229cd99ce73a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>288982</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148485040X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148485040X/PREVIEW/image/png/4b9cfa36e255af44765c599e67300530/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148485040X/PREVIEW/image/png/4b9cfa36e255af44765c599e67300530/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65212</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 105. nuinbci 3  CHKMICAI. PHYSICS l.KTTERS  16 March 1984  ORIENTATION AND BONDING OF ETHYLENE AND ETHYLIDYNE ON Pt( 111)  BY MEANS OF NEAR-EDGE X-RAY ABSORPTION FINE STRUCTURE SPECTROSCOPY  RJ KOESTNER  Dfpartmcn: 'if Chemistry, University of Call forma. Berkeley', California 94720, USA  and  J.ST HR.J.L.GLAN andJ A. HORSLEY  Corporate Research Science laboratories. Kxxon Research and Kn^ineennK Company.  CJmInn Township. Annon ait-. Nrw .lerw 08801. USA  Rct ittd 26 Novcmbct 1983  Near-edge X-ray absorption rmc situclurc (NKXAt-S) &amp;pcclra have been measured loi clhylenc chcmisoibcd on Pl(l 11)  .il 90 and 300 K. l-loni the p  li^inon dependence  l the spctlia al 90 K, clhylenc LS found lo he down wnh a n liunil to  the surface. 'nie speclia collected at 300 K indicate a C C bond normal 10 the suil-luc in elhylidync. and a S(:l- Xo calcula-  tion was carried out toasufnihe K-cdf.c Iranalions in Ihn species. 'nie clhylidync carbon caibon bond (which LS nominally  a  anple bond) appears to be shorlci ("O 03 A) than (hat for chemisoibcd clliylcnc.  Nfar-cdc.c X-ray ahsi)iplii)n ('111 ' sttilcluic  (NF-XAI-'S) spcclioscupy has recently been used lu  examine the oiieiildlion {} ,2} and build lengths (13]  of small molecules adsoibed on metal surfaces. The  spccira have been taken neai the K-cdf.cs (within 30  eV) of carbon, nitrogen or oxygen, and aie dominal-  cd by transitions lioin the Is lu bound ui quaa-  hound molecular levels. In (his study, we have collect-  ed NFXAFS spectra forcthylcne adsoibed on P (l 11)  at 90 and 300 K and used SCI-' Xa scatteicd wave cal-  culations to help assiftn the measured transilions. Our  data indicates that cthylene lies down on Pt(l 11) in a  n-Aondcd configuration at 90 K and that the C C  bond lotalcs to become perpendicular to the surface  with cthylidync (-(' 013) formation at 300 K  The experiments were carried out at the Stanford  Synchrotron Kadiation Laboutoiy on bcani line I  with the use of the grasshopper monochiomatoi  (1200 lincs/mm) (4|. The absorption cross section in  the caibon K-cdge legion (275 &lt;. fiw &lt; 310 cV) was  measured by monitoring the secondary electron yield  from the sample with a channclplatc detector mount-  ed close to the sample's axis of rotation. The double-  332  grid rclaidirit' delecloi Dpci.ilcd with the first {;nd at  ground and the second at 200 V to cliriiinatc low-  cncrRy secondary electrons and thereby enhance the  surface sensitivity. The ancle of incidence of the  plane.polariy.cd X-ray beam was varied between near-  grazing at 20  (with the electric field vecloi A' neaily  pcrpendiculai lu the surlacc) and 90  (with A" parallel  to the surface). Al-.S (with a double-pass CMA) .md   F-I  were used to check for impurities and defects  on the Pi surface, while 0^ treatments arid/or Ar'*'  sputtering were employed to dean the surface (of  mostly carbon). The base pressure during these ex-  periments was maintained below 10"I0 Torr.  Our normali/cd NEXAF.S spectra shown m rip,. 1  for ethylcnc adsorbed on Pt(l 11) at "O K support a  n-bondcd rather than a di-o-bondcd species. Tlic di-o-  bondcd species was favored by high-resolution elec-  tion energy loss spectroscopy (HREEI.S) (5,61 where  the vibrational frequencies for cthylene adsorbed on  Pl( 111 ) at 90 K weie closer to a di-o-bonded  analogue ( 1,2-dibromoethane) than to a ff-bonded  analogue (Zcisc's salt). At near-grazing incidence, an  intense bound state transition (peak A) is observed at  0   9-2614/84/S 03 00   Elsevier Science Publishcis B.V  (North-Holland 1'hysics Publishuip, Division)  Volume 105. number 3  CHEMICAL PHYSICS LETTERS  16 March 1984      Fig- 1-NEXAFS spectra of ethylene chernisorbed on Pt(lll)  at 90 K obtained for incidence angles of 20  and 90  - The  measured XPS binding energy which corresponds to the ab-  sorption threshold is also shown-  284-8 eV, slightly above the C Is excitation threshold  or XPS binding energy (283.4 eV) [7]- This can be as-  signed to either a IS-*OQ^ orbital in di-o-bonded  ethylene where the ffQ&gt;( orbital is an antibonding  combination of a carbon sp3 and a platinum d orbital  or a Is -&gt;- IT* orbital excitation in ir-bonded ethylene.  Peak A is completely absent at normal incidence  where we instead observe a broader peak B at 293.0  eV that can be assigned to the Is -&gt;  a^c (quasi-bound  state or o-shape resonance) excitation- From this  polarization dependence, we immediately see that the  carbon carbon bond is parallel or nearly parallel to  the surface [1,2]- That is, the Is -&gt;- o^c transition has  a large intensity when E is oriented parallel to the sur-  face and has a much smaller intensity when E is ro-  tated 20  from the surface nonnal-  UsLng the polarization dependence, we can now as-  sign the bound state transition. The di-o-bonding  model can be ruled out since it predicts that a size-  able bound state transition (peak A) intensity remains  at normal incidence which we do not find experimen-  tally. To show this, we take the caibon covalent radius  ofethyhdyne as determined by LEED (0.61-0.69 A)  [8,9], a carbon carbon single bond distance of 150  A, and the Pt lattice spacing of 2.77 A and calculate a  o-bond angle to the surface normal of^ O0 - This im-  plies a reduction m the intensity of peak A by only a  factor of 4 as we move from grazing to normal inci-  dence [1].  In the TT-bonding model, the antibonding (ir* d)  orbital is filled during the K-edge transition- This or-  bital is mostly it* in character and also has a vanishing  dipole matrix element parallel to the surface so the l s  -&gt;  (ir* d) transition probability should be exactly  zero at normal incidence, as measured-  Fig- 2 shows NEXAFS spectra taken of the ethy-  lene overlayer at 300 K. An ethylidyne (=  N3)  species was found to form at this temperature by  HREELS, TDS, UPS, dynamical LEED [5,10], and  later by angular resolved UPS [11]- We see bound  state transitions (peaks A) at 285-4 and 285.7 eV at  0=90  and 0=20 , respectively. A quasi-bound state  excitation (peak B) is observed at 2953 eV (11.0 eV  above threshold. 2843 eV [7]) at an incidence angle  of 20  but not at an incidence angle of 90 . The latter  can easily be assigned to a Is -&gt;  o^ - transition which      280      290      300      310  PHOTON ENERGY (eV)  Fig. 2. NEXAFS spectra of ethylene chenusorbed on Pt(ll I)  at 300 K obtained for incidence angles of 20  and 90 -The  measured XPS binding energy which corresponds to the ab-  sorption threshold is aim shown-  333  Volume 105. numbci 3  CHKMK-'Al. PHYSICS I.KITKRS  16 March 1984  is consistent with a vertical C C axis as determined  by dynamical U:!:!) [81.11 REH I .S |10l. and ARUPS  111 ]. The assignment of the bound slate transitions,  however, is less obvious and M a SCr- Xcr calculation  [121 was carried out on a CIliCPl-i cluster to dctci-  minc the nature of the unoccupied oibitals.  The nuclear positions used in ths cluster calcula-  tion wcic taken from previous LLED results |8,9|.  The cluster model consisted of the clhylidync species  placed symmetrically above a triangle of three Pt  ?toms with the C -C axis perpendicular to l his triangle.  The o values used for hydrogen, carbon, platinum and  the outer sphere were 0.77725,0.75928. 07 and  0.72 respectively. The calculation was carried oui  using touching muffin tin spheres. The calculated  molecular orbital energy levels tor the C^CPt^ clus-  ter arc shown in rig. 3.  The highest occupied orbital is doubly degenerate  and lies ==1 cV above the "d band" (orbitais localized  prcdoiiuniinlly un the Pt Jtuin;&gt;) II Ls 011 Jiilibumliiig  combination (f^ff )ofthc PI-} d oibilals and the ad-  p -      - 2-0                 - 4J)  -  y - &amp;D ?- &amp;0  Pt'ff   .--   S - 1(U)     -- 12JO  .  - 1 J)     IRA    Vil;. 3. Orbilal eacify diagram for the ground  late confifuia-  tion ofa CIJ3CP13 cluslci oblamcd with a SCF Xn calcula-  lk&gt;o. Unoccupied Icvcb aie iknolcd by an aslcrBk.  jacent carbon p Orbitals that are parallel to the sur-  face. The lowest unoccupied orbitais of a[ and e sym-  metry arc also iintibonding Pt(d) C(p) combinations.  The a) orbital (o^-p, ) is composed of a carbon p or-  bital normal to ihc surface and metal d orbitais, while  the e orbital ("^p, ) involves (he carbon p orbitais  parallel to the surtace and metal d-orbitals. We can  now assign the bound state transition peaks (A) in the  clhylidync spcclia to stales that arc ihc surface analo  RUCS of unoccupied oibitals in the  11301*13 cluster.  The slate analogous to the unoccupied 3. orbital then  Ls found in near-grazing spcclia at 285.7 cV and the  slate analogous to the c orbital appeals at 285.4 eV in  the noimal incidence data Such a small cneipy differ-  ence is difficult to calculate reliably with the SCI-' Xa  method and, as we can sec, the unoccupied c orbital is  placed "^0.8 cV above the a| level in rig. 3. The me-  thyl carbon participates to only a small extent in  this bound state excitation since the oibilals being  filled a e localised predominantly on (he lower car-  bon atom.  NI^XAI-'S spectra may aLso be used to obtain bond  lengths of small chemisorbcd molecules 11.3). The  quasi-bound stale transition can be viewed as a molec-  ular excitation, or cquivalently, as a multiple.scattei-  mg shape resonance where the pholoclcclron is scat-  tered between the absorbing carbon and its nearest-  neighhoiing atoms. We have recently shown |3] that  for small species (such as CO, ('1130 and Ht'O^) chemi-  sorbed on CU( 100) the resonance position above  threshold. A, is related to the intra-rnolccular distance,  R. by the simple equation (Vn + A)/ 2 - Cn where  VQ is the ninci potential in the inlerstilial molecular  region that determines the y.ero ofcneigy and wave  vector of the photoelectron relative to the Fenni level  and CQ is a constant which depends on the atomic  scattciiup phase shifts, for both clhylcne and cthyli-  dyne, the scattering process involves a pail of carbon  atoms so the inner potential and the scattering phase  shift arc the same. The larger A value observed for  clhylidync (1 1.0 cV) compared to cthylenc (9.6 eV)  implies a shorter ( 0.03 A) C-(: bond in ethylidyne.  This LS surprising since the ethylidync C- C bond is  nominally a single bond and is expected to be larger  than the double bond in cthylene. As suggested previ-  ously |9], the C C bond of elhylidyne may be shor-  tened to ^1.45 A, while the C C bond of cthylenc  may be lengthened to moic than ;t-" 1.45 A due to the  334  Volume 105, number 3  CHEMICAL PHYSICS LETTERS  16 March 1984  large n* character in the occupied (TT* + d) orbital.  In summary, using the polarization dependence of  the NEXAFS spectra, we find that ethylene lies down  on the Pt(l 11) surface in a Tr-bonded configuration at  90 K- Upon heating to 300 K, the C-C bond rotates  perpendicular to the surface as is expected for ethyli-  dyne formation. From our SCF Xa calculation on a  CH^CPt^ cluster, we assign the bound state transi-  tions observed in the NEXAFS spectra at different X-  ray incidence angles to Is- - a^-pt and  n'*pt excita-  tions. Surprisingly, the nominal single-bond C C  bond distance ofethylidyne is measured to be shorter  (by ==0 03 A) than that for chemisorbed ethylene.  We wish to thank Duane Outka and Alien Johnson  for their technical assistance.  References  [1] J.Stohrand R- Jzeger, Phys. Rev. B26 (1982)4111.  [2] J Stohr.K Baberschke, R. Jaeger, R-Treichlei and  S Brennan, Phys- Rev. Letters 47 (1981) 381-  [3 ] J- SiBhr.J-L- Gland, W. Eberhard!, D- Oulka. RJ. Madix,  F. Seite, RJ- Koesiner and U. Doebler. Phys- Rev- Letters  51 (1983)2414-  [4] F-C- Brown, R-Z- Bachrach and N. Lien. Nucl- Instr.  Methods 152 (1978) 73-  [5] H- Steininger, H. Ibach and S- Lehwald, Surface Sci-  117 (1982)685-  [6] H. Ibach and S. Lehwald, J. Vacuum Sei- Techn. 15  (1978)407.  [7] N- Freyer, G- Pirug and H-P. Bonzel, Surface Sei- 126  (1983)487.  [8] L L- Kesmodel, L-H- Dubois and G-A- Somorjai, J-  Chem- Phys- 70 (1979) 2180-  [9] R-J- Koestner. M-A- van Hove and G-A- Sornorjai, Sur-  face Sei- 121 (1982) 321-  [10] H- Ibach and D-L- Mills, Electron energy loss spectros-  copy and surface vibrations (Academic Press, New York,  1982) p.326  [11] M-R- Albert, L.G. Sneddon, W. Eberhaidt, F. Gieuter,  T- Gustaffson and E-W. Plummer. Surface Sei 120  (1982)19-  [12] K-H- Johnson, Aduan- Quantum Chem- 7 (1972) 143  335  now assign the bound state transition peaks (A) in the  clhylidync spcclia to stales that arc ihc surface analo  RUCS of unoccupied oibitals in the  11301*13 cluster.  The slate analogous to the unoccupied 3. orbital then  Ls found in near-grazing spcclia at 285.7 cV and the  slate analogous to the c orbital appeals at 285.4 eV in  the noimal incidence data Such a small cneipy differ-  ence is difficult to calculate reliably with the SCI-' Xa  method and, as we can sec, the unoccupied c orbital is  placed "^0.8 cV above the a| level in rig. 3. The me-  thyl carbon participates to only a small extent in  this bound state excitation since the oibilals being  filled a e localised predominantly on (he lower car-  bon atom.  NI^XAI-'S spectra may aLso be used to obtain bond  lengths of small chemisorbcd molecules 11.3). The  quasi-bound stale transition can be viewed as a molec-  ular excitation, or cquivalently, as a multiple.scattei-  mg shape resonance where the pholoclcclron is scat-  tered between the absorbing carbon and its nearest-  neighhoiing atoms. We have recently shown |3] that  for small species (such as CO, ('1130 and Ht'O^) chemi-  sorbed on CU( 100) the resonance position above  threshold. A, is related to the intra-rnolccular distance,  R. by the simple equation (Vn + A)/ 2 - Cn where  VQ is the ninci potential in the inlerstilial molecular  region that determines the y.ero ofcneigy and wave  vector of the photoelectron relative to the Fenni level  and CQ is a constant which depends on the atomic  scattciiup phase shifts, for both clhylcne and cthyli-  dyne, the scattering process involves a pail of carbon  atoms so the inner potential and the scattering phase  shift arc the same. The larger A value observed for  clhylidync (1 1.0 cV) compared to cthylenc (9.6 eV)  implies a shorter ( 0.03 A) C-(: bond in ethylidyne.  This LS surprising since the ethylidync C- C bond is  nominally a single bond and is expected to be larger  than the double bond in cthylene. As suggested previ-  ously |9], the C C bond of elhylidyne may be shor-  tened to ^1.45 A, while the C C bond of cthylenc  may be lengthened to moic than ;t-" 1.45 A due to the  334  Volume 105, number 3  CHEMICAL PHYSICS LETTERS  16 March 1984  large n* character in the occupied (TT* + d) orbital.  In summary, using the polarization dependence of  the NEXAFS spectra, we find that ethylene lies down  on the Pt(l 11) surface in a Tr-bonded configuration at  90 K- Upon heating to 300 K, the C-C bond rotates  perpendicular to the surface as is expected for ethyli-  dyne formation. From our SCF Xa calculation on a  CH^CPt^ cluster, we assign the bound state transi-  tions observed in the NEXAFS spectra at different X-  ray incidence angles to Is- - a^-pt and  n'*pt excita-  tions. Surprisingly, the nominal single-bond C C  bond distance ofethylidyne is measured to be shorter  (by ==0 03 A) than that for chemisorbed ethylene.  We wish to thank Duane Outka and Alien Johnson  for their technical assistance.  References  [1] J.Stohrand R- Jzeger, Phys. Rev. B26 (1982)4111.  [2] J Stohr.K Baberschke, R. Jaeger, R-Treichlei and  S Brennan, Phys- Rev. Letters 47 (1981) 381-  [3 ] J- SiBhr.J-L- Gland, W. Eberhard!, D- Oulka. RJ. Madix,  F. Seite, RJ- Koesiner and U. Doebler. Phys- Rev- Letters  51 (1983)2414-  [4] F-C- Brown, R-Z- Bachrach and N. Lien. Nucl- Instr.  Methods 152 (1978) 73-  [5] H- Steininger, H. Ibach and S- Lehwald, Surface Sci-  117 (1982)685-  [6] H. Ibach and S. Lehwald, J. Vacuum Sei- Techn. 15  (1978)407.  [7] N- Freyer, G- Pirug and H-P. Bonzel, Surface Sei- 126  (1983)487.  [8] L L- Kesmodel, L-H- Dubois and G-A- Somorjai, J-  Chem- Phys- 70 (1979) 2180-  [9] R-J- Koestner. M-A- van Hove and G-A- Sornorjai, Sur-  face Sei- 121 (1982) 321-  [10] H- Ibach and D-L- Mills, Electron energy loss spectros-  copy and surface vibrations (Academic Press, New York,  1982) p</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8485040X</aid>
+            <ce:pii>0009-2614(84)85040-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(84)85040-X</ce:doi>
+            <ce:copyright type="unknown" year="1984"/>
+         </item-info>
+         <head>
+            <ce:title>Orientation and bonding of ethylene and ethylidyne on Pt(111) by means of near-edge x-ray absorption fine structure spectroscopy</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.J.</ce:given-name>
+                  <ce:surname>Koestner</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, University of California, Berkeley, California 94720, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Stöhr</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.L.</ce:given-name>
+                  <ce:surname>Gland</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.A.</ce:given-name>
+                  <ce:surname>Horsley</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Corporate Research Science Laboratories, Exxon Research and Engineering Company, Clinton Township, Annandale, New Jersey 08801, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="26" month="11" year="1983"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Near-edge X-ray absorption fine structure (NEXAFS) spectra have been measured for ethylene chemisorbed on Pt(111) at 90 and 300 K. From the polarization dependence of the spectra at 90 K, ethylene is found to lie down with a π bond to the surface. The spectra collected at 300 K indicate a CC bond normal to the surface in ethylidyne, and a SCF Xα calculation was carried out to assign the K-edge transitions in this species. The ethylidyne carboncarbon bond (which is nominally a single bond) appears to be shorter (≈0.03 A) than that for chemisorbed ethylene.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Baberschke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Treichler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Brennan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Outka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Doebler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2414</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Z.</ce:given-name>
+                                 <ce:surname>Bachrach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lien</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instr. Methods</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Steininger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lehwald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>685</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lehwald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vacuum Sci. Techn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Freyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pirug</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Bonzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>487</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Kesmodel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Dubois</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2180</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>van Hove</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Electron energy loss spectroscopy and surface vibrations</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>326</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Albert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Sneddon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Greuter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gustaffson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Plummer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,880 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149180207E</prism:url><dc:identifier>doi:10.1016/0009-2614(91)80207-E</dc:identifier><eid>1-s2.0-000926149180207E</eid><prism:doi>10.1016/0009-2614(91)80207-E</prism:doi><pii>0009-2614(91)80207-E</pii><dc:title>Molecular dynamics study of hydrophobic aggregation in water/methane/methanol systems </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>182</prism:volume><prism:issueIdentifier>3-4</prism:issueIdentifier><prism:startingPage>237</prism:startingPage><prism:endingPage>241</prism:endingPage><prism:pageRange>237-241</prism:pageRange><prism:number>3-4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-08-02</prism:coverDate><prism:coverDisplayDate>2 August 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Wallqvist, Anders</dc:creator><dc:description>
+               Abstract
+               
+                  Computer simulations of an initially disordered molecular fluid composed of water and methane exhibit a phase-separation into a cylindrical core of methane molecules surrounded by an aqueous phase. A water/methane/methanol system also supports two phases, with only a weak preferential solvation of the methyl part of methanol into the hydrocarbon-core region. Increasing the pressure decreases the size of the hydrocarbon cylinder but increases the solvation of methanol into the methane phase. At sufficiently high pressures, the phase separation is inhibited by a formation of small methane clusters into water cavities or clathrates.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149180207E" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149180207E" rel="scidir"/></coredata><scopus-id>0001002629</scopus-id><scopus-eid>2-s2.0-0001002629</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001002629" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011105">2001-11-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011105">2001-11-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T13:55:08</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149180207E</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)80207-E</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149180207E</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)80207-E</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10354</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T21:54:45.99756-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19910802</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1004918400">2001-11-05T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>182</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>182</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:iss-last>4</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 182, Issues 3–4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>237</xocs:first-fp>
+      <xocs:last-lp>241</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>237</xocs:first-page>
+         <xocs:last-page>241</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19910802</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2 August 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-08-02</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>MOLECULARDYNAMICSSTUDYHYDROPHOBICAGGREGATIONINWATERMETHANEMETHANOLSYSTEMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WALLQVIST</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>TANFORD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HYDROPHOBICEFFECTFORMATIONMICELLESBIOLOGICALMEMBRANES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>AQUEOUSSOLUTIONSAMPHIPHILESMACROMOLECULES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>WATERACOMPREHENSIVETREATISE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RECENTADVANCES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>WATERACOMPREHENSIVETREATISE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BENNAIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HYDROPHOBICINTERACTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>PRATT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3683</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>PANGALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2975</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>795</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>RAVISHANKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>WALLQVIST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ZICHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>797</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>BERENDSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTERMOLECULARFORCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>JORGENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6638</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>JORGENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1276</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>SWOPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>637</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>ANDERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4448</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SPOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1211</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYSIMPLELIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WALLQVISTX1991X237</xocs:refkey3>
+         <xocs:refkey4lp>WALLQVISTX1991X237X241</xocs:refkey4lp>
+         <xocs:refkey4ai>WALLQVISTX1991X237XA</xocs:refkey4ai>
+         <xocs:refkey5>WALLQVISTX1991X237X241XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)80207-E</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149180207E</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149180207E</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)80207-E</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T21:54:45.99756-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-08-02</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149180207E-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180207E/MAIN/application/pdf/d2074056af2b4b9eb1b846731a0b8c59/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180207E/MAIN/application/pdf/d2074056af2b4b9eb1b846731a0b8c59/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>418670</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149180207E-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180207E/PREVIEW/image/png/84b0d3ef5f50773e66fae764ee673c40/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180207E/PREVIEW/image/png/84b0d3ef5f50773e66fae764ee673c40/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>72559</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 182, number 3,4  CHEMICAL PHYSICS LETTERS  2 August 1991  Anders Wallqvist  Physical Chemistry 2, Chemical Center, P.O. Box 124, S-221 00 Lund, Sweden  Received 17 May 1991   Computer simulations of an initially disordered molecular fluid composed of water and methane exhibit a phase-separation  into a cylindrical core of methane molecules surrounded by an aqueous phase. A water/methane/methanol system also supports  two phases, with only a weak preferential solvation of the methyl part of methanol into the hydrocarbon-core region. Increasing  the pressure decreases the size of the hydrocarbon cylinder but increases the solvation of methanol into the methane phase. At  sufficiently high pressures, the phase separation is inhibited by a formation of small methane clusters into water cavities or   clathrates.  1. Introduction     The assembly of nonpolar molecules in aqueous  solution is often referred to as the hydrophobic effect  [1 4]. The wide variety of chemical and biological  phenomena associated with hydrophobic and am-  phiphilic molecules in aqueous solution spans pro-  tein folding and membrane stability to tertiary oil  recovery. Thus, it is important to be able to model  and reproduce properties of the hydrophobic effect  on a molecular level with the use of computer sim-  ulations. Rigorous calculations of the potential of  mean force between two nonpolar solutes in water  show no tendency for the solutes to stay together [5   9]. Rather, the hydrogen-bonded nature of liquid  water causes the formation of two separate but con-  nected hydration cages around the solutes. This en-  ables water to minimize the loss of hydrogen bonds  associated with the solvation by placing one water  molecule directly between the solutes, which can then  be hydrogen bonded to three neighboring water mol-  ecules [9,10].   In this work, we use a different approach to the  problem by using a larger concentration of solutes  and varying the pressure to observe the hydrophobic  effect in an aqueous solution of methane/methanol  mixtures. At a sufficiently high concentration of  methane, it will be advantageous for the mixed sys-  tem to form two phases containing pure methane in  one and a water/methane equilibrium mixture in the  other. Such systems lend themselves to the studies of  structural ordering of the interface, preferential sol-  vation of impurities in either phase, and the stability  of the phase separation with regards to perturbations  of the system. Since the molecules studied here have  low moments of inertia and a low radius of gyration,  it is possible to sample the relevant configurations  within a reasonable timespan, both in real time and  on the computer.   Allow pressure, the initially mixed systems sep-  arate into an aqueous region where methane is sol-  vated by water, and into a methane-rich region where  water is excluded from a definite core region. There  is no buildup of water structure relative to this hy-  drocarbon core, indicating that the perturbation of  the liquid-water hydrogen-bond network is small. The  solvation of methanol in this system does not indi-  cate a strong preference of location in either phase.  The tendency for the methyl part of methanol to be  associated with the hydrocarbon region is slightly  greater than for the hydroxyl group. Increasing the  pressure enhances the solvation of methane into the  aqueous phase and forces methanol further into the  methane phase. As one continues to increase the  pressure of the system, the phase separation is in-  hibited and the solutes are found in distinct water  cavities or c!athrates.  237  0009-261419l/$ 03.50   1991   Elsevier Science Publishers B.V. (North-Holland)  Molecular dynamics study of hydrophobic aggregation  in water/methane/methanol systems  Label  Potential energy (kJ/mole molecules in the system)            P  (kbar)  L  (A)    H20  H20/CH4  CH4  CH3OI-I  CH3OI-1/H20  CH3OH/CH4      A   33.5   069   0.24           0.4  17.25  B   35.1    1.13   0.19           1.7  16.00  C   35.2  1.93  0.34           58.9  13.75  0   29.7   0.70   0.23   0.15   4.22   0.37   0.2  17,25  E   30.9   0.99   0.18   0.30   4.14   0.42  1.8  16.25  F   31.0  2.09  0.08   0.07   3.78  0.26  57.4  13.75  Volume l82, number 3,4  CHEMICAL PHYSICS LETTERS  2 August 1991  3. Results and discussion    3.1. Water/methane     The high concentration of methane coupled with  the high temperature and low pressure in simulation  A forces the water structure to expel excess methane  molecules and establish a two-phase system. This oc-  curs well within the time allotted for equilibration of  the system. The shape of the methane phase will de-  pend on the concentration, surface tension and the  periodic boundary conditions used. Inspection of co-  ordinate projections revealed a cylindrical methane  aggregate extending over the length of the simulation  box. Given this shape of the methane assembly, we  can evaluate distribution functions relative to this  cylinder axis. Thus, a radial distribution function of  an atom A perpendicular to the cylinder axis was cal-  culated as  PA(p)=(L/2AAo)&lt;(l/p)H(p p)), (1)    where p is the radius, L the dimensions of the sim-  ulation box, NA the number of species A, and ~p the  bin size of the radial distance. H denotes a function  which is one if p p  I &lt;Thp and otherwise zero, with  the brackets indicating an ensemble average. In fig.  1, this function is shown for methane and water ox-  ygens. Here, we see the hydrocarbon cylinder as the  region extending from 0 to 4 A. There is no internal  structure of this assembly except for a slight buildup  of methane densities at the sharp interface. The  waters do not present such a well-delineated inter-  face but extend roughly 1 A into the methane cyl-  inder. No global structural ordering of water relative  to the hydrocarbon phase is seen here. The aqueous  2. Simulations     The interactions between molecules were assumed  to be composed of pairwise additive potential func-  tions between atomic sites. For water interaction, we  used the simple-point-charge (SPC) water model  constructed by Berendsen et a!. [11]. The methane  molecule was taken to be a united atom with only  one Lennard-Jones term centered on the carbon  atom; the methyl group of methanol was likewise  simplified to one site, but the OH group was treated  explicitly. The Lennard-Jones interaction coeffi-  cients and alcohol charges were taken from the pa-  rameter sets of Jorgensen and co-workers [12,131.   The equations of motion were integrated using the  velocity Verlet algorithm [141 with a timestep of 1.0  fs. The molecules were treated as rigid, and the in-  ternal bond and angles were maintained by a shake-  and-rattle scheme [15]. The temperature was kept  at 300 K by periodic rescaling of the velocities.   TwD systems of different molecular composition  were studied under varying pressure: system 1 con-  taining 107 waterand 18 methane molecules (A C);  and system 2 in which seven of the waters were re-  placed by methanol molecules (D F). The initial  configurations were constructed from a water lattice  with the solutes placed as far apart from each other  as possible. Thus, each solute was initially sur-  rounded by one layer of water molecules. Equilibra-  tion times were typically 0.5 1.0 ns, allowing for the  formation of any methane aggregate and ensuring that  the solvent has ample time to adjust to the surround-  ings. Sampling times after the equilibration varied  from times similar to the equilibration up to 5.5 ns.  The simulations are summarized in table 1.  Table I  Water/methane/methanol system properties  238  Volume 182, number 3,4  CHEMICAL PHYSICS LE11 ERS  2 August 1991  ~A(P)  Fig. 1. The radial distribution function of methane ( ), water  oxygen atoms (), and water hydrogen atoms (   ) relative  to the cylinder axis through the methane aggregate. Statistical un-  certainty gives rise to the larger fluctuations close to the center of  the cylinder.      phase also supports individually solvated methane  molecules. The surface waters structurally resemble  water near a flat hydrocarbon surface [9,16,171.   If we increase the pressure enough as in simulation  C, the picture changes. It is no longer favorable for  methane molecules to separate into a specific phase  and instead they are solvated as small clusters in  water cavities. This can also be seen in the pair dis  B  Fig. 2. The pair distribution function of methane methane in the  water/methane system at low pressure (A) () and high pres-  sure (C) ( ).  tribution function of methane given in fig. 2. In the  low-pressure system A, the distribution is dominated  by methane pairs located in the pure hydrocarbon  phase, and in accord with the structureless core seen  in fig. 1, there is no long-range order. In the high-  pressure system C, on the other hand, there is a sharp  first peak indicating the nearest neighbor of the sol-  vated cluster and a strong secondary peak of the  nearest other methane cluster solvated in an adja-  cent water cavity. In system C, the water structure  changes from the typical tetrahedrally ordered net-  work at low pressure into a Lennard-Jones fluid [18],  but as seen in table 1, we can still have a large water   water interaction energy associated with this  P structure.    3.2. Water/methane/methanol     Inclusion of a third component into the system was  done in order to investigate both the stability of the  two phases and solvation properties of the phases.  Similarly, as in the low-pressure water/methane sys-  tem A, two phases established themselves with the  methanol molecules present in both phases. A snap-  shot of the simulation (system D) is presented in fig.  3 as a coordinate projection where we look down the  cylindrical axis in the unit box. A water-free region  indicates where the methane-core region is located.  Methanol molecules are, in this specific configura-  tion, located on the outside of the methane phase with  some solvation in the aqueous phase. Due to the low  number of methanol molecules present and the large  fluctuations of the equilibrium concentration of  methanol in the phases, system D was sampled for  5.5 ns after an initial equilibration of 1.0 ns which  established the two phases. Structurally, the methane  core and aqueous solution resemble each other com-  pared to the pure water/methane system. In order to  probe the solvation of methanol in this system, we  construct the corresponding potential of mean force,  i.e. Gibbs free energy change, which is associated with  bringing the molecules from infinite separation to a  separation p relative to the cylinder axis, up to an  additive constant, as  WA(p)= kT1nPA(p)+C. (2)  This function gives the influence of the solvent on  2 4  0Afr)  2 4 6  239  Volume 182, number 3,4  CHEMICAL PHYSICS LETTERS  2 August 1991  Fig. 3. Snapshot of a configuration from system D. Water oxy-  gens are marked as open circles, methane as filled circles, and  methanol atoms as larger, partially shaded circles. The view is of  the unit simulation box looking down the methane-core cylinder  axis.      the dissolved species and is plotted for system D in  fig. 4. In this representation, we see the methane core  as a region with low energy separated from the bulk  water phase by a 6 kJ/mole barrier for methane mol-  ecules. Water penetration into the methane phase is    WA(p)  Fig. 4. Potential of mean force relative to the hydrocarbon cyl-  inder axis for the species in system D, methane ( ), water  oxygen ~ .), methanol methyl group (    ), and methanol hy-  droxyl group (  ).  accompanied by an increased cost in free energy, the  further into the core one places the water molecule.  For water, this is a steadily increasing function,  whereas for methanol, we have a shallow minimum  just outside the hydrocarbon-core/water interface.  The cost of taking a methanol molecule from the  aqueous phase and placing it inside the methane core  is on the order of kT. The minima in the potential  of mean force for the hydroxyl and methyl groups  just outside the methane-core cylinder indicate a  weak preferential ordering of methanol with the hy-  drophobic part pointing towards the methane phase,  and the hydrophilic part fully solvated within the  aqueous phase.   Increasing the pressure of the system enhances the  solvation of methane molecules in the aqueous phase  with a concomitant decrease of the hydrocarbon-cy!-  inder diameter. For the systems B and Eat 1.7 and  1.8 kbar, respectively, the methane core has con-  tracted 1 A but still retains the original features of  the low-pressure system, i.e. a local ordering of  methanes only at the edge of the cylinder and a rather  diffuse methane solvation in the aqueous phase. In  fig. 5, we show the methane and oxygen distribution  relative to the cylinder axis for the water/methane!  methanol system D at  0.2 kbar and system Eat 1.8  kbar. The water interface is somewhat sharper at  B  P  Fig. 5. The radial distribution of methane and oxygen relative to  the cylindrical axis through the methane aggregate for the watery   methane/methanol system at two different pressures. Methane  at  0.2 kbar ( ), and 1.8 kbar (   ); water oxygen at  0.2  kbar(),andl.8kbar(  ).  0 2 4 6 8      p  240  Volume 182, number 3,4  CHEMICAL PHYSICS LETTERS  2 August 1991  higher pressure but there is still appreciable water  penetration into the first methane layer of the cyl-  inder. The solvation of methanol, and particularly  the methyl part, into the hydrocarbon cylinder is en-  hanced. In fact, the potential of mean force indicates  that the solvent-averaged force on the methanol mol-  ecule is always directed towards the center of the  methane phase, in contrast to the low-pressure sys-  tem in fig. 4, where there was a shallow minimum  just outside the methane core. Again, increasing the  pressure further, as in system F, prevents the for-  mation of a separate methane phase.  References    Ill C. Tanford, The hydrophobic effect: formation of micelles  and biological membranes (Wiley, New York, 1973).  121 F. Franks, ed., Water, a comprehensive treatise, Vol. 4.  Aqueous solutions of amphiphiles and macromolecules  (Plenum Press, New York. 1975).  131 D.Y.C. Chan, D.J. Mitchell, B.W. Ninham and BA.  Pailthorpe, in: Water, a comprehensive treatise, Vol. 6.  Recent advances, ed. F. Franks (Plenum Press, New York,  1979).  [4] A. Ben-Naim, Hydrophobic interactions (Plenum Press,  New York, 1980).  151 L.J. Pratt and 0. Chandler,J. Chem. Phys, 67(1977) 3683.  16] C. Pangali, M. Rao and B.J. Berne, J. Chem. Phys. 71(1979)  2975.  171 K. Watanabe and H.C. Andersen, J. Phys. Chem. 90 (1986)  795.  181G. Ravishanker, M. Mezei and DL. Beveridge, Faraday  Symp. Chem. Soc. 17(1982)79.  [9] A. Wallqvist and B.J. Berne. Chem. Phys. Letters 145 (1988)  26.  110] D.A. Zichi and P.J. Rossly, J. Chem. Phys. 83(1985) 797.  [Il] H.J.C. Berendsen, J.P.M. Postma, W.F. van Gunsteren and  J. Hermans, in: Intermolecular forces, ed. B. Pullman  (Reidel, Dordrecht, 1981).  1121 W.L. Jorgensen, J.D. Madura and C.J. Swensen, J. Am.  Chem. Soc. 106 (1984) 6638.  [13] W.L. Jorgensen, J. Phys. Chem. 90 (1986)1276.  114] W.C. Swope, H.C. Andersen, PH. Berens, KR. Wilson, J.  Chem. Phys. 76 (1982)637.  [15] H.C. Andersen, J. Comput. Phys. 52(1983) 24.  116] C.Y. Lee, J.A. McCammon and Pi. Rossky, J. Chem. Phys.  80(1984) 4448.  [17] E. Spohr and K. Heinzinger, Electrochim. Acta 33(1988)  1211.  [181 J.P. Hansen and t.R. McDonald, Theory of simple liquids  (Academic Press, New York, 1976).  4. Conclusions     For a range of systems composed of water, meth-  ane and methanol, the excess of methane not so!-  vated in an aqueous phase forms a separate phase.  In the phase-separated systems, water does not dis-  play any tendency to order itself with respect to the  hydrocarbon phase. The methane molecules inside  the cylindrical core display no strong correlation  among themselves. The free energy barrier separat-  ing methane inside the cylinder from the aqueous  phase is 6 kJ/mole. Methanol is solvated over the  entire system with only a weak preferential location  just outside the methane core in the low-pressure  systems. Raising the pressure forces the methanol  molecules into the methane phase. A further increase  of the pressure eventually forces the separate sol-  vation of methane and methanol into the aqueous  phase. At this elevated pressure, the system resem-  bles a mixture of Lennard-Jones molecules where  methane and water are fully miscible.  241  ems B and Eat 1.7 and  1.8 kbar, respectively, the methane core has con-  tracted 1 A but still retains the original features of  the low-pressure system, i.e. a local ordering of  methanes only at the edge of the cylinder and a rather  diffuse methane solvation in the aqueous phase. In  fig. 5, we show the methane and oxygen distribution  relative to the cylinder axis for the water/methane!  methanol system D at  0.2 kbar and system Eat 1.8  kbar. The water interface is somewhat sharper at  B  P  Fig. 5. The radial distribution of methane and oxygen relative to  the cylindrical axis through the methane aggregate for the watery   methane/methanol system at two different pressures. Methane  at  0.2 kbar ( ), and 1.8 kbar (   ); water oxygen at  0.2  kbar(),andl.8kbar(  ).  0 2 4 6 8      p  240  Volume 182, number 3,4  CHEMICAL PHYSICS LETTERS  2 August 1991  higher pressure but there is still appreciable water  penetration into the first methane layer of the cyl-  inder. The solvation of methanol, and particularly  the methyl part, into the hydrocarbon cylinder is en-  hanced. In fact, the potential of mean force indicates  that the solvent-averaged force on the methanol mol-  ecule is always directed towards the center of the  methane phase, in contrast to the low-pressure sys-  tem in fig. 4, where there was a shallow minimum  just outside the methane core. Again, increasing the  pressure further, as in system F, prevents the for-  mation of a separate methane phase.  References    Ill C. Tanford, The hydrophobic effect: formation of micelles  and biological membranes (Wiley, New York, 1973).  121 F. Franks, ed., Water, a comprehensive treatise, Vol. 4.  Aqueous solutions of amphiphiles and macromolecules  (Plenum Press, New York. 1975).  131 D.Y.C. Chan, D.J. Mitchell, B.W. Ninham and BA.  Pailthorpe, in: Water, a comprehensive treatise, Vol. 6.  Recent advances, ed. F. Franks (Plenum Press, New York,  1979).  [4] A. Ben-Naim, Hydrophobic interactions (Plenum Press,  New York, 1980).  151 L.J. Pratt and 0. Chandler,J. Chem. Phys, 67(1977) 3683.  16] C. Pangali, M. Rao and B.J. Berne, J. Chem. Phys. 71(1979)  2975.  171 K. Watanabe and H.C. Andersen, J. Phys. Chem. 90 (1986)  795.  181G. Ravishanker, M. Mezei and DL. Beveridge, Faraday  Symp. Chem. Soc. 17(1982)79.  [9] A. Wallqvist and B.J. Berne. Chem. Phys. Letters 145 (1988)  26.  110] D.A. Zichi and P.J. Rossly, J. Chem. Phys. 83(1985) 797.  [Il] H.J.C. Berendsen, J.P.M. Postma, W.F. van Gunsteren and  J. Hermans, in: Intermolecular forces, ed. B. Pullman  (Reidel, Dordrecht, 1981).  1121 W.L. Jorgensen, J.D. Madura and C.J. Swensen, J. Am.  Chem. Soc. 106 (1984) 6638.  [13] W.L. Jorgensen, J. Phys. Chem. 90 (1986)1276.  114] W.C. Swope, H.C. Andersen, PH. Berens, KR. Wilson, J.  Chem. Phys. 76 (1982)637.  [15] H.C. Andersen, J. Comput. Phys. 52(1983) 24.  116] C.Y. Lee, J.A. McCammon and Pi. Rossky, J. Chem. Phys.  80(1984) 4448.  [17] E. Spohr and K. Heinzinger, Electrochim. Acta 33(1988)  1211.  [181 J.P. Hansen and t.R. McDonald, Theory of simple liquids  (Academic Press, New York, 1976).  4. Conclusions     For a range of systems composed of water, meth-  ane and methanol, the excess of methane not so!-  vated in an aqueous phase forms a separate phase.  In the phase-separated systems, water does not dis-  play any tendency to order itself with respect to the  hydrocarbon phase. The methane molecules inside  the cylindrical core display no strong correlation  among themselves. The free energy barrier separat-  ing methane inside the cylinder from the aqueous  phase is 6 kJ/mole. Methanol is solvated over the  entire system with only a weak preferential location  just outside the methane core in the low-pressure  systems. Raising the pressure forces the methanol  mo</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9180207E</aid>
+            <ce:pii>0009-2614(91)80207-E</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)80207-E</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Molecular dynamics study of hydrophobic aggregation in water/methane/methanol systems</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Anders</ce:given-name>
+                  <ce:surname>Wallqvist</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Physical Chemistry 2, Chemical Center, P.O. Box 124, S-221 00 Lund, Sweden</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="17" month="5" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Computer simulations of an initially disordered molecular fluid composed of water and methane exhibit a phase-separation into a cylindrical core of methane molecules surrounded by an aqueous phase. A water/methane/methanol system also supports two phases, with only a weak preferential solvation of the methyl part of methanol into the hydrocarbon-core region. Increasing the pressure decreases the size of the hydrocarbon cylinder but increases the solvation of methanol into the methane phase. At sufficiently high pressures, the phase separation is inhibited by a formation of small methane clusters into water cavities or clathrates.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Tanford</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The hydrophobic effect: formation of micelles and biological membranes</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Water, a comprehensive treatise</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>F.</ce:given-name>
+                                    <ce:surname>Franks</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Aqueous solutions of amphiphiles and macromolecules</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>4</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.Y.C.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Pailthorpe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water, a comprehensive treatise</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>F.</ce:given-name>
+                                    <ce:surname>Franks</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Recent advances</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>6</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ben-Naim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Hydrophobic interactions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Pratt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3683</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Pangali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Berne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2975</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>795</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ravishanker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mezei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Beveridge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Symp. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wallqvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Berne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Zichi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>797</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.C.</ce:given-name>
+                                 <ce:surname>Berendsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.M.</ce:given-name>
+                                 <ce:surname>Postma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>van Gunsteren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hermans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Pullman</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Intermolecular forces</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Reidel</sb:name>
+                                 <sb:location>Dordrecht</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Jorgensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Madura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Swensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6638</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Jorgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1276</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Swope</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Berens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>637</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4448</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Spohr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Heinzinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1211</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of simple liquids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

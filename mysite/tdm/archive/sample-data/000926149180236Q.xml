@@ -1,0 +1,909 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149180236Q</prism:url><dc:identifier>doi:10.1016/0009-2614(91)80236-Q</dc:identifier><eid>1-s2.0-000926149180236Q</eid><prism:doi>10.1016/0009-2614(91)80236-Q</prism:doi><pii>0009-2614(91)80236-Q</pii><dc:title>The influence of soft mode adsorbate vibrations on NEXAFS analyses: NO on Pd{110} </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>185</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>426</prism:startingPage><prism:endingPage>432</prism:endingPage><prism:pageRange>426-432</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-10-25</prism:coverDate><prism:coverDisplayDate>25 October 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Singh, Jagriti</dc:creator><dc:creator>Walter, W.K.</dc:creator><dc:creator>Atrei, A.</dc:creator><dc:creator>King, D.A.</dc:creator><dc:description>
+               Abstract
+               
+                  Near-edge X-ray absorption fine structure (NEXAFS) measurements have been performed on NO adsorbed on Pd“110” using a polarized light source at a range of incidence angles. An analysis of intensities of σ and π resonance features is made which includes both the average orientation of the molecule and contributions arising from a low frequency, in-plane hindered-translation mode. The analysis indicates that at all coverages NO is upright, with a hindered-translation mode frequency of 68 cm−1 directed along the &lt;001&gt; azimuth. The normal frozen-molecule analysis would, incorrectly, yield a tilt angle of 22°; adsorbate molecular orientation cannot be reliably obtained from NEXAFS data at 300 K without including the effect of these high-amplitude modes.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149180236Q" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149180236Q" rel="scidir"/></coredata><scopus-id>0001319068</scopus-id><scopus-eid>2-s2.0-0001319068</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001319068" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T11:45:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149180236Q</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)80236-Q</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149180236Q</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)80236-Q</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10962</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T17:59:33.535695-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19911025</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>185</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>185</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 185, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>426</xocs:first-fp>
+      <xocs:last-lp>432</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>426</xocs:first-page>
+         <xocs:last-page>432</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19911025</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>25 October 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-10-25</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFLUENCESOFTMODEADSORBATEVIBRATIONSNEXAFSANALYSESNOPD110</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SINGH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7891</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>OUTKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3539</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BADER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7336</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SOMERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L693</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BADER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>443</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MADIX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L253</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>TOMILLON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L345</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>PUSCHMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2250</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>STEVENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>ARVANITIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>686</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>HENDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15"/>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>KAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>CYRIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARVIBRATIONSMEANSQUAREAMPLITUDES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>RICHARDSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SINGHX1991X426</xocs:refkey3>
+         <xocs:refkey4lp>SINGHX1991X426X432</xocs:refkey4lp>
+         <xocs:refkey4ai>SINGHX1991X426XJ</xocs:refkey4ai>
+         <xocs:refkey5>SINGHX1991X426X432XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)80236-Q</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149180236Q</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149180236Q</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)80236-Q</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T17:59:33.535695-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-10-25</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149180236Q-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180236Q/MAIN/application/pdf/f9a86ee862246ac7e3dec0c77e829ec9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180236Q/MAIN/application/pdf/f9a86ee862246ac7e3dec0c77e829ec9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>589384</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149180236Q-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180236Q/PREVIEW/image/png/609920a0b061af70c3cc5a706494e7fe/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180236Q/PREVIEW/image/png/609920a0b061af70c3cc5a706494e7fe/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68470</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 185, riumber5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  1. Introduction     Near-edge X-ray absorption fine structure  (NEXAFS) has been used extensively to study the  molecular orientation of adsorbed species on various  metal surfaces [1]. In the analysis of the data a fro-  zen-molecule approach has been used to identify  molecular orientation. The precision of the tech-  nique is found to be limited by problems with nor-  malization and background subtraction [2 6]. In  presenting here the first direct study of the orien-  tation of NO adsorbed on Pd{ 1 10} at both low and  saturation coverage, both the data acquisition and  the analysis have been simplified. For the first time  the effect of molecular vibration has been quanti-  tatively included in the NEXAFS data analysis for  molecular orientation, and the potential of the tech-  nique is demonstrated for measuring high-amplitude  vibrational modes of the adsorbate. This renders  NEXAFS an extremely useful technique for meas-  uring these low-frequency adsorbate vibrational      Nehru Memorial Trust Fellow at the Daresbury Synchrotron  Source, UK, on leave from Physics Department, Rajasthan  University, Jaipur, India.  2 Present address: Department of Chemistry, University of  florence, 50121 Florence, Italy.  modes which are outside the range of infrared stud-  ies using conventional light sources.      2. Experimental     The experiment was conducted at the Daresbury  Synchrotron Radiation Source on the new undulator  beam line (5U.l; energy range 100 1000 eV). The  high-intensity (~ 5 X 10  photons/s at N K-edge),  tunable, monochromatic, elliptically polarized light  from a beamline without entrance slits was allowed  to fall perpendicular to the axis of rotation of the NO-  covered Pd{ 1 l0} surface at different incidence an-  gles, and nitrogen K-edge NEXAFS was measured  using a HA 100 VSW multichannel electron energy  analyser (used in single channel mode). The ana-  lyzer was tuned to the N Auger peak and NEXAFS  spectra were recorded by measuring the strength of  the Auger signal as a function of incident photon en-  ergy around the nitrogen K-edge. The Auger yield  measurements were made at constant emission angle  by keeping the analyzer at an angle of 45  to the in-  cident beam as well as to the plane swept out by the  surface normal. A grid was not installed between the  light source and the crystal for flux measurements,  as is normal [2]. This removed the problem of any  Al  0009-2614/91/8 03.50   1991 Elsevier Science Publishers B.V. All rights reserved.  The influence of soft mode adsorbate vibrations  on NEXAFS analyses: NO on Pd{ 11 O}    Jagriti Singh  ,W.K. Walter, A. Atrei 2 and D.A. King  Department of Chemistry, University of cambridge, Lensfield Road, cambridge CB2 1EH~ UK      Received 1 June 199l;infinalform l9JuIy 1991         Near-edge X-ray absorption fine structure (NEXAFS) measurements have been performed on NO adsorbed on Pd{ Il 0} using  a polarized light source at a range of incidence angles. An analysis of intensities of a and it resonance fealures is made which  includes both the average orientation of the molecule and contributions arising from a low frequency, in-plane hindered-transla-  tion mode. The analysis indicates that at all coverages NO is upright, with a hindered-translation mode frequency of 68 cm~  directed along the &lt;001 ) azimuth. The normal frozen-molecule analysis would, incorrectly, yield a tilt angle of 22 ; adsorbate  molecular orientation cannot be reliably obtained from NEXAFS data at 300 K without including the effect of these high-ampli-  tude modes.  Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  arising from an atomic ls to molecular it  bound-state  transition of the photo-excited electron, and peak B  is the ~ resonance arising due to a Is to t~ transition.  Since the photon energy is not calibrated the small  shifts observed in the energy at which the it.   reso-  nance is observed are not real effects, but energy dif-  ferences between the o and it resonances can be  trusted.   Fig. 2 shows the three sets of data after back-  ground removal. To achieve this, the spectrum of the  dosed surface has been divided by the spectrum of  the clean surface. This method eliminates any mono-  chromator structure and transmission characteristics  and also the effect of the detector response function.  Every spectrum shown in fig. 2 is the sum of all the  spectra recorded for a given geometry under the  stated conditions, after background removal. Each  of the three sets show that the o resonance gradually  evolves as the angle of the photon beam is varied  from not-mat to grazing incidence, indicating that NO  is more upright than lying down on the Pd{ 11 0} sur-  face. As the incidence angle moves towards the sur-  face normal the cy resonance shifts in energy towards  the it resonance. The energy shift is 2 eV. As can  be seen in fig. 3a, the halfwidth of the small peak at  the o resonance position at an incidence angle of 90   is smaller than that observed at 20 . Previous work-  ers in the field [2,4 6,8 li] have observed similar  peaks at 90  in the o resonance position where an  upright assignment of molecules is preferred, and  similarly peaks in the region of the it resonance where  a parallel assignment of adsorbate is preferred. These  small peaks have been assigned to other artifacts, such  as anomalous background, SEXAFS structure, ad-  ditional resonance (although weaker) arising from  adsorbate substrate bonds, other o or it transitions,  and a suggestion that the assumption regarding the  strongly directional nature of the o resonance is in-  correct. Thus, Somers et al. [4] suggest that in the  case of a truly parallel-bonded species there may be  a non-zero probability of excitation of the o reso-  nance by the component of the E-vector perpendic-  ular to the surface. All of these are tentative expla-  nations for non-zero intensity in the o and it peak  positions where the authors are led to believe that  the adsorbed molecule is either exactly perpendic-  ular or exactly parallel to the surface plane, and have  no actual experimental or theoretical backing. This  A  structure being introduced by the grid in the ab-  sorption spectra. This mode of operation is partic-  ularly suitable on the Daresbury light source, where  the long radiation lifetime (~ 35 h) means that there  is no need for decay normalization. At each incident  angle of the beam NEXAFS spectra were recorded  alternately for both the clean and the NO dosed  Pd{ 1 l0} surface, without changing the position; both  sets of data are therefore obtained at exactly the same  position and with similar beam characteristics. Be-  fore each run the crystal was flashed clean and re-  dosed with NO. The measurements were repeated to  check the reproducibility. The photon energy was not  calibrated on an absolute scale, although the line-  arity of the scale was checked over a wide energy  range for every injection, a number of times. The  manipulator position was set to a polar angle accu-  racy of 0.5  [7]. Three sets of data were recorded,  two for saturation coverage of NO on Pd{ 1 lO} at 300  K, one of these being with the horizontal component  of the E-vector (E ) in the (001) direction, the sec-  ond with E~  in the &lt;110&gt; direction; and the third set  for low coverage (0.3 of saturation coverage) in the  (001) direction.        3. Results       Fig. 1 shows typical data obtained for both clean  and NO-dosed surfaces. Peak A is the it resonance      9000      g 7000      o      G,      to      5000      o      o      &gt;       to      3000      C      1000     cleao   370 350 390 400 410 420        Photon energy leVi    Fig. I. Directly recorded N.edge NEXAFS spectra from clean  Pd{ 110) and the same crystal (with saturation coverage of NO  at 300 K. for normal incidence with (Efl) along &lt;001&gt;). The  photon energy scale has not been absolutely calibrated.  427  Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  1/)      :3      ce    .0  n    &gt;   n  n  C  Fig. 2. NEXAFS spectra for different angles of incidence of the  photon beam, after background normalization for (a) saturation  coverage of NO on Pd{ 110), E  along &lt;001&gt; direction, (b) sat-  uration coverage with E  along &lt;ItO&gt;, (e) low coverage (0.3 of  saturation) with E~ along (001&gt;. The angles marked on the  spectra indicate the angle of incidence of the photon beam to the  1 lO} surface. Each spectrum shown is the sum of a set of scans.  The Y-axis is in arbitrary units so as to represent all the spectra  separately.      is a particularly awkward situation for a technique  which is explicitly intended to provide a measure of  molecular orientation. It is rather improbable that  an anomalous background, SEXAFS structure or  additional resonances from adsorbate substrate  bonds would occur almost exactly underneath o or  it resonances of relevance for different adsorbates on  different substrates, without exception. We believe  that these peaks are not artifacts but must be as-  signed to the o resonance itself. In support of this,  we have observed a similar shift (~ 2 eV) of the ci  resonance towards lower energy for very low coy-  erages (0.055 of saturation coverage) of NO on  Pd{ I l0}, as shown in fig. 3b. It may be argued that  at very low coverage, since the o resonance is very  small at this coverage, the peak should be dominated  by anomalous background features, which would in-  crease the c/it intensity ratio. In fact the a/it inten-  sity ratio at very low coverage is less than that ob-  served at 0.3 of saturation coverage. Both the finite  o intensity at 90  incidence and the energy shift are  dealt with below.      4. Data analysis with vibrational motion     The influence of vibrational motions on NEXAFS  analyses have only been dealt with qualitatively to  date [1 21. The electron emission process takes place  on a time scale which is short (~ 10~~ s) compared  with that for vibrational motion (~l0~2 s), and  the NEXAFS spectrum therefore represents an in-  tegrated emission spectrum over the time-averaged  motions of the adsorbate. For an upright molecule,  NEXAFS resonance intensities are relatively insen-  sitive to tilt angles less than 15 , and for small-am-  plitude, high-frequency modes the frozen-molecule  approach is reasonable. However, the amplitude of  some low-frequency modes can be large, and ignor-  ing these modes can give very misleading orienta-  tional analyses. A possible explanation for the per-  sisteni o resonance at 90  is that it is due to bending  modes parallel to the surface plane. The shift in peak  position may be due to structural alterations; thus, at  lower coverages, due to stronger backbonding, the  equilibrium interatomic distance (d) of the NO bond  may increase, which would give rise to a shift in the  o resonance peak to lower energy [13], as observed.  Since increased backbonding strengthens the Pd N  bond, this would lead to a lowering of the amplitude  of the bending mode at very low coverages. This  would therefore also account for a lower a/it inten   390 460   410 460   Photon energy (eV)  428  Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  ce  C  C)  n  C  ce  Q)  o    -o  n  n  o  -o    &gt;.  te  C  n  C  Fig. 3. (a) N-edge NEXAFS spectra after background subtraction, for 90  and 20  incidence angle of the photon beam for saturation  coverage of NO on Pd) 110) with E  along &lt;110&gt;. The onset of theo resonance in both the spectra is at the same photon energy but the  peak position is shifted by 2 eV towards lower energy for the normal incidence spectrum. (b) Directly recorded N-edges NEXAFS  spectra for low (0.3 of saturation) and very low (0.055 of saturation) coverage at grazing incidence (20 ) of the photon beam with   E   along &lt;001&gt;.  sity ratio observed at these low coverages. The a res-  onance peak energy is lower at normal incidence than  at other angles. This observation has also been made  for many other systems. This can also be attributed  to a change in the N O d-spacing during bending,  with d increasing as a function of increasing lilt an-  gle. With adsorbates on metals, due to electron hole  pairing interatomic equilibrium spacings may be-  come configuration-dependent. Larger tilt angles may  be expected to result in an increase in dit* back-  bonding, and hence an increase in the spacing d. The  observed o resonance at close to normal incidence is  only sensitive to molecules with a large instanta-  neous tilt angle, and reflects the larger d-spacing,  whereas away from normal incidence the a reso-  nance observed is dominated by emission from spe-  cies with low instantaneous tilt angles.   Both hindered-translation and rotational modes  would contribute to the bending of the molecule. Ex-  cited levels of the hindered-translation mode will be  more heavily populated at room temperature than  those of the hindered-rotational mode because of the  larger energy spacing for the latter, as concluded, for  example, by Henderson et al. [14] in explaining the  thermal broadening of the CO ESDIAD pattern for  CO desorbed from Ptf 112).   In the quantitative analysis of the present data we  have modelled the incidence-angle dependence of the  ratio I~/(l~+I~), where I~. and [~ are the integrated  intensities of a and it resonances obtained from the  adsorbate-covered spectra ratioed to the clean sur-  face spectra, and then linear-background subtracted.  This ratio is independent of flux variations between  runs, and also of detector geometry or absorption  cross section. It is only dependent on (j) the polar-  ization and incidence angle of the photon beam, and  (ii) the polar and azimuthal tilt directions of the ad-  sorbate molecular axis.   The data are presented as intensity ratio versus in-  cidence angle plots in fig. 4. The reason for the spread  in the data points can be traced mainly to the change  in polarization from one run to another due to beam  movement. The Daresbury undulator beamline SU. 1  has no entrance slit. This is to increase the photon  flux for faster and better data collection but has the  disadvantage that the polarization alters due to elec-  tron beam movement in the storage ring with time,  and from one fill to another. These changes may be  more than 10% E 15]. The bending magnet also has  Photon energy (eV) Photon energy (eV)  429  a ~ ~ ~ t~0 ~0 ~0 ~0 ~0 ~0  Incidence angle of beam (deg)  Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  variation is not due to inaccuracy in the measure-  ments but because of the actual change in polariza-  tion due to source movement and the absence of an  entrance slit. For beam lines with fixed polarization  such a scatter would not occur, and the above form  of curve fitting would provide greater precision. In  the present work inaccuracies in the analyses with  curve fitting can be attributed largely to the resultant  spread in the data points.   To include the effect of vibration of the adsorbate  molecule we have assumed a normal dislribution of  the population density of the only vibrational mode  with a large amplitude. I~ and l~ resonance intensi-  ties for instantaneous electron emission at a till angle  a have been previously derived in the frozen-mol-  ecule approach [I]; then the normalized a reso-  nance intensity obtained upon including the molec-  ular vibration is given by    I~(O, O, a, p)    G(ct )      J0(a,O,cb,p)+I,~(aj,O,cb,p)     where G(a1) gives the population density distribu-  tion of the vibrational mode with respect to the equi-  librium axial tilt angle a of the NO molecule; a de-  notes the instantaneous tilt angle of the molecule to  the surface normal, at the moment of photoelectron  emission. O is the incidence angle of the photon beam  to the surface plane, O is the azimuthal angle of the  resultant dynamic tilt of the adsorbed molecule and  p is the horizontal polarization of the incident beam.  The best-fit to our data obtained with the parallel  component of the electric vector of the incident ra-  diation in each of the azimuths is shown in fig. 4.  This is obtained with the NO molecule vibrating  around an upright axial position with its mean nor-  mal to the surface, and a single dominant vibrational  mode at room temperature, a hindered translation  along &lt;001 &gt;. For this fit the function G( ce,) is taken  (a)      ~zimu:h 1 saturation coverage                    (b)      Azimuth t low coverage                e.-.      (C)              Azi euth 2 ssturation coverage  +    e  b    &gt;     It)  C  a)  C    n  L)  C  ce  C  o  (G  n    ce  E  o)  (j)    0  n  (j)  (0  E  o  z  0.70      0.60      0.50      0.40      0.30      0.20      0.80      0.70      0.60      0.50      0.40      0.30      0.20      0.70      0.60      0.50      0.40      0.30      2.20    0.10  Fig. 4. Optimum theoretical fit as described in the text to the  three sets of experimental data. (a) Data set for saturation cov-  erage, E  along &lt;110). The best fit theoretical curve is for hori-  zontal polarization p=74% and an rms tilt angle of 25  along  (001). The two dashed curves are for rms tilt angles of 23  and  27  respectively. (b) Data set for low coverage (0.3 of saturation  coverage) along (001&gt;. The best fit is for p= 80% and an rms  tilt angle of 25  along &lt;001&gt;. The dashed curves are foi rms tilt  angles of 23  and 27  respectively. (e) Data set for saturation  coverage, E  along &lt;Ito&gt;. The best fit is forp=68% and rms tilt  angles of 25  along &lt;001&gt; and 0  along (ITO). The dashed  curves are for tilt angles of 23  and 27  along &lt;001&gt;. The polar-  ization of the undulator beamline lies in the range 74   6% in the  horizontal direction.      the effect of decreasing the polarization while en-  hancing the flux as compared to ordinary synchro-  tron beam lines. From our NEXAFS data the polar-  ization of the new undulator beam line was found to  be 74 6% in the horizontal direction. The large  as:  G(ce~)= ctrms~,e~U2~m~)  where ~ is the rms value of the tilt angle. As shown  elsewhere [7], for the incident radiation along the  &lt;001&gt; azimuth, O=0, and  430    2 cos2Ocos2a+2R sin2ce    l+R+cos2Ocos2ce+Rsin2a   Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  Ia(ai, O,p)    I0(a~, O,p)+J~(a1, O,p)    2 cos2 O cos2a + 2 sin2O sin2ce  = cos2Ocos2a+sin29sin2a+ 1 +R~    For the incident radiation along &lt;I To&gt;, ~s = it/2, and   - o ~  &lt;lb&gt;                &lt;001&gt;   (b) (e)    Fig. 5. (a) The Pd) 110) unit mesh. (b) The hindered-translation  vibrational mode along &lt;110&gt;. (e) The low-frequency mode  along &lt;001&gt;.      beam from run to run. The dashed curves in fig. 4  indicate an error margin of 25 2 , which would in  turn yield a margin on the estimated vibrational fre-  quency of 68 8 cm.   Analyses of vibrational spectra for NO on Pd{ll0}  are consistent with the dominance of a bridge-bonded  species, attached to adjacent Pd atoms along the  &lt;001) rows [19]. As indicated in fig. 5, this species  will have two in-plane hindered-translation modes  in orthogonal directions parallel to the surface plane.  However, the mode along the &lt;110&gt; azimuth in-  volves substantial Pd N bond stretching, and would  have a low amplitude and high frequency. The mode  directed along &lt;001) has a large amplitude and low  frequency; it should be in the region 30 100 cm   [181. The frequency and tilt azimuth derived in the  present work are therefore perfectly consistent with  this assignment.      5. Conclusion     For upright NO on Pd{l 10) the hindered-trans-  lation vibrational mode along &lt;001&gt;, with a fre-  quency determined as 68 cm   makes a significant  contribution to the a resonance intensity in  NEXAFS spectra at incidence angles close to the sur-  face normal, and cannot be ignored in determina-  tions of molecular orientation. Since soft vibrational  modes in the surface plane will always produce large-  amplitude motion for molecular adsorbates at tem-  peratures of around 300K, this conclusion has wide-  spread implications for the analysis of NEXAFS data  from molecular adsorbates. An optimal study, cur-  rently in progress in our work, would involve cooling  the crystal to very low temperatures for an accurate  1~I  (a)  Im( cri, O,p)  I0(ce~, O, P) +In(cii, O,p)  where R=(l p)/p.   A more rigorous approach would require replace-  ment of the normal distribution by that given by the  eigenfunction of the adsorbate molecule as an oscil-  lator. This would be needed in the analysis of low-  temperature measurements, where the eigenfunc-  tions of the most dominant modes of vibration are  known.   The fit obtained to the data in both azimuths using  the above expressions gives an rms value of 25  for  the tilt angle of NO to the surface normal in the  &lt;001&gt; direction, across the atomic rows in the { 1 l0}  surface. This corresponds to a frequency for hind-  ered translation of 68 cm , assuming a spacing be-  tween the Pd Pd axis and the O atom to be 2.6 to  2.7 A for bridge-bonded NO, obtained from the  N O and metal N bond lengths [16], as calculated  from the expression    (Q~&gt;=(l6.8575/v) coth(0.7l9399u1/T)    where Q~ is the vibrational normal coordinate, t - is  the frequency of the vibrational mode, and T is the  temperature [17, 181. On the other hand, analysis of  the same data with the frozen-molecule approach  yields an NO molecule inclined at an angle of 22  to  the surface normal in the &lt;001&gt; direction [7]. Since  a diatomic molecule such as NO adsorbed in an es-  sentially upright configuration must exhibit a high-  amplitude in-plane vibrational mode parallel to the  surface plane, the former analysis is clearly more  accurate.   Estimates of errors on the rms tilt angle obtained  are difficult to quantify, since much of the scatter in  the data points around the theoretical lines arises  from variations in the polarization of the photon  431  Volume 185, number 5,6  CHEMICAL PHYSICS LETTERS  25 October 1991  determination of molecular orientation, and warm-  ing in successive stages to 300 K to determine the  soft-mode frequency. NEXAFS thus becomes a pow-  erful technique for the determination of the fre-  quency, and, for a crystal plane with twofold sym-  metry, the bending-plane azimuth for low-frequency    modes parallel to the surface.        Acknowledgement     The SERC is acknowledged for postdoctoral sup-  port to AA and WKW, for an equipment grant and  for beam time at Daresbury. We are grateful to Sam  Haq for providing a clean Pd{l l0} crystal, and the  Daresbury staff for skilled, efficient support, with  special thanks to C. Mythen.      References    [Il J. Stohr and D.A. Outka, Phys. Rev. B 36 (1987) 7891.  [21 D.A. Outka and J. Stohr, J. Chem. Phys. 88(1988)3539.  [31 M. Bader, A. Puschmann and J. Haase, Phys. Rev. B 33  (1986) 7336.  141 J. Somers, M.E. Kordesch, T.H. Lindner, H. Conrad, AM.  Bradshaw and G.P. Williams, Surface Sei. 188 (1987) L693.  151 M. Bader, B. Hillert, A. Puschmann, J. Haase and A.M.  Bradshaw, Europhys. Letters 5(1988) 443.  161 R.J. Madix, J.L. Solomon and J. Stohr, Surface Sci. 197  (1988) L253.  [7] J. Singh, A. Atrei, W. Walter and D.A. King, to be published.  [8lJ. Stohr, K. Baberschke, R. Jaeger, R. Treischlu and S.   Brennan, Phys. Rev. Letters 47 (1981) 381.  [9lJ.StohrandR.Jaeger,Phys.Rev.B26(1982)4lll.  [lOI G. Tomillon, S. Raaen, T.A. Skotheim, M. Sagurton, R.  Garrett and G.P. Williams, Surface Sei. 184 (1987) L345.  1111 A. Puschmann, J. Haase, M.D. Crapper, C.E. Riley and D.P.  Woodruff, Phys. Rev. Letters 54(1985)2250.  [12] P.A. Stevens, R.J. Madix and J. Stohr, Surface Sei. 230  (1990) 1.  [13] D. Arvanitis, V. Dobler, L. Wenzel, K. Baberschke and J.  Stohr, Surface Sei. 178 (1986) 686.  [14] M.A. Henderson, A. Seabo and J.T. Yates Jr., J. Chem. Phys.  91(1989)7255.  [15] HA. Padmore, private communication.  [161 C-T. Kao,G.S. Blackman, MA. van Hove, G.A. Somorjai  and C-M. Chan, Surface Sei. 224 (1989)77.  [17] S.J. Cyrin, Molecular vibrations and mean square  amplitudes (Elsevier, Amsterdam, 1968).  [18] N.Y. Richardson and A.M. Bradshaw, Surface Sei. 88  (1979) 255.    [19] S. Haq, R. RayaI and D.A. King. to be published.  432  timal study, cur-  rently in progress in our work, would involve cooling  the crystal to very low temperatures for an accurate  1~I  (a)  Im( cri, O,p)  I0(ce~, O, P) +In(cii, O,p)  where R=(l p)/p.   A more rigor</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9180236Q</aid>
+            <ce:pii>0009-2614(91)80236-Q</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)80236-Q</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>The influence of soft mode adsorbate vibrations on NEXAFS analyses: NO on Pd{110}</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jagriti</ce:given-name>
+                  <ce:surname>Singh</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>W.K.</ce:given-name>
+                  <ce:surname>Walter</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Atrei</ce:surname>
+                  <ce:cross-ref refid="FN2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.A.</ce:given-name>
+                  <ce:surname>King</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge CB2 1EW, UK</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Nehru Memorial Trust Fellow at the Daresbury Synchrotron Source, UK, on leave from Physics Department, Rajasthan University, Jaipur, India.</ce:note-para>
+               </ce:footnote>
+               <ce:footnote id="FN2">
+                  <ce:label>2</ce:label>
+                  <ce:note-para>Present address: Department of Chemistry, University of Florence, 50121 Florence, Italy.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="11" month="6" year="1991"/>
+            <ce:date-revised day="19" month="7" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Near-edge X-ray absorption fine structure (NEXAFS) measurements have been performed on NO adsorbed on Pd“110” using a polarized light source at a range of incidence angles. An analysis of intensities of σ and π resonance features is made which includes both the average orientation of the molecule and contributions arising from a low frequency, in-plane hindered-translation mode. The analysis indicates that at all coverages NO is upright, with a hindered-translation mode frequency of 68 cm<ce:sup loc="post">−1</ce:sup> directed along the &lt;001&gt; azimuth. The normal frozen-molecule analysis would, incorrectly, yield a tilt angle of 22°; adsorbate molecular orientation cannot be reliably obtained from NEXAFS data at 300 K without including the effect of these high-amplitude modes.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Outka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7891</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Outka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3539</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bader</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Puschmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Haase</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7336</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Somers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Kordesch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Lindner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Conrad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bradshaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L693</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bader</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hillert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Puschmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Haase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bradshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Europhys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>443</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Solomon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>197</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L253</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Singh, A. Atrei, W. Walter and D.A. King, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Baberschke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Treischlu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Brennan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Tomillon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Raaen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Skotheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sagurton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Garrett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>184</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L345</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Puschmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Haase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Crapper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Riley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Woodruff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2250</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>230</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Arvanitis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dobler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wenzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Baberschke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>178</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>686</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Henderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Szabo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>H.A. Padmore, private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.-T.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Blackman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>van Hove</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-M.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>224</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Cyrin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular vibrations and mean square amplitudes</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1968</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.V.</ce:given-name>
+                                 <ce:surname>Richardson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bradshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Haq. R. Raval and D.A. King, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

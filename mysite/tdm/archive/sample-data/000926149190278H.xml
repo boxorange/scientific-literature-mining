@@ -1,0 +1,703 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149190278H</prism:url><dc:identifier>doi:10.1016/0009-2614(91)90278-H</dc:identifier><eid>1-s2.0-000926149190278H</eid><prism:doi>10.1016/0009-2614(91)90278-H</prism:doi><pii>0009-2614(91)90278-H</pii><dc:title>A microscopic calculation of the dynamic structure function of 4He clusters </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>178</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>435</prism:startingPage><prism:endingPage>440</prism:endingPage><prism:pageRange>435-440</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-03-29</prism:coverDate><prism:coverDisplayDate>29 March 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Chin, S.A.</dc:creator><dc:creator>Krotscheck, E.</dc:creator><dc:description>
+               Abstract
+               
+                  Using exact one- and two-body ground state densities as inputs, a parameter-free dynamic structure function for 4He clusters is constructed on the basis of the Feynman ansatz. To the extent that collective excitations are well described by the Feynman theory, this structure function should be quantitatively exact at low energies and qualitatively correct at energies comparable to the maxon/roton regime in bulk 4He.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149190278H" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149190278H" rel="scidir"/></coredata><scopus-id>26544459285</scopus-id><scopus-eid>2-s2.0-26544459285</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/26544459285" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011115">2001-11-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011115">2001-11-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2019-02-06T13:00:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149190278H</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)90278-H</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149190278H</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)90278-H</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X11785</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190206">2019-02-06T18:22:11.923629Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19910329</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005782400">2001-11-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>178</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>178</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 178, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>435</xocs:first-fp>
+      <xocs:last-lp>440</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>435</xocs:first-page>
+         <xocs:last-page>440</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19910329</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>29 March 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-03-29</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>AMICROSCOPICCALCULATIONDYNAMICSTRUCTUREFUNCTION4HECLUSTERS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GSPANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79 ff</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICSELECTRONICATOMICCOLLISIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SYSKAKIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2964</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>PANDHARIPANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1676</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SINDZINGRE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1601</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CASAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>WIRINGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>RAMAKRISHNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1126</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>RAMAKRISHNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>746</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>CHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2658</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>FEYNMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-first-fp>262</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>VANHOVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>AZIZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4330</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3779</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHINX1991X435</xocs:refkey3>
+         <xocs:refkey4lp>CHINX1991X435X440</xocs:refkey4lp>
+         <xocs:refkey4ai>CHINX1991X435XS</xocs:refkey4ai>
+         <xocs:refkey5>CHINX1991X435X440XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)90278-H</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149190278H</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149190278H</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)90278-H</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2019-02-06T18:22:11.923629Z</xocs:timestamp>
+         <xocs:cover-date-start>1991-03-29</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149190278H-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149190278H/MAIN/application/pdf/296d763a0b3c4d65ae0ea4e95d8e2a91/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>446873</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149190278H-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149190278H/PREVIEW/image/png/7a9fd6a956067daf1b4523f12ea83ff9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61199</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 178, number 4  CHEMICAL PHYSICS LETTERS  29 March 1991  A microscopic calculation of the dynamic structure function  of 4He clusters    SA. Chin and E. Krotscheck  Cenrer for Theoretical Physics and Department of Physics, Texas A&amp;M (]nhs ersity, College Station, TX 77843, USA      Received 5 September 1990; in final form 12 December 1990         Using exact one- and two.body ground state densities as inputs, a parameter-free dynamic structure function for 4He clusters is  constructed on the basis of the Feynman ansatz. To the extent that collective excitations are well described by the Feynman theory,  this structure function should be quantitatively exact at low energies and qualitatively correct at energies comparable to the  maxon/roton regime in bulk 4He.         The study of finite 4He clusters is currently an active area of experimental [1,2] and theoretical [3.-8] re-  search. Recent interests in the study of excited states [5 8] of finite 4He clusters have been primarily motivated  by the need to understand the finite-size dependence of superfluidity [4,7] as well as the relation between the  compressibility of the bulk liquid and giant resonance energies [8]. However, historically, what is accessible  experimentally is the dynamic structure function, which is directly mapped via neutron- and X-ray scattering  in the case of bulk liquid helium and electron-scattering in the case of finite nuclei. The scattering of neutrons  off 4He clusters would provide an exceptionally clean laboratory for the study of finite quantum many-body  systems. The simplicity of the 4He 4He potential would allow experimental data to be directly confronted by  fundamental calculations and enables one to delineate intrinsic many-body effects from mere complexity of  the interaction.   In this paper, by using exact one- and two-body ground state densities obtained by Monte Carlo methods  as inputs, we show how a parameter-free dynamic structure function for 4He clusters can be constructed on  the basis of the Feynman [9] ansatz. Specifically, we recall that the scattering cross-section for a weak probe  scattering from a composite system is given in Born approximation by [10]   d2ri fd2~\  dQdw\dQdw)OS~~~~ (I)    where (d2a/dQdw)0 is the double differential scattering cross-section for scattering from a single constituent,  and  S(k,w)= ~ I(W~Ip(k)~J 0&gt;l&gt;o(E~ E0 w) (2)    i 0      is the dynamic structure function. The calculation of S(k, w) thus requires knowledge of both the excitation  spectrum E~  E0 and the complete set of transition densities &lt;~1 ~ I p(k) ~P0&gt; - As a first step towards an exact  calculation of S( k, w), one can replace the exact spectrum and transition densities by those of the Feynman  theory, to be described below.   Our approach is based on generalizing Feynman s original theory of collective excitation for bulk liquid 4He  to the case of finite clusters. We begin with a translationally invariant solution of the N-particle Schrodinger  equation, W0( r1  rN) = W~ (r1 + r  rN+ r), for example, as evolved by a second-order diffusion Monte Carlo  435  00139-2614/91/S 03.50   1991   Elsevier Science Publishers B.V. (North-Holland)  algorithm as described in ref. [11], using the potential of Aziz et al. [12]. Following Feynman [9], we write  the trial excited state as  WF(rI,...,IN)=F(r,...,rN) W0(r1 rN)   (3)    where F(r~, ...  rN)=E~.L [[(r,  rem)  &lt;J)]~ &lt;.[)= &lt; WoIf(ri rc.m.)I W0), and rem is the center-of-mass co-  ordinate. A rigorous upper bound to the excitation energy can then be estimated by   E l(tI oJ[F,[T,F]]IWo&gt;  EF- o=~ (W0IF&gt;1W0&gt;     h&gt; (l_l/N)Jd3rp1(r)IVf(r)~&gt;-_(lJN)fd3rd2r p2(r,r )Vf(r)Vf(r ) (4)    2m Jd3rp1(r)If(r)I&gt;+Jd3rd3r f(r)[p2(r,r ) p1(r)p1(r )]f(r )    where EF is the variational energy corresponding to the trial function WF, and E0 is the exact ground state en-  ergy. The coordinates in the last line of eq. (4) are measured from the center-of-mass. The one- and two-body  ground state densities defined by    P1(r)=&lt;W0~ ~ r, rcm r)~9 o&gt;   p&gt;(r,r )=(W0~ ~ o(rj rcm. r)o(rj rcm. r )IW~&gt; (5)  i ~i      have been calculated in ref. E 8].   Denoting the excitation energy EF EO=hw and defining u(r)= (pi(r) ~2f(r), eq. (4) can be written sym-  metrically as  h fd3rd3r u(r)H1 (r, r  )u(r ) 6  ~= fd3rd3r u(r)S(r, r  )u(r )   (    with the coordinate space representation of the static structure function    p&gt;(r, r  ) ~o (r)p1(r )  S(r,r )=o(r r )+ r-   Vpi(r)pi(r    and the non-local kinetic energy operator  Hi(r,r )=_(l_ ~~)c5(r_r ) ~   ~_N,~~P~r)). (8)    Minimizing hw with respect to the excitation function u(r) yields the eigenvalue equation  f d3r H(r,r)u(r)=hwJd3r S(r,r )u(r). (9)    This is the desired generalization of the Feynman [9] eigenvalue equation for a finite system. In our previous  work [8], we have directly solved this eigenvalue problem by expanding the excitation function and the pair  distribution function in partial waves,   (10)  p2(r,r ) p1(r)p1(r ) 21+1     = ~ h,(r r )P1(rr )   (11)   / 4n    and determined the optimal excitation wave functions and the lowest excitation energies simultaneously for  1=0, 1 and 2. Once the excitation function is known, the corresponding transition density can be obtained via    ~p(r)=&lt;W~I &gt;~o(rj rcm r)I P~&gt;  CHEMICAL PHYSICS LETTERS  29 March 1991  Volume 178, number 4  436  Volume 178, number 4  CHEMICAL PHYSICS LETTERS  29 March 1991   =pi(r)f(r)+Jd3r  [p2(r,r ) pj(r)p1(r)]f(r ). (12)       Recently, two estimates of helium droplet excitation energies have been computed on the basis of the Feyn-  man ansatz [6,7]. These differ from our work [8] in that they are Monte Carlo integrations of analytic, pa-  rametrized excitation operators using a variational ground state rather than exactly solving the excitation ei-  genvalue eq. (9) on the basis of the exact ground state. By expanding the excitation operator in terms of spherical  Bessel functions and explicitly orthogonalizing these excited states, Rama Krishna and Whaley [7] were able  to obtain not just the lowest, but also higher excitation energies. Our method has significant advantages over  those of refs. [6,7] in that we do not need to re-do Monte Carlo integrations, optimize parameters, or ortho-  gonalize functions. Once the ground state one- and two-body densities are known, the optimal excitation wave  functions and excitation energies are simultaneously determined. The accuracy of our calculation is limited  only by the validity of the Feynman ansatz and statistical and extrapolation errors in binning the one- and two-  body densities. Our method directly yields the entire excitation spectrum with automatically orthogonalized  wave functions. This decisive advantage allows us to compute the dynamical structure function easily.   In our previous work [8], we were primarily interesting in the energies of the lowest-lying collective exci-  tation and in comparing with the predictions of the liquid-drop model. Obviously, in solving the eigenvalue  problem (9), one can just as easily compute any higher-lying excited ~tates. For hw&gt; it, where it OE/0N is  the chemical potential, these excited states are in the continuum. Normally, when (7) is discretized on a finite  mesh, only a discrete subset of the continuum states is obtained. However, since all functions appearing in the  eigenvalue problem (9) vanish exponentially for large distances from the center-of-mass, one can simply ex-  tend the mesh to large distances and thereby obtain reliable information on the density of states. Whereas the  radius of our droplets is only on the order of 10 A, we have discretized the eigenvalue problem (9) in a sphere  of 50 A radius by setting the two-body density outside of the sampling region to zero and extrapolating the  one-body density to large distance by known asymptotic form p1(r) -~exp[ 2(2init/h2)112r]/r2. For a given  w, eq. (12) is used to calculate the transition density, from which one obtains a parameter-free model of the  dynamical structure function,  S(r,r ;w)=~p~(r) ~p~(r )   (13)  or its momentum space equivalent,  S(k,k ;w)= fd3rd3r exp[i(kr k r )]S(r,r ;w). (14)    Using the same partial wave expansion for ~p~(r) as in eq. (10), we find  S(k, k ; w)= ~ ~p1,,,(k)  Spjr,,(k  )P,(1Q~  ) = ~ S1(k, k ; w)P1(~J~), (15)   I I      where ~p1~(k) = Idlr op1~,,(r) j,(kr) is the Fourier transform of the transition density corresponding to angular  momentum I and e~~ergy !1W.   In inclusive scattering experiments, only the diagonal element of S(k, k ; w) corresponding to the dynamic  structure function is measured,  S(k,w)=S(k,k;w)= ~ S,(k, k;w). (16)    Figs. 1 and 2 show sample plots of our calculated S1(k, k; w) for cluster size N= 112. The monopole and the  quadrupole mode each have one discrete bound state. These states are drawn as lines below the continuum.  Space limitation d~es not allow us to show the dipole component: it is qualitatively similar to the two others,  but without the discrete bound state. The oscillations in kare just Fourier transforms of the transition density.  In the continuum, the scattering peaks begin at discrete values in 11w, reflecting the quantized character of the  collective excitation appropriate for a finite droplet. These peaks have, as expected, a finite escape-width due  437  Volume 178, number 4  CHEMICAL PHYSICS LETTERS  29 March 1991  Fig. I. The 1=0 component of the dynamic structure function for  a helium droplet of N= 112 particles. The single line to the left of  the continuum gives the strength of the discrete monopole collec-  tive mode. The normalization is arbitrary.      to single-particle emission into the continuum. The modulation of the strength of these quasi-discrete collective  excitations reflect the fact that the transition densities represent oscillations with a reasonably narrow range  of wave numbers k. At higher wave numbers, for the same frequency, we see one or more  diffraction peaks   with a spacing of roughly tt/R due to the finite size of the droplets.   For comparison, we draw in the figures the Feynman dispersion relationfor bulk liquid helium. One observes  that the peaks of our dynamic structure function follow this curve with remarkable faithfulness, especially at  energies above the roton minimum. It follows that, for a given excitation energy, the wavelength of the ex-  citation is, with good approximation, given by the bulk Feynman spectrum.   Figs. 3 5 show contour plots of S0(k, k; w) for cluster sizes N=40, 70, and 112. lt is clear that one can  directly read off the quasi-discrete excitation spectrum for a finite droplet by noting the locations of the scat-  tering peaks. The height of the maxon appears to increase with the particle number but is already stabilized  at N= 70. Moreover, the energy spacing correctly shrinks with increasing cluster sizes. The discrete spectra ob-  tained by orthogonalization in ref. [7] are in qualitative agreement with our results, but differ in details. In  particular, the results of Rama Krishna and Whaley are substantially below our result and the Feynman spec-  trum near the maxon region for N&gt;~ 70. In all cases we find considerable strength in the area of the roton min-  imum. Most interesting are  diffraction ridges  of the phonon roton spectrum, which run parallel to the Feyn-  man dispersion relation.   We conclude by pointing out that, while our calculation provides a physically appealing picture of the tran-  sition from pronounced discrete excited states of small systems to a basically continuous spectrum of large  systems, it is well known that the Feynman spectrum for bulk 4He in the regime of the maxon/roton is only  qualitatively correct. Therefore our calculation should, for large droplets, be affected by roughly the same un-  N = 112  3  .1.1  2=0  N = 112  2=2  VI   o   15w (K)  Fig. 2. Sameasfig. I forthe/=2 component.  438  Volume 178, number 4  CHEMICAL PHYSICS LETTERS  29 March 1991  Fig. 3. Contour plot of the 1=0 component of S(k, w) for a drop-  let of N= 40 particles. The contour lines depict levels of exponen-  tially varying strength.  Fig. 4. Same as fig. 3 for a droplet of N= 70 particles.  Fig. 5. Same as fig. 3 for a droplet of N= 112 particles.      certainties. Less is known for smaller systems, and the accuracy of our predictions cannot be determined within  the theory. The next step, which would involve the introduction of two-body correlations in the excitation func-  tion (3), requires the sampling of three- and four-body correlation functions, which is presently computa-  tionally too demanding. A rather accurate estimate of the importance of multiple-phonon processes can be ob-  3  3  k (A1)  k ($~ )  3  k (A~)  439  Volume 178, number 4  CHEMICAL PHYSICS LETTERS  29 March 1991  tamed by Brillouin Wigner perturbation theory using the Feynman density fluctuations as a basis [13].     This work was supported, in part, by the National Science Foundation grants No. PHY89-07986 (to SAC),  No. PHY-8806265 (to EK), the Robert A. Welch Foundation grant No. A-1111 and the Texas Advanced Re-  search Program under Grant No. 010366-012 (to EK). The simulations for the ground-state structure were  performed on the CRAY-YMP of the Texas A&amp;M University Supercomputer Center.      References    [lIS. Gspann, in: Physics of electronic and atomic collisions, ed. S. Date (North-Holland, Amsterdam, 1982) pp. 79ff.  12] E. Syskakis, F. Pobell and H. Ullmaier, Phys. Rev. Letters 55(1985)2964.  [3] V.R. Pandharipande, J.G. Zabolitzky, S.C. Pieper, RB. Wiringa and U. Helmbrecht, Phys. Rev. Letters 50 (1983)1676.  [4] P. Sindzingre, M.J. Klein andD,M. Ceperley, Phys. Rev. Letters 63 (1989)1601.  [5] M. Casas and S. Stringari. J. Low Temp. Phys. 79(1990)135.  [61 RB. Wiringa, S.C. Pieper and YR. Pandharipande, Argonne preprint Phy-4676.TH-85 (1985).  [7] MV. Rama Krishna and K.B. Whaley, Phys. Rev. Letters 64 (1990)1126; J. Chem. Phys. 93(1990) 746.  18] SA. Chin and E. Krotscheck, Phys. Rev, Letters 65(1990) 2658.  [9] R.P. Feynman, Phys. Rev. 94(1954) 262.  110] L. Van Hove, Phys. Rev. 95(1954)249.  [11] SA. Chin, Phys. Rev, A 42 (1990).  [12] RA. Aziz, V.P.S. Nain, J.C. Carley, W.L. Taylor and G.T. McConville, J. Chem. Phys. 70 (1979) 4330.  [13] CC. Chang and CE. Campbell, Phys. Rev. B 13(1976)3779.  440  ness, especially at  energies above the roton minimum. It follows that, for a given excitation energy, the wavelength of the ex-  citation is, with good approximation, given by the bulk Feynman spectrum.   Figs. 3 5 show contour plots of S0(k, k; w) for cluster sizes N=40, 70, and 112. lt is clear that one can  directly read off the quasi-discrete excitation spectrum for a finite droplet by noting the locations of the scat-  tering peaks. The height of the maxon appears to increase with the particle number but is already stabilized  at N= 70. Moreover, the energy spacing correctly shrinks with increasing cluster sizes. The discrete spectra ob-  tained by orthogonalization in ref. [7] are in qualitative agreement with our results, but differ in details. In  particular, the results of Rama Krishna and Whaley are substantially below our result and the Feynman spec-  trum near the maxon region for N&gt;~ 70. In all cases we find considerable strength in the area of the roton min-  imum. Most interesting are  diffraction ridges  of the phonon roton spectrum, which run parallel to the Feyn-  man dispersion relation.   We conclude by pointing out that, while our calculation provides a physically appealing picture of the tran-  sition from pronounced discrete excited states of small systems to a basically continuous spectrum of large  systems, it is well known that the Feynman spectrum for bulk 4He in the regime of the maxon/roton is only  qualitatively correct. Therefore our calculation should, for large droplets, be affected by roughly the same un-  N = 112  3  .1.1  2=0  N = 112  2=2  VI   o   15w (K)  Fig. 2. Sameasfig. I forthe/=2 component.  438  Volume 178, number 4  CHEMICAL PHYSICS LETTERS  29 March 1991  Fig. 3. Contour plot of the 1=0 component of S(k, w) for a drop-  let of N= 40 particles. The contour lines depict levels of exponen-  tially varying strength.  Fig. 4. Same as fig. 3 for a droplet of N= 70 particles.  Fig. 5. Same as fig. 3 for a droplet of N= 112 particles.      certainties. Less i</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9190278H</aid>
+            <ce:pii>0009-2614(91)90278-H</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)90278-H</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>A microscopic calculation of the dynamic structure function of <ce:sup loc="pre">4</ce:sup>He clusters</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>S.A.</ce:given-name>
+                  <ce:surname>Chin</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.</ce:given-name>
+                  <ce:surname>Krotscheck</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Center for Theoretical Physics and Department of Physics, Texas A&amp;M University, College Station, TX 77843, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="5" month="9" year="1990"/>
+            <ce:date-revised day="12" month="12" year="1990"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Using exact one- and two-body ground state densities as inputs, a parameter-free dynamic structure function for <ce:sup loc="pre">4</ce:sup>He clusters is constructed on the basis of the Feynman ansatz. To the extent that collective excitations are well described by the Feynman theory, this structure function should be quantitatively exact at low energies and qualitatively correct at energies comparable to the maxon/roton regime in bulk <ce:sup loc="pre">4</ce:sup>He.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gspann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Datz</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Physics of electronic and atomic collisions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>79 ff</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Syskakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pobell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ullmaier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2964</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.R.</ce:given-name>
+                                 <ce:surname>Pandharipande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Zabolitzky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Pieper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Wiringa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Helmbrecht</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1676</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Sindzingre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Ceperley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1601</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Casas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Stringari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Low Temp. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Wiringa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Pieper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.R.</ce:given-name>
+                                 <ce:surname>Pandharipande</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Argonne preprint Phy-4676-TH-85</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Rama Krishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.B.</ce:given-name>
+                                 <ce:surname>Whaley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1126</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Rama Krishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.B.</ce:given-name>
+                                 <ce:surname>Whaley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>746</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Krotschek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2658</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Feynman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1954</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>262</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Van Hove</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1954</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Aziz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.S.</ce:given-name>
+                                 <ce:surname>Nain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Carley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.T.</ce:given-name>
+                                 <ce:surname>McConville</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4330</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3779</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

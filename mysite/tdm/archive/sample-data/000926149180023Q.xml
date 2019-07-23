@@ -1,0 +1,1280 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149180023Q</prism:url><dc:identifier>doi:10.1016/0009-2614(91)80023-Q</dc:identifier><eid>1-s2.0-000926149180023Q</eid><prism:doi>10.1016/0009-2614(91)80023-Q</prism:doi><pii>0009-2614(91)80023-Q</pii><dc:title>Multiple-scattering analysis of the X-ray absorption spectrum of Os3(CO)12 carbonyl cluster </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>184</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>485</prism:startingPage><prism:endingPage>490</prism:endingPage><prism:pageRange>485-490</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1991-10-04</prism:coverDate><prism:coverDisplayDate>4 October 1991</prism:coverDisplayDate><prism:copyright>Copyright © 1991 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Filipponi, A.</dc:creator><dc:creator>Di Cicco, A.</dc:creator><dc:creator>Zanoni, R.</dc:creator><dc:creator>Bellatreccia, M.</dc:creator><dc:creator>Sessa, V.</dc:creator><dc:creator>Dossi, C.</dc:creator><dc:creator>Psaro, R.</dc:creator><dc:description>
+               Abstract
+               
+                  A new theoretical approach has been used to analyze the X-ray absorption cross section of Os3(CO)12 carbonyl cluster. The method is based on a direct fit of the experimental cross section which makes use of theoretical signals associated with relevant atomic configurations in the molecule. In the case of the OsCO arrangement, it has been found that the commonly employed multiple-scattering series converges slowly at low k values; the calculation has, therefore, been performed using a more efficient continued-fraction algrithm that provides the “exact” signal summed to all orders. An excellent agreement in the range k=2.7–14.0 Å−1 has been obtained, basically using X-ray diffraction results.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149180023Q" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149180023Q" rel="scidir"/></coredata><scopus-id>0038990464</scopus-id><scopus-eid>2-s2.0-0038990464</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0038990464" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-06T01:24:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149180023Q</xocs:eid>
+      <xocs:pii-formatted>0009-2614(91)80023-Q</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149180023Q</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(91)80023-Q</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10652</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151008">2015-10-08T00:26:10.157265-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19911004</xocs:date-search-begin>
+      <xocs:year-nav>1991</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>184</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>184</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 184, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>23</xocs:sort-order>
+      <xocs:first-fp>485</xocs:first-fp>
+      <xocs:last-lp>490</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>485</xocs:first-page>
+         <xocs:last-page>490</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19911004</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>4 October 1991</xocs:cover-date-text>
+      <xocs:cover-date-start>1991-10-04</xocs:cover-date-start>
+      <xocs:cover-date-year>1991</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1991 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>MULTIPLESCATTERINGANALYSISXRAYABSORPTIONSPECTRUMOS3CO12CARBONYLCLUSTER</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FILIPPONI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>777</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1287</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>DORNELAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>DUIVENVOORDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6254</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>WELLS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>335</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1103</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LAMB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1296</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BINSTED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>339</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BINSTED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3669</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ALEXIEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>395</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>BINSTED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1330</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2795</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>GURMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1845</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>92</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INORGANICSYNTHESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>PSARO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>331</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>FILIPPONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>FILIPPONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>319</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18"/>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>DICICCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>HEDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2064</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>FILIPPONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>ROWENCHURCHILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>878</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>BENFATTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9626</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>QUICKSALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2365</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>KETTLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2749</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>BATTISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1961</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FILIPPONIX1991X485</xocs:refkey3>
+         <xocs:refkey4lp>FILIPPONIX1991X485X490</xocs:refkey4lp>
+         <xocs:refkey4ai>FILIPPONIX1991X485XA</xocs:refkey4ai>
+         <xocs:refkey5>FILIPPONIX1991X485X490XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(91)80023-Q</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149180023Q</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149180023Q</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(91)80023-Q</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-08T00:26:10.157265-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1991-10-04</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149180023Q-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180023Q/MAIN/application/pdf/bb9f2083d713b6eeb14d6d7abf6f0286/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180023Q/MAIN/application/pdf/bb9f2083d713b6eeb14d6d7abf6f0286/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>557112</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149180023Q-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149180023Q/PREVIEW/image/png/e2b0b63880a454ff3adf53616f560d3c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149180023Q/PREVIEW/image/png/e2b0b63880a454ff3adf53616f560d3c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57999</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  Dipartimento di Fisica, Universita degli Studi del/A quila, Via Vetoio, 67010 Coppito - L Aquila, Italy  A. Di Cicco  Dipartiinento di Mateenalica e Fisica, Universita degli Studi di Camerino,  Via Madonna delle Carceri, 63032 ( amerino (MC), Italy  R. Zanoni, M. Bellatreccia  Dipartiniento ai Chirnica, (]niversita di Roma La Sapienza Piazza/c A/do Moro 5, 00185 Ro,ne, italy      V. Sessa  Dipartinzento di Scienze e Tecnclogie Chimiche, 11 Universit a di Rama  Tor Vergata ~ Via O. Rai,nondo, 00173 Rome, Italy  C. Dossi and R. Psaro  Dipartimento di Chimica Inorganica eMeiallorganica and Centro CNR, Universita di Milano,  Via G. Veneziari 21, 20133 Milan, italy  Received4 June 1991; in final form 8 July 1991   A new theoretical approach has been used to analyze the X-ray absorption cross section of 0s3(CO)2 carbonyl cluster. The  method is based on a direct fit of the experimental cross section which makes use of theoretical signals associated with relevant  atomic configurations in the molecule. In the case of the Os C=O arrangement, it has been found that the commonly employed  multiple-scattering series converges slowly at low k values; the calculation has, therefore, been performed using a more efficient  continued-fraction algorithm that provides the  exact  signal summed to all orders. An excellent agreement in the range k= 2.7   14.0 A~ has been obtained, basically using X-ray diffraction results.   Molecular metal clusters provide the highest size-  selected way of investigating both size and adsorp-  tion effects. Metal carbonyl clusters represent the  largest known class of binary molecular clusters. Sev-  eral different geometries have been reported: car-  bonyl clusters with terminal, edge- or face-bridging  CO ligands have been described.   X-ray absorption spectroscopy (XAS) has been  widely applied to pure and supported molecular  clusters, particularly to metal carbonyl clusters [I   11]. The advantages of performing data analysis by  using the curved-wave formalism [12], have been  pointed out in a study on several Os carbonyl clus-  ters [1,2] where the sensitivity of XAS to locate non-  bonded metal metal distances was assessed. This  analysis produced particularly satisfactory results in  the case of larger clusters, where the number of metal  neighbors exceeds the C=O contribution that cannot  be reproduced appropriately by using a single-scat-  tering (SS) theory. The necessity to include multi-  ple-scattering (MS) effects up to the triple-scattering  order has been emphasized in a more recent paper  [91 on cobalt carbonyl complexes. A detailed anal-  ysis of the MS effects as a function of the Co C=O  angle was presented, showing the possibility of dis-  tinguishing between bridging and terminal carbonyl  groups. A detailed description of the fitting proce-  dure using the EXCURVE program and based on ef  485  0009-2614/91/$ 03.50   t991 Elsevier Science Publishers BY. All rights reserved.  Multiple-scattering analysis of the X-ray absorption spectrum  of Os3 (CO)12 carbonyl cluster    A. Filipponi  CHEMICAL PHYSICS LETTERS  4 October 1991  Volume 184, number 5,6  Fourier filtering. The noise of the measurement is  not suppressed.   The Os3 (CO ) 12 structure is known from X-ray  diffraction studies [22]. As far as the XAS analysis  is concerned, the environment of each Os atom can  be schematically represented by:   (a) a first Os C shell,   (b) a more distant Os Os shell,   (c) the oxygen atom contribution in the collinear  Os C=O configuration,   (d) contributions from O or C atoms at higher  distances,   (e) three-body contributions from two distinct C  neighbours of an Os atom.   Other geometrical configurations contribute with  higher frequencies and can be neglected. The signal  in (e) has been found to be small and is neglected  in the present treatment. The two-body contribu-  tions arising from (a), (b) and (d) can be treated  at the .X2 level, the largest higher-order correction  being the Os C ~ contribution.   The oxygen contribution described in (c) gener-  ates many MS signals, in addition to the Os O SS,  which are particularly relevant in such a collinear ar-  rangement. The standard MS analysis is usually lim-  ited to double-(X3) and triple-(~4) scattering signals  because of computational difficulties; in our opin-  ion, this truncation of the MS series is not sufficient  in the present case. In fig. 1, the Os O SS contri-  bution is compared with some MS paths of different  orders: the convergence of the MS series with in-  creasing x order is not evident at all. In particular,  the X3 and X4 paths are comparable in amplitude with  higher-order paths, in the low-k range. Higher-order  paths may be reasonably neglected above k=5 A~,  but below this point, most of the paths up to the .Xo  order must be included. Due to the large number of  paths, the interpretation of the signal in terms of the  MS series may become rather cumbersome. For this  reason, we found it more convenient to work with  exact signals resummed to all orders. Our novel ap-  proach has consisted of evaluating the difference from  two total calculations a(Os C=O) o(Os--C),  which, by definition, corresponds to the actual ad-  ditional contribution due to oxygen. In terms of the  MS series, this signal corresponds to the sum of all  the SS and MS contributions arising from both the  Os O two-body and the Os C=O three-body config  ficient expressions for MS terms [13], has been re-  ported. Successive investigations based on the MS  curved-wave theory have dealt with supported Ru  carbonyls [101, and iron carbonyls in solution [111.   In this paper, we investigate a species represen-  tative of the most important class of pure and sup-  ported carbonyl clusters, group VIII metal carbonyl  clusters, taking into account the new theoretical ad-  vances in the calculation of X-ray absorption cross-  sections. The present investigation deals with  Os3(CO)12, which best exemplifies the interest de-  voted to carbonyl clusters in the literature on sup-  ported molecular metal clusters, since it preserves the  triangular metal frame when supported on numerous  substrates.   0s3(CO) 12 has been synthesized according to lit-  erature methods; [14] its purity has been checked  against literature spectra [151. The X-ray absorp-  tion spectrum at the Os L3 edge (10837 eV) was re-  corded during dedicated beam-time at the PULS  (Frascati) Synchrotron Radiation Facility using a  Si (Ill) channel-cut monochromator.   Data analysis has been performed using the re-  cently implemented GNXAS package [16] which  explicitly takes into account MS effects to any order  in the scattering. Previous applications of GNXAS  have dealt with amorphous silicon [17], simple mol-  ecules [16,18] and high-T. superconductors [19].  Heavy metals and large molecules can be also han-  dled, affording an analysis of the XAS spectrum free  from adjustable empirical parameters.   Three major advances of the GNXAS package over  previous methods are as follows:   (1) The model for the potential is built according  to the Hedin Lundqvist plasmon-pole approxima-  tion [20] for the self-energy part of the optical po-  tential which allows one to take account automati-  cally of the photoelectron mean free path.   (2) SS and MS signals are classified according to  the appropriate n-body distribution functions. It is  possible to calculate directly the total signal due to  a particular n-body arrangement either by means of  a partial summation of the MS series up to the X6 or-  der, or directly to all orders using a continued-frac-  tion expansion algorithm [21].   (3) The fit of the experimental spectrum is per-  formed directly as energy versus absorption, so that  there is no need for background subtraction and  486  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  Fig. I. Comparison between the Os O Z2 signal and the first terms  of the MS series involving the Os (1), the C (2) and theO (3)  atoms.      urations, to all orders. It should be noted that the  main contributions have the same frequency of the  Os O distance in Fourier space, the effective oxygen  contribution being, therefore, a damped oscillation  as the Os O SS, but with completely different am-  plitude and phase. Such a single signal, hereafter re-  ferred to as  oxygen total signal  9(0), is repre-  sentative of the O contribution and these results are  both more rigorous and more convenient than the  MS series. From the computational point of view,  the exact inversion of the I  GT matrix has been  performed using the continued-fraction expansion  and the recursion method, until convergence was  reached [21].   All of the abovementioned signals have been cal-  culated with their amplitudes and phases as well as  the appropriate derivatives with respect to the geo-  metrical parameters. Successively, they have been  used to fit the experimental absorption spectrum and  to derive mean geometrical parameters and Debye   WaIler terms. It should be noted that in this corn-  pound, the previously described (b) and (e) signals  fall in the same frequency range. In order to dis-  criminate between the two contributions, it is essen-  tial to include a large k interval in the fit and to treat  correctly the configurational average.   Our analysis scheme correctly takes into account  the configurational damping of a general MS of re-  summed signal. It is known [23] that such a damp-  ing is not given by a simple exp(  ak2) term; ad-  ditional amplitude correction and dephasing terms  should be included. In particular, the damping of the  oxYgen contribution due to the static or dynamic  broadening of the Os C=O angle departs consider-  ably from an exp( ak2) behaviour, as demon-  strated hereafter.   The configurational average of the signal is cal-  culated performing a Taylor expansion of both am-  plitude and phase functions with respect to the  geometrical variables, around the equilibrium con-  figuration. The first derivatives of amplitude and  phase are indicated with A1 and v ~~ respectively. The  second derivatives, which have to be included be-  cause of the extreme position of the angle in collin-  ear paths, will be A2 and V~2~ The damped signal is  then given by [23]  ~=Im(A0 exp(i~0)  X [I  (i/A0) (A 1,d/dii1)  (1)  The factor A0 exp(i~i0) is the undamped signal. The  symbol W(1te1) represents the Fourier transform of  the probability distribution of the geometrical vari-  ables times an additional factor exp [ ~ i (r, ~2r)], ac-  counting for the second-order dephasing, calculated  for argument ~ If ~/~2 can be neglected, W(~,1) re-  duces to the characteristic function of the probabil-  ity distribution. Let us assume the distribution to be  Gaussian with a covariance matrix M. It is easily  found that  det (Q /2)  det(A~fl 2)  (2)  where Q~ =M~ iqi2, in matrix notation. Let us  define the geometrical coordinates for the Os C=O  arrangement as the Os C bond length, the C=O bond  length and the 180  angle Os C=O. For exactly  collinear configurations, the first derivatives with re  0 5   10 15 20    k (i )  487  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  spect to the angle vanish; therefore, the second de-  rivatives A ~ and ~ic~ are relevant. The remaining sec-  ond derivatives can be neglected because the first  derivatives do not vanish. The angular symmetry,  moreover, splits the matrix M of the Gaussian dis-  tribution into a 2x2 block n , associated with the  bonds, and a further diagonal element o~ (angular),  because the bond length and angle coordinates are  uncorrelated.   Specializing the above equation for such exactly  collinear configuration, we obtain:  ~=Im{A0 ~  X [l+(i/A0)(A~, m~i1)+A~a~/2A0]  Xexp[ ~(W, myi1)]}  (3)  In this expression, the damping factor is complex,  the imaginary terms introduce a dephasing of the sig-  nal, as well as an additional, non-Gaussian, modi-  fication of the amplitude, as anticipated.   An appropriate account of the structural or ther-  mal damping is essential for a correct interpretation  of the signal in this model compound and especially  in unknown systems where various hypotheses on  different bonding geometries need to be tested. Our  approach is totally new and certainly satisfactory in  this respect.   The result of the fit of the experimental spectrum  in the range k= 2.7 14.0 A~ is shown in fig. 2. From  top to bottom, the Os Os X2, the Os C X2, two more  distant Os C and Os O X2 signals, the total oxygen  contribution i~(O), and the Os C X4 are shown. The  following curve shows the comparison between the  total theoretical signal and the experiment. The two  curves practically coincide, thus showing the ex-  tremely high quality of the analysis. The last curve  is the difference between experiment and theory and  basically contains only statistical noise.   The agreement between experiment and theory is  also evident in Fourier space: in fig. 3, the magni-  tudes of the Fourier transforms (FTs) in the range  k=2.7 l4.0 A  are compared. The FT of the re-  sidual signal is very small. The shape of the Fi  spec-  trum reveals a fairly intense Os C first-shell peak  followed by an even stronger second peak due to both  oxygen and osmium. In the higher-frequency re-  gions, only very weak contributions are observed,  justifying the adopted cutoff in the included atomic   2.5 5 7.5 10 12.5 15  k (A~)    Fig. 2. Results of the fit of ihr spectrum ofOs3(CO)12 with the  theoretical signals as described in the text. The agreement be-  tween theory and experiment is excellent as shown in the last two  curves.  L  o    e  Q)        Q)  L  z  o    o    ~0  z  e  Q)  R (.)  Fig. 3. Magnitude of the Fourier transform of the experimental,  theoretical and difference spectra. The agreement is spectacular  in R space as well. ( ) experiment; (_    ) theory;     ) residual.      configurations. The non-zero FT magnitude at small  R values would indicate a poor background subtrac-  tion in the conventional EXAFS analysis. In our case,  where a direct fit of the absorption data is per-  formed, it is due to the non-zero average of the sig-  nals in the given k range.   Figs. 2 and 3 best exemplify the potentialities of  Xz(O~ OQ))                        ~ (O~ C=O)   3 4 5  488  Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  phasing of the order of 0.1 rad is found. The rele-  vance of these small corrections has to be compared  with the difference between experiment and theory  which is around l0~ jump units.   The perfect agreement in the interval k=2.7 14.0  A  is obtained basically using crystallographic data  and represents the level of accuracy of the theory.  The relevant fitting parameters are summarized in  table 1 and compared with diffraction results when  possible.   Resulting distances are very close to the average  values of the known crystal structure. The error in  the present analysis is of the order of 0.01 A, usual  for the standard EXAFS analysis but not in the pres-  ence of relevant MS contributions. Only with the in-  clusion of the Os C=O MS signal to all-orders and  with the correct configurational average given by eq.  (3), is it possible to obtain highly reliable values for  the structural parameters.   The values for the mean-square relative displace-  ments cannot be compared with direct measure-  ments; however, the static contribution can be cal-  culated from diffraction data, and the thermal  contribution can be calculated using an  effective   Einstein model for the bond vibration for localized  modes, The Einstein stretching frequencies for the  C=O and Os Os have been estimated from IR of  Raman spectra [24 26] to be 2050 cm-  and 150  200 cm  , respectively. The corresponding thermal var-  iances are reported in table 1.   The comparison between estimated and measured  values is rather good, in agreement with the statis-  tical error on a2 values. It should be noted that our  method allows one to estimate the true a2 values,       while in standard analysis, one can measure only dif      ferences with respect to some reference value,       The fit has been performed by assuming a negli       gible correlation between the Os C and C=O stretch      ing, which is certainly reasonable, considering the      large frequency differences of the respective vibra-       tional modes. The Os C=O angle distribution was      modeled as Gaussian around a mean value of 180 ;      its variance is reported in table 1 and is partly due   10 12.5 15 to static contributions.   The high sensitivity of our analysis to the Me C   O orientation and possible variation from a linear  arrangement, has strong implications in the XAS in-  vestigation of supported species: the cluster support  our analysis method based on the theoretical mo-  delling of the absorption spectrum including MS ef-  fects on carbonyl clusters. The oxygen total signal is  very intense up to large k values, and is mainly due  to MS terms essential for the explanation of the  spectrum.   The importance of a correct account for the con-  figurational average is shown in ltg. 4, where the log-  arithm of the damped/original amplitude ratio ver-  sus k2 (a) and the dephasing versus k (b) due to the  angle average are plotted for the total oxygen signal.  If one assumes a pure exp (   ak2) case, the first plot  would be a straight line and the dephasing null; in  our case, the damping of the amplitude departs from  that behaviour by a few per cent and a further de-  0.00         0.01  o        )  0.02        5  0.03         0.04        0.1        0.0        -o.t       0.2         0.3  0 50  100 t50    k2 (A2)  (b)  0 2.5 5 7.5   k (A )  Fig. 4. Effects of the Os C=O angle variance in the total oxygen  contribution: (a) damping of the amplitude as a function of k2,  (b) dephasing as a function of k.  489  Bond    Rdiffr  ~~~(AS  ~~QOQic  0~hern,QI    2.871(10)  2.877  2.7(5)  0.01  3.1  R0,.~  1.939(10)  1.929  2.2(5)  0.53    Rc..o  1.140(10)  1.140  1.1(5)  0.25  1.2  6OQ-C..O  180   (fixed)    49(10)  12.7    Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  Table 1  Comparison of the relevant geometrical parameters obtained in our analysis (XAS) with diffraction results. The variances of bond  lengths and angle should be compared with the sum of the static and thermal contributions  [6] S.L. Cook, J. Evans, G.N. Greaves and N. Binsted, J. Chem.  Soc. Chem. Commun. (1985)1103.  [7] H.H. Lamb, M. Wolfer and B.C. Gates, J. Chem. Soc. Chem.  Commun. (1990) 1296.  [81 N. Binsted, S.L. Cook, J. Evans and G.N. Greaves, J. Phys.  (Paris) 47(1986)339.  [9] N. Binsled, S.L, Cook, J. Evans, G.N. Greaves and R.J.  Price, J. Am. Chem. Soc. 109 (1987) 3669.  [10] V.D. Alexiev, N. Binsted, J, Evans, G.N. Greaves and R.J.  Price, J. Chem. Soc. Chem. Commun. (1987) 395.  [il] N. Binsted, J. Evans, G.N. Greaves and R.J. Price, J. Chem.  Soc. Chem. Commun. (1987) 1330.  [12] P.A. LeeandJ.B. Pendry, Phys. Rev. B 11(1975)2795.  [13] S.J. Gurrnan, N. Binsted and I. Ross, J. Phys. C 19(1986)  1845.  [141 B.F. Johnson and J. Lewis, n: Inorganic synthesis, Vol. 13,  cd. FA. Cotton (McGraw-Hill, New York, 1972) p. 92.  [15] R. Psaro, C. Dossi and R. Ugo, J. Moi. Calai. 21 (1983)  331, and references therein.  [161 A. Filipponi, A. Di Cicco, T.A. Tyson and C.R. Natoli, Solid  State Commun. 78 (1991) 265.  [17] A. Filipponi, A. Di Cicco, M. Benfatto and C.R. Natoli,  Europhys. Letters 13(1990)319.  [18] A. Filipponi et al., unpublished.  [191 A. Di Cicco et al., Europhys. Letters (1991), submitted for  publication.  [20] L. Hedin and B.I. Lundqvist, J. Phys. C 4 11971) 2064.  [21] A. Fihpponi, J. Phys. Condensed Matter (1991), to be  published.  [22] M. Rowen Churchill and B.G. DeBoer, Inorg. Chem. 16  (1977) 878.  [23] M. Benfatto, CR. Natoli and A. Filipponi, Phys. Rev. B 40  (1989) 9626.  [24] CO. Quicksall and T.G. Spiro, Inorg. Chem. 7(1968) 2365.  [25] S.F.A. Kettle and P.L. Stanghellini. 1nor~ Chem. 18(1979)  2749.  [26] GA. Battison, G. Bor, U.K. DidIer, S.F.A. Kettle, R.  Rossetti, G. Sbrignadello and P. Stanghellini, Inorg. Chem.  19(1980)1961.  interaction implies partial loss of carbonyls and a  subsequent structural reorganization of the residual  CO molecules, driven by the electron density on the  metal cage and by the coordination number of single  metal atoms. Often, this interaction results in the  breakdown of the cluster frame in ensembles or  mononuclear surface species, with a significant  change in the catalytic properties. Therefore, the ac-  tuai role played by CO ligands in the initial inter-  action of the cluster with the surface groups on the  support may be elucidated with our data-analysis  procedure.     The support of the personnel and the computer-  time allocation at the  Centro di Calcolo, Facolta di  Scienze, Universita degli Studi dell  Aquila  are  kindly acknowledged. This work was supported in  part by CNR, Progetto Finalizzato Chimica Fine II.  MB gratefully acknowledges a fellowship from  Eniricerche.      References    Ill S.L. Cook,J. Evans, G.N. Greaves, B.F.G. Johnson, J. Lewis,  P.R. Raithby, PB. Wells and P. Worthington, J. Chem. Soc.  Cliem, Commun. (1983) 777.  121 S.L. Cook, J. Evans and G.N. Greaves, J. Cheni. Soc. Chem.  Commun. (1983) 1287.  [3] L. D Ornelas, A. Choplin and J.M. Basset, Nouv. J. Chim.  9(1985)155.  [4] F.B.M. Duivenvoorden, D.C. Koningsberger, Y.S. Uh and  B.C. Gates, J. Am. Chem. Soc. 108 (1986) 6254.  15] P.B. Wells, P. Worthington, M.S. Roberts and RB. Moyes,  J. Phys. (Paris) 47(1986)335.  490  nt and a further de-  0.00         0.01  o        )  0.02        5  0.03         0.04        0.1        0.0        -o.t       0.2         0.3  0 50  100 t50    k2 (A2)  (b)  0 2.5 5 7.5   k (A )  Fig. 4. Effects of the Os C=O angle variance in the total oxygen  contribution: (a) damping of the amplitude as a function of k2,  (b) dephasing as a function of k.  489  Bond    Rdiffr  ~~~(AS  ~~QOQic  0~hern,QI    2.871(10)  2.877  2.7(5)  0.01  3.1  R0,.~  1.939(10)  1.929  2.2(5)  0.53    Rc..o  1.140(10)  1.140  1.1(5)  0.25  1.2  6OQ-C..O  180   (fixed)    49(10)  12.7    Volume 184, number 5,6  CHEMICAL PHYSICS LETTERS  4 October 1991  Table 1  Comparison of the relevant geometrical parameters obtained in our analysis (XAS) with diffraction results. The variances of bond  lengths and angle should be compared with the sum of the static and thermal contributions  [6] S.L. Cook, J. Evans, G.N. Greaves and N. Binsted, J. Chem.  Soc. Chem. Commun. (1985)1103.  [7] H.H. Lamb, M. Wolfer and B.C. Gates, J. Chem. Soc. Chem.  Commun. (1990) 1296.  [81 N. Binsted, S.L. Cook, J. Evans and G.N. Greaves, J. Phys.  (Paris) 47(1986)339.  [9] N. Binsled, S.L, Cook, J. Evans, G.N. Greaves and R.J.  Price, J. Am. Chem. Soc. 109 (1987) 3669.  [10] V.D. Alexiev, N. Binsted, J, Evans, G.N. Greaves and R.J.  Price, J. Chem. Soc. Chem. Commun. (1987) 395.  [il] N. Binsted, J. Evans, G.N. Greaves and R.J. Price, J. Chem.  Soc. Chem. Commun. (1987) 1330.  [12] P.A. LeeandJ.B. Pendry, Phys. Rev. B 11(1975)2795.  [13] S.J. Gurrnan, N. Binsted and I. Ross, J. Phys. C 19(1986)  1845.  [141 B.F. Johnson and J. Lewis, n: Inorganic synthesis, Vol. 13,  cd. FA. Cotton (McGraw-Hill, New York, 1972) p. 92.  [15] R. Psaro, C. Dossi and R. Ugo, J. Moi. Calai. 21 (1983)  331, and references therein.  [161 A. Filipponi, A. Di Cicco, T.A. Tyson and C.R. Natoli, Solid  State Commun. 78 (1991) 265.  [17] A. Filipponi, A. Di Cicco, M. Benfatto and C.R. Natoli,  Europhys. Letters 13(1990)319.  [18] A. Filipponi et al., unpublished.  [191 A. Di Cicco et al., Europhys. Letters (1991), submitted for  publication.  [20] L. Hedin and B.I. Lundqvist, J. Phys. C 4 11971) 2064.  [21] A. Fihpponi, J. Phys. Condensed Matter (1991), to be  published.  [22] M. Rowen Churchill and B.G. DeBoer, Inorg. Chem. 16  (1977) 878.  [23] M. Benfatto, CR. Natoli and A. Filipponi, Phys. Rev. B 40  (1989) 9626.  [24] CO. Quicksall and T.G. Spiro, Inorg. Chem. 7(1968) 2365.  [25] S.F.A. Kettle and P.L. Stanghellini. 1nor~ Chem. 18(1979)  2749.  [26] GA. Battison, G. Bor, U.K. DidIer, S.F.A. Kettle, R.  Rossetti, G. Sbrignadello and P. Stanghellini, Inorg. Chem.  19(1980)1961.  interaction implies partial loss of carbonyls and a  subsequent structural reorganization of the residual  CO molecules, driven by the electron density on the </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>9180023Q</aid>
+            <ce:pii>0009-2614(91)80023-Q</ce:pii>
+            <ce:doi>10.1016/0009-2614(91)80023-Q</ce:doi>
+            <ce:copyright type="unknown" year="1991"/>
+         </item-info>
+         <head>
+            <ce:title>Multiple-scattering analysis of the X-ray absorption spectrum of Os<ce:inf loc="post">3</ce:inf>(CO)<ce:inf loc="post">12</ce:inf> carbonyl cluster</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Filipponi</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Fisica, Università degli Studi dell'Aquila, Via Vetoio, 67010 Coppito - L'Aquila, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Di Cicco</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Matematica e Fisica, Università degli Studii Camerino, Via Madonna delle Carceri, 63032 Camerino (MC), Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Zanoni</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Bellatreccia</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Chimica, Università di Roma “La Sapienza”, Piazzale Aldo Moro 5, 00185 Rome, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>V.</ce:given-name>
+                  <ce:surname>Sessa</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Scienze e Tecnologie Chimiche, II Università di Roma “Tor Vergata”, Via O. Raimondo, 00173 Rome, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>C.</ce:given-name>
+                  <ce:surname>Dossi</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Psaro</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Chimica Inorganica e Metallorganica and Centro CNR, Università di Milano, Via G. Venezian 21, 20133 Milan, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="4" month="6" year="1991"/>
+            <ce:date-revised day="8" month="7" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A new theoretical approach has been used to analyze the X-ray absorption cross section of Os<ce:inf loc="post">3</ce:inf>(CO)<ce:inf loc="post">12</ce:inf> carbonyl cluster. The method is based on a direct fit of the experimental cross section which makes use of theoretical signals associated with relevant atomic configurations in the molecule. In the case of the OsCO arrangement, it has been found that the commonly employed multiple-scattering series converges slowly at low <ce:italic>k</ce:italic> values; the calculation has, therefore, been performed using a more efficient continued-fraction algrithm that provides the “exact” signal summed to all orders. An excellent agreement in the range <ce:italic>k</ce:italic>=2.7–14.0 Å<ce:sup loc="post">−1</ce:sup> has been obtained, basically using X-ray diffraction results.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.F.G.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lewis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Raithby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Wells</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Worthington</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>777</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1287</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>D'Ornelas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Choplin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Basset</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nouv. J. Chim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.B.M.</ce:given-name>
+                                 <ce:surname>Duivenvoorden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Koningsberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Uh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Gates</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6254</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Wells</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Worthington</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Moyes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>335</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Binsted</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1103</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Lamb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wolfer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Gates</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1296</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Binsted</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>339</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Binsted</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Price</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3669</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.D.</ce:given-name>
+                                 <ce:surname>Alexiev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Binsted</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Price</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>395</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Binsted</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Greaves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Price</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1330</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Pendry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2795</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Gurman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Binsted</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ross</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C 19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1845</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.F.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lewis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>F.A.</ce:given-name>
+                                    <ce:surname>Cotton</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Inorganic synthesis</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>13</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>92</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Psaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dossi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ugo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>331</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Filipponi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Di Cicco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Tyson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Filipponi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Di Cicco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Benfatto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Europhys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>319</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Filipponi et al., unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Di Cicco</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Europhys. Letters</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>submitted for publication</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hedin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.I.</ce:given-name>
+                                 <ce:surname>Lundqvist</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C 4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2064</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Filipponi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condensed Matter</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>to be published</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rowen Churchill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.G.</ce:given-name>
+                                 <ce:surname>DeBoer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>878</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Benfatto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Natoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Filipponi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9626</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.O.</ce:given-name>
+                                 <ce:surname>Quicksall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Spiro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2365</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.F.A.</ce:given-name>
+                                 <ce:surname>Kettle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Stanghellini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2749</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Battison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.K.</ce:given-name>
+                                 <ce:surname>Dietler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.A.</ce:given-name>
+                                 <ce:surname>Kettle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rossetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sbrignadello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Stanghellini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1961</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

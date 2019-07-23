@@ -1,0 +1,491 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261477804934</prism:url><dc:identifier>doi:10.1016/0009-2614(77)80493-4</dc:identifier><eid>1-s2.0-0009261477804934</eid><prism:doi>10.1016/0009-2614(77)80493-4</prism:doi><pii>0009-2614(77)80493-4</pii><dc:title>Application of the HNC approximation to systems of highly charged hard spheres (micelles) </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>52</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>493</prism:startingPage><prism:endingPage>496</prism:endingPage><prism:pageRange>493-496</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1977-12-15</prism:coverDate><prism:coverDisplayDate>15 December 1977</prism:coverDisplayDate><prism:copyright>Copyright © 1977 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Elkoubi, Denis</dc:creator><dc:creator>Turq, Pierre</dc:creator><dc:creator>Hansen, Jean-Pierre</dc:creator><dc:description>
+               Abstract
+               
+                  The HNC approximation for a solution of charged hard spheres is applied as a model of highly unsymmetrical electrolytes such as spherical polyelectrolytes and micelles.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261477804934" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261477804934" rel="scidir"/></coredata><scopus-id>0002302156</scopus-id><scopus-eid>2-s2.0-0002302156</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0002302156" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020117">2002-01-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020117">2002-01-17</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-25T16:56:25</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261477804934</xocs:eid>
+      <xocs:pii-formatted>0009-2614(77)80493-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261477804934</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(77)80493-4</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X12936</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150928">2015-09-28T00:36:42.69058-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19771215</xocs:date-search-begin>
+      <xocs:year-nav>1977</xocs:year-nav>
+      <xocs:indexeddate epoch="1011225600">2002-01-17T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>52</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>52</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 52, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>493</xocs:first-fp>
+      <xocs:last-lp>496</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>493</xocs:first-page>
+         <xocs:last-page>496</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19771215</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 December 1977</xocs:cover-date-text>
+      <xocs:cover-date-start>1977-12-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1977</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1977 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>APPLICATIONHNCAPPROXIMATIONSYSTEMSHIGHLYCHARGEDHARDSPHERESMICELLES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ELKOUBI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1A">
+            <xocs:ref-normalized-surname>MANNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>924</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1B">
+            <xocs:ref-normalized-surname>MANNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>934</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2A">
+            <xocs:ref-normalized-surname>RASALAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2742</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2B">
+            <xocs:ref-normalized-surname>RASAIAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3071</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4A">
+            <xocs:ref-normalized-surname>SPRINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4863</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4B">
+            <xocs:ref-normalized-surname>NG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2680</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1991</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ELKOUBIX1977X493</xocs:refkey3>
+         <xocs:refkey4lp>ELKOUBIX1977X493X496</xocs:refkey4lp>
+         <xocs:refkey4ai>ELKOUBIX1977X493XD</xocs:refkey4ai>
+         <xocs:refkey5>ELKOUBIX1977X493X496XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(77)80493-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261477804934</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261477804934</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(77)80493-4</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-28T00:36:42.69058-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1977-12-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261477804934-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261477804934/MAIN/application/pdf/e22f05c95868d8cd8ec955a8482462fa/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261477804934/MAIN/application/pdf/e22f05c95868d8cd8ec955a8482462fa/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>365458</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261477804934-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261477804934/PREVIEW/image/png/c19f1fde8c32287683f3403464f63ccf/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261477804934/PREVIEW/image/png/c19f1fde8c32287683f3403464f63ccf/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67552</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 52, number 3 CHEMICAL PHYSICS Lfc.llls.Ka    APPLICATION OF THE HNC APPROXIMATION  TO SYSTEMS OF HIGHLY CHARGED HARD SPHERES (MICELLES)    Denis ELKOUBI, Pierre TURQ  Laboratoire d'Electrochimie. Universit6 Pierre et Marie Curie. ERA 310. 75230 Paris Cedex 05, France    and    Jean-Pierre HANSEN    Laboratoire de Physique Theorique des Liquides, Universit6 Pierre et Marie Curie, ERA 453,    75230 Paris Cedex 05. France    Received 26 July 1977    The HNC approximation for a solution of charged hard spheres is applied as a model of highly unsymmetrical electro-  lytes such as spherical polyelectrolytes and micelles.    I. Introduction    The approach of macroscopic thermodynamical and  transport properties of complex systems by numerical  methods of statistical mechanics is considerably sim-  plified by the consideration of limiting physical mod-  els. For charged systems, the two most interesting  limiting models are the infinite line with a uniform or  periodical charge density and the uniformly charged  sphere. The former can be considered as the schematic  representation of linear polyelectrolytes such as poly-  sacchaddes and DNA, the latter as a crude draft for  globular polyelectrolytes (coil form), micelles and even  as a first approximation for some particular living cells  such as blood cells and some bacteria.    What results from the high charge density in both  linear and spherical cases is that even for the lowest  concentrations the ideal behaviour and also the Debye   Huckel limiting laws cannot represent the actual ex-  perimental properties of such systems. In the linear  case, more adequate limiting laws were derived by  Manning [1] for both thermodynamical and transport  properties.    The case of large highly charged particles presents  particular properties coming from the great dissymme-  try between the large particles and the small surround-  ing counterions. The electrostatic part of the interac-  tion can never be separated from the geometrical part,  since for a given charged large particle the strength of  the coulombic interaction at its surface will depend  directly on its radius. It is therefore understandable  that the range of validity of the Debye Hiickel limit-  ing law will be too far from concentrations of practi-  cal interest.    In this paper we study the thermodynamics and  structure of dissymmetric model systems consisting of  highly charged hard spheres and surrounding counter-  ions in the framework of the HNC approximation  which has proved to be very successful in the study of  coulombic systems: electrolytes [2], molten salts [3]  and the classical one and two component ionic plas-  mas [4,5].    2. The HNC approximation    The equilibrium pair structure of a two component  system is described by three pair correlation functions  hu,^r)(y,ii = 1,2) or alternatively by three direct cor-  relation functions: Cyn(r); the Fourier transforms  h^(k) and c^(k) of these functions are related by the  Omstein Zernike equations:    493    Volume 52, number 3 CHEMICAL PHYSICS LETTERS 15 December 1977    0)    h^(k) = c^(k) +p Z) ^/L(X)C(m(fc) ,  a=l    where p=N/Vis the total number density and the  x^ = Ny/N are the molar fractions of anions and cat-  ions; the charge neutrality condition isx^Z^ +x^Z^=  0 where the Z^ are the ionic charges.    Ifr^ and r^ are the ionic radii, the distances of  closest approach are respectively o^ = 2r^, o^ =  a^ = r^ + r^ and 033 = 2^; the model pair potentials  are then:    6-l=0P/p-l    =|i  cx/3JV+ jirp E Bx^o^ (a^),    (8)    where the second term on the rhs is the hard sphere  contact term. In the framework of the HNC approxi-  mation we can also express the excess chemical poten-  tials of the two species in terms of the h and c  [5]    2  fSfiy = S x.,    ,ex = 7. y  lv    ^l^    (r)= r&lt;a,    "Vfl    vfi -    7^'                (2)  where e is the elementary charge and e the dielectric  constant of the solvent.    Z^Z^/er,    r&gt;o,,    The perfect screening condition implies that [6]:    c^(r)-^ -13u^(r),                     (3)    where fS = IfkyT. Following Ng [4] we are thus led to  split the Uy^ for r&gt; Oy^ into i: "short range" and a  "long range" part.    vs,^r)=(Z^/er)eIf(ar),    (4)    u^(r) = (Z^fer) [1 - erf(ar)] ,    where the parameter a is at our disposal and is chosen,  for numerical convenience to be of the order of the  mean interionic spacing. We then define short-range  direct correlation functions:    c^(r)=c^(r)+^(r),                       (5)    whose Fourier transform is regular in the limit k -&gt; 0.  In terms of the c],(r), the HNC approximation for  the pair distribution functions gyu(r) = Ayy(r) + 1 reads:    g^(r) = exp [h^(r) - c^(r) - pu^(r)] .        (6)    Eq. (6) together with the Ornstein Zernike relations  (1) form a closed set of three integral equations which  we have solved by iteration for various values otr^,  / 2, Zi, Z-f_ and the concentration.    From the calculated pair distribution functions, we  can derive the excess internal energy per ion:    ___                                           00    pE^/N=(2wfSe'if€) D I^^Z^ / h^(r)rdr    (7)  and the osmotic coefficient:    494    I~      00    X [^p f g^(r:    X UP \ ^aM^m('-)-^u(^l^-^(0) .(9)    VfJiV 7 V Vfl\' f -Vfl    r)]dr-c^(0)\ .    Finally we define the coordination numbers Ny (num-  ber of v ions around a ju ion):    R    f*                  -     N^=4itpx^ j   g^r^dr,  CT^    (10)    where we have chosen the following convention:    ^-v/i= r^ + ^p = ^ + "vn                        (10    3. Results    We briefly present the results of our HNC calcula-  tions for aqueous solutions of 6 1 electrolytes of var-  ious concentration and for two sets of ionic radii:    /+ =: r_ = 2.1 A (case a) and r+ = 2.1 A, r_ = 4.2 A  (case 0).    In fig. 1 we show an example of pair distribution  functions; the^+_(r) function is seen to vary rapidly  near contact where it exhibits a pronounced peak due  to the coulombic attraction. This rapid variation  poses several numerical problems, since a very small  step Ar in r space must be used in the integrations at  low concentrations, where the contact value ofg+_  is largest; we have in fact used a variable step integra-  tion technique, with a small step (Ar/r_ w 0.005)  near contact and a much larger step (Ar/r_ as 0.05)  for greater interionic spacings, where the pair distribu-  tion functions are much more slowly varying. This  variable step technique will allow us to extend the  HNC calculations to even large values ofZ_.    In the actual systems (cases a and 0) the most inter-    Volume 52. number 3 CHEMICAL PHYSICS LETTERS 15 December 1977    gtrl    a.*          /    /    /9-    SA            IP              15              20    Fig. 1. Radial distribution functions for a 0.2 M 6 1 electro-  lyte. r+= 2.1 A, r_ = 2.1 A.    esting results, from a chemical point of view, concern  the radial distribution functions and the coordination  numbers.    Radial distribution functions    In table 1 are presented the values of^(Oyp).  g+_(cr.i__) decreases generally with increasing density.  In case P,g+_(a+_) presents a minimum for the con-  centration 0.5 M.  In case fS,g^(a^) is always larger than I. This result    indicates that many positive ions are in contact, pre-  sumably at the surface of a negative one.  In case a, g^(a++) presents a minimum (larger than 1)  for c = 0.5 M.    ^__(o__) has only non-zero values for the highest  concentrations of case (3.    Coordination numbers    From (10) appear four coordination numbers N^.,  N__,N+_ and YV_+ which are presented in table 1.    Case a: N^._ varies between 3 and 6.4. The first re-  gion below the minimum of^++ corresponds to a con-  tinuous change from a bicoordinated to a tetracoor-  dinated anion with a negative apparent charge Zg- =  Z_   ^v+_ between  3 and  1. The second region  beyond the minimum ofg^. exhibits an increase in  the coordination number of the anion tending almost  to an octahedric coordinated species of zero net charge.  The values ofN^+ increase with the concentration,  with a jump after the minimum o{g^ as required by  the two state description (tetrahedric and octahedric).  ^V_+ is always near or smaller than 1, showing that  the coordinated species are definite entities with only  one anion, as indicated by N_ _ which is still zero.    Case (3: N+_ varies between 2.3 and 12.9. Here also  appears a transition with increasing concentration.  Below 0.5 M (minimum ofg+_), we have an almost  tetracoordinated or tricoordinated anion. After the  minimum o{g^._,N^._ increases rapidly, but the sur-    Table 1  Results for unsymmetrical 6 1 electrolytes        ca) ^++(o++)b) 8  (a  -)b) g-^-(o^- )") A4+C) N c) N^.c) AT+C) 7 d)  ^ap - 06) -E-ex/MfcT- f&gt;  Case a: r+= 2.1 A, r =2.1 A            0.2 1.2147 0  22.254  0.7335 0  3.0999 0.51 -2.90 0.486 4.06  0.35 L1873 0  13.9707  1.210 0  4.62 0.77 -1.38 0.517 4.40  0.5 1.1452 0  11.1329  1.662 0  4.669 0.778 -1.331 0.641 4.58  0.75 1.2578 0  8.1563  2.5 0  6.134 1.022 +0.134 0.817 4.85  1 1.3241 0  7.1347  3.338 0  6.415 1.069 +0.415 1.110 5.01  Case 0: r+  = 2.1 A, r = 4.2 A  0.1 0.6914 0.00008  9.2526  0.2289 0  2.278 0.3797 -3.722 0.6,45 2.67  0.25 0.7334 0.0008  5.5145  0.61 0.165 3.97 0.662 -2.03 0.807 3.08  0.5 0.9141 0-007  4.4648  1-39 0.7993 6.4231 1.07 -0.4281 1.281 3.44  0.75 1.2738 0.042  4.6334  2.41 2.3  9.44 1.57 +3.44 2.105 3.71  1 1.6572 0.1924  5.6067  3.437 3.85 12.9 2.15 +6.9 3.559 3.87-    a) c concentration molar, h) Radial distribution functions at contact. c) Apparent charge of the anion. d) Osmotic coefficient.  c) Excess energy.    495    Volume 52, number 3 CHEMICAL PHYSICS LETTERS 15 December 1977    rounding cations cannot be attributed to a definite  anion. The values ofg__,N__ and N_+ show clearly  that two or more anions have a pool of cations in com-  mon. Physically, the electrostatic repulsion forces  between the large anions are not great enough to pre-  vent the formation of such clusters.    Acknowledgement    Two of the authors (E. Elkoubi and P. Turq) wish  to thank C. Moser, Director of the CECAM, for gener-  ous allocation of computing time.    4. Conclusion    The application of the HNC approximation to high-  ly dissymmetric ionic systems permits one to obtain  the thermodynamical and structural properties in the  concentration range of aqueous solutions. The studied  system (anion of charge 6 and monovalent cations)  could be a model for some polyphosphates or analo-  gous solutions. The extension of this work to more un-  symmetrical electrolytes should permit the study of a  great variety of systems of physical interest, including  globular polyelectrolytes and micelles.    References    [11 G.S. Manning, J. Chem. Phys. 51 (1969) 924, 934.  [2] J.C. Rasaiah and H.L. Friedman, J. Chem. Phys. 48    (1968)2742:    J.C. Rasaiah, J. Chem. Phys. 56 (1972) 3071.  [31 J.-P. Hansen and LR. MacDonald, Phys. Rev. All (1975)    2111.  [4] J.F- Springer, M.A. Pokrani and F.A. Stcvens, J. Chem.    Phys. 58 (1973) 4863;    K.C. Ng, J. Chem. Phys. 61 (1974) 2680.  [51 J.-P. Hansen and P. Vieillefosse, Phys. Rev. Letters 37    (1976)391.  [6] F.H- Stillinger and R. Lovett, J. Chem. Phys. 49 (1968)    1991.    496  tion 0.5 M.  In case fS,g^(a^) is always larger than I. This result    indicates that many positive ions are in contact, pre-  sumably at the surface of a negative one.  In case a, g^(a++) presents a minimum (larger than 1)  for c = 0.5 M.    ^__(o__) has only non-zero values for the highest  concentrations of case (3.    Coordination numbers    From (10) appear four coordination numbers N^.,  N__,N+_ and YV_+ which are presented in table 1.    Case a: N^._ varies between 3 and 6.4. The first re-  gion below the minimum of^++ corresponds to a con-  tinuous change from a bicoordinated to a tetracoor-  dinated anion with a negative apparent charge Zg- =  Z_   ^v+_ between  3 and  1. The second region  beyond the minimum ofg^. exhibits an increase in  the coordination number of the anion tending almost  to an octahedric coordinated species of zero net charge.  The values ofN^+ increase with the concentration,  with a jump after the minimum o{g^ as required by  the two state description (tet</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>77804934</aid>
+            <ce:pii>0009-2614(77)80493-4</ce:pii>
+            <ce:doi>10.1016/0009-2614(77)80493-4</ce:doi>
+            <ce:copyright type="unknown" year="1977"/>
+         </item-info>
+         <head>
+            <ce:title>Application of the HNC approximation to systems of highly charged hard spheres (micelles)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Denis</ce:given-name>
+                  <ce:surname>Elkoubi</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Pierre</ce:given-name>
+                  <ce:surname>Turq</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire d'Electrochimie, Université Pierre et Marie Curie, ERA 310, 75230 Paris Cedex 05, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jean-Pierre</ce:given-name>
+                  <ce:surname>Hansen</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire de Physique Théorique des Liquides, Université Pierre et Marie Curie, ERA 453, 75230 Paris Cedex 05, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="26" month="7" year="1977"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The HNC approximation for a solution of charged hard spheres is applied as a model of highly unsymmetrical electrolytes such as spherical polyelectrolytes and micelles.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="BIB1A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Manning</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>924</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB1B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Manning</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>934</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="BIB2A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Rasalah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2742</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB2B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Rasaiah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3071</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>MacDonald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="BIB4A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Springer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Pokrani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4863</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB4B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Ng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2680</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vieillefosse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>391</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lovett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1991</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

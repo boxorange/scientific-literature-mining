@@ -1,0 +1,620 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261480800911</prism:url><dc:identifier>doi:10.1016/0009-2614(80)80091-1</dc:identifier><eid>1-s2.0-0009261480800911</eid><prism:doi>10.1016/0009-2614(80)80091-1</prism:doi><pii>0009-2614(80)80091-1</pii><dc:title>A particle-hole model for light scattering by simple fluids </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>70</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>194</prism:startingPage><prism:endingPage>198</prism:endingPage><prism:pageRange>194-198</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1980-02-15</prism:coverDate><prism:coverDisplayDate>15 February 1980</prism:coverDisplayDate><prism:copyright>Copyright © 1982 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Keyes, T.</dc:creator><dc:description>
+               Abstract
+               
+                  The intensity, I, of depolarized light scattered by simple fluids is calculated by modeling the fluid as a dilute gas of dielectric spheres at low density and as a dilute gas of spherical holes in a dielectric continuum at high density. It is shown that a pair of spheres has more inherent scattering power than a pair of holes. Thus, at liquid density, I is smaller than would be predicted by using gas-phase scattering theory plus liquid-state statistics, as has generally been done in the past; the implications of our result for existing theories are discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261480800911" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261480800911" rel="scidir"/></coredata><scopus-id>49149142094</scopus-id><scopus-eid>2-s2.0-49149142094</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49149142094" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011107">2001-11-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011107">2001-11-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-04T17:30:31</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261480800911</xocs:eid>
+      <xocs:pii-formatted>0009-2614(80)80091-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261480800911</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(80)80091-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X03624</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T14:24:57.183357-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19800215</xocs:date-search-begin>
+      <xocs:year-nav>1980</xocs:year-nav>
+      <xocs:indexeddate epoch="1005091200">2001-11-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>70</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>70</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 70, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>45</xocs:sort-order>
+      <xocs:first-fp>194</xocs:first-fp>
+      <xocs:last-lp>198</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>194</xocs:first-page>
+         <xocs:last-page>198</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19800215</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 February 1980</xocs:cover-date-text>
+      <xocs:cover-date-start>1980-02-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1980</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1982 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>APARTICLEHOLEMODELFORLIGHTSCATTERINGBYSIMPLEFLUIDS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KEYES</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>FLEURY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>164</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GORWALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1288</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>SGABELNICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2334</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BURNHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3289</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>281</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>THIBEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>640</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KEYES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>479</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KEYES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5438</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>FIXMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2074</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CLARKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>301</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CLARKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHDTHESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KEYESX1980X194</xocs:refkey3>
+         <xocs:refkey4lp>KEYESX1980X194X198</xocs:refkey4lp>
+         <xocs:refkey4ai>KEYESX1980X194XT</xocs:refkey4ai>
+         <xocs:refkey5>KEYESX1980X194X198XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(80)80091-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261480800911</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261480800911</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(80)80091-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T14:24:57.183357-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1980-02-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261480800911-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480800911/MAIN/application/pdf/62da1e9534163ede24c8489413cbe6a9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480800911/MAIN/application/pdf/62da1e9534163ede24c8489413cbe6a9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>384297</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261480800911-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480800911/PREVIEW/image/png/cd6266201bcd60394bc2435ebae3df09/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480800911/PREVIEW/image/png/cd6266201bcd60394bc2435ebae3df09/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63634</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 70, number 1 CHEMICAL PHYSICS LETTERS 15 February 1980    A PARTICLE-HOLE MODEL FOR LIGHT SCATTERING BY SIMPLE FLUIDS +    T KEYES^    Sterling Chemistry Laboratory Yale University,    New Haven Connecticut 06520, USA    Received 24 October 1979, in final form 4 December 1979    The intensity,/, of depolarized light scattered by simple fluids is calculated by modeling the fluid as a dilute gas of dielec-  tric spheres at low density and as a dilute gas of spherical holes in a dielectric continuum at high density It is shown that a  pair of spheres has more inherent scattering power than a pair of holes Thus, at liquid density, / is smaller than would be  predicted by using gas-phase scattering theory plus liquid-state statistics, as has generally been done in the past; the impli-  cations of our result for existing theories are discussed    1. Introduction    One oftlie more interesting current cliallenges to theorists in the area of light scattering is to explain the sub-  stantial reduction in depolarized intensity,/, which occurs for fluids composed of spherical [1] and nonspherical  [2] molecules upon passage from dense gas to liquid- In this paper, we discuss scattering from isotropic particles.  The phenomenon is qualitatively understood, density fluctuations are suppressed in a liquid, the system appears  more uniform to the light beam, and less scattering occurs. However, existing calculations [3] of/ for argon (a  good "test case"), while showing some decrease in the liquid, still predict == 10 times too much intensity.    A light scattering intensity calculation proceeds in two steps- (a) an approximation must be made to the mul-  tiple-scattering series for a given configuration of tlie fluid, (b) an average must be performed over configurations  The suppression of density fluctuations in the liquid is, of course, contained in (b) Most existing theories [3,4]  have tned to carry out a satisfactory, liquid-like treatment of(b), while basically, in various guises, using a low  density, gas-like treatment of (a) The work ofThibeau et al. [4] is intuitively very appealing in this regard. The  fluid is modeled as a lattice whose sites may be occupied by (e g , argon) atoms At low density, few sites are oc-  cupied, and little scattering occurs. At high density, the lattice is nearly a perfect one, which, like a vacuum, does  not scatter, in this case, "holes", which are few, may be considered as doing the scattering The intensity is then  calculated at low density and at high density, and an expression is chosen which reproduces both limits A simple  such expression is [4]    I=c(p*)2(l-p'')^(pf),                                                      (i)    where C is a constant, p* is the density, p, in units of the perfect-lattice density; 1   p* is the hole density, P),,  and S11 is an average over the density-dependent particle pair distribution function ofr~6. Eq (1) predicts that  / vanishes at high as well as low densities in a way that is physically transparent It is important, for our purposes,  to note that the coefficients which multiply the p* -&gt;  0 (p*)2 behavior of/and the ?*-&gt; ! (p]S)2 behavior differ  only as511 varies with p*;S11 will surely vary, but, presumably, not by an immense amount. Thus, even though  a liquid is not really a lattice, and such parameters as the perfect-lattice density and the lattice spacing must re-    * Supported by the NSF    * Dreyfus Teacher Scholar    194    Volume 70, number 1                    CHEMICAL PHYSICS LETTERS                       IS February 1980    main slightly adjustable, we find the particle hole approach attractive. At the least, it may be regarded as a model  which demonstrates the physical phenomena of interest.    In all their work, Thibeau et al. [4] have used an approximation to scattering theory (step (a) in the last para-  graph) which is valid for low densities That is, they have worked out the consequences of the statistics of the  lattice model [step (b)] at low and high density, for those scattering events which are dominant at low density.  In the language which we have used in two recent papers [5], Thibeau et al. calculate IQQ, the "double double"  scattering intensity ("double" refers to light scattered twice by two particles). We have argued that, at liquid den-  sities, one cannot assume that / == IJ)D'&gt; an&lt;^ tnat herein ^les tne discrepancy between theory and experiment men-  tioned earlier    The particle hole model provides a natural vehicle to check our conjectures. At low density, / sa IQQ, and no  more need be done. At high density, however, it is true that / s= I^Q, the intensity of light scattered by two holes-  /^p ls not tne same as /pp evaluated at high density, but is a resummation of the multiple-particle scattering se-  ries. Thus, rather than calculate/ ., at high and low density, it is logical to calculate IQQ a1 low density and/"}  at high density, with, possibly, a consequent combination of the two limits in a closed-form expression. If that  closed form predicts an intensity which is significantly less than /DD [e g., eq. (1)] at liquid densities, then, within  the model, our earlier criticisms of assuming /  s /pp are sustained.    In the rest of the paper, we cany out the indicated program, with some modifications. Since a liquid is not an  imperfect crystal, the lattice formulation is not essential to a particle hole theory. Thus, we shall model the low-  density gas as dielectric spheres in a vacuum, and the high-density liquid as spherical holes in a dielectric con-  tinuum The continuum particle hole theory is more tractable than the lattice version, and, arguably, more real-  istic as well.    2. General scattering theory    Fixman [6] lias shown how to construct a localized source for light scattering from a system which consists of  a subsystem of interest surrounded by a continuum of dielectric constant e^; the source is    S(r) = P(r) - [(e^ - l)/47r] -(r) ,                                                                         (2)    P is the polarization, and E is the Maxwell electric field. The Fixman source has the essential property of vanishing  everywhere but in the subsystem of interest In our case, the subsystem is also a dielectric, so we have    P(r) = [(egg - 1 )/47r] E(r),    r   subsystem ,    = [(ec - l)/47r] '(r),    r   continuum,                                                        (3)  and    S(r) = [(ess   e(;)/4ir] E(r),   r e subsystem ,    =0,                    r   continuum                                                         (4)  If we let the electric field far from the subsystem, EQ, lie along the z axis, then, in arbitrary units    1= fdrdr'^SX(r)SX(r')),                                                                     (5)    where &lt; &gt; denotes an equilibrium ensemble average. The integral is over the scattering volume, and the space out-  side the scattering volume is assumed [6] to be filled with continuum.    According to eqs. (4) and (5), we require the electric field within the subsystem A straightforward exercise in  classical electrostatics yields    E(r) =  -0 + (l/6c) JdrT(r-r). S(r) ,                                                       (6)  195    Volume 70, number 1                     CHEMICAL PHYSICS LETTERS                        15 February 1980    where T is the dipole tensor. Eq. (6) should be compared with a more familiar result, in which  "Q is the field be-  fore the introduction of the sample, e;; is absent, and P appears in place of 5'. That result naturally yields an expan-  sion about a vacuum, while the zero order solution ofeq (6) is the field in a uniform continuum with dielectric  constant e;;. In theories of the latter type, as Fixman has shown, S replaces P, the source for scattering from near  vacuum. Either expansion may be used in principle, but eq. (6) is indicated in practice, since P is nonzero in the  continuum and does not provide a source localized to the scattering volume. Eq. (6) may be rewritten with the  use ofeq. (4),    S(r) = [(ess - ec)/4T] o + [(^ss - ee)/47reJ f dr'T(r -r)   S(r) ,                                   (7)    and r and r are confined to the subsystem   the continuum has been completely eliminated from any explicit  role in the calculations    3. Low density. Scattering from two spheres    Since a single dielectric sphere gives no depolarized scattering, we have at low density,    I=N(N-\)  f  drdr'&lt;S^(r)S^(r')).                                                          (8)    r,r'ess    where N is the number of particles. S^ is the contribution to S of a given (arbitrarily denoted 12) pair of spheres  Spl and Sp2, and r and r are confined to the interior of the two spheres. For spheres of internal dielectric  constant e, in vacuum, we have eq (7) with e^ =  , and e;; = 1. Thus,    S(reSpl)=l(e,-l)/47r] o+[(ei-l)/4"]r /  dr' T(r - r)   S(r) + /  dr' T(r - r') - S(/)1.   (9)    L r'eSpl                   r'eSp2                 -l  Now, eq (9) is a complicated integral equation, as evidenced by the fact that the problem of two dielectric spheres  in an electric Field lias not been solved in closed form Solutions may be achieved, however, with some reasonable  assumptions. First, we assume that S is constant (S1 and S2) over each sphere and evaluate it at the center, then,    5l=l(e,-l)/47r] o+[(e,-l)/47r](-l7r5l+r /  dr'T(r-r')1-S2|.                          (10)    [        ^-r'eSpl           -J    &gt;  with a related equation forS2.    Eq (10) is still nontnvial, due to the integral on the right hand side The integral arises because a finite sized  dielectric sphere does not polarize a neighbor as if it were a point- It now appears [7], however, that two atoms  in an electric field may be very well treated as two interacting points. Thus, as our second approximation, we re-  place eq (10) by its limiting form for large separation of the two spheres,    ^^^^O^^T^)!^.^,                                               (11)    where a is the radius of the sphere. Eq (11) is easily solved by noting that, under the current approximations,  &gt;S1 = S2; recalling that the ys are constants, we find    / dr'5l+ / dr S2=2 -^a^-   ^^^(r^)\~l Eo.                           (12)  r'eSpl       r-eSp2         -1 -   L   -* -        J    Eq. (12) is identical to the low density result t obtained for atoms with point polanzabilities, Q, if we make the  correspondence,  f For a review, see ref. [8].    196    Volume 70, number 1                    CHEMICAL PHYSICS LETTERS                       IS February 1980    a=[(e,-l)/(e,+2)]a3.                                                                      (13)  Eq (13) is in accord with the usual definition of a,    |t= a -o ,                                                                                    (14)    where 4 is the dipole moment induced in an isolated particle in a uniform applied field, EQ. The field inside the  sphere is [3/(e, + 2)] EQ, the polarization is (3/47r)((e, - l)/(ei+ 2)}EQ, and the total dipole is ((e,   l)/(e, + 2)]  X O^EQ. Eqs. (8) and (12) may be combined to obtain the low density intensity,    00    lim (//| o I2 V) = C^a4 f dr r2^2)(,.)r-6 [ i _ a/r3 - 2a2/r6] -2 ,                               (15)  where Vis the scattering volume andg^ the low density pair distribution function.    4. High density. Scattering from two holes    The calculation of scattering from two holes proceeds in perfect correspondence with the calculation in sec-  tion 3 In eq. (8), N^ replaces JV. We now have 655 = I (subsystem is vacuum) and e,; = e, where e is the dielectric  constant of the liquid Our two approximations then give (I now denotes hole number 1, ..)    Sl = -[(e - l)/47r] o - [(e - l)/47re] [-| ir5l +1 n^T^^)   S2] ,                               (16)  or, as before,    / dr'Sl+ / drS2=-2ep[l+pT(ri2)]-l- o,                                        (17)  r'ehl       r'eh2    with    P=[(e-l)/(26+l)]a3.                                                                      (18)    Eq (17) is a new result, giving the "scattering power" of two holes. It is similar to the two particle result expres-  sion, eq. (12), and may be obtained from eq (12) by. (a) multiplication of e, and(b) replacement of a with  fi.  The intensity is now immediately obtained,    00    lim (//| -ol2^) = Cp^e2^ f dr/-2^2^/-)/-^ [1 +/3/r3 -2&lt;!2//6]-2 ,                          (19)  "h^0                    o    where g^2^ is the hole pair distribution function.    5. Discussion    The deviation of the square bracket in eqs. (19) and (15) from unity is known to be small, so, to good accuracy,    //| o|2^= Cp2a4 f drg&lt;2)(r)r-4,      p ^0 ,  0    oa    = Cp^e2 / d/-^t2^1)(/ )^-4,   Ph ^ 0 -                                                   (20)  u    197    Volume 70, number I                    CHEMICAL PHYSICS LETTERS                       15 February 1980    To proceed further, it is necessary to deal with^211), a complicated problem in general. Suppose the atoms are  hard spheres; then,    hm g^(.r)=0,  r&lt;2a,  p-&gt;0    =1, r&gt;2a.                                                               (21)    It seems reasonable to assume, for simplicity, thatg^2^ is also given by eq (21). Holes clearly cannot overlap, as  this would correspond to removing two overlapping atoms from the "perfect" system, so the first line ofeq. (21)  holds for^t21^. It is surely likely that pairs of holes are not randomly distributed for r&gt; la (second line) but that  problem is beyond the scope of this article. Note that we are not assuming g^(p -   0) = g^(p^ - -0). Our as-  sumptions are in accord with those made in the lattice model, and the point of this article is to solve a new scat-  tering problem, not to introduce improved statistics Thus,    laa4?2,    p-^0,  "e2^4?2, Ph^O.                                                               (22)    To compare the p2 and p- coefficients, it is convenient to substitute the extremely accurate Clausius Mossotti  relation,    6-1 =47r[(e+2)/3]a*p*,                                                                  (23)    into eq (18) for |3, p* is now the dimensionless particle density appropriate to liquid-state theory, p* = p(2a)3,  and a* = a/(2a)3. We finally obtain    / &lt;x a4?2,                              low density;     :ot4{el/2(l^/6)[(e+2)/(2e+l)]p&lt;'}4p2, high density.                                           (24)    Due to the quantity in braces (denoted A) in eq (24), the coefficient multiplying p2 at low density differs from  the coefficient multiplying p2 at high density. This is a direct consequence of our solving different scattering prob-  lems at low and high density. Taking e = 1.5 and p* = 0.8 as typical of an inert gas liquid, we find A= 0 45, A4 =  0.04 Thus, within our model, the coefficient multiplying p2 at high densities is very much smaller than the p2  coefficient at low densities However, the lattice work [4] shows that the high and low density coefficients for  double-double scattering will mainly differ as S11 differs between low and high densities, a factor of 0.04 is in-  conceivable in this regard, and, in any event, would be related to statistics and not to scattering theory. Thus we  have /pi) &gt; /(liquids), even though /pp -&gt;  0 as ?  -&gt;  0, / vanishes faster, in agreement with our earlier work [5].  We have basically shown that two holes have less scattering power than two particles. An interpolation with the  form ofeq (1) is unsatisfactory, one simple possibility is/" A^4?2?2/^ + p2^4   1)].    References    [1 ] PA. Fleury and J P. MacTague, Opt Common 1 (1969) 164,    W.S GorwaU, H E. Howard-Lock and B.P. Stoicheff, Phys Rev. A2 (1970) 1288,    H S. Gabelnick and H L. Strauss, J. Chem. Phys 49 (1968) 2334  [21 A K. Bumham, G R Alms and W H Flygare, J. Chem Phys. 62 (1975) 3289.  [3] B J. Alder, J J Weis and H L Strauss, Phys Rev. Z7 (1973) 281  [4] M. Thibeau, A. Gharbi, Y. LeDuffand V. Sergiescu, J. Phys (Paris) 6 (1977) 640, and references therein.  [5] T Keyes,BM Ladanyi and P Madden, Chem Phys Letters 64 (1979) 479;    T Keyes,J.Chem Phys 70(1979)5438  [6] M. Fixman, J. Chem Phys 23(1955)2074.  [7] K L. Clarke, P A. Madden and A.D. Buckingham, Mol Phys 36 (1978) 301,    K.L. Clarke, Ph.D Thesis, University of Cambridge (1978).  [8] W M Gelbart, Advan. Chem. Phys. 26 (1974) 1.    198  .  The intensity is now immediately obtained,    00    lim (//| -ol2^) = Cp^e2^ f dr/-2^2^/-)/-^ [1 +/3/r3 -2&lt;!2//6]-2 ,                          (19)  "h^0                    o    where g^2^ is the hole pair distribution function.    5. Discussion    The deviation of the square bracket in eqs. (19) and (15) from unity is known to be small, so, to good accuracy,    //| o|2^= Cp2a4 f drg&lt;2)(r)r-4,      p ^0 ,  0    oa    = Cp^e2 / d/-^t2^1)(/ )^-4,   Ph ^ 0 -                                                   (20)  u    197    Volume 70, number I                    CHEMICAL PHYSICS LETTERS                       15 February 1980    To proceed further, it is necessary to deal with^211), a complicated problem in general. Suppose the atoms are  hard spheres; then,    hm g^(.r)=0,  r&lt;2a,  p-&gt;0    =1, r&gt;2a.                                                               (21)    It seems reasonable to assume, for simplicity, thatg^2^ is also given by eq (21). Holes clearly cannot overlap, as  this would correspond to removing two overlapping atoms from the "perfect" system, so the first line ofeq. (21)  holds for^t21^. It is surely likely that pairs of holes are not randomly distributed for r&gt; la (second line) but that  problem is beyond the scope of this article. Note that we are not assuming g^(p -   0) = g^(p^ - -0). Our as-  sumptions are in accord with those made in the lattice model, and the point of this article is to solve a new scat-  tering problem, not to introduce improved statistics Thus,    laa4?2,    p-^0,  "e2^4?2, Ph^O.                                                               (22)    To compare the p2 and p- coefficients, it is convenient to substitute the extremely accurate Clausius Mossotti  relation,    6-1 =47r[(e+2)/3]a*p*,                                                                  (23)    into eq (18) for |3, p* is now the dimensionless particle density appropriate to liquid-state theory, p* = p(2a)3,  and a* = a/(2a)3. We finally obtain    / &lt;x a4?2,                              low density;     :ot4{el/2(l^/6)[(e+2)/(2e+l)]p&lt;'}4p2, high density.                                           (24)    Due to the quantity in braces (denoted A) in eq (24), the coefficient multiplying p2 at low density differs from  the coefficient multiplying p2 at high density. This is a direct consequence of our solving different scattering prob-  lems at low and high density. Taking e = 1.5 and p* = 0.8 as typical of an inert gas liquid, we find A= 0 45, A4 =  0.04 Thus, within our model, the coefficient multiplying p2 at high densities is very much smaller than the p2  coefficient at low densities However, the lattice work [4] shows that the high and low density coefficients for  double-double scattering will mainly differ as S11 differs between low and high densities, a factor of 0.04 is in-  conceivable in this regard, and, in any event, would be related to statistics and not to scattering theory. Thus we  have /pi) &gt; /(liquids), even though /pp -&gt;  0 as ?  -&gt;  0, / vanishes faster, in agreement with our earlier work [5].  We have basically shown that two holes have less scattering power than two particles. An interpolation with the  form ofeq (1) is unsatisfactory, one simple possibility is/" A^4?2?2/^ + p2^4   1)].    References    [1 ] PA. Fleury and J P. MacTague, Opt Common 1 (1969) 164,    W.S GorwaU, H E. Howard-Lock and B.P. Stoicheff, Phys Rev. A2 (1970) 1288,    H S. Gabelnick and H L. Strauss, J. Chem. Phys 49 (1968) 2334  [21 A K. Bumham, G R Alms and W H Flygare, J. Chem Phys. 62 (1975) 3289.  [3] B J. Alder, J J Weis and H L Strauss, Phys Rev. Z7 (1973) 281  [4] M. Thibeau, A. Gharbi, Y. LeDuffand V. Sergiescu, J. Phys (Paris) 6 (1977) 640, and references therein.  [5] T Keyes,BM Ladanyi and P Madden, Chem Phys Letters 64 (1979) 479;    T Keyes,J.Chem Phys 70(1979)5438  [6] M. Fixman, J. Chem Phys 23(1955)2074.  [7] K L. Clarke, P A. Madden and A.D. Buckingham, Mol Phys 36 (1978) 301,    K.L. Clarke, Ph.D Thesis, University of Cambridge (1978).  [8] W M Gelbart, Advan. Chem. Phys. 26 (1974</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>80800911</aid>
+            <ce:pii>0009-2614(80)80091-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(80)80091-1</ce:doi>
+            <ce:copyright type="unknown" year="1982"/>
+         </item-info>
+         <head>
+            <ce:title>A particle-hole model for light scattering by simple fluids</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Keyes</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Sterling Chemistry Laboratory Yale University, New Haven Connecticut 06520, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Dreyfus Teacher—Scholar.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="24" month="10" year="1979"/>
+            <ce:date-revised day="4" month="12" year="1979"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The intensity, <ce:italic>I</ce:italic>, of depolarized light scattered by simple fluids is calculated by modeling the fluid as a dilute gas of dielectric spheres at low density and as a dilute gas of spherical holes in a dielectric continuum at high density. It is shown that a pair of spheres has more inherent scattering power than a pair of holes. Thus, at liquid density, <ce:italic>I</ce:italic> is smaller than would be predicted by using gas-phase scattering theory plus liquid-state statistics, as has generally been done in the past; the implications of our result for existing theories are discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Fleury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>MacTague</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Common.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>164</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>bi</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Gorwall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.E.</ce:given-name>
+                                 <ce:surname>Howard-Lock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.P.</ce:given-name>
+                                 <ce:surname>Stoicheff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1288</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>bii</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>S. Gabelnick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2334</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Burnham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Alms</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Flygare</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3289</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>Z7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>281</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Thibeau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gharbi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>LeDuff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sergiescu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>640</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>479</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5438</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fixman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1955</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2074</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Buckingham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>301</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Ph.D. Thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of Cambridge</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

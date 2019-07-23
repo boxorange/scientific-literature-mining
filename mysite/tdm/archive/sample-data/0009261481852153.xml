@@ -1,0 +1,333 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261481852153</prism:url><dc:identifier>doi:10.1016/0009-2614(81)85215-3</dc:identifier><eid>1-s2.0-0009261481852153</eid><prism:doi>10.1016/0009-2614(81)85215-3</prism:doi><pii>0009-2614(81)85215-3</pii><dc:title>A comparison of the multipole-expansion and point-charge models of the electrostatic energy between polar diatomic molecules </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>77</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>601</prism:startingPage><prism:endingPage>603</prism:endingPage><prism:pageRange>601-603</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1981-02-01</prism:coverDate><prism:coverDisplayDate>1 February 1981</prism:coverDisplayDate><prism:copyright>Copyright © 1981 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Thomas Brobjer, J.</dc:creator><dc:creator>Murrell, John N.</dc:creator><dc:description>
+               Abstract
+               
+                  A comparison is made of the multipole-expansion and point-charge models of the electrostatic energy for the dimers (HF)2 and (LiH)2. For the same degree of computational effort the point-charge models are better, and a two-site model with otf-atom sites performs consistently well.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261481852153" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261481852153" rel="scidir"/></coredata><scopus-id>49049146961</scopus-id><scopus-eid>2-s2.0-49049146961</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49049146961" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011127">2001-11-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011127">2001-11-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-03T20:21:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261481852153</xocs:eid>
+      <xocs:pii-formatted>0009-2614(81)85215-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261481852153</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(81)85215-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07816</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151005">2015-10-05T04:59:28.099715-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19810201</xocs:date-search-begin>
+      <xocs:year-nav>1981</xocs:year-nav>
+      <xocs:indexeddate epoch="1006819200">2001-11-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>77</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>77</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 77, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>38</xocs:sort-order>
+      <xocs:first-fp>601</xocs:first-fp>
+      <xocs:last-lp>603</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>601</xocs:first-page>
+         <xocs:last-page>603</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19810201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 February 1981</xocs:cover-date-text>
+      <xocs:cover-date-start>1981-02-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1981</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1981 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ACOMPARISONMULTIPOLEEXPANSIONPOINTCHARGEMODELSELECTROSTATICENERGYBETWEENPOLARDIATOMICMOLECULES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>THOMASBROBJER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>POWLES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>893</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>NG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>699</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>MCDONALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>KLEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>THOMASBROBJERX1981X601</xocs:refkey3>
+         <xocs:refkey4lp>THOMASBROBJERX1981X601X603</xocs:refkey4lp>
+         <xocs:refkey4ai>THOMASBROBJERX1981X601XJ</xocs:refkey4ai>
+         <xocs:refkey5>THOMASBROBJERX1981X601X603XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(81)85215-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261481852153</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261481852153</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(81)85215-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-05T04:59:28.099715-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1981-02-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261481852153-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481852153/MAIN/application/pdf/33fbedf94bdb318da741cffcab2984b2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481852153/MAIN/application/pdf/33fbedf94bdb318da741cffcab2984b2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>262428</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261481852153-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481852153/PREVIEW/image/png/ca18cabf784bf91d1e7fddee3ed7dadf/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481852153/PREVIEW/image/png/ca18cabf784bf91d1e7fddee3ed7dadf/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>72455</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 77, number 3 CHEMICAL PHYSICS LETTERS 1 February 1981    A COMPARISON OF THE MULTIPOLE-EXPANSION AND POINT-CHARGE MODELS  OF THE ELECTROSTATIC ENERGY BETWEEN POLAR DIATOMIC MOLECULES    J. TJiomas BROBJER and John N MURRELL  School of Molecular Sciences, University of'Sussex, Brighton BNJ 9QJ. UK    Received 22 September 1980, in final form 4 November 1980    A comparison is made of the multipole-expansion and point-charge models of the electrostatic energy for the dirners  (HF)2 and &lt;LiH); For the same degree of computational effort the point-charge models are better, and a two-site model  with otf-aiom sites performs consistently welL    1. Introduction    Empirical potentials which represent the interac-  tion between polar molecules contain as an important  term a representation of the electrostatic energy It  lias been common practice for small molecules to write  tins energy as a multipole expansion, the leading term  for neutral polar molecules being the dipole—dipole  energy However, the rate of convergence of this ex-  pansion depends on the distance between the mole-  cules. For van der Waals contact, intermolecular distances  may be of the same order as intramolecular distances and  the convergence may be slow.    For large molecules, or whenever intermolecular  distances are smaller tlian intramolecular distances,  the electrostatic energy is more commonly obtained  by summing over the point-charge interactions arising  from a finite number of discrete charges situated on  each molecule This approach is less commonly used  for small molecules but m this brief communication  we are suggesting that even for these it is generally  more efficient than the multipole expansion The  question at issue is how many terms are required to  give an accurate representation of the energy using  the multipole and the site models It can be assumed  that with enough multipole terms or enough sites, an  accurate electrostatic energy can be obtained provided  the electron densities of the two molecules do not  overlap significantly But which model requires the  'fewer terms9    To emphasize the current relevance of this question    we note that in a recent computer simulation of liquid  HC1, the addition of dipole and quadrupole terms to a  neutral site—site potential was found to change appre-  ciably the pair distribution function [1 ]    2. Results    We base our analysis on the multipole moments and  multipole interaction energies for HF and LiH calcu-  lated by Ng et al [2] Their objective was to examine  the effect of electron penetration on the multipole  terms. They showed that for (HF)^ penetration could  be ignored for all orientations when R &gt; Say, R being  the distance between the centres of mass For (LiH);,  tlus is true for R 5s 14^n the larger distance reflects  the more diffuse and more amsotropic nature of the  LiH electron density. These distances are almost cer-  tainly greater than the van der Waals distances (which  are not kno^n precisely) but in spite of this the multi-  pole expansion is, as we shall show, slowly convergent    We compare the multipole expansion with three re-  latively simple point-charge models    (a) two sites atom-centred,    (b) two sites not atom-centred,    (c) three sites, two being atom-centred.  Model (a) has only one parameter for neutral molecules  and the magnitude of the site charge can be determin-  ed to reproduce the dipole moment. Model (b) has  three parameters, the site cliarge and the two site posi-  tions. These can be fitted to the first three multipole    JO 009-2614/81/0000-0000/S 02.50 © North-Holland Publishing Company 60]    Volume 77, number 3 CHEMICAL PHYSICS LETTERS 1 February 1981    Table 1    Hartree-rotk. multipole moments Q^ (in atomic units) ob-  tained from ret [2| and values in parentliese-i obtained b\ a  logarithmic extrapolation        Hpa) LiH13*  0 764 -2361  1 748 -3 355  2630 -6 300  5 156 -1 1 3 70  (9 S) (-189)  as 3) (-32 5)  (34 1) t-55 9)  (635) (-96 1)    a)    R, 1 732Sflo b) K^= 3015aQ    moments Model (c) is also a three-parameter model as  it lias two independent site charges *    Table 1 lists the Hartree—Fock multipole moments  0° of the two molecules Exact moments are slightly  different but this is not important as our objective is  to compare two models which are based on the same  set of multipole moments A graph of log \Q°, \ against  /; (« = 1 —4) is nearly linear for both HF and LiH and  we have therefore made a logarithmic extrapolation to  estimate higher moments up to n = 8 These values are  given in parentheses in table 1 Table 2 gives the multi-  pole expansion terminated at different levels for (HF)i  at R = 6aQ and table 3 gives results for (LiH)i at R =    ^ Both t\\u-siie and three-site models hale been used in the  computer simulation of liquid Hr [3,4]    Table 2    A comparison 01 [lie multlpoic and point-cli-irge niodi-L-; tor ihe elect.ruslatic energy of (HD^ at R = 6co Arrows indicate difterent  orientations Vi ith tlie arrow liead pointing to tlic iislner atom \ is the inaxunum number ot terms that must be computed For d  general orientation Energies in 10~'1 Ei,    t  0    multiple expansion    dip -dip                      3     -54 05  dip +quad                   14     -3047    "a "'""b ;s 4                    20     -5114  dip +quad + oct              ;7     -5608  \\lth extrapolated moments             —19    point cliacge models    (a)                           4     -58 96  Ib')                          4     -5560  (c)                           9     -49 96    54 05  13943  160 12  184 77  224    157 12  246 21  222 24        54 05 0  0  27 02 -27 02 0  15 79 -27 24 3 67 35 86 -18 18 295  36 47 -27 25 3 67 28 11 -10 43 295  21 70 -32 17 8 60 29 66 -11 97 295  22  -31  7 1 28  -15  26  28 58 -17 70 6 32 25 44 -19 25 1 14  20 81 -31 73 7 25 26 47 -13 68 240  19 47 -31 28 6 74 27 85 -14 26 250    Table 3    •\ comparison ot ihe multipole and point-charge models tor the electrostatic energy of^LiH)^ at R = 14ao Arrows indicate differ-  ent orientations with the arrow head pointing to the lighter atom 'V is tlie maximum number of terms that must be computed for    ^h    a general orientation Energies in 10 '' £i.    T t                             t 0    multiple e\pan-&gt;ion  dip —dip  dip + quad    "a-1-"^4    dip +quad +oct    with extrapolated moments    point-charge models    (a)    (b)    (c)        3 -40 63 4063 40 63 0 0 20 31 -2031 0   14 -39 37 5426 29 51 -3 72 247 20 79 -1984 0 157  20 -^1 59 56 47 31 73 -3 72 247 19 96 -19 01 0 157  37 -41 66 57 11 31 24 -3 86 261 19 98 -1904 0 157   -42  58 32 -3 8 2 5 20  -19 0 15  4 -42 61 73 57 26 91 -679 357 19 63 -1759 0 360  4 -41 61 57 70 31 00 -3 80 353 19 96 -1908 0 151  9 -41 61 5767 31 01 -3 80 3.53 19 96 -1908 0.151    602    Volume 77, number 3 CHEMICAL PHYSICS LETTERS 1 February 1981    l4flQ Results are displayed for the eight distinct orien-  tations shown in the headings, the molecular axis mak-  ing angles ofO, 7T/2 or TT with the line Joining the cen-  tres of mass    For (HF)^ convergence of the multipole expansion  is seen to be very slow and even the value obtained  from dipole, quadrupole and octopole is for some  orientations appreciably different from the converged  expansion obtained by including the extrapolated  terms in table 1 For (LiH)^ the convergence is more  rapid both because R is greater and because the dipole  moment is relatively larger compared with higher  terms. However, the dipole plus quadrupole energy is  still in error by 7% for the head-to-tail orientation    We turn now to an e\Jmination of tlie site models  wliose parameters are shown in table 4 There was no  solution to model (b) for HF At best it was possible  to fit the dipole and quadrupole moments to a two-  site model witn only one of the sites off-atom centred  The more satisfactory of the possibilities had one site  on the hydrogen atom and the other inside the HF  bond This model, labelled (b'). lias an octopole mo-  ment which is 2 1% too large    If we take the multipole energy with e\trapolated  moments as our standard of accuracy then it can be  seen that model (a), which only reproduces tlie dipole  moment exactly, is for most orientations belter than    Table 4    Point-charge models for HF and LiH X, is the coordinate for  charge q, with respect to centre of mass The hydrogen atom  is on the positive axis        Model 1i(&lt;") \',&lt;ao)  HF (a) -0441 0441 -0087 1 646  (b') -0762 0 762 0643 1 646  (c) -1600 0999 0601 -0087 -0365 1 646  LiH (a) 0783 -0783 -0 382 2636  (b) 1 099 -1099 -0364 1 785  (c) 1074 -1 123 0049 -0382 1.852 2636      the dipole—dipole energy, in only four cases out of  sixteen does it give a poorer energy For (HF^ mod-  el (b') gives results which are always better than the  dipole plus quadrupole energy and for most orienta-  tions the results are better than tlie summed multi-  pole terms to n^ + 11^ &lt; 4 and tlie dipole plus quadru-  pole plus octopole sum Model (c) is very close to tlie  extrapolated energy and tliere is no reason to trunk  that it is an inferior approximation to the exact energy  Tlie higher multipole moments of models (b') and (c)  agree quite well with the extrapolated moments quot-  ed in table 1    For (LiH)^ models (b) and (c) give almost identical  results, which are superior to tlie dipole plus quadru-  pole energy and are equal to or better than n^ +«^&lt;4  in all but one orientation In summary, models (b) and  (b') which require four terms to be summed to obtain  the electrostatic energy are superior to the 14-term  and 20-term multipole expansions and equal to or bet-  ter than the 37-ierm multipole expansion Although  model (c) is very satisfactory, it requires nine terms to  be summed and the improvement over 4-term models  may not be thought worth this extra computational  effort On the other hand. model (c) lias the advantage  that two of tlie sues are on the nuclei and their con-  tribution to the electrostatic energy might be combir-  ed with other atom-atom terms which are required  to represent, for example, the exchange and disper-  sion energies    At shorter mtermolecular distances, where orbital  penetration cannot be ignored the multipole expan-  sion is invalid, and even if the general bipolar expan-  sion is used (which allows for penetration), as in the  work of Ng et al [2]. it may be slowly convergent  We anticipate that in this situation the site models will  show even greater advantages than in the long-range re-  gion providing that the point charges are replaced by  diffuse spherical charges Tlus hypothesis is at present  under investigation.    References    [ 11 J G Powles, W A B Evaps, E McGrath, K. E Gubbms    and S Murad, Mol Phys 38(1979)893-  [2] K.C.Ng,WJ Meath and A R. Allnat, Mol Phys 33    (1977)699  [31 I R McDonald and M L KIein,J Chem Soc Faraday    Discussions 66 (1978) 48  [4] M L Klem, I R McDonald and S F O'Shea, J Chem    Phys 69(1978) 63    603  for the eight distinct orien-  tations shown in the headings, the molecular axis mak-  ing angles ofO, 7T/2 or TT with the line Joining the cen-  tres of mass    For (HF)^ convergence of the multipole expansion  is seen to be very slow and even the value obtained  from dipole, quadrupole and octopole is for some  orientations appreciably different from the converged  expansion obtained by including the extrapolated  terms in table 1 For (LiH)^ the convergence is more  rapid both because R is greater and because the dipole  moment is relatively larger compared with higher  terms. However, the dipole plus quadrupole energy is  still in error by 7% for the head-to-tail orientation    We turn now to an e\Jmination of tlie site models  wliose parameters are shown in table 4 There was no  solution to model (b) for HF At best it was possible  to fit the dipole and quadrupole moments to a two-  site model witn only one of the sites off-atom centred  The more satisfactory of the possibilities had one site  on the hydrogen atom and the other inside the HF  bond This model, labelled (b'). lias an octopole mo-  ment which is 2 1% too large    If we take the multipole energy with e\trapolated  moments as our standard of accuracy then it can be  seen that model</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>81852153</aid>
+            <ce:pii>0009-2614(81)85215-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(81)85215-3</ce:doi>
+            <ce:copyright type="unknown" year="1981"/>
+         </item-info>
+         <head>
+            <ce:title>A comparison of the multipole-expansion and point-charge models of the electrostatic energy between polar diatomic molecules</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Thomas Brobjer</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>John N.</ce:given-name>
+                  <ce:surname>Murrell</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Molecular Sciences, University of Sussex, Brighton BNI 9QJ, UK</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="22" month="9" year="1980"/>
+            <ce:date-revised day="4" month="11" year="1980"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A comparison is made of the multipole-expansion and point-charge models of the electrostatic energy for the dimers (HF)<ce:inf loc="post">2</ce:inf> and (LiH)<ce:inf loc="post">2</ce:inf>. For the same degree of computational effort the point-charge models are better, and a two-site model with otf-atom sites performs consistently well.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Powles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.B.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>McGrath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Murad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>893</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Ng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Meath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R..</ce:given-name>
+                                 <ce:surname>Allnat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>699</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Discussions</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>O'Shea</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

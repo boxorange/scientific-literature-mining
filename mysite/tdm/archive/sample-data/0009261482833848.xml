@@ -1,0 +1,1567 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261482833848</prism:url><dc:identifier>doi:10.1016/0009-2614(82)83384-8</dc:identifier><eid>1-s2.0-0009261482833848</eid><prism:doi>10.1016/0009-2614(82)83384-8</prism:doi><pii>0009-2614(82)83384-8</pii><dc:title>X-ray diffraction study on A NiBr2 aqueous solution. Experimental evidence of the Ni(II)Br contacts </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>89</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>110</prism:startingPage><prism:endingPage>114</prism:endingPage><prism:pageRange>110-114</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1982-06-11</prism:coverDate><prism:coverDisplayDate>11 June 1982</prism:coverDisplayDate><prism:copyright>Copyright © 1982 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Caminiti, R.</dc:creator><dc:creator>Cucca, P.</dc:creator><dc:description>
+               Abstract
+               
+                  N1Br2 aqueous solution of concentration 2.0 M has been investigated by X-ray diffraction. The experimental correlation function shows four main peaks, centered at about 2.05, 2.65, 3.20 and 4.10 A. The existence of the peak at 2.65 Å shows the presence in solution of the complex Ni(H2O)5Br+ together with Ni(H2O)2+
+                     6. For the Br− ion, octahedral coordination is confirmed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261482833848" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261482833848" rel="scidir"/></coredata><scopus-id>11544252670</scopus-id><scopus-eid>2-s2.0-11544252670</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/11544252670" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020114">2002-01-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020114">2002-01-14</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T13:56:29</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261482833848</xocs:eid>
+      <xocs:pii-formatted>0009-2614(82)83384-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261482833848</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(82)83384-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07385</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T09:47:50.60582-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19820611</xocs:date-search-begin>
+      <xocs:year-nav>1982</xocs:year-nav>
+      <xocs:indexeddate epoch="1010966400">2002-01-14T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>89</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>89</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 89, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>110</xocs:first-fp>
+      <xocs:last-lp>114</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>110</xocs:first-page>
+         <xocs:last-page>114</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19820611</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>11 June 1982</xocs:cover-date-text>
+      <xocs:cover-date-start>1982-06-11</xocs:cover-date-start>
+      <xocs:cover-date-year>1982</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1982 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>XRAYDIFFRACTIONSTUDYANIBR2AQUEOUSSOLUTIONEXPERIMENTALEVIDENCENIIIBRCONTACTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CAMINITI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KARNICKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>ENDERBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>WATERACOMPREHENSIVETREATISE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CAMINITI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>333</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>OHTAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>XRAYDIFFRACTIONSTUDIESSTRUCTURESMETALCOMPLEXESINSOLUTIONREPORTDEPARTMENTELECTRONICCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CAMINITI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>CAMINITI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1361</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MAGINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2523</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MAGINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1116</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>SOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1973</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>NEILSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L625</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>FONTANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>676</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SANDSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>LAGARDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3061</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>LICHERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>384</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>WEINGARTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2700</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>WEINGARTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2712</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>LISTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2606</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>SILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STABILITYCONSTANTSMETALIONCOMPLEXES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>LICHERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>LICHERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4412</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>EISENBERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>134</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>OHTOMO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1314</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>CAMINITI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3134</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>CAMINITI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>PINGS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3016</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>INTERNATIONALTABLESXRAYCRYSTALLOGRAPHY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>HAJDU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>250</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>LEVY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>MIZUNO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1574</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>BARNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1786</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>SILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>NARTEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>447</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>BOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>486</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>OHTAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>701</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CAMINITIX1982X110</xocs:refkey3>
+         <xocs:refkey4lp>CAMINITIX1982X110X114</xocs:refkey4lp>
+         <xocs:refkey4ai>CAMINITIX1982X110XR</xocs:refkey4ai>
+         <xocs:refkey5>CAMINITIX1982X110X114XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(82)83384-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261482833848</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261482833848</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(82)83384-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T09:47:50.60582-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1982-06-11</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261482833848-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482833848/MAIN/application/pdf/aa15903e7d077f2c37c6973bc817622b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482833848/MAIN/application/pdf/aa15903e7d077f2c37c6973bc817622b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>379865</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261482833848-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482833848/PREVIEW/image/png/653bfa7a24c4460b801412b4c028e3dc/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482833848/PREVIEW/image/png/653bfa7a24c4460b801412b4c028e3dc/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58896</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 89, number 2 CHEMICAL PHYSICS LETTERS 11 June 1982    X-RAY DIFFRACTION STUDY ON A NiBr; AQUEOUS SOLUTION.  EXPERIMENTAL EVIDENCE OF THE Ni(ll)Br CONTACTS    R.CAMINlTlandP.CUCCA    Istitiito di aiimica Fisica c Industriale, Umvcwa di Caglian,    V'ui Ospcclatc 72, 09100 Caslian. Italy    Received 15 M3rcli 1982. in final form 14 Apnl 1982    NiBtj aqueous solution of conccnualion 2.0 M has been investigated by X-ray diffraction. The e\perinicntal correlation  function shows four main pi-jks, centered at about 2.05, 2.65,3.20 and 4.10 A.ThccMslencc of the peak at 2.65 A shows  tlic prL'scnic in solution of the complex NKHaO); Br* together with Ni(HiO)^. For the Br~ ion, octahedral coordination    is cont'iimctl.    1. Introduction    X-ray diffraction techniques have been widely used  for structural studies of aqueous ionic solutions and a  Large amount of knowledge with respeci to the struc-  ture of the liydration shell around ions have been ac-  cumulated. These X-ray results have been summarized  in review articles (1 —1 j.    Recently, increasing attention has been devoted to  the structure of concentrated aqueous solutions of    divalent metal halldcs. Many studies ha\e been carried  out on solutions ofNiCI; by X-ray diffraction (5—8J,  neutron diffraytion [9-H], EXAFS [12-14] and  NMR[15,16j.    As far as the nearest neighbors around the cation  are concerned, it was found from neutron diffraction  studies [9,10] that Ni2"1' has a coordination sphere of  six water molecules, while Fontana et al. [11] suggest-  ed thai, at concentrations higher than 1 M, about half  of the Ni2"1" ions are ii.volved in NiCl^" complexes.    In iwo X-ray diffraction studies [5,6] Cammiti et    al. liave confirmed the existence of six Mi-Hi 0  nearest neighbor contacts. At the highest concentra-  tion, some outer-sphere Ni-Cl correlation was con-  sidered possible as due to packing [6]. This result was  confirmed by EXAFS studies [12-14], in which no  evidence was found for direct Ni-Cl bonding. In a dif-  fraction study on 3 M NiCI; aqueous solution, Magini    [7] interpreted X-ray diffraction data suggesting that  a;8% of inner-sphere contacts may be Ni^-Cl" direct  contacts; this amount increases in the case of solutions  with a ratio Cr/Ni2-1- &gt; 2 [8]. Weingartner et al. [15,  16] by NMR studies suggest Ni-Cl"1" and NiBr"1" con-  tacts for the solutions ofNid^ and NiBr^.    Despite many studies on NiCI; solutions, no dif-  fractomeinc study has been carried out on NiBr^ solu-  tions. For these solutions the equilibrium constants  given in the literature [17,18] indicate some Ni-Br"1"    formation. Assuming that the above equilibrium con-  stants are also valid for concentrated solutions, it can    be calculated that 50-80% of the ion is present in the  Ni-Br"*" form in solution.    In order to clarify further this problem, we under-  took the present analysis on 2 NiBr^ solution; in fact  Ni-Br contacts should be evident directly in the ex-  perimental correlation function since the bromine ion  is heavy in comparison to chloride. Another aim of  this study was to get deeper knowledge of the coordi-  nation-sphere parameters of the bromine, which has    not been exien5ively studied [19-22] compared to  chlorine [1-10].    2. Experimental and data treatment    Weighed amount ofNiBra^H^O reagent grade was    110 0 009-2614/82/0000-OOOO/S 02.75 © 1982 North-Holland    Volume 89, number 2 CHEMICAL PHYSICS LETTERS 11 June 1982    dissolved in distilled waier. The metal content was de-  termined after ion exchange on a cationic resin  (Dowex 50W-X8) by titrating the removed H* ion.  The Br~ content was evaluated by argentometnc u-  trations. The two methods agreed within less than 1%.  The concentration of the solution was 2 M in mckel  and the molar salt content, expressed as.*: in the com-    position [NiBr^[H70](_^, was equal to 0.0377.  The density wasd = 1.358 g cm~3. The temperature  of the sample was 24 ± 1°C.    The experimental procedure and the data-treat-  ment technique used have been described [23,24].  Here we remind the reader that the experimental in-  tensity data were used in the evaluation of the so-  called correlation function according to    sma\  G(r) = 1 + (2ir2por)-1 J    ,,(,) sw(sr)ds ,     (1)    smm    where r is the interatomic distance, pg is the bulk num-  ber density of the solution, s is the usual scattering  angle, s^^ and s^^ are the lower and upper limit  of the experimental data (0.5 and 16.28 A-', respec-  tively). i(s) is the structure function as defined by  Pings and Waser [25]:    [in     irm     -1-1    ""•'••-S^l3-.&lt;]"•     '2'    where f, are the scattering factors corrected for anom-  alous dispersion, A", the stoichiometnc coefficients in  a structural unit containing m kinds of atoms and ]^  is the intensity in electron units. The values of the/,  used were taken from International Tables [26] for  Br and Ni atoms. The scattering amplitudes for the  water molecule were computed by an analytical ex-  pression using the coefficients proposed by Hajdu [27].    3. Analysis of the results  3,1, Correlation function    The experimental structure function s i(s) and the  correlation function G(r) are plotted in Figs. 1 and 2  (points). The s i(s) function was corrected for low-  frequency contributions leading to spurious peaks in  the G(r) function below tel.5 A [28]. An inspection          Fig. I.I i(s) structure function obtained from experimental  data (.-) and s i(s) siruclurc function obtained from tlic  model (——).    of (lie C(r) allows tlie first qualitative information  to be obtained; in it a first very high peak centered  at ^2.05 A and a second one at %3.20 A arc the most  prominent features. TIiese peaks are indicative of  ion-water interactions: in fact, 3.20 A is the Br~-  H^O distance observed in bromide solutions [19—22)  and tlie peak at 2.05 A is diagnostic ofNi^-HiO  distances, as found in some crystal structures [29,301  and in a great number of nickel aqueous solutions  [5-14].    Going to higher r values, a clear large peak is evi-  dent at =s4.10 A, which should be ascribed to inter-  actions from a second hydraiion shell around the ca-          rij;. 2. G(r) correlation function obtained from c&lt;pcrimen«al  data (—) and G(r) correlation function obtained from the  model structure function.    Ill    Volume 89. number 2 CHEMICAL PHY51CS LETTERS 11 June 1982    lion as previously found [5—8]; in the same range fall  the HiO-H^O irans intenictions inside the cation  liydration complex and also H-,O—H-)O cis distances  (^-l.S A) inside the anion hydration complex and  botli should give further contnbu lions to the peak.    The peak at 2.65 A, which does not occur in the  chloride solutions should be attributed to Ni—Br m-    tonciions wiilun the predicted NKHiOsBr"1" com-  plex: llie value or the Ni-Br bonding distance in  crystals ofNiBr-^H^O 2(C4HgO:)) [30] is 2.55 A.  The nearest-neighbor interactions H^O-H^O be-  tween hydration water molecules directly H bonded  (wi-v/3 interactions), which fall at ^2.75 A, should  give further contributions to this peak.    3.2. Model    Quantitative parameters for the species present in  solution were obtained by least-squares ruling of a  calculated structure funciion (s ((s)caic) with the ex-  perimental s i(s} curve. Least-squares refinements of  the model parameters were performed by tlie PUTLSR  program [31] connected with the generalized least-  squares LETAGROP program [32] searching the  minimum for the error squares sum    The contributions of discrete interactions to the syn-  thetic structure function are accounted for by using  the Debye formula modified in such a way that a  gaussian-like distribution of interatomic distances can  be introduced [3], while a uniform distribution of  distances is described by the formula used by Narten  and Levy [33]. A detailed description of this proce-  dure can be found elsewhere [23,24]. In budding up  the model, both the literature [5-8,15-22] and the  qualitative analysis of the peaks evident in the experi-  mental correlation function were taken into account.  The three complexes NKH^COJ^NitH^O^Br"1' and  Br(H^O)g were introduced allowing a second hydra-  tion shell around the cation [5—7]; the "continuum"  seen by the canon, aiiion and water molecules was  accounted for. The NitH^O)^ complex concentra-  tion C) was allowed to vary, but the sum of the two  cation complexes was fixed to give a 2 M total nickel  concentration.    The parameters introduced in the fitting procedure  were:    (a) Complex Ni(HiO)j"1' m octahedral configura-  tion: Ci = concentration of the complex, ''Ni-wi =  distance nickel—nearest water molecules, ON,_H,, =  mean-square deviation of the preceding distance,  (JW i - u i = mean-square deviation of the water-water  distances in the complex. The distances are related to  the Ni—Wj distance by the geometry of the model.    (b) Complex N1(1^0)5 Br1" in octahedral configu-  raiion: ''Ni-Br= nickel-bromine distance, o^i.Br=  mean-square deviation of the preceding distance.    'Ni-w, &gt; °Ni-wi &gt;"w,-wi= °wi-Br were "ot con'    sidered independent parameters and were given the  values of complex Ni(H'»0)j'*".    (c) Complex B^H^O)^ in octahedral configuration:    ''Br-u = distance bromine—nearest water molecules,  °Br-v&gt; = mean-square deviation of the preceding dis-  tance, ffw_v, = mean-square deviation of the water-  water distances in the complex. The distances are re-  lated to the Br-w distance by the geometry of the  model.    (d) Second shell around nickel: 411-v., = distance  nickel-second-neighbor water molecules, ONI- w =  mean-square deviation of the preceding distance,  "Ni-w = number of water molecules arranged in the  second hydration shell, »\y      = distance between  nearest-neighbor and second-neighbor water mole-  cules, Oy_.  ^ = mean-square deviation of the pre-  ceding distance.    (e) Three mean radii of discrete structure and their  mean-square deviations forNi^—HiO.B^—H^Oand  H-.O—l^O pairs weie considered as independent pa-  rameters.    Besides Ihe abovemenlioned procedure, which is  that usually used in the analysis of X-ray diffraction  data, a second one was also adopted in this case, sug-  gested by the good resolution of the peak at 2.05 A.  By back-transformation of this peak, a "Filtered" struc-    -05        - b-^^ A A .^ ^ ^  v v ^ ^^sA-'————I————1————1————1————I——— 1 1 . 1 1 1 11 1 I I 1    15     17    Fig. 3. {[s i(s)]F}exp (-) and {[s l(s)]F}calc (——) Partial  structure functions for the Ni-HaO pail.    112    Volume 89, number 2    CHEMICAL PHYSICS LETTERS    11 June 1982    Table 1    Parameter values [r is the distance (A); o is llie mean-square  deviation, n is the frequency factor, Ci is the concentration of  the complex NitHjOig^Ci is the concentration of the com-  plex NitHaOtsBr''') obtained from least-squares rcHnerncnts-  Standard deviations arc given in parentheses        Intcracnon Parameter    '"Nl-Wi 2.065(3)   °Ni-Wi 0.112(3)  Ni(H,0)r ^Nl-Br 2-62(1)  NKH^C^Br4 "Ni-Br 0.09(1)   Cl 0-3(1)   '•2 = [Niiot - Ci 1 1.7  Br(H20)6 '•Br-w 3.12(1)   oBr-w 0-196(4)   'Wi -W2 2-79(2)   "Wl -W; 0.086(8)  second shell for nickel 'TMi-v.'a .1.01(1)   oNi-w; 0.209(5)   "Ni-w; 10.9(5)    lure function [[s i(s)] r-}e\p is obtained (it is shown  in rig. 3, points); it is analyzed by using the modified  Debye formula [3] as in constructing the total syn-  thetic structure function. The refinement by least  squares was made, based on the hypothesis that tilis  partial structure function comes out, obviously, from  Ni-H^O interactions alone. Three parameters only  were used:/-Ni_w = distance nickel-nearest water  molecules, ONI-WI = mean-square deviation of the  Ni-Wi distance, «Ni-wi = average number of water  molecules arranged in the first hydration shell.    3.3. Results    Satisfactory agreement between experimental and  calculated data was reached with the complete model.  It can be seen in fig. 2 where the experimental G{r)  (points) is compared with the theoretical G(r) (solid  line). The structure function from the best fit is  shown in fig. 1 (solid line) together with the experi-  mental data (points). The final values of the most sig-  nificant parameters are listed in table 1. Also in the  case of the second procedure very good agreement  between {[s '(s)}^}^ (points) and {[s i'(s)lr}caic  (solid line) was reached, as can be seen in fig. 3. The  final values of the parameters are reported in table 2  together with the parameters obtained in the first  analysis. They are in very good agreement.    Table 2    Parameter values [r is the distance (A), o is the mean-square  devianon,n is the frequency factor] obtained from least-  squares rcruicmcnis. Standard deviations arc given in paren-  theses         Fust analysis Second analysis  TMl-Wi °Nl-ttl "Ni-wi 2.065(3)0.112&lt;3)5.1 2.057(8)O.ll3&lt;3)5.1(1)    4. Discussion and conclusions    The qualitative analysis of the G(r) and the quan-  titative one have clearly shown the existence of the  Ni-Br contacts. This in line with theimodynamic  equilibrium constants [17,181 and their predictions  of the amount of complexes Conned. The number  "NI-M = S-KO obtained analysing only the peak  at 2.05 A is comparable with that calculable with the    first procedure, "Ni-wi = (6C! + ^l)!2 = 5-15 (c! is  the concentration of the N1(^0)5 Br* complex).    Also the value H;|JJ_D,.= 6-M^i-wi "^O.^ is in good  agreement with that calculable assuming the equilib-  rium constants given [16,17] for our concentrated  solution. Regarding the NI-W) distances from tables  1 and 2, we can see that the values obtained are in  good agreement with those found in solutions of  nickel chloride [5-8], nitrate [34] and percliloratc  [35].    As far as second-order interactions around Ni2"*"    are concerned, it is very hkely that the nearest-  neighbor water molecules (w,) are H-bonded to outer  water molecules (wi). The parameters describing (lie  second coordination shell are very sinuldr to those  found in chloride solutions [5—7|.    As regards the Br- ion, hexacoordination produced  a theoretical function which agrees with the experi-  mental one; besides, the value obtained for the amon-  water mean distance and the mean-square deviation  are very close to tliose already found [19-22J, con-  firming that the Br" ion also tends to be surrounded  by its own hydration shell.    Acknowledgement    The financial support by the Italian National Re-    113    Volume 89. number 2 CHEMICAL PHYSICS LETTERS 11 June 1982    search Council is gratefully acknowledged. Tlie calcu-  tions were done at the Computer Center of the Uni-  versity ofCagliari, Italy.    References    [11 J.F. Kainicky and CJ. Pings, Advan. Chcm. Phys. 34  (1976)157-    [2] J.E. Enderby and G.W. Neilson, in- Water - a compre-  hensive ucatisc, Vol. 6, cd. r. rranks (Plenum Press,  New. York, 1979) ch. 1.    [3] R. Cairuniti, G. Lichen, G, Piccaliiga, G, Pinna and M.    Magmi, Rev. Inorg. Chem. 1 (1979) 333.  [4) H. Ohtaki, X-Ray Dit'fraeuon Studies on the Structures  of Metal Complexes in Solution, Report of the Depart-  ment of Electronic Chemistry, Tokyo Inst. of Tech-  nology, Nagaisuia, Japan (1981).  [5 j R. Canlimti, G. Lichen, G. Piccaluga and G. Pinna,    Faraday Discussions 64 (1978) 62.  [6] R. Caminiti, G. Lichen, G. Paschina, G. Piccaluga and    G. Pinna, Z. Naturfoisch. 35a (1980) 1361.  (7| M. Magini, J. Chem. Phys. 74 (1981) 2523.  [81 M. Magini, G. Paschina and G. Piccaluga, J. Chem. Phys.    76(1982) 1116.  [91 A.K. Soper, G.W. Neuson, J.E. Enderby and R-A. Howe,    J. Phys. C100977) 1973.  (10) G.W. Neuson and J.E. Enderby, J. Phys. Cll (1978)    L625.  [11 ] M.P. Foniana, G. Maisino, P. Migliardo and F.    Wanderluigh, J. Chcm. Phys. 69 (1978) 676.  [12] D.R. Sandstiom, J. Chem. Phys. 71 (1979) 2381.  [131 P. Lagaide,A. Fontain, D. Raout, A. Scdoc and P.    Mighardo, J. Chem. Phys. 72 (1980) 3061.  [ 141 G. Lichen, G. Paschina, G. Piccaluga, G. Pinna and E.  Vlaic, Chem. Phys. Lctiers 83 (1981) 384.    [15] H. Wemgarincr and H.G. Heriz, J. Chem. Soc. Faraday    175(1979)2700.  [161 H.Wcingariner, C. Mullcr and H.G. Hertz, J. Chem. Soc.    raiadayl75(1979)2712.  [17| M.W. Uster and D.W. Wilson, Can. J. Chem. 34 (1961)    2606.  [18] L.G. Sule'n and A.E. Martell, Stability consiants or    metal-ion complexes (The Chemical Society, London,    1964).    [19) G. Lichen, G. Piccaluga and G. Pinna, Chem. Phys. Let-  ters 35 (1975) 119.  [201 G. Lichen, G. Piccaluga and G. Pinna, J. Chem. Phys-    63(1975)4412-  [211 P. Eisenberger and BAI. Kmcaid, Chcm. Phys. Letters    36(1975) 134.    [22] N. Ohtomo, K. Arakawa, M.Tokenchi,T. Yamaguchi    and H. Ohiala, Bull. Chcm. Soc. Japan 54 (1981) 1314.  [231 R. CaiTuiuli, G. Uchcri, G. Piccaluga and G. Pinna, J.    Chem- Phys. 65 (1976) 3134.  [241 R. Caminiti, G. Lichen, G. Piccaluga and G. Pinna, J.    Appl.Qyst.l2 (1979) 34.    [251 CJ.Pmgs and J.Waser.J. Chcm. Phys. 48 (1968) 3016.  [261 International tables of X-ray crystallography (Kynoch,    Birmingham, 1974).  [271 F. Haidu, Acta Cryst- A28 (1972) 250.  [28| H.A. Levy, M.D. Danford and AJL Naiten,0ak Ridge    National Laboratory Report no. 3960 (1966).  [29] J. Mizuno, J. Phys. Soc. Japan 16 (1961) 1574.  [301 J.C. Barncs and TJ.R. Weakly, J. Chcm. Soe. Dalton    Trails. 18(1976) 1786.  [31] G.JohanssonandM.Sandslrom,Chem.Scripla4(1973)    195.    [32] L.G.SillcnandB.Warqvist,ArkivKemi3l(1968)315.  [33) A.H. Nartcn and HA. Levy, Science 165 (1969) 447.  [34] W. Bol, GJ. Gerrils and C.L. van Panlhaleon van Eck,    J.Appl.Phys.3(1970)486.  [35] H.Ohlaki,T. Yamaguchi and M. Maeda, BulL Chem.    Soc. Japan 49 (1976) 701.    114  2, we can see that the values obtained are in  good agreement with those found in solutions of  nickel chloride [5-8], nitrate [34] and percliloratc  [35].    As far as second-order interactions around Ni2"*"    are concerned, it is very hkely that the nearest-  neighbor water molecules (w,) are H-bonded to outer  water molecules (wi). The parameters describing (lie  second coordination shell are very sinuldr to those  found in chloride solutions [5—7|.    As regards the Br- ion, hexacoordination produced  a theoretical function which agrees with the experi-  mental one; besides, the value obtained for the amon-  water mean distance and the mean-square deviation  are very close to tliose already found [19-22J, con-  firming that the Br" ion also tends to be surrounded  by its own hydration shell.    Acknowledgement    The financial support by the Italian National Re-    113    Volume 89. number 2 CHEMICAL PHYSICS LETTERS 11 June 1982    search Council is gratefully acknowledged. Tlie calcu-  tions were done at the Computer Center of the Uni-  versity ofCagliari, Italy.    References    [11 J.F. Kainicky and CJ. Pings, Advan. Chcm. Phys. 34  (1976)157-    [2] J.E. Enderby and G.W. Neilson, in- Water - a compre-  hensive ucatisc, Vol. 6, cd. r. rranks (Plenum Press,  New. York, 1979) ch. 1.    [3] R. Cairuniti, G. Lichen, G, Piccaliiga, G, Pinna and M.    Magmi, Rev. Inorg. Chem. 1 (1979) 333.  [4) H. Ohtaki, X-Ray Dit'fraeuon Studies on the Structures  of Metal Complexes in Solution, Report of the Depart-  ment of Electronic Chemistry, Tokyo Inst. of Tech-  nology, Nagaisuia, Japan (1981).  [5 j R. Canlimti, G. Lichen, G. Piccaluga and G. Pinna,    Faraday Discussions 64 (1978) 62.  [6] R. Caminiti, G. Lichen, G. Paschina, G. Piccaluga and    G. Pinna, Z. Naturfoisch. 35a (1980) 1361.  (7| M. Magini, J. Chem. Phys. 74 (1981) 2523.  [81 M. Magini, G. Paschina and G. Piccaluga, J. Chem. Phys.    76(1982) 1116.  [91 A.K. Soper, G.W. Neuson, J.E. Enderby and R-A. Howe,    J. Phys. C100977) 1973.  (10) G.W. Neuson and J.E. Enderby, J. Phys. Cll (1978)    L625.  [11 ] M.P. Foniana, G. Maisino, P. Migliardo and F.    Wanderluigh, J. Chcm. Phys. 69 (1978) 676.  [12] D.R. Sandstiom, J. Chem. Phys. 71 (1979) 2381.  [131 P. Lagaide,A. Fontain, D. Raout, A. Scdoc and P.    Mighardo, J. Chem. Phys. 72 (1980) 3061.  [ 141 G. Lichen, G. Paschina, G. Piccaluga, G. Pinna and E.  Vlaic, Chem. Phys. Lctiers 83 (1981) 384.    [15] H. Wemgarincr and H.G. Heriz, J. Chem. Soc. Faraday    175(1979)2700.  [161 H.Wcingariner, C. Mullcr and H.G. Hertz, J. Chem. Soc.    raiadayl75(1979)2712.  [17| M.W. Uster and D.W. Wilson, Can. J. Chem. 34 (1961)    2606.  [18] L.G. Sule'n and A.E. Martell, Sta</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>82833848</aid>
+            <ce:pii>0009-2614(82)83384-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(82)83384-8</ce:doi>
+            <ce:copyright type="unknown" year="1982"/>
+         </item-info>
+         <head>
+            <ce:title>X-ray diffraction study on A NiBr<ce:inf loc="post">2</ce:inf> aqueous solution. Experimental evidence of the Ni(II)Br contacts</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Caminiti</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Cucca</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Istituto di Chimica Fisica e Industriale, Università di Cagliari, Via Ospedale 72, 09100 Cagliari, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="15" month="3" year="1982"/>
+            <ce:date-revised day="14" month="4" year="1982"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">N<ce:inf loc="post">1</ce:inf>Br<ce:inf loc="post">2</ce:inf> aqueous solution of concentration 2.0 M has been investigated by X-ray diffraction. The experimental correlation function shows four main peaks, centered at about 2.05, 2.65, 3.20 and 4.10 A. The existence of the peak at 2.65 Å shows the presence in solution of the complex Ni(H<ce:inf loc="post">2</ce:inf>O)<ce:inf loc="post">5</ce:inf>Br<ce:sup loc="post">+</ce:sup> together with Ni(H<ce:inf loc="post">2</ce:inf>O)<ce:sup loc="post">2+</ce:sup>
+                     <ce:inf loc="post">6</ce:inf>. For the Br<ce:sup loc="post">−</ce:sup> ion, octahedral coordination is confirmed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Karnicky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Pings</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>F.</ce:given-name>
+                                    <ce:surname>Franks</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Water — a comprehensive treatise</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>6</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ch. 1</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caminiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Magini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>333</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ohtaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>X-Ray Diffraction Studies on the Structures of Metal Complexes in Solution, Report of the Department of Electronic Chemistry</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Tokyo Inst. of Technology</sb:name>
+                                 <sb:location>Nagatsuta, Japan</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caminiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caminiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Paschina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1361</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Magini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2523</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Magini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Paschina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1116</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Soper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Howe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1973</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L625</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Fontana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Maisano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Migliardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wanderlingh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>676</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Sandstrom</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lagarde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fontain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Raoux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sedoc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Migliardo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3061</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Paschuna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Vlaic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>384</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Weingartner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Hertz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2700</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Weingärtner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Hertz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday I</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2712</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Lister</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2606</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Sillén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Martell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Stability constants of metal—ion complexes</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1964</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Chemical Society</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4412</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Eisenberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Kincaid</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>134</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ohtomo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Artakawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tokenchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ohtaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Chem. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1314</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caminiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3134</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caminiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Licheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piccaluga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pinna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Pings</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Waser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3016</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>International tables of X-ray crystallography</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Kynoch</sb:name>
+                                 <sb:location>Birmingham</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hajdù</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>250</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Danford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Narten</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oak Ridge National Laboratory Report no. 3960</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mizuno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1574</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Barnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.R.</ce:given-name>
+                                 <ce:surname>Weakly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Dalton Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1786</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sandström</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Scripta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Sillén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Warqvist</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Arkiv Kemi</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Narten</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>165</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>447</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Bol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Gerrits</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>van Panthaleon van Eck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>486</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ohtaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maeda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Chem. Soc. Japan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>701</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

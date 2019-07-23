@@ -1,0 +1,2301 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261492857826</prism:url><dc:identifier>doi:10.1016/0009-2614(92)85782-6</dc:identifier><eid>1-s2.0-0009261492857826</eid><prism:doi>10.1016/0009-2614(92)85782-6</prism:doi><pii>0009-2614(92)85782-6</pii><dc:title>Potential energy curves of dioxygen anion species, O−
+               2 and O2−
+               2
+             </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>197</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>339</prism:startingPage><prism:endingPage>345</prism:endingPage><prism:pageRange>339-345</prism:pageRange><prism:number>4-5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1992-09-18</prism:coverDate><prism:coverDisplayDate>18 September 1992</prism:coverDisplayDate><prism:copyright>Copyright © 1992 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Nakatsuji, Hiroshi</dc:creator><dc:creator>Nakai, Hiromi</dc:creator><dc:description>
+               Abstract
+               
+                  The bondings and the potential energy curves of the ground states of the dioxygen anion species, O−
+                     2(2Πg) and O2−
+                     2(1Σ+
+                     g) are studied by the single and double excitation configuration interaction (SD-CI) and the symmetry adapted cluster (SAC)/SAC-CI methods. For O−
+                     2, the spectroscopic constants calculated by the SD-CI and SAC-CI methods are in reasonable agreement with experiment. For O2−
+                     2, we have found a metastable state in the potential curve, for which the SD-CI calculation gives an equilibrium distance of 1.64 Å and vibrational frequency of 615 cm−1, and the SAC/SAC-CI calculation gives 1.67 Å and 545 cm−1, respectively. The free O−
+                     2 and O2−
+                     2 molecules are compared with the superoxide and peroxide species adsorbed on an Ag surface, respectively.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261492857826" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261492857826" rel="scidir"/></coredata><scopus-id>0000963271</scopus-id><scopus-eid>2-s2.0-0000963271</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000963271" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020214">2002-02-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020214">2002-02-14</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-04-11T17:07:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261492857826</xocs:eid>
+      <xocs:pii-formatted>0009-2614(92)85782-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261492857826</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(92)85782-6</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X13632</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T20:14:36.156129-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19920918</xocs:date-search-begin>
+      <xocs:year-nav>1992</xocs:year-nav>
+      <xocs:indexeddate epoch="1013644800">2002-02-14T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>197</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>197</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 197, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>339</xocs:first-fp>
+      <xocs:last-lp>345</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>339</xocs:first-page>
+         <xocs:last-page>345</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19920918</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>18 September 1992</xocs:cover-date-text>
+      <xocs:cover-date-start>1992-09-18</xocs:cover-date-start>
+      <xocs:cover-date-year>1992</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1992 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>POTENTIALENERGYCURVESDIOXYGENANIONSPECIESO2O22</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NAKATSUJI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KANZIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>509</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KASAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3322</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>LUNSFORD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1487</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ICHIKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2927</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>EASTLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1502</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>CLARKSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>294</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SPITZER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>PRABHAKARAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L971</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BARTREAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>SEXTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>294</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>BACKX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>BACKX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>256</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>OUTKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7891</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>PRINCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>CAMPBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>NYBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>PRINCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L451</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>GLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>587</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>EBERHARDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>561</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>SHINN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>635</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>JONES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>PANAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>458</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info/>
+         <xocs:ref-info refid="BIB25"/>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5759</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>640</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>KRUPENIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>423</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>CHAMBAUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>PAKIARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>661</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>LEROY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>ROCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>268</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>HUZINAGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1293</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>DUNNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2823</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>DUNNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MODERNTHEORETICALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>BOTCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6046</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>SASAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>SASAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>FELLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4135</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>FELLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1024</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>RAGHAVACHARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4142</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB39">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB40">
+            <xocs:ref-normalized-surname>POPLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>359</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB41">
+            <xocs:ref-normalized-surname>NORO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1157</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB42">
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2035</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>362</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>329</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB44">
+            <xocs:ref-normalized-surname>BROOKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROGRAMSYSTEMGAMESS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROGRAMSYSTEMFORSACSACCICALCULATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>NAKATSUJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROGRAMLIBRARYSAC85</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>HULBURT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1941</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>HULBURT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1901</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>DUNHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1932</xocs:ref-pub-year>
+            <xocs:ref-first-fp>713</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>DUNHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1932</xocs:ref-pub-year>
+            <xocs:ref-first-fp>721</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB48">
+            <xocs:ref-normalized-surname>NOVOA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NAKATSUJIX1992X339</xocs:refkey3>
+         <xocs:refkey4lp>NAKATSUJIX1992X339X345</xocs:refkey4lp>
+         <xocs:refkey4ai>NAKATSUJIX1992X339XH</xocs:refkey4ai>
+         <xocs:refkey5>NAKATSUJIX1992X339X345XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(92)85782-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261492857826</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261492857826</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(92)85782-6</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2011-04-11T17:45:03.925835-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1992-09-18</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261492857826-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261492857826/MAIN/application/pdf/67ca253b33364d346def4b7d57c8a3db/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261492857826/MAIN/application/pdf/67ca253b33364d346def4b7d57c8a3db/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>649185</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261492857826-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261492857826/PREVIEW/image/png/a68e57b14fdec09dbb7d4968b26e162c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261492857826/PREVIEW/image/png/a68e57b14fdec09dbb7d4968b26e162c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73573</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS  18 September 1992    Potential energy curves of dioxygen anion species, 02 and 02-    Hiroshi Nakatsuji and Hiromi Nakai    Department ofSynthetic Chemistry, Faculty ofEngineering, Kyoto University, Kyoto 606, Japan    Received 20 April 1992; in final form 1 July 1992    The bondings and the potential energy curves of the ground states of the dioxygen anion species, Oz (Zrle) and OZ' (' E; ) are studied by the single and double excitation configuration interaction (SD-CI) and the symmetry adapted cluster (SAC) /SAC-CI methods. For Oz , the spectroscopic constants calculated by the SD-CI and SAC-CI methods are in reasonable agreement with experiment. For OZ-, we have found a metastable state in the potential curve, for which the SD-CI calculation gives an equilibrium distance of 1.64 A and vibrational frequency of 615 cm-', and the SAC/SAC-CI calculation gives 1.67 A and 545 cm-', respectively. The free OZ and OZ- molecules are compared with the superoxide and peroxide species adsorbed on an Ag surface, respectively.    1. Introduction     Dioxygen species play a key role in many important oxidation processes, particularly on conductor and semiconductor surfaces. In surface chemistry, the anion species, superoxide OZ and peroxide Oz-, are more important than the neutral species Oz, and these anions have been observed by many experimental techniques.   Several electron-spin resonance (ESR) signals due to OZ have been reported on the surfaces of alkalihalide crystals [ 1 ] , zeolites [ 2 ] , ZnO, Mg0 [ 3 ] , single crystals of hydrogen peroxide-urea addition compounds [ 4 ] and alcohols [ 5 ], and Ag [ 6 ] . Molecularly adsorbed oxygen has been observed on many metals, particularly on well-defined surfaces such as Cu (100) [7], Cu (110) [7,8], Ag(110) [6,9-15], Ag(lll) [16], Pd(100) [17], Pt(I10) [18], Pt(111) [ 13,19,20], and Cr(110) [21 ]. The O-O stretching vibrational frequency for the adsorbed oxygen has been measured for a few different metal surfaces by several spectroscopic techniques, namely, electron energy-loss spectroscopy (EELS), surfaceenhanced Raman scattering (SERS), etc. The results     Correspondence to: H. Nakatsuji, Department of Synthetic Chemistry, Faculty of Engineering, Kyoto University, Kyoto 606, Japan.    0009-2614/92/$ 05,00  1992 Elsevier Science Publishers B.V. All rights reserved.    fall into two categories; one with frequencies in the range 740-932 cm-'and the other in the range 10751195 cm-' as mentioned by Jones et al. [22]. The first one was assigned to peroxide species OZ-, and the second one to superoxide species O2 . The frequencies 640 cm-' obtained for OZ on Ag(110) and 660 cm-' on Cu (110 ) were therefore thought to be due to the electron donation from the metal to the oxygen 2pss* orbital. Panas and Siegbahn, on the other hand, have considered from theoretical studies that the ones with frequencies 610-660 cm-' are due to peroxide species and those at 870-1020 cm-' are due to superoxide species [ 23 ] .   There are also some observations of the bond length for the chemisorbed OZ species, mainly by the near edge X-ray absorption fine structure (NEXAFS ) method. For example, the bond length of OZ on Pt (111) is 1.32   0.05 A, and that of OZ on Ag (110 ) is 1.47   0.05 fi [ 13 ] , which may show the difference between the superoxide and peroxide species.     In the separate papers [24,25] we have investigated the adsorption mechanism of OZ on an Ag surface by using the dipped adcluster model ( DAM ) [ 26,27 ] . The existence of both molecular superoxide and peroxide species was shown theoretically. For the occurrence of chemisorption, the electron transfer from the bulk metal to the adsorbate and the elec-    339  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    trostatic image force between them were shown to be very important. Furthermore, we have shown that the molecular peroxide species, not the superoxide species, is the direct precursor state for the dissociative adsorption of 02 on a silver surface.   For further understanding the bonding of such adsorbed dioxygen species, it is very important to investigate the electronic structures of the free anion species OZ and OZ- . For 02 and OZ , many experimental works have been reported: for example, Krupenie reviewed the electronic structures and the electronic spectra of 02 and OZ , and gave the potential energy curves of the ground state and some low-lying excited states [ 28 ] . On the other hand, no measurements have been made for Oz- in the gas phase. Though a few theoretical studies are reported    f02-  or 2 [ 29-32 ], no studies are reported on the potential energy curve of OZ- , and no discussions are made about the comparison between the free anion species Oz- and the peroxide species observed on a metal surface. In the present letter, we report an ab initio calculation of the potential energy curves of  0- and 02 - and compare them with the dioxygen  2  2  species on a metal surface, mainly on a silver surface.    2. Gaussian basis set     The purpose of this work is to investigate the electronic structures of the free anion species OZ and Oz- and to compare them with the dioxygen species, superoxide and perodixe, on a silver surface. We therefore use the same basis set as that used for the studies of Oz adsorbed on a silver surface [24,25]; namely, the Huzinaga-Dunning [ 4s2p ] set [ 33 ] augmented by the diffuse s, p functions of a=0.059 [34] and the polarization d function of a=0.30.   We first examine the electron affinity (EA) of the oxygen atom. The EA calculated by the delta-selfconsistent-field (OSCF) procedure is a negative value of -0.52 eV, and does not explain the experimental value of 1.46 eV even in sign. On the other hand, the result of the single and double excitation configuration interaction (SD-CI) method is a positive value of 0.97 eV, which shows that electron correlation is essential for calculating the EA of the oxygen atom. However, the agreement with the experimental value is not particularly good in comparison with the pre-    340    vious works [35-41 ]. For obtaining further agreement, it is necessary to use larger basis sets and a larger expansion of the configuration space. For example, Sasaki and Yoshimine used the (8s7p6d5f4g3h2i) Slater type basis set and obtained an EA of 1.04 eV by the SD-CI calculations. Feller and Davidson used the (23s12p10d5f3g) uncontracted basis set containing a total of 171 functions, and adopted more than 200000 and 300000 configurations for the neutral and anion atoms, respectively, in the multi-reference (MR) SD-CI calculations. The calculated EA was 1.31 eV, which differs from the experimental value by only 0.15 eV.    3. Potential energy curves of dioxygen anion species     The electronic structures and the potential energy curves of the ground states of the dioxygen species   0(31-), - cri,), and 02- ('Y,') are calculated  2 9 02 2  9  by the restricted Hartree-Fock (HF) and the SD-CI methods. Furthermore, symmetry adapted cluster (SAC)/SAC-CI calculations [42,43] are performed for the anion species Oz and OZ-, and the calculated potential energy curves are shown in fig. 1.  The 1 ag , 1 ss , 268 and 2a  molecular orbitals    149.3    -149.4    t  -149.5  T    a     -149.6    a~ p -149.7     -149.81    Oz- Ets    0icn)  2 (2rl)    1.0 2.0 3.0 4.0 5.0   O-O Distance (A)    Fig. 1. Potential energy curves of the ground state of the dioxygen anion species, Oz and OZ- calculated by the SAC/SAC-CI method.  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    (MOs), which correspond to the is and 2s atomic orbitals (AOs), are frozen in the CI and SAC/SACCI calculations, and five higher occupied orbitals are used in the active space. In the previous studies for the oxygen adsorption onto an Ag surface [24,25], the 1 s and 2s AOs of oxygen were also treated as frozen core orbitals. Since the energies of the highest four unoccupied orbitals, which are mainly composed of the s AOs, are higher than 3.5 hartree and almost constant at all the separations, they are also frozen in the present calculations.   No configuration selections for the linked operators are made in the SAC/SAC-CI calculations. In the SAC calculations of Oz-, all single and double excitation operators are used as the linked operators, and therefore the dimension of the SAC Hamiltonian matrix is equal to that of the SD-CI matrix. In the SAC-CI calculations of the OZ species, it is expressed as the ionized state of the dianion species. Because of the merit of the SAC/SAC-CI theory, the dimension of the linked terms in the SAC-CI calculation is notably small compared with the usual CI method: namely, 82 and 1234 in the SAC-CI and SDCI calculations, respectively. The HF and CI calculations are carried out by the GAMESS program    [44], and the SAC/SAC-CI calculations by the SAC85 program [45].   Table 1 shows the equilibrium distance, the vibrational frequency, and the dissociation energy of the dioxygen species. The quantities calculated for the superoxide and peroxide on an Ag surface [ 24 ] are also shown for comparison. These spectroscopic constants are calculated by analytically fitting the present theoretical curve to the extended Morse function [ 46 ] , and the vibrational energy levels are given by [ 47 ]    Ev=(Oe(v+i)-O)exe(v+1 )Z+CVeYe(v+1)3     +l0e Ze (h+ j) 4 .     Since OZ and OZ have unpaired spins in the 1x8 orbitals, they have permanent magnetic moments. The bond order of the dioxygen species decreases as the occupation of the 1 ng orbital increases, and therefore the bond lengths are calculated to be longer and the vibrational frequencies to be smaller as the Ing occupation increases.   The bond lengths of OZ and OZ calculated by the HF method are closer to the experimental values than those calculated by the SD-CI method. A reason    Table 1 The bond lengths R., vibrational frequencies co., dissociation energies D., electron affinities EA, and gross charges of the OZ, OZ , and OZ- molecules in the gas phase and the superoxide O2 and peroxide OZ- species on a silver surface    Species Method &amp; W.  D~  EA Gross charge    (A) (cm-') (eV)  (eV) (Per 02)  02 HF 1.20 1856  16.64 -0.06    0   SD-CI 1.27 1445  7.25  0.52  0   exp. 1.21 1580  5.12  0.44  0  02 HF 1.33 1420  10.61 - 7.76   -1   SD-CI 1.42 1078  5.38  -6.68 -1   SAC-CI 1.44 1010   4.00 -6.24 - I   exp. 1.35 1090   4.09   - l  Oz- HF 1.53  836  2.91   -2   SD-CI 1.64  615 -2.21 (1.14) b)   -2   SAC 1.67  545 -2.94 (0.703) b)   -2  02 on Ag') SAC-CI 1.47 974, 1055     -0.54, -0.65   exp.  1053  Oz- on Ag') SAC-CI 1.66  689     -1.4   exp. 1.47 0.05 628-697    " Ref. [24]. ") Values in parentheses are the hump heights.    341  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    would be a lack of harder polarization d functions, which are expected to shorten the O-O length. On the other hand, the overestimation of the vibrational frequencies by the HF method is improved by including electron correlations.   In the previous study of the adsorbed oxygen species on an Ag surface [24], we used the SAC/SACCI method. The existence of the two superoxide species was shown for the side-on form; one has an unpaired electron in the n* orbital parallel to the surface and the other in the perpendicular n* orbital. The calculated bond lengths are 1.47 A together and the vibrational frequencies are 1055 and 974 cm-', respectively. These values are similar to those of the free OZ molecule calculated by the SAC-CI method, suggesting that the bonding in the molecular superoxide species absorbed on an Ag surface is similar to that of the free 02 molecule. The cross charges of the superoxide species are -0.54 and -0.65, respectively, in contrast to -1.0 for a free molecule, by the back-donation from Oz to an Ag surface.   The EA of OZ is also shown in table 1. While the EA calculated by the OSCF procedure is negative as for the oxygen atom, that calculated by the SD-CI method is properly positive. The discrepancy from the experimental value is +0.12 eV, which is comparatively small. The previous study [48 ] using the Moller-Plesset (MP) perturbation method gave an EA of -1.03 to + 1.15 eV with several Gaussian basis sets.   At the dissociation limit, OZ and OZ become O('P)+O(3P) and O('P)+O-(2p), respectively, and the energy difference between them corresponds to the EA of an oxygen atom. The SD-CI calculations give a difference of 2.43 eV in comparison with the experimental value of 1.46 eV, and the disagreement of +0.97 eV is very large. The dissociation energies of Oz and OZ are calculated to be larger than the experimental values by +2.08 and + 1.29 eV, respectively. These large disagreements are due to the truncated and size-inconsistent nature of the CI method. On the other hand, the dissociation energy of OZ is calculated to be 4.00 eV by the SAC-CI method. The discrepancy from the experimental value is +0.09 eV, which is very small.   The anharmonicity terms coexe, coeye, and coeZe of Oz estimated from the SAC-CI calculations are 7.31, 3.01 X 10-3, and 1.25 X 10-' cm-', respectively,    342    while the experimental value of coexe is 11.7   4 cm-' [ 28 ] . From eq. (1), 47 vibrational levels (v= 0-46 ) are obtained for the bound state of Oz , of which the lowest 16 and the highest 10 levels are shown in table 2. The level spacing between v=0 and 1 is 995 cm-', which is not equal to the vibrational frequency shown in table 1, because of the anharmonicity of the curve: see eq. (1).   Different from Oz and OZ , the OZ- molecule has no unpaired spins and, therefore, no permanent magnetic moments. While 022- is a closed-shell molecule, it shows a Hartree-Fock instability at longer bond length: namely, the unrestricted HF solution is lower than the restricted HF one. The potential energy curve calculated by the HF method does not have a hump due to the electrostatic interaction between the two negative oxygen atoms. On the other hand, the potential energy curves calculated by the SD-CI and SAC methods have humps around the OO distance of 2.8 A. The metastable state around the O-O distance of 1.6 A is based on the Sag bond. By fitting the present curve to the extended Morse function at the region shorter than the O-O distance of 2.8 A, the length is calculated to be 1.64 and 1.67 A by the SD-CI and SAC methods, respectively, and the O-O vibrational frequency to be 615 and 545 cm- `, respectively. The anharmonicity terms wexe, cvje, and (U)eZe of OZ- estimated by the SAC calculation are 10.9, 6.48 X 10-3, and -2.99 X 10-4 cm-', respectively. The hump height from the potential minimum at the O-O distance of 1.67 A is calculated to be 0.703 eV (5670 cm-') by the SAC method. For the metastable state of Oz-, we obtain 15 vibrational levels (v-0-14), and the results are shown in table 2.   The calculated bond length of the peroxide species on an Ag surface is similar to that for the free O2molecule, though the experimental value is 1.47   0.05 A. The vibrational frequency, on the other hand, is different: that of the free molecule is smaller than that on a silver surface. This is in accordance with the fact that Oz- is stable on the surface, but only metastable in the gas phase. The gross charge of the peroxide species on the surface is -1.4 by the backdonation from OZ to the Ag surface, in contrast to 2.0 in the gas phase.   At the region longer than the O-O distance of 2.8 A, the potential energy curve of OZ- is repulsive due  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    Table 2  Vibrational levels of the ground states of OZ and 02'    Vibrational level  OZ    wave number level spacing  E, (cm-') Ev-E,_, (cm-')    O2-    wave number  level spacing  E  (cm-' )    0 1 2 3 4 5 6 7 8 9 10 il 12 13 14 15    37 38 39 40 41 42 43 44 45 46    503 1498 2479 3444 4396 5333 6255 7163 8057 8936 9801  10651  11488  12310  13118  13912    27991  28486  28969  29440  29900  30349  30787  31213  31629  32034    995 981 965 952 937 922 908 894 879 865 850 837 822 808 794    507 495 483 471 460 449 438 426 416 405    270 793 1295 1774 2233 2669 3084 3477 3849 4199 4527 4833 5118 5381 5622    523 502 479 459 436 415 393 372 350 328 306 285 263 241    to the interaction between negatively charged atoms as mentioned above. Fig. 2 shows the potential energy curve plotted against the reciprocal of the O-O distance in au. The points in the figure correspond to O-O distances of 2.8, 3.0, 4.0, 5.0, and 10.0 A, respectively. This figure shows that the slope of the curve asymptotically approaches unity as the distance is elongated, which means that the interaction is due only to the electrostatic repulsion. The energy at the dissociation limit, which is used for calculating the dissociation energy of Oz- as shown in table 1, is estimated by subtracting the electrostatic energy from the potential energy. The difference between the energies of OZ and OZ- at the dissociation limit, which corresponds to the EA of the oxygen atom as mentioned before, is calculated to be 0.82 eV. This    value is closer to and a little smaller than the EA of the oxygen atom calculated in the present study, i.e. 0.97 eV. A reason of this underestimation is that the 2s orbital is frozen in the molecular calculations, while it was not in the atomic calculations.   The OZ- molecule is less stable than the Oz molecule by 6.19 eV, and does not exist, as a stable species, in the gas phase. This calculated valence state of OZ-, which is an electron-attached state of OZ , is embedded in the continuum of the OZ . On the Ag surface, on the other hand, the peroxide 022- species is more stable than the superoxide 02 species. The main difference of the metal surface from the gas phase is that the OZ- species is stabilized by the dangling bonds of the surface atoms and by the electrostatic image force. The image force stabilizes both    343  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    149.50  d    149.55    Z -149.60    a    z -149.65    0   ' -149.70    I    o.oo o.o5 o.1o o.15 o.20  1/Ro-o (bohr'1)    Fig. 2. Potential energy curves of the ground state of OZ- calcu  lated by the SAC method. The horizontal axis shows the recip  rocal of the O-O distance in au. The dashed line with the slope  of unity means that the electrostatic repulsion is a main interac  tion between negatively charged oxygen atoms.    0- and 02- species, but the stabilization of 02 '   2 2  2- is  larger than that of OZ . Therefore, the adsorption en  ergy calculated for the peroxide species on an Ag sur  face is larger than that for the superoxide species  [ 24 ] . The image force does not affect the geometries  of the adsorbed species much because it is a long  range force in comparison with the force for chem  ical bonding. Further, the potential curves of diox  ygen species shown in fig. 1 correspond well with the  fact that the molecular peroxide species, not the su  peroxide species, is the direct precursor state for the  dissociatively adsorbed oxygens on an Ag surface  [24].    4. Concluding remarks     In the present Letter, we have theoretically studied   the electronic structures of the ground state of the   free dioxygen species Oz ( 3Eg ), Oz (M), and    022- ( `E8 ). We first examine the electron affinity References  (EA) of the oxygen atom, in which all of the diffuse    s, p and polarization d functions are necessary for  describing the EA. A reasonable value for the EA is  obtained only after including electron correlations;  the EA of O calculated by the ASCF procedure does  not agree with the experimental value even in sign.  For Oz , the spectroscopic constants calculated by    344    the SAC-CI method agree well with the experiments. In the potential curves of OZ- obtained by the SDCI and the SAC calculations, there is a metastable state which reflects the Sag bond. The equilibrium distance of this state is calculated to be 1.64 and 1.67 A and the vibrational frequency to be 615 and 545 cm-' by the SD-CI and SAC methods, respectively.   The bonding of the free Oz molecule is similar to that of the molecular superoxide species on a silver surface. However, the bonding of the OZ- in the gas phase is somewhat different from that of the peroxide species on the surface. The stabilities of the superoxide and peroxide species on the surface are opposite to those of the free Oz and OZ- molecules, because of the effects of the dangling bonds and the image force on the surface. OZ- receives a larger image force than OZ on the surface. We note that the image force is a long-range force, in comparison with the force for chemical bonding, so that it does not affect the geometries and vibrational frequencies of the adsorbed species much, but affects the adsorption energy and stability more.   We expect that the knowledge of the electronic structures and potential energy curves of the free dioxygen species as shown in the present study gives insight for studying the dioxygen species adsorbed on metal surfaces.    Acknowledgement     The calculations have been carried out with the computers at the Data Processing Center of the Kyoto University and at the Institute for Molecular Science. Part of this study was supported by the Grantin-Aid for Scientific Research from the Ministry of Education, Science, and Culture of Japan.    [ 1 ] W. Kanzig and M.H. Cohen, Phys. Rev. Letters 3 (1959 ) 509.    [2 ] P.H. Kasai, J. Chem. Phys. 43 (1965 ) 3322.    [ 3 ] J.H. Lunsford and J.P. Jayne, J. Chem. Phys. 44 (1966 ) 1487.    [ 4 ] T. Ichikawa, M. Iwasaki and K. Kuwata, J. Chem. Phys. 44 (1966 ) 2927.  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    [ 5 ] G.W. Eastland and M.C.R. Symons, J. Phys. Chem. 81   (1977) 1502.  [6 ] R.B. Clarkson and S. McClellan, J. Phys. Chem. 82 (1978 )   294.  [ 7 ] A. Spitzer and H. Luth, Surface Sci. 118 (1982) 121.  [8] K. Prabhakaran, P. Sen and C.N.R. Rao, Surface Sci. 177   (1986) L971.  [ 9 ] M.A. Bartreau and J. Madix, Surface Sci. 97 (1980) 101.  10 ] B.A. Sexton and R.J. Madix, Chem. Phys. Letters 76 (1980 )   294.  I 1 ] C. Backx, C.P.M. deGroot and P. Biloen, Surface Sci. 104   (1981) 300; Appl. Surface Sci. 6 (1980) 256.  12 ] K. Bange, T.E. Madey and J.K. Sass 113 (1985) 56.  13 ] D.A. Outka, J. St6hr, W. Jark, J. Solomon and R.J. Madix,   Phys. Rev. B 35 (1987) 419.  14 ] J. St6hr and D.A. Outka, Phys. Rev. B 36 (1987) 7891.  15 ] K.C. Prince, G. Paolucci and A.M. Bradshaw, Surface Sci.   175 (1986) 101.  16 ] C.T. Campbell, Surface Sci. 157 (1985) 43.  17 ] C. Nyberg and C.G. Tengstal, Surface Sci. 126 (1983) 163.  18 ] K. Prince, K. Duckers, K. Horn and V. Chab, Surface Sci.   200 (1988) L451.  19 ] J.L. Gland, B.A. Sexton and G.B. Fisher, Surface Sci. 95   (1980) 587.  20 ] W. Eberhardt, T. Upton, S. Cramm and L. Inococcia, Chem.   Phys. Letters 146 (l9ss8) 561.  2l ] N.D. Shinn and T.E. Madey, Surface Sci. 176 (1986) 635.    22 ] R.D. Jones, D.A. Summerville and F. Basolo, Chem. Rev. [ 44;   79 (1979) 13.    23 ] I. Panas and P. Siegbahn, Chem. Phys. Letters 153 (1988 )      458.   [24] H. Nakatsuji and H. Nakai, Chem. Phys. Letters 174 (1990)    283; J. Chem. Phys., submitted for publication.   25 ] H. Nakatsuji and H. Nakai, Can. J. Chem., in press.   [26] H. Nakatsuji, J. Chem. Phys. 87 (1987) 5759.  [27] H. Nakatsuji, H. Nakai and Y. Fukunishi, J. Chem. Phys.   95 (1991) 640.    [28 ] P.H. Krupenie, J. Phys. Chem. Ref. Data 1 (1972 ) 423. [47   ] G. Chambaud, B. Levy and P. Millie, Theoret. Chim. Acta [48     48 (1978) 103.    [30] A.H. Pakiari and J.W. Linnett, Intern. J. Quantum Chem.    18 (1980 ) 661.    [31 ] G. Leroy, D. Peelers and M. Thange, J. Mol. Struct. 123    (1985 ) 243.    [ 32 ] M. Roch and J. Weber, Chem. Phys. Letters 115 (1985 )    268.    [ 33 ] S. Huzinaga, J. Chem. Phys. 42 (1965 ) 1293;    T.H. Dunning Jr., J. Chem. Phys. 53 (1970 ) 2823.    [ 34 ] T.H. Dunning Jr. and P.J. Hay, Modern theoretical    chemistry, Vol. 3, ed. H.F. Schaefer III ( Plenum Press, New York, 1977).    [ 35 ] B.H. Botch and T.H. Dunning Jr., J. Chem. Phys. 76 (1982 )    6046.    [ 36 ] F. Sasaki and M. Yoshimine, Phys. Rev. A 9 (1974 ) 17, 26.    [37] D. Feller and E.R. Davidson, J. Chem. Phys. 82 (1985)    4135; 90 (1988 ) 1024.    [38] K. Raghavachari, J. Chem. Phys. 82 (1985) 4142.    [ 39 ] C. W. Bauschlicher Jr., S.R. Langhoff, H. Partridge and P.R.    Taylor, J. Chem. Phys. 85 (1986 ) 3407.    [40] J.A. Pople, P. von R. Schleyer, J. Kaneti and G.W.    Spitznagel, Chem. Phys Letters 145 (1988 ) 359.    [ 41 ] T. Noro, M. Yoshimine, M. Sekiya and F. Sasaki, Phys. Rev.    Letters 66 (1974 ) 1157.    [ 42 ] H. Nakatsuji and K. Hirao, J. Chem. Phys. 68 ( l 978 ) 2035.    [43 ] H. Nakatsuji, Chem. Phys. Letters 59 (1978 ) 362; 67    (1979 ) 329, 334.    B.R. Brooks, P. Saxe, W.D. Laidig and M. Dupuis, Program System GAMESS; Program Library No. 481, Computer Center of the Institute for Molecular Science ( 198 I ).    [ 45 ] H. Nakatsuji, Program System for SAC and SAC-CI    calculations, Program Library No. 146 (Y4/SAC), Data Processing Center of Kyoto University (1985 ); Program Library SAC85, No. 1396, Computer Center of the Institute for Molecular Science ( 198 1).    [46] H.M. Hulburt and J.O. Hirschfelder, J. Chem. Phys. 9    (1941)61;35 (1961) 1901.    J.L. Dunham, Phys. Rev. 41 (1932) 713, 721.    J.J. Novoa and F. Mota, Chem. Phys. Letters 135 (1985 ) 119.    345  of Japan.    [ 1 ] W. Kanzig and M.H. Cohen, Phys. Rev. Letters 3 (1959 ) 509.    [2 ] P.H. Kasai, J. Chem. Phys. 43 (1965 ) 3322.    [ 3 ] J.H. Lunsford and J.P. Jayne, J. Chem. Phys. 44 (1966 ) 1487.    [ 4 ] T. Ichikawa, M. Iwasaki and K. Kuwata, J. Chem. Phys. 44 (1966 ) 2927.  Volume 197, number 4,5 CHEMICAL PHYSICS LETTERS 18 September 1992    [ 5 ] G.W. Eastland and M.C.R. Symons, J. Phys. Chem. 81   (1977) 1502.  [6 ] R.B. Clarkson and S. McClellan, J. Phys. Chem. 82 (1978 )   294.  [ 7 ] A. Spitzer and H. Luth, Surface Sci. 118 (1982) 121.  [8] K. Prabhakaran, P. Sen and C.N.R. Rao, Surface Sci. 177   (1986) L971.  [ 9 ] M.A. Bartreau and J. Madix, Surface Sci. 97 (1980) 101.  10 ] B.A. Sexton and R.J. Madix, Chem. Phys. Letters 76 (1980 )   294.  I 1 ] C. Backx, C.P.M. deGroot and P. Biloen, Surface Sci. 104   (1981) 300; Appl. Surface Sci. 6 (1980) 256.  12 ] K. Bange, T.E. Madey and J.K. Sass 113 (1985) 56.  13 ] D.A. Outka, J. St6hr, W. Jark, J. Solomon and R.J. Madix,   Phys. Rev. B 35 (1987) 419.  14 ] J. St6hr and D.A. Outka, Phys. Rev. B 36 (1987) 7891.  15 ] K.C. Prince, G. Paolucci and A.M. Bradshaw, Surface Sci.   175 (1986) 101.  16 ] C.T. Campbell, Surface Sci. 157 (1985) 43.  17 ] C. Nyberg and C.G. Tengstal, Surface Sci. 126 (1983) 163.  18 ] K. Prince, K. Duckers, K. Horn and V. Chab, Surface Sci.   200 (1988) L451.  19 ] J.L. Gland, B.A. Sexton and G.B. Fisher, Surface Sci. 95   (1980) 587.  20 ] W. Eberhardt, T. Upton, S. Cramm and L. Inococcia, Chem.   Phys. Letters 146 (l9ss8) 561.  2l ] N.D. Shinn and T.E. Madey, Surface Sci. 176 (1986) 635.    22 ] R.D. Jones, D.A. Summerville and F. Basolo, Chem. Rev. [ 44;   79 (1979) 13.    23 ] I. Panas and P. Siegbahn, Chem. Phys. Letters 153 (1988 )      458.   [24] H. Nakatsuji and H. Nakai, Chem. Phys. Letters 174 (1990)    283; J. Chem. Phys., submitted for publication.   25 ] H. Nakatsuji and H. Nakai, Can. J. Chem., in press.   [26] H. Nakatsuji, J. Chem. Phys. 87 (1987) 5759.  [27] H. Nakatsuji, H. Nakai and Y. Fukunishi, J. Chem. Phys.   95 (1991) 640.    [28 ] P.H. Krupenie, J. Phys. Chem. Ref. Data 1 (1972 ) 423. [47   ] G. Chambaud, B. Levy and P. Millie, Theoret. Chim. Acta [48     48 (1978) 103.    [30] A.H. Pakiari and J.W. Linnett, Intern. J. Quantum Chem.    18 (1980 ) 661.    [31 ] G. Leroy, D. Peelers and M. Thange, J. Mol. Struct. 123    (1985 ) 243.    [ 32 ] M. Roch and J. Weber, Chem. Phys. Letters 115 (1985 )    268.    [ 33 ] S. Huzinaga, J. Chem. Phys. 42 (1965 ) 1293;    T.H. Dunning Jr., J. Chem. Phys. 53 (1970 ) 2823.    [ 34 ] T.H. Dunning Jr. and P.J. Hay, Modern theoretical    chemistry, Vol. 3, ed. H.F. Schaefer III ( Plenum Press, New York, 1977).    [ 35 ] B.H. Botch and T.H. Dunning Jr., J. Chem. Phys. 76 (1982 )    6046.    [ 36 ] F. Sasaki and M. Yoshimine, Phys. Rev. A 9 (1974 ) 17, 26.    [37] D. Feller and E.R. Davidson, J. Chem. Phys. 82 (1985)    4135; 90 (1988 ) 1024.    [38] K. Raghavachari, J. Chem. Phys. 82 (1985) 4142.    [ 39 ] C. W. Bauschlicher Jr., S.R. Langhoff, H. Partridge and P.R.    Taylor, J. Chem. Phys. 85 (1986 ) 3407.    [40] J.A. Pople,</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85782</aid>
+            <ce:pii>0009-2614(92)85782-6</ce:pii>
+            <ce:doi>10.1016/0009-2614(92)85782-6</ce:doi>
+            <ce:copyright type="unknown" year="1992"/>
+         </item-info>
+         <head>
+            <ce:title>Potential energy curves of dioxygen anion species, O<ce:sup loc="post">−</ce:sup>
+               <ce:inf loc="post">2</ce:inf> and O<ce:sup loc="post">2−</ce:sup>
+               <ce:inf loc="post">2</ce:inf>
+            </ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Hiroshi</ce:given-name>
+                  <ce:surname>Nakatsuji</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Hiromi</ce:given-name>
+                  <ce:surname>Nakai</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Synthetic Chemistry, Faculty of Engineering, Kyoto University, Kyoto 606, Japan</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Correspondence to: H. Nakatsuji, Department of Synthetic Chemistry, Faculty of Engineering, Kyoto University, Kyoto 606, Japan.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="4" year="1992"/>
+            <ce:date-revised day="1" month="7" year="1992"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="SP0005" view="all">The bondings and the potential energy curves of the ground states of the dioxygen anion species, O<ce:sup loc="post">−</ce:sup>
+                     <ce:inf loc="post">2</ce:inf>(<ce:sup loc="pre">2</ce:sup>Π<ce:inf loc="post">g</ce:inf>) and O<ce:sup loc="post">2−</ce:sup>
+                     <ce:inf loc="post">2</ce:inf>(<ce:sup loc="pre">1</ce:sup>Σ<ce:sup loc="post">+</ce:sup>
+                     <ce:inf loc="post">g</ce:inf>) are studied by the single and double excitation configuration interaction (SD-CI) and the symmetry adapted cluster (SAC)/SAC-CI methods. For O<ce:sup loc="post">−</ce:sup>
+                     <ce:inf loc="post">2</ce:inf>, the spectroscopic constants calculated by the SD-CI and SAC-CI methods are in reasonable agreement with experiment. For O<ce:sup loc="post">2−</ce:sup>
+                     <ce:inf loc="post">2</ce:inf>, we have found a metastable state in the potential curve, for which the SD-CI calculation gives an equilibrium distance of 1.64 Å and vibrational frequency of 615 cm<ce:sup loc="post">−1</ce:sup>, and the SAC/SAC-CI calculation gives 1.67 Å and 545 cm<ce:sup loc="post">−1</ce:sup>, respectively. The free O<ce:sup loc="post">−</ce:sup>
+                     <ce:inf loc="post">2</ce:inf> and O<ce:sup loc="post">2−</ce:sup>
+                     <ce:inf loc="post">2</ce:inf> molecules are compared with the superoxide and peroxide species adsorbed on an Ag surface, respectively.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography id="R0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="RS0005">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Känzig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>509</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Kasai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3322</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lunsford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Jayne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1487</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ichikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iwasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kuwata</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2927</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Eastland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.R.</ce:given-name>
+                                 <ce:surname>Symons</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1502</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Clarkson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>McClellan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>294</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Spitzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lüth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Prabhakaran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Sen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.R.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L971</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Bartreau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Sexton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>294</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Backx</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.M.</ce:given-name>
+                                 <ce:surname>deGroot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Biloen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Backx</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.M.</ce:given-name>
+                                 <ce:surname>deGroot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Biloen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>256</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Bange, T.E. Madey and J.K. Sass 113 (1985) 56.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Outka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Solomon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Outka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7891</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Prince</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Paolucci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bradshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Nyberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Tengstål</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Prince</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Duckers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Horn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Chab</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>200</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L451</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Sexton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Fisher</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>587</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Upton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Cramm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Inococcia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>561</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Shinn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>176</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>635</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Summerville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Basolo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Panas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>458</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>174</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref>
+                        <ce:textref>b J. Chem. Phys., submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>H. Nakatsuji and H. Nakai, Can. J. Chem., in press.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5759</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fukunishi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>640</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Krupenie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Ref. Data</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>423</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chambaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Millie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Pakiari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Linnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>661</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Leroy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Peeters</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Thange</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Struct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Roch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>268</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huzinaga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1293</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Dunning</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2823</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Dunning</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Hay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.F.</ce:given-name>
+                                    <ce:surname>Schaefer</ce:surname>
+                                    <ce:suffix>III</ce:suffix>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Modern theoretical chemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>3</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Botch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Dunning</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6046</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yoshimine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yoshimine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Feller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4135</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Feller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1024</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Raghavachari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4142</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB39">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Langhoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Partridge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB40">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Pople</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>von R. Schleyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kaneti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Spitznagel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>359</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB41">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Noro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yoshimine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sekiya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB42">
+                     <ce:label>[42]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hirao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J.Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2035</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB43">
+                     <ce:label>[43]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>362</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>329</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB44">
+                     <ce:label>[44]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Brooks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Saxe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Laidig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dupuis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Program System GAMESS</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Computer Center of the Institute for Molecular Science</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Program Library No. 481</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB45">
+                     <ce:label>[45]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Program System for SAC and SAC-CI calculations</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Data Processing Center of Kyoto University</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Program Library No. 146 (Y4/SAC)</sb:comment>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsuji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Program Library SAC85</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Computer Center of the Institute for Molecular Science</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>No. 1396</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB46">
+                     <ce:label>[46]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Hulburt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Hirschfelder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1941</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Hulburt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Hirschfelder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1901</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB47">
+                     <ce:label>[47]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dunham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1932</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>713</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dunham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1932</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>721</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB48">
+                     <ce:label>[48]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Novoa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Mota</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

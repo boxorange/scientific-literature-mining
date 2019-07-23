@@ -1,0 +1,1343 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261486804055</prism:url><dc:identifier>doi:10.1016/0009-2614(86)80405-5</dc:identifier><eid>1-s2.0-0009261486804055</eid><prism:doi>10.1016/0009-2614(86)80405-5</prism:doi><pii>0009-2614(86)80405-5</pii><dc:title>On the convergence of the cluster model for O/Ni(100) </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>129</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>586</prism:startingPage><prism:endingPage>591</prism:endingPage><prism:pageRange>586-591</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1986-09-19</prism:coverDate><prism:coverDisplayDate>19 September 1986</prism:coverDisplayDate><prism:copyright>Copyright © 1986 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Bauschlicher, Charles W.</dc:creator><dc:description>
+               Abstract
+               
+                  Chemisorption of oxygen onto the Ni (100) surface is modelled using a three-layer Ni41 cluster. The convergence of the cluster model is considered by comparing the results of the Ni41 cluster to the previously studied two-layer Ni25 model for O/Ni(100). The O vibrational frequency is only slightly changed by the addition of the third layer, while the height of the O above the surface is reduced by 0.11 Å, increasing the disagreement with experiment. The O binding energy is reduced to less than half that for the Ni25 cluster.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261486804055" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261486804055" rel="scidir"/></coredata><scopus-id>0001554228</scopus-id><scopus-eid>2-s2.0-0001554228</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001554228" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011105">2001-11-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011105">2001-11-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T10:40:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261486804055</xocs:eid>
+      <xocs:pii-formatted>0009-2614(86)80405-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261486804055</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(86)80405-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08275</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T23:26:11.31188-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19860919</xocs:date-search-begin>
+      <xocs:year-nav>1986</xocs:year-nav>
+      <xocs:indexeddate epoch="1004918400">2001-11-05T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast authsuff primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>129</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>129</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 129, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>586</xocs:first-fp>
+      <xocs:last-lp>591</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>586</xocs:first-page>
+         <xocs:last-page>591</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19860919</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>19 September 1986</xocs:cover-date-text>
+      <xocs:cover-date-start>1986-09-19</xocs:cover-date-start>
+      <xocs:cover-date-year>1986</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1986 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONVERGENCECLUSTERMODELFORONI100</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BAUSCHLICHER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>RICHTSMEIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3659</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>PARKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5470</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>KNIGHT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2539</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>POWERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2866</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BAGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>435</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BLOMBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>986</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BLOMBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5682</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>KOUTECKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>650</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2226</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>213</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BAGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1390</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>UPTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1635</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>UPTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CRITIALREVIEWSINSOLIDSTATEMATERIALSCIENCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>ALLISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L615</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>275</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>864</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>BAUCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>200</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>BAUSCHLICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>250</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>ANDERSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2378</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>MELIUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1647</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>MULLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1583</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>DUNNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2823</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>HUZINAGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1293</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>DUNNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>METHODSELECTRONICSTRUCTURETHEORY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24"/>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>ALMLOF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>385</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>WYCKOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CRYSTALSTRUCTURES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>142</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BAUSCHLICHERX1986X586</xocs:refkey3>
+         <xocs:refkey4lp>BAUSCHLICHERX1986X586X591</xocs:refkey4lp>
+         <xocs:refkey4ai>BAUSCHLICHERX1986X586XC</xocs:refkey4ai>
+         <xocs:refkey5>BAUSCHLICHERX1986X586X591XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(86)80405-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261486804055</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261486804055</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(86)80405-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T23:26:11.31188-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1986-09-19</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261486804055-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261486804055/MAIN/application/pdf/ce2b18fa7ac32fcc79e123e09c0c768f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261486804055/MAIN/application/pdf/ce2b18fa7ac32fcc79e123e09c0c768f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>551715</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261486804055-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261486804055/PREVIEW/image/png/bb5dbd6811b1de66e94c7565668482a2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261486804055/PREVIEW/image/png/bb5dbd6811b1de66e94c7565668482a2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74632</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 129, number 6    CHEMICAL PHYSICS LETTERS    19 September 1986    ON THE CONVERGENCE OF THE CLUSTER MODEL FOR 0/Ni(100)    Charles W. BAUSCHLICHER Jr.    NASA Ames Research Center, Moffett Field, CA 94035, USA    Received 21 February 1986; in final form 24 July 1986    Chemisorption of oxygen onto the Ni(lOO) surface is modelled using a three-layer ?41 cluster. The convergence of the cluster  model is considered by comparing the results of the ?41 cluster to the previously studied two-layer ?25 model for 0/Ni(100).  The 0 vibrational frequency is only slightly changed by the addition of the third layer, while the height of the 0 above the surface  is reduced by 0.11 A, increasing the disagreement with experiment. The 0 binding energy is reduced to less than half that for the  ?35 cluster.    1. Introduction    Recent experiments on small metal clusters and  their chemistry show [1-4] that the properties vary  strongly with cluster size. It is only for clusters of  about 40 atoms that their properties begin to con-  verge toward those of the bulk. This strong variation  in chemistry with cluster size might seem to contra-  dict the success [ 5,6 ] of the small metal clusters in  modeling the properties of perfect crystal faces of bulk  metal. In these cluster models the metal-metal bond  lengths and cluster geometry are fixed at those of the  bulk, which can be very different from the geometri-  cal parameters for the free clusters [7,8]. Since part  of the difference between the chemistry of small metal  clusters and that of the bulk can be a result of differ-  ences in cluster geometry, using bulk geometry for  the cluster models may improve the convergence of  their properties toward those of the bulk.    The question of how rapidly the properties com-  puted using these cluster models converge toward the  bulk has been of interest, and the conclusions as to  the correct cluster size have varied somewhat [9,10].  For atomic adsorption on some systems [9], it  appears that the vibrational frequency, &lt;Ue&gt; normal  to the surface and the height above the surface, R^,  converge quite quickly with cluster size, but that the  binding energy converges more slowly. It was con-  cluded [9] that when all metal atoms involved in  bonding to the adsorbate have their nearest neigh-  bors, the We and R^_ have converged. This suggests  that a two-layer cluster would be sufficient to model  most chemisorption processes. For example, to model  the chemisorption ofO into a four-fold hollow of the  (100) face ofNi would require a two-layer 21-atom  cluster, with 12 atoms in the first layer and 9 in the  second layer, Ni2i(12,9). Upton and Goddard (UG)  have modeled [ 10] the 0/Ni(100) system using a 20-  atom cluster, ?20(6,8,6). The UG cluster contains  about the same number of Ni atoms as that based  upon the nearest neighbor criterion. However, they  have used a cluster which contains three layers. Since  the three-layer cluster contains the same number of  atoms as the two-layer cluster, some of the first-layer  nearest neighbors to the bonding Ni atoms are miss-  ing. Allison and Goddard [11] have used a three-  layer 14-atom cluster to investigate CO/Ni(100).  Their cluster contains Ni atoms at the comers and  faces of a cube, i.e. a three-layer cluster, ?14(5,4,5).  Since the CO is adsorbing directly above a Ni atom,  the nearest neighbor model would suggest that a  ?9(5,4) cluster would be sufficient. However, recent  work [12,13] onH:,0,NH3andCOonNi(100),all  adsorbing directly above a Ni atom, has shown that  a two-layer cluster yields a repulsive interaction of  the ligand and surface. If third-layer atoms are added  the repulsion is greatly reduced. Because of this effect  of the third layer on the description of the adsorption  of NH3, HzO and CO, it was decided to investigate  the effect of adding a third layer to the ?35 cluster    586    Volume 129, number 6    CHEMICAL PHYSICS LETTERS    19 September 1986    used to investigate the coverage dependent effects of  0 adsorption [14-17], and it is found that vibra-  tional frequency is slightly changed, the height above  the surface is reduced by 0.11 A, and the Z&gt;e decreases  by a factor of two.    2. Computational details    The goal of the previous studies [14-17] of  0/Ni(100) was to understand the origin of the shift  in (Ue as the oxygen coverage was increased from 0.25  ML (ap(2x2) LEEDpattem) to0.5 ML (ac(2x2)  LEED pattern) [18]. To model this process it was  necessary to be able to consider two different 0 cov-  erages. The cluster had to be sufficiently large to allow  the chemisorption of one and five 0 atoms. The 25-  atom cluster used in the previous work is pictured in  fig. 1. For the low coverage, one 0 was chemisorbed  onto the center of the cluster. All the Ni at this  adsorption site have their nearest neighbors. For the  high coverage, the four surrounding 0 are added.  Since the Ni atoms bonded to the surrounding 0  atoms do not have all their nearest neighbors, the  geometry of the outer 0 was fixed and only the cen-  tral 0 reoptimized at the higher coverage. Extensive  tests also showed [14-17] that the oxide state, where  all 0 orbitals are doubly occupied, either as lone pairs  or in bonding orbitals with the Ni, is the lowest state  at all coverages.    In this work, the computational approach follows  that used in the previous two-layer Ni cluster calcu-          Fig. 1. The ?2505 cluster used to model the c(2x2)/Ni(100)  coverage, the adsorbate atoms are cross hatched. The p(2x2)  coverage is modeled by eliminating the four doubly cross hatched  adsorbate atoms. The ?4105 cluster adds a third layer which is  identical to the first layer.    lations. The calculations are restricted to a treatment  of the oxide state at the self-consistent-field (SCF)  level. Previous work [17] showed that the inclusion  of correlation stabilized the oxide state relative to the  radical state (i.e. an open-shell orbital on 0), but that  the height above the surface and vibrational fre-  quency were not strongly affected. However,  0/Ni(100) is quite ionic, thus one would expect cor-  relation to increase the binding by significant amount  (the correlation contribution to the electron affinity  of 0 is 2 eV). Therefore, convergence of the  &gt;e i"  this work reflects convergence for the SCF approxi-  mation, which will not necessarily be equal to exper-  iment. The Ni core electrons, including the 3d  electrons, are removed using the modified effective-  core potential (MEP) developed by Melius [19]; this  reduces Ni to a one-electron atom. Our previous work  [ 14,15 ], as well as other theoretical calculations [ 20 ]  show a small effect of the 3d, and therefore support  including it in the MEP. The Ni valence basis set is  that developed by Melius and includes functions to  describe the 4s and the 4p function, (4s3p/2slp). The  4p basis functions are needed to describe the impor-  tant 4s-4p hybridization. Since it is important to  include the 4p functions at the site of adsorption, the  elimination of the 4p functions on the third-layer Ni  atoms, is compared to a cluster in which all Ni atoms  have the 4p functions included. The third-layer atoms  are far from the site of adsorption and this mixed  cluster is found to yield results similar to the cluster  of all Ni atoms with the 4s and 4p basis functions.  The 0 basis set is Dunning's contraction [21 ] of the  Huzinaga primitive set [22], and includes the dif-  fuse p function optimized by Dunning and Hay [ 23 ]  for 0~. Even after reducing the Ni to a one-electron  atom, clusters with such a large number of atoms lead  to very large calculations; to avoid the problems  associated with storing the two-electron integrals, a  modified [24] version of the Oslo DISCO program  [ 25 ] has been used throughout this work.    The reduction of Ni to a one-electron atom is a  drastic approximation, and a comparison between all-  electron and MEP calculations showed some differ-  ences [14-17]. To improve the MEP approxima-  tion, two corrections were considered. One correction  is based upon the breakdown in the assumption that  the 0 does not penetrate into the orbitals included in  the MEP, i.e. a breakdown in the Zen-ective assump-    587    Volume 129, number 6    CHEMICAL PHYSICS LETTERS    19 September 1986    tion. While the second is based upon a comparison  of a frozen orbital all-electron calculation on  Ni^X" with the description obtained for the  MEP + X -. The corrections improved the agreement  between the all-electron and MEP calculations, as well  as the agreement between the cluster and experimen-  tal results. The corrections decreased rapidly strongly  increasing Ni-0 distance, thus the third-layer Ni  atoms will hardly contribute to the correction. Since  the goal of this work is to consider the convergence  of the properties with cluster size, we compare the  uncorrected results. The inclusion of the correction  will not change the differences observed between the  two clusters, but rather shift the results for both clus-  ters in a similar manner.    The ?41(16,9,16) cluster is formed by adding a  16-atom third layer to the previous ?25(16,9) clus-  ter. This third layer is identical to the first layer. This  gives the ?41 cluster D4h symmetry. However, once  0 is added, or when the 4s only basis set is used for  the third layer, the symmetry is reduced to C4v; thus  C4v symmetry notation is used throughout. The  geometry and ?-N1 bond lengths are fixed at the  bulk values [26]. Since the magnetic properties are  expected to arise from the d electrons, the lowest  doublet state is determined for the bare cluster,    Ni4|(;&gt;A|)...5a26a!3b22b25e4.    (1)    There is also a low-lying 2{^ ^ state arising from the  excitation 6ai -&gt; la;. This state is about 0.4 eV higher.  To this ?41 cluster one 0 atom is added to the center  of the top layer, and the lowest oxide state was found  to be    ?4,0(^1 )...7a?8a!3b?2bj6e4.    (2)    This state is consistent with bonding of the 0 to the  lowest state of ?41. The height above the surface is  optimized, and the c^e computed using a parabolic  fit:    w^=(a/my'2,                         (3)    where a is the force constant for motion normal to  the surface and m is the mass ofO, i.e. the Ni atoms  are assumed to be infinitely massive and there is no  phonon coupling with the 0 vibration. For the high  coverage, the five 0 are added to the cluster, see fig.  1, and three low-lying states were found,    ?4,05(1^, )...10a2! la; lai4bf5bjl0e4,       (4)    Ni4l05(2Bl)...lla21a23b24b!5b210e4          (5)    and    ?4105(2^, )...10a2! la^a^b^bjIOe4 .      (6)    The 1 ^i and ^i states are virtually degenerate,  while the 2 ^i state is about 1.3 eV higher in energy.    3. Results and discussion    The results for the ?41 cluster, as well as those for  the ?25 cluster are summarized in table 1. The addi-  tion of the third layer causes an 0.11 A contraction  in the R^_. This increases the disagreement with  experiment [27], 0.86  0.07 A. Previously it was  noted [ 14-17], that due to the MEP approximation,  the computed R^ is too short. Two different correc-  tions to the MEP improved the computed 7?^, bring-  ing the computed R^ (0.83 and 0.78 A) into better  agreement with experiment, but still being at the  lower range of the experimental value. The contrac-  tion in R^ with the addition of the third layer seems  to worsen the model.    The computed We shows a smaller change with the  addition of the third layer, a 7% increase in (Oe com-  pared to the 19% reduction in RJ_. Neither the a)e  computed for the ?350 nor ?410 cluster agrees with  the EELS experiment [18]. However, the calcula-  tions are for a rigid Ni lattice, which is not the case  for the metal surface. Andersson et al. [18] have per-  formed lattice dynamics calculations where the Ni-Ni  and Ni-0 potentials were adjusted until computed  and experimental EELS spectra agree. If the Ni atoms  are made infinitely massive in the lattice dynamics  calculations, the Ni phonon coupling with the 0  vibration is eliminated, and a direct comparison with  the cluster results is obtained. This lattice dynamics  value [18], 351 cm"', is in better agreement with  the cluster calculations. The same MEP correction  which increased R^ for ?250, also increased ( e for  ?250 by up to 120 cm~1. Since neither the (Ue for  the ?250 nor for the ?410 agree with the lattice  dynamics calculations, and the MEP corrections for  ?25 are twice as large as the difference between either  cluster (Ue and that of the lattice dynamics calcula-  tions, it is not possible to judge if adding the third    588    Volume 129, number 6    CHEMICAL PHYSICS LETTERS    19 September 1986    layer has improved the model.    While the changes in both 7?^ and a)e are relatively  small, the change in De with the third level is  extremely large, ^(?41-0) is only 46% of that of  the Ni^O cluster. Perhaps this result should not have  been too surprising. The Z&gt;e tor the NizsO cluster was  about equal to the value reported by UG for their  NizoO three-layer cluster, and it is known that the  neglect of the 4p functions by UG leads to a short R_^  and too strong a bond. Thus the  &gt;e foi" ^e cluster  with the 4p functions would have been expected to  be smaller than UG's, but in fact was the same.  Therefore the different choice of the cluster size and  shape, and the difference in basis sets must have con-  tributed to a cancellation of errors, such that the ?25  and the ?20 cluster of UG yield the same  &gt;e. Thus  suggesting that the ?410 is closer to the converged  cluster value at the SCF level. It should also be noted  that the UG three-layer ?20 cluster yields a R^ in  between the values obtained for two-layer N125 and  three-layer ?41 clusters. Clearly, the basis set, the  number of first-layer neighbors, and the presence of  a third layer all affect the description of  chemisorption.    The charge on the 0 gives a guide to the nature of  the ?-0 bonding. In the previous work [15-17],  the increase in the 0 population with increased cov-  erage was used to explain the origin of the shift in (de-  It is found that our models for low coverage, ?350  and ?410, show an 0 population decrease of 0.17  electrons with the third layer. This change with the  third layer is larger than the increase in the charge on  the central 0 as the outside four 0 are added to the  ?250 cluster. While the relative change in the 0  population between ?25 and ?41 is not as large as  that found for Z&gt;e, it is of the same magnitude as the  coverage dependent population change (chemical  change in the bonding) between ?350 and N12505,  which was used to interpret the shift in (D, between  the p( 2 x 2) and c( 2 X 2) LEED patterns.    While the change in the results with the addition  of the third layer is rather large, it is interesting to  note that the addition of a third layer which contains  Ni atoms described by the smaller 4s only basis set,  yields results which are quite similar to those  obtained with the larger basis set. The use of the 4s  only basis set for the bottom layer represents a con-  siderable savings, for the bare ?41 cluster the num-  ber of basis functions is reduced from 205 to 157.  For a process which is proportional to the fourth  power of the number of basis functions, this repre-  sents almost a factor of three reduction in the work.  It is also possible that under some circumstances the  4p functions on the second layer atoms could also be    Table 1  Comparison of the results for the two-layer ?250, and the three-layer ?410, clusters         ? 0" ?4,0 ?4,0 mixed b) Exp.  ^i(A) &amp;&gt;&lt;; (cm"') D. (eV) 0 charge 0.58 280 3.85 -0.85 0.47 300 1.79 -1.02 0.45 275 1.93 -1.13 0.86   0.07c) 423 " '     ?,,0,    Oc(outerO)0  0 charge (center)  0 charge (outer)    2.04    -1.05    -0.65    1.94    -0.57    -1.00    "Ref. [17].    b) Mixed indicates that the (4s/2s) basis set is used for the third layer.    "Ref. [27],EXAFS.    d) Ref. [ 18], experimental EELS value of the p(2x2) LEED pattern.    cf Lattice dynamics calculations to separate the 0 vibration from the surface phonons, yields a value 351 cm~', which should be more    similar to the value computed in this work where the Ni lattice was rigid.  0 Computed as [De(Ni,-Os) -Dc(Ni,-0)]/4.    589    Volume 129, number 6    CHEMICAL PHYSICS LETTERS    19 September 1986    deleted, but that has not been tested.    The initial intent of this work was to consider the  change in CD, with coverage. The ?410, cluster has  the outer 0 at the value optimized for ?410, R^ = 0.9  bohr, and central 0 with R^ =0.7 5 bohr. For this  geometry the low-lying states were determined. The  charge on the 0 atoms is virtually identical for the  three states, but different from that found for ?2505.  For Ni4i0^, the charge on the central 0 decreases with  the addition of the outside oxygen atoms, whereas it  increases for the ?25 cluster. The charge on the cen-  tral oxygen of the ?41 cluster is similar to the charge  on the outside 0 atoms in ?25, while the charge on  the outside 0 in ?4, is about that of the central 0 in  ?25. Initially the difference in charge between the  inner and outer 0 atoms on the N{2505 cluster was  attributed to the edge effects making the outer 0  populations less reliable. However, the change in the  0 population between ?250,, and ?4,0,, suggests  that effect of cluster convergence is of the same mag-  nitude as the edge effects, even for the 25-atom clus-  ter. The outside 0 atoms in ?2505 are bound by  substantially less than the 0 in ?250, while the out-  side 0 in ?4,05 are bound by more than the 0 in  ?410. Clearly, ?41 is giving a different description  of the system than is N125.    The optimization of R^ and determination of&lt;Ue  was not performed because the extremely slow con-  vergence and large cost per iteration made it clear  that a prohibitive amount of computer time would  be required to converge the SCF calculations to the  accuracy needed to determine (Oy The reduction of  the basis set on the third-layer Ni atoms would nat-  urally reduce the time, however it would still be sig-  nificant. Furthermore, it is not clear that ?41 is in  fact a better model for 0/Ni (100). For other systems  [9,13], it has been found that the convergence of  properties with cluster size is not monotonic, just as  found in experiments for small metal clusters. The  agreement between the experimental and computed  results for ?250^ and ?255,,, [15-17] suggests that  ?25 is a good model for the ?(100) surface. Thus  it was felt that it did not warrant the computer time  to further test the model. It is clear, however, that  while the N125 may be a good model for the surface,  it is not converged with respect to cluster size.    4. Conclusions    The addition of the third layer to a ?25 cluster  shows that the 25-atom cluster is not converged with  respect to cluster size. The addition of the third layer  reduces the binding energy by a factor of two. For  lone pair ligands, the third layer moves charge off the  top layer, which increases the bonding [12,13]. For  0 which draws charge from the cluster, it is not sur-  prising to find that the third layer reduces Z&gt;e. The  populations show a more negative 0 in ?410 than  for ?250. The height above the surface and 0 vibra-  tion normal to the surface show smaller changes,  which is consistent with previous work which sug-  gests that these properties converge quite rapidly.  When the higher coverage is modelled with ?4105,  the changes in 0 population are opposite to those  observed for the smaller cluster; the 0 charge  decreases with higher 0 coverage for ?41. Consid-  ering the agreement between Ni25Y^ and available  experimental data, ?25 appears to be a good model  for the metal, however, it is not converged with  respect to cluster size.    Acknowledgement    I would like to acknowledge the support of the NAS  project. All the calculations reported in this manu-  script were performed on the NAS CRAY XMP-12.    References    [ 1 ] S.C. Richtsmeier, E:K. Parks, K. Liu, L.G. Pobo and S.J.    Riley, J. Chem. Phys. 82 (1985) 3659.  [2] E.K. Parks, K. Liu, S.C. Richtsmeier, L.G. Pobo and S.J.    Riley, J. Chem. Phys. 82 (1985) 5470.  [3]W.D. Knight, K. Clemenger, W.A. de Heer and W.A.    Saunders, Phys. Rev. B31 (1985) 2539.  [4] D.E. Powers, S.G. Hansen, M.E. Geusic, D.L.    Michalopoulosand R.E. Smalley, J. Chem. Phys. 78 (1983)    2866.  [5] P.S. Bagus, K. Hermann and M. Seel, J. Vacuum Sci. Tech-    nol. 18 (1981) 435, and references therein.  [6] M.R.A. Blomberg and P.E.M. Siegbahn, J. Chem. Phys. 78    (1983) 986, 568?.    590    Volume 129, number 6    CHEMICAL PHYSICS LETTERS    19 September 1986    [7] J. Koutecky, G. Pacchioni, G.H. Jeung and E.C. Hass, Sur-  face Sci. 156(1985)650.  [ 8 ] C.W. Bauschlicher Jr. and L.G.M. Pettersson, J. Chem. Phys.    84 (1986) 2226.  [ 9 ] C.W. Bauschlicher Jr., P.S. Bagus and H.F. Schaefer III, IBM    J. Res.Dev.22 (1978) 213;    P.S. Bagus, H.F. Schaefer III and C.W. Bauschlicher Jr., J.    Chem. Phys. 78 (1983) 1390.  (10]T.H. Upton and W.A. Goddard, Phys. Rev. Letters 46    (1981) 1635; Critial reviews in solid state and material sci-  ences (CRC Press, Boca Raton, 1981).  [11] J.N. Allison and W.A. Goddard, Surface Sci. 110 (1981)    L615.    [12] C.W. Bauschlicher Jr.,J. Chem. Phys. 83 (1985) 3129.  [13] C.W. Bauschlicher Jr. and C.J. Nelin, Chem. Phys. 108    (1986)275.  [14] C.W. Bauschlicher Jr., S.P. Walch, P.S. Bagus and C.R.    Brundle, Phys. Rev. Letters 50 (1983) 864.  [15] C.W. Bauchlicher Jr. and P.S. Bagus, Phys. Rev. Letters 52    (1984)200.    [16] C.W. Bauschlicher Jr. and P.S. Bagus, Phys. Rev. Letters 54    (1985) 349.    [17] C.W. Bauschlicher Jr., J. Chem. Phys. 84 (1986) 250.  [18] S. Andersson, P.-A. Karlsson and M. Persson, Phys. Rev.    Letters 51 (1983)2378.  [ 19 ] C.F. Melius, C.L. Bisson and W.D. Wilson, Phys. Rev. B 18    (1978) 1647.  [20] J.E. Miiller, M. Wuttig and H. Ibach, Phys. Rev. Letters 56    (1986) 1583.    [21 ] T.H. Dunning, J. Chem. Phys. 53 (1970) 2823.  [22] S. Huzinaga, J. Chem. Phys. 42 (1965) 1293.  [23] T.H. Dunning and P.J. Hay, in: Methods of electronic    structure theory, ed. H.F. Schaefer III (Plenum Press, New    York, 1977) pp. 1-27.  [24] C.W. Bauschlicher Jr., unpublished.  [25] J. Almlof, K. Fsegri and K. Korsell, J. Comput. Chem. 3    (1982) 385.  [26] R.G. Wyckoff, Crystal structures, 2nd Ed. (Interscience,    New York, 1964).  [27] J. Stohr, R. Jeager and T. Kendelewicz, Phys. Rev. Letters    49(1982) 142.    591  gests that  ?25 is a good model for the ?(100) surface. Thus  it was felt that it did not warrant the computer time  to further test the model. It is clear, however, that  while the N125 may be a good model for the surface,  it is not converged with respect to cluster size.    4. Conclusions    The addition of the third layer to a ?25 cluster  shows that the 25-atom cluster is not converged with  respect to cluster size. The addition of the third layer  reduces the binding energy by a factor of two. For  lone pair ligands, the third layer moves charge off the  top layer, which increases the bonding [12,13]. For  0 which draws charge from the cluster, it is not sur-  prising to find that the third layer reduces Z&gt;e. The  populations show a more negative 0 in ?410 than  for ?250. The height above the surface and 0 vibra-  tion normal to the surface show smaller changes,  which is consistent with previous work which sug-  gests that these properties converge quite rapidly.  When the higher coverage is modelled with ?4105,  the changes in 0 population are opposite to those  observed for the smaller cluster; the 0 charge  decreases with higher 0 coverage for ?41. Consid-  ering the agreement between Ni25Y^ and available  experimental data, ?25 appears to be a good model  for the metal, however, it is not converged with  respect to cluster size.    Acknowledgement    I would like to acknowledge the support of the NAS  project. All the calculations reported in this manu-  script were performed on the NAS CRAY XMP-12.    References    [ 1 ] S.C. Richtsmeier, E:K. Parks, K. Liu, L.G. Pobo and S.J.    Riley, J. Chem. Phys. 82 (1985) 3659.  [2] E.K. Parks, K. Liu, S.C. Richtsmeier, L.G. Pobo and S.J.    Riley, J. Chem. Phys. 82 (1985) 5470.  [3]W.D. Knight, K. Clemenger, W.A. de Heer and W.A.    Saunders, Phys. Rev. B31 (198</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>86804055</aid>
+            <ce:pii>0009-2614(86)80405-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(86)80405-5</ce:doi>
+            <ce:copyright type="unknown" year="1986"/>
+         </item-info>
+         <head>
+            <ce:title>On the convergence of the cluster model for O/Ni(100)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Charles W.</ce:given-name>
+                  <ce:surname>Bauschlicher</ce:surname>
+                  <ce:suffix>Jr.</ce:suffix>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>NASA Ames Research Center, Moffett Field, CA 94035, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="21" month="2" year="1986"/>
+            <ce:date-revised day="24" month="7" year="1986"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Chemisorption of oxygen onto the Ni (100) surface is modelled using a three-layer Ni<ce:inf loc="post">41</ce:inf> cluster. The convergence of the cluster model is considered by comparing the results of the Ni<ce:inf loc="post">41</ce:inf> cluster to the previously studied two-layer Ni<ce:inf loc="post">25</ce:inf> model for O/Ni(100). The O vibrational frequency is only slightly changed by the addition of the third layer, while the height of the O above the surface is reduced by 0.11 Å, increasing the disagreement with experiment. The O binding energy is reduced to less than half that for the Ni<ce:inf loc="post">25</ce:inf> cluster.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Richtsmeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Parks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Pobo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Riley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3659</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Parks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Richtsmeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Pobo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Ritey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5470</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Knight</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Clemenger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>de Heer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Saunders</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2539</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Powers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Geusic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Michalopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Smalley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2866</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Seel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vacuum Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>435</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.A.</ce:given-name>
+                                 <ce:surname>Blomberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.E.M.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>986</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.A.</ce:given-name>
+                                 <ce:surname>Blomberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.E.M.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5682</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Koutecký</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pacchioni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Jeung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Hass</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>650</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.M.</ce:given-name>
+                                 <ce:surname>Pettersson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2226</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Schaefer</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IBM J. Res. Dev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>213</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Schaefer</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1390</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Upton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Goddard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1635</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Upton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Goddard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Critial reviews in solid state and material sciences</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>Boca Raton</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Allison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Goddard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L615</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Nelin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>275</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Walch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Brundle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>864</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauchlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>200</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Bauschlicher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>250</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Andersson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.-A.</ce:given-name>
+                                 <ce:surname>Karlsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Persson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2378</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Melius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Bisson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1647</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wuttig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1583</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Dunning</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2823</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huzinaga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1293</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Dunning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Hay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.F.</ce:given-name>
+                                    <ce:surname>Schaefer</ce:surname>
+                                    <ce:suffix>III</ce:suffix>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Methods of electronic structure theory</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>C.W. Bauschlicher Jr., unpublished.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Almlöf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fægri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Korsell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>385</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Wyckoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Crystal structures</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1964</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Interscience</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jeager</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kendelewicz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>142</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

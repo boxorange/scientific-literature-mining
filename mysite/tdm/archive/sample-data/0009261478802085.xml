@@ -1,0 +1,542 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261478802085</prism:url><dc:identifier>doi:10.1016/0009-2614(78)80208-5</dc:identifier><eid>1-s2.0-0009261478802085</eid><prism:doi>10.1016/0009-2614(78)80208-5</prism:doi><pii>0009-2614(78)80208-5</pii><dc:title>Sum rules and their application to surface tension </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>56</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>151</prism:startingPage><prism:endingPage>155</prism:endingPage><prism:pageRange>151-155</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1978-05-15</prism:coverDate><prism:coverDisplayDate>15 May 1978</prism:coverDisplayDate><prism:copyright>Copyright © 1978 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Jhon, Myung S.</dc:creator><dc:creator>Desai, Rashmi C.</dc:creator><dc:creator>Dahler, John S.</dc:creator><dc:description>
+               Abstract
+               
+                  Sum rules for inhomogeneous fluids are derived and then related to the surface tension of a liquid—vapor interface. It is found that this surface tension can be expressed in terms of the static correlation for the component of force normal to the interface. This formula is shown to be equivalent to two previous expressions for surface tension that generally are regarded as being exact. It is demonstrated that in the high-frequency or short-time limit this definition for surface tension leads directly to the standard hydrodynamic equation of motion for the normal component of the interfacial velocity.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261478802085" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261478802085" rel="scidir"/></coredata><scopus-id>49349123559</scopus-id><scopus-eid>2-s2.0-49349123559</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49349123559" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-24T12:32:46</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261478802085</xocs:eid>
+      <xocs:pii-formatted>0009-2614(78)80208-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261478802085</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(78)80208-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06653</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150925">2015-09-25T23:55:31.865922-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19780515</xocs:date-search-begin>
+      <xocs:year-nav>1978</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>56</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>56</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 56, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>38</xocs:sort-order>
+      <xocs:first-fp>151</xocs:first-fp>
+      <xocs:last-lp>155</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>151</xocs:first-page>
+         <xocs:last-page>155</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19780515</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 May 1978</xocs:cover-date-text>
+      <xocs:cover-date-start>1978-05-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1978</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1978 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SUMRULESAPPLICATIONSURFACETENSION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JHON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>FORSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>FORSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>160</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>FOWLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1937</xocs:ref-pub-year>
+            <xocs:ref-first-fp>229</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>FISHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALTHEORYLIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>KIRKWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1949</xocs:ref-pub-year>
+            <xocs:ref-first-fp>338</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>TRIEZENBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1183</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>LOVETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1880</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LANDAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FLUIDMECHANICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LEVICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICOCHEMICALHYDRODYNAMICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JHONX1978X151</xocs:refkey3>
+         <xocs:refkey4lp>JHONX1978X151X155</xocs:refkey4lp>
+         <xocs:refkey4ai>JHONX1978X151XM</xocs:refkey4ai>
+         <xocs:refkey5>JHONX1978X151X155XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(78)80208-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261478802085</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261478802085</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(78)80208-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-25T23:55:31.865922-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1978-05-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261478802085-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478802085/MAIN/application/pdf/8e6ac0ab4f9a7c841d88da01c81ea6ca/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478802085/MAIN/application/pdf/8e6ac0ab4f9a7c841d88da01c81ea6ca/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>346381</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261478802085-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478802085/PREVIEW/image/png/c321ca48a1e06b5749e1e003fcc5769f/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478802085/PREVIEW/image/png/c321ca48a1e06b5749e1e003fcc5769f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54776</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 56, number 1 CHEMICAL PHYSICS LETTERS 15 May 1978    SUM RULES AND THEIR APPLICATION TO SURFACE TENSION    MyungS.JHON*.1    Department of Chemistry. University of Minnesota,  Minneapolis. Minnesota 5545S. USA    Rashmi C. DESAI*    Department of Physics, University of Toronto.    Toronto. Ontario. Canada M5S 1A7    and    JohnS.DAHLERt    Departments of Chemistry and Chemical Engineering, University of Minnesota.    Minneapolis. Minnesota 55455. USA    Received 28 December 1977    Sum rules for inhomogeneous fluids are derived and then related to the surface tension of a liquid—vapor interface- It is  found that this surface tension can be expressed in terms of the static correlation function for the component of force nor-  mal to the interface This formula is shown to be equivalent to two previous expressions for surface tension that generally  are regarded as being exact. It is demonstrated that in the high-frequency or short-time limit this definition for surface ten-  sion leads directly to the standard hydrodynamic equation of motion for the normal component of the interfacial velocity.    In the past few years there have been many demonstrations that sum rules can be usefully employed to estab-  lish connections between static correlation functions and the dynamic behavior of homogeneous fluids [1]. The  purpose of the present investigation is to explore the possibility of extending this approach to inhomogenecus  systems. We focus our attention on the liquid—vapor interface of a simple fluid and choose as our objectives the  construction of sum rules for this inhomogeneous system and the identification of connections between these sum  rules and the equilibrium properties of the interface.    We ignore molecular internal degrees of freedom and write the harniltonian of this system in the form    ^So^/^+^Z^o-'1, r^,                            (i)    o;              a^P    where r" andp" denote the position and momentum of molecule a.^ (r^, rl3) = I^(|r01 — r^l) is the energy of  interaction between molecules a and 0. The variables that are of special concern to us here are the number den-  sity, n(r) = S^ 5(r — r0), and the normal component of momentum density, ^3 (r) = Sg; P^8(r — r0).    The x^ axis is chosen to be perpendicular to the (planar) Gibbs' surface of separation between the two phases.  Therefore, as Xy tends to +°° and to —°° the equilibrium number density MQ O^) = ^n (^ t)) assumes the limiting  values ofn,, and n^, the bulk densities of the gas and liquid phases, respectively.    Of great importance to our theory is the normal derivative ofno(x3) and the identity,    * Supported in part by the National Research Council of Canada.  t Supported in part by the National Science Foundation.    151    Volume 56, number 1                   CHEMICAL PHYSICS LETTERS                         15 May 1978    ^"O^) = - PJdV^ 0-'r') ^Wr,r')                                                             (2)    (with p = l/k^T) which relates the macroscopic density gradient to the equilibrium pair distribution function  n^(r,r') = &lt;S^p S(r' -r^S(r' -r^)&gt;.    The two-phase system is, of course, invariant with respect to translations in the plane ofJCi aadx^ (or p). How-  ever, translational symmetry in theJC3 direction is broken by the presence of the interface. Accordingly,-we asso-  ciate a wave vector q with p and introduce the partially Fourier-transformed equilibrium correlation functions    &lt;?3 (r)^ ('•')&gt; (S) = mno (X3) 0-1 S ^ - ^3) .                                                    (3)    (Sn(p,x^8n(p',x^(q)=K-l(y;x^x^,                                               (4)    wherein 8n = n — fly. Because the relevant scale of length in the p -plane is large compared with the intennolecular  spacing, we only need be concerned with the first few terms in the expansion,    K(q;x^x^=Ko(x3,x^+q2K^.X3)+0(.q4),                                       (5)    of the inverse of the correlation function K~1 defined by eq. (4).    By using the well known identity, &lt;AB&gt; = (S~1 &lt; [A, B] p g &gt;, and eqs. (I) and (2) one easily obtains the sum rules    ^3(l•)"&lt;'•')&gt;(ff)=-&lt;"('•')^3(&lt;•)&gt;(&lt;?)•=^-lv3[Ko(JC3)8^3 -^3)]                                     (6)  and    &lt;?3(r)^3('•')&gt;(&lt;?)=^-20^2 +3V3V3)no(^3)5^3 -^-3)    +^-1 [5(^3 -^3) y&lt;b:3'T33(0;X3,X3') - T33(&lt;?;X3,X3)] ,                                   (7a)  where    T^xy,xy) ^d2^ -p') exp[-iy-(p - p')] n-i(r,r')VJnp,x^ -x'^ .                      (7b)    In a homogeneous fluid tio(x^) is constant and so the correlation functions (g^(r)'n(r')^(fl) snd (ri(r)g^(r')}(&lt;J)  are equal- However, this is not the case for an inhomogeneous fluid where    ^(^"(^(^-^W^)^)^-1^ +V3)[no(x3)60c3 -x'^\    =P-lVy3no(x3)}s(x3 -^)^0.  To isolate the effect of the liquid—vapor interface we now introduce the "surface excess" or difference,    ^^^ = ^3 1^3 ) - ^3 1^3 ^ '                                                             (8)    between the correlation function for the true, two-phase system and that for a hypothetical system composed of  two undistorted, bulk (B) phases butted together at xy = 0. Specifically,    &lt;S3\S3&gt;B =fS-W +3V3V3)5(X3 - x^    +f?-l [s(xy -x^fdx^(0;x^x^) - T3B3te;X3,X3)] ,                                  (9a)  with    T3B3te;X3,^3) =/d2(p -p') exp[-iff-(p - p)] «f(r,r') vjr(p,^3 -^3)                      (9b)  and where, for example, when x^, x^ &lt;0,n^ =n^ sa6.n^r,r')=n^g^(\r —r'\)mlQa.g^(r) the equilibrium radial    152    Volume 56, number 1                   CHEMICAL PHYSICS LETTERS                         15 May 1978    distribution function for the bulk liquid phase.  It follows that    r °                  °°              ^  8G(q)=fdxyfdx^8s(g3\g3) =0~Vf ["oO^) -"el ^3 +/ ["o^) - "g]d^3    •--o.                                  0                               -'    +0-1 Jdx3 fdx:sfd\p-p'){l -exp[-ifl-(P-P')]} [n^r,r) -nf(r,r')] vjuir-r'l) , (10)    where, according to the definition of the Gibbs' surface of separation, the term in large brackets of this expression  is identically zero-  To illustrate the significance of this relationship we assume that the vapor density is negligible (fly ^ 0) and  adopt the approximate, discontinuous density profile, HQ^X-^) ^ n^O^—x^). We also write n-^(r, r') % nQ^x^nQfx'^  Xgg( \r — r' I). When these approximations are substituted into the sum rule, eq. (10), it is found that    0      0  8G(a)^-r1 f d^3 f dx^jd^p-p') {1 -exp[-i^(p-p')]}    x {^3 -^ ["oO^W^-^l^dr-r'l)} [VaFdr-r'l)]  and so, to this approximation,    SC^^^-^p+O^4),  where    (lla)  (lib)    OF = ("i^/8) f ^rr*g(r) dV(r)ldr    is the formula obtained by Fowler [2] (F) and by Kirkwood and Buff [3], who based their derivations on the  relationship which exists between surface tension and the fluid stress tensor and who utilized the same idealized  density profile and the same functional ansatz for n^ as we have.    Discarding these simplifying approximations one obtains in place ofeq. (11) the general result,    S^^^OK.B.^-OO?4)-                                                              (12)    Here air a denotes the exact formula for surface tension which first was derived by Kirkwood and Buff(K.B-)  [3] . (Because the manipulations required for the proof of this general iesult are rather lengthy, they will be re-  ported elsewhere.) Thus, we have proved the equivalence of the quantity defined by    +00                     +00    o=lim Wq2) f dxy ( dx'^8^g^(q),  &lt;?-*0       -co     -oo    (13)    and the surface tension formula of Kirkwood and Buff, which generally is regarded to be exact- This new formula,  eq. (13), relates the surface tension to a sum rule for the inhomogeneo.is, two-phase system.    There is a well known formula which expresses the surface tension in terms of density fluctuations [4,5]. Ac-  cordingly, we now shall try to prove that this formula also is equivalent to eq. (13). To accomplish this we use an  alternative way of evaluating the sum rule that appears in this formula for o. Let {A{} be a complete set of dynami-  cal variables. The function 5 G(s) then can be written in the form    153    Volume 56, number 1                  CHEMICAL PHYSICS LETTERS                        15 May 1978  8G(q) =/dx3 fdx^S^ &lt;g^ \A{) (A^A,)-1 (Af\g^,.                                      (14)    In a study whicli is to be reported elsewhere we have found that, of all these variables, 8n alone appears to produce  a nonvanishing contribution to o. The qualifier "appears" is inserted here because, at the time of this writing, our  proof is rigorous only for the "single-particle variables", A{, which are collectively represented by the distribution  function f(r, p) = 2 S(r—^a)S(p —p") : we have not yet succeeded in proving that there are no higher-order,  multiple-particle contributions to o. Therefore, we conclude that 8G(q) &gt; Gn(q)— G^(q) where, with the help  ofeq. (6), it can be seen that    Gn(q)^fdxy fdx^ln)(q)K(q;Xy,x^ (n\g^)(q)    =^2fdX3J^X3V73"o(x3)} K(q;x^X3)[^no(x3)}                                    (15)    and where, because &lt;gy |«&gt;B = "B^"1^8^ ~X3)'the corresponding bulk term, Gg, is identically zero.  From the Schwartz inequality it follows that    (g3\S3'»&lt;g3WK(n\g^  and, according to eq. (7a),    lim fdx3f6x3 ^^(^-'''S'-"^)^-  y—O -     "    Therefore, by integrating the inequality over all values of-»:3 and x'-y and passing to the limit, q -&gt; 0, we see that    +00                           +00    0&gt; f 6x3 f dX3[^no(xy)}Ko(x^X3)lV3no(x^]^0.                                (16)  Consequently, this integral vanishes and eq. (13) reduces to a&gt; OT.Z.' where    +00                       +00    "r.z.=P~1 f ^3 f d^t^oC^)! ^2(^3.-^[^"oO^)]                        (17)    is the very same expression Triezenberg and Zwanzig (T-Z.) [4] obtained by identifying surface tension with the  excess surface free energy associated with fluctuations of density that occur near the interface. The reason we are  reluctant to conclude that a= a-y ^ is the present state of incompleteness of our proof that only fluctuations of  f(r,p) contribute to 8G(q).    We have established the equivalence of the Kirkwood—Buff and Triezenberg—Zwanzig formulas for surface ten-  sion and we have shown that both of these can be derived from a new formula, eq. (13), which relates surface ten-  sion to the surface excess of the static correlation function for the component of force normal to the liquid—vapor  interface. This new formula should be a useful tool for generating novel approximations to the surface tension and  it also is especially well adapted to molecular dynamics calculations.    As a final step let us establish the relationship between this new expression for o and the usual hydrodynamic  theory of a liquid—vapor interface. Provided that q is small, eq. (13) can be written in the form    -Pf^f ^3 ^ &lt;?3^3&gt; = P/^3 fdX38S&lt;S^g3 &gt; = -P^^a .                               (18)  Then since    -pF1 =mfS-l (ng - ng) =fdx3fdx^(mp-1) ^H,^)] 5(x3 -^3) =^0X3 fdx^ V3(6s&lt;^3» .    154    Volume 56, number 1                  CHEMICAL PHYSICS LETTERS                        15 May 1978  eq. (18) becomes    fdx^fdx'^pSs&lt;g3S3&gt; - o^^Ss^a)) = 0.    This establishes that the integrand factor, 8s&lt;(pg^ — aq^^g^g^), vanishes identically in the long wavelength  limit and this, in turn, implies that at the Gibbs'surface, XJ = 0,    Pg'3(9,x^ 0) - aq^^g^x^ 0) = A(ff,X3,0) -                                            (19)    Here, the fluctuating generalized force, h, is "orthogonal" to g^(q, xy, 0) in the sense that fig (h(q, x^,0)X  ff3(&lt;?,;»3,0)&gt;=0.    Eq. (19) may be interpreted as a high-frequency or short-time limit of an equation of change which is analogous  to the VIasov equation for a homogeneous system. Let us now discard the fluctuating term and assume that this  equation of motion is applicable to finite times. The equation also will be satisfied by the velocity potential,  &lt;j&gt;(q,x^, t) defined by ^3 = V^. In physical space this equation for 0 becomes    a2    a2    +    p^)^(^^,,).o    and is identical with the equation for the velocity potential of the interface derived in Landau and Lifshitz [6]  on the basis ofhydrodynamic arguments.    References    [1] D. Forster, P.C. Martin and S- Yip. Phys. Rev. 170 (1968) 155,160.  [2] R.H. Fowler, Proc. Roy- Soc. A159 (1937) 229;    I.Z. Fisher, Statistical theory of liquids (University of Chicago Press, Chicago, 1954) ch. 5.  [3] J.G. Kitkwood and F.P- Buff, J. Chem- Phys. 17 (1949) 338. eq. (29).  [4] D.G. Triezenberg and R- Zwanzig. Phys. Rev. Letters 28 (1972) 1183.  [5] R.A. Lovett, P.W. de Haven, JJ. Vieceli and F.P. Buff, J. Chem. Phys. 58 (1973) 1880.  [6] L.D- Landau and E.M. Lifshitz, Fluid mechanics (Pergamon Press, London, 1959) eq. (61.1);    V.G. Levich, Physicochemical hydrodynamics (Prentice-Hall, Englewood Cliffs, 1962) ch. 11.    155      multiple-particle contributions to o. Therefore, we conclude that 8G(q) &gt; Gn(q)— G^(q) where, with the help  ofeq. (6), it can be seen that    Gn(q)^fdxy fdx^ln)(q)K(q;Xy,x^ (n\g^)(q)    =^2fdX3J^X3V73"o(x3)} K(q;x^X3)[^no(x3)}                                    (15)    and where, because &lt;gy |«&gt;B = "B^"1^8^ ~X3)'the corresponding bulk term, Gg, is identically zero.  From the Schwartz inequality it follows that    (g3\S3'»&lt;g3WK(n\g^  and, according to eq. (7a),    lim fdx3f6x3 ^^(^-'''S'-"^)^-  y—O -     "    Therefore, by integrating the inequality over all values of-»:3 and x'-y and passing to the limit, q -&gt; 0, we see that    +00                           +00    0&gt; f 6x3 f dX3[^no(xy)}Ko(x^X3)lV3no(x^]^0.                                (16)  Consequently, this integral vanishes and eq. (13) reduces to a&gt; OT.Z.' where    +00                       +00    "r.z.=P~1 f ^3 f d^t^oC^)! ^2(^3.-^[^"oO^)]                        (17)    is the very same expression Triezenberg and Zwanzig (T-Z.) [4] obtained by identifying surface tension with the  excess surface free energy associated with fluctuations of density that occur near the interface. The reason we are  reluctant to conclude that a= a-y ^ is the present state of incompleteness of our proof that only fluctuations of  f(r,p) contribute to 8G(q).    We have established the equivalence of the Kirkwood—Buff and Triezenberg—Zwanzig formulas for surface ten-  sion and we have shown that both of these can be derived from a new formula, eq. (13), which relates surface ten-  sion to the surface excess of the static correlation function for the component of force normal to the liquid—vapor  interface. This new formula should be a useful tool for generating novel approximations to the surface tension and  it also is especially well adapted to molecular dynamics calculations.    As a final step let us establish the relationship between this new expression for o and the usual hydrodynamic  theory of a liquid—vapor interface. Provided that q is small, eq. (13) can be written in the form    -Pf^f ^3 ^ &lt;?3^3&gt; = P/^3 fdX38S&lt;S^g3 &gt; = -P^^a .                               (18)  Then since    -pF1 =mfS-l (ng - ng) =fdx3fdx^(mp-1) ^H,^)] 5(x3 -^3) =^0X3 fdx^ V3(6s&lt;^3» .    154    Volume 56, number 1                  CHEMICAL PHYSICS LETTERS                        15 May 1978  eq. (18) becomes    fdx^fdx'^pSs&lt;g3S3&gt; - o^^Ss^a)) = 0.    This establishes that the integrand factor, 8s&lt;(pg^ — aq^^g^g^), vanishes identically in the long wavelength  limit and this, in turn, implies that at the Gibbs'surface, XJ = 0,    Pg'3(9,x^ 0) - aq^^g^x^ 0) = A(ff,X3,0) -                                            (19)    Here, the fluctuating generalized force, h, is "orthogonal" to g^(q, xy, 0) in the sense that fig (h(q, x^,0)X  ff3(&lt;?,;»3,0)&gt;=0.    Eq. (19) may be interpreted as a high-frequency or short-time limit of an equation of change which is analogous  to the VIasov equation for a homogeneous system. Let us now discard the fluctuating term and assume that this  equation of motion is applicable to finite times. The equation also will be satisfied by the velocity potential,  &lt;j&gt;(q,x^, t) defined by ^3 = V^. In physical space this equation for 0 becomes    a2    a2    +    p^)^(^^,,).o    and is identical with the equation for the velocity potential of the interface derived in Landau and Lifshitz [6]  on the basis ofhydrodynamic arguments.    References    [1] D. Forster, P.C. Martin and S- Yip. Phys. Rev. 170 (1968</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>78802085</aid>
+            <ce:pii>0009-2614(78)80208-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(78)80208-5</ce:doi>
+            <ce:copyright type="unknown" year="1978"/>
+         </item-info>
+         <head>
+            <ce:title>Sum rules and their application to surface tension</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Myung S.</ce:given-name>
+                  <ce:surname>Jhon</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="FN2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, University of Minnesota, Minneapolis, Minnesota 55455, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Supported in part by the National Research Council of Canada.</ce:note-para>
+               </ce:footnote>
+               <ce:footnote id="FN2">
+                  <ce:label>2</ce:label>
+                  <ce:note-para>Supported in part by the National Science Foundation.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Rashmi C.</ce:given-name>
+                  <ce:surname>Desai</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Physics, University of Toronto, Toronto, Ontario, Canada M5S 1A7</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>John S.</ce:given-name>
+                  <ce:surname>Dahler</ce:surname>
+                  <ce:cross-ref refid="FN2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Departments of Chemistry and Chemical Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="28" month="12" year="1977"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Sum rules for inhomogeneous fluids are derived and then related to the surface tension of a liquid—vapor interface. It is found that this surface tension can be expressed in terms of the static correlation for the component of force normal to the interface. This formula is shown to be equivalent to two previous expressions for surface tension that generally are regarded as being exact. It is demonstrated that in the high-frequency or short-time limit this definition for surface tension leads directly to the standard hydrodynamic equation of motion for the normal component of the interfacial velocity.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Forster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yip</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>170</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Forster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yip</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>170</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>160</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Fowler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1937</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>229</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.Z.</ce:given-name>
+                                 <ce:surname>Fisher</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Statistical theory of liquids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1964</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of Chicago Press</sb:name>
+                                 <sb:location>Chicago</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 5.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Kirkwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Buff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1949</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>338</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>eq. (29).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Triezenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zwanzig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1183</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Lovett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>de Haven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J</ce:given-name>
+                                 <ce:surname>Vieceli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Buff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1880</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Landau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Lifshitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Fluid mechanics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1959</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pergamon Press</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>eq. (61.1)</sb:comment>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Levich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Physicochemical hydrodynamics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1962</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Prentice-Hall</sb:name>
+                                 <sb:location>Englewood Cliffs</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 11.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,509 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261481854061</prism:url><dc:identifier>doi:10.1016/0009-2614(81)85406-1</dc:identifier><eid>1-s2.0-0009261481854061</eid><prism:doi>10.1016/0009-2614(81)85406-1</prism:doi><pii>0009-2614(81)85406-1</pii><dc:title>Ni2+ hydration in perchlorate and chloride solutions </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>82</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>399</prism:startingPage><prism:endingPage>401</prism:endingPage><prism:pageRange>399-401</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1981-09-15</prism:coverDate><prism:coverDisplayDate>15 September 1981</prism:coverDisplayDate><prism:copyright>Copyright © 1981 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Newsome, J.R.</dc:creator><dc:creator>Neilson, G.W.</dc:creator><dc:creator>Enderby, J.E.</dc:creator><dc:creator>Sandström, M.</dc:creator><dc:description>
+               Abstract
+               
+                  The hydration of nickel ions in a 3.80 molal solution of nickel perchlorate in (heavy) water has been investigated by the neutron first-order difference method. The coordination of water molecules around nickel ions is identical with that found in an earlier study of a nickel chloride solution of comparable ionic strength.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261481854061" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261481854061" rel="scidir"/></coredata><scopus-id>4244123847</scopus-id><scopus-eid>2-s2.0-4244123847</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4244123847" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011024">2001-10-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011024">2001-10-24</xocs:available-online-date>
+      <xocs:ew-transaction-id>2018-05-10T14:15:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261481854061</xocs:eid>
+      <xocs:pii-formatted>0009-2614(81)85406-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261481854061</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(81)85406-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07890</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180510">2018-05-10T16:29:00.629244Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19810915</xocs:date-search-begin>
+      <xocs:year-nav>1981</xocs:year-nav>
+      <xocs:indexeddate epoch="1003881600">2001-10-24T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>82</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>82</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 82, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>399</xocs:first-fp>
+      <xocs:last-lp>401</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>399</xocs:first-page>
+         <xocs:last-page>401</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19810915</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 September 1981</xocs:cover-date-text>
+      <xocs:cover-date-start>1981-09-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1981</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1981 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>NI2HYDRATIONINPERCHLORATECHLORIDESOLUTIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NEWSOME</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>SOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1793</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>ENDERBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>323</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>NEILSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L625</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SANDSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>WEINGARTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2712</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>FONTANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>676</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BERNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1001</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>CUMMINGS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>714</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NEWSOMEX1981X399</xocs:refkey3>
+         <xocs:refkey4lp>NEWSOMEX1981X399X401</xocs:refkey4lp>
+         <xocs:refkey4ai>NEWSOMEX1981X399XJ</xocs:refkey4ai>
+         <xocs:refkey5>NEWSOMEX1981X399X401XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(81)85406-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261481854061</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261481854061</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(81)85406-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2018-05-10T16:29:00.629244Z</xocs:timestamp>
+         <xocs:cover-date-start>1981-09-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261481854061-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481854061/MAIN/application/pdf/f9a7909e612bbe2b32a27c2a4762086c/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481854061/MAIN/application/pdf/f9a7909e612bbe2b32a27c2a4762086c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>224185</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261481854061-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481854061/PREVIEW/image/png/4e242c026d94b8423633b3d7b8dcde6c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481854061/PREVIEW/image/png/4e242c026d94b8423633b3d7b8dcde6c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65195</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 82, number 3 CHEMICAL PHYSICS LETTERS    15 September 1981    Ni2""" HYDRATION IN PERCHLORATE AND CHLORIDE SOLUTIONS  J.R. NEWSOME, G.W. NEILSON, J.E. ENDERBY    H.H. Wills Physics Laboratory, University of Bristol. Royal Fort. Bristol BS8 1 TL, UK    and    M. SANDSTROM  Department of Inorganic Chemistry, Royal Institute of Technology, S-100 44 Stockholm, Sweden    Received 17 July 1981    The hydration of nickel ions in a 3.80 molal solution of nickel perchlorate in (heavy) water has been investigated by the  neutron first-order difference method. The coordination of water molecules around nickel ions is identical with that found  in an earlier study of a nickel chloride solution of comparable ionic strength.    In 1977, a new method to determine ion—water  coordination in a range of aqueous solutions was pro-  posed [1] . The method exploits the fact that the neu-  tron scattering length of an element depends on its iso-  topic state. By taking the Fourier transform of the dif-  ference in the thermal neutron scattering cross sections  for two ionic solutions, identical in all respects except  for the isotopic state of the cations (or the anions) a  high-resolution, real-space description of the cation-  water (or anion—water) structure is obtained. This  method, based on taking a "first-order" difference.  avoids all of the problems involved with the interpreta-  tion of single diffraction patterns [2] and in particular,  circumvents the need to correct the data for inelastic  (Placzek) effects [2] .    One early and as yet unexplained result of this work  arose from measurements made on NiCI^ solutions in  D^O. It was found that while r^o remained constant  at 2.07 ± 0.02 A as the molality was reduced from 4.41  to 0.086, r^iD increased from 2.67 to 2.80 ± 0.03 A  [3] . This result implies that the angle &lt;fi between the  plane of the water molecule and the Ni—0 axis (fig. 1)  decreases from 42 ± 8° to zero over the composition  range studied-    The experimental results were contrary to the expec-  tation of many solution chemists. It was widely believed                Fig. 1. The orientation of a water molecule with respect to a  Ni21" ion. 0 values are given in table 2.    that one of the oxygen lone-pairs should point towards  the Ni2"*" ion so that the other lone-pair could form a  hydrogen bond with an adjacent water molecule; this  model would imply that &lt;p should remain constant at  55°. It was suggested to us that the unexpected behav-  iour might arise because the chloride ion is, in some  sense, disturbing the nickel—water coordination and in-  deed, there have been reported EXAFS [4] , NMR [5]  and Raman [6] studies which purport to demonstrate  that direct Ni^—CL" interactions in the region r » 3.2  A do indeed occur. In order to clarify the situation we  have carried out a first-order difference experiment on  a 3.80 molal solution of nickel perchlorate because it  is generally accepted [7] that ClO^ is appreciably less    0 009-2614/81/0000-0000/S 02.75 © 1981 North-Holland 399    Volume 82, number 3 CHEMICAL PHYSICS LETTERS 15 September 1981          k (A)    Fig. 2. A^(fc) for a 3.80 molal solution of NiCCIO^la in DaO.    active in solution than Cl~ and that direct cation—anion  interactions are negligible.    The experimental methods have been fully described  elsewhere [1,2] . The first-order difference in scattered  intensity as a function of momentum transfer Tik is shown  in fig. 2. This quantity can be written    AN;(A-) -A [S^,Q (k) - 1 ] + B [S^(k) - 1 ]    + ^NiCI^-) - 11 +JD PNiNi^-) - 11 '  where S^g(k) is the partial structure factor relating to  the distribution off? particles around a particles. The  coefficients A—D, are determined by the isotopic state  of the two solutions used and are listed in table 1. Since,  as is usual in this method. A, B &gt; C,D, A^(fe) is dom-  inated by the "hydration" terms, i.e. S^Q(k) and  ^NiD^)- ^e real-space distribution Gw(r) is obtained  by taking the Fourier transform of A^(fe) and is shown  in fig. 3. In terms of the radial distribution function  SopOO. ^NiO') is ^'uen ^  G^r) =A ^o(r) - 1] +B[g^r) - I]    + ^Nid^) - I! +D^Wi(r) - 1]    and, as for A^;(fe), is dominated by g^Q(r) andgy-^(r).    Our investigations show that A^(k) and G^(r) for  the perchlorate solution are essentially identical with  those reported earlier [3] for the chloride solution. To  quantify this statement we show, in table 2, the charac-  teristic structural parameters for nickel hydration in    Table 1  Scattering lengths and sample parameter        Electrolyte Molady Isotope Scattering lengths (10~12 cm) A (mb) a) B (mb) C (mb) D (mb)    N£(0104)2 in DaO 3.80    "^Ni                1.03  "^Ni. ^Ni mixture   0.036    9.56    13.56    1.49    0.42    a) I mb = lO-21 cm2.  400    Volume 82, number 3 CHEMICAL PHYSICS LETTERS 15 September 1981    0 080    0 0&amp;.0    0 01.0          r /A    Fig. 3- G^(r) for a 3.80 molal solution of ?(€104)2 in DaO.    Table 2  Hydration. of Ni24'. Figures in brackets represent the error in the last significant digit        Ion Solute Molality Ion- oxygen Ion—deuterium &lt;•&gt; Hvdration  distance (A) distance (A) (deg) a) number  Ni2'1- NiCIa 4.41 2.07 (3) 2.67 (2) 42 ±8 5.8 (2)    3.05 2.07 (2) 2.67 (2) 42*8 5.8 (2)   Ni(C104)2 3.80 2.07 (2) 2.67 (2) 42 ±8 5.8 (2)    a)    Assuming »-OT) = 1 A and ADOD = 104-5°.    both solutions. It is clear that substituting ClO^ has no  measurable effect on Ni2"1" hydration and that the value  of 0 is a characteristic feature of the nickel ion itself.    In an earlier study [8] we established that Cl" hy-  dration is relatively insensitive to the nature of the ca-  tion. We are aware that extrapolation from two cases  is dangerous, but the possibility now exists that the  geometry of ionic hydration is specific to the ion and  is not influenced in a significant way by the nature of  the counter ion. If this conclusion is sustained by the  range of experiments we are now planning on for a  wide variety of cations and anions, a major simplifica-  tion of the theory of aqueous solutions is within our  grasp.    References    [1 ] AJC. Soper. G.W. Neilson, J.E. Enderby and RA. Howe,    J.Phys. C10(1977) 1793.  [2] J-E- Enderby and G.W. Neilson, Advan. Phys. 29 (1980)    323.    [3] G.W. Neilson and J.E. Enderby, J. Phys. Cl 1 (1978) L625.  [4] D.R.Sandstrom.J. Chem. Phys-71 (1979)2381.  [5] H. Weingartner, C. Muller and H.G. Hertz, J. Chem. Soc.    Faraday Trans. 112 (1979) 2712.  [6] M.P- Fontana, G. Maisano, P. Mugliardo and F- Wanderlingh,    J. Chem. Phys. 69 (1978) 676.  [7] H.A. Bernan and T.R. Stengle, J. Phys. Chem. 79 (1975)    1001.  [8] S. Cummings, J.E. Enderby, G.W- Neilson, J.R. Newsome,    R.A- Howe.W.S. Howells and A.K. Soper, Nature 287    (1980)714.    401  hat direct Ni^—CL" interactions in the region r » 3.2  A do indeed occur. In order to clarify the situation we  have carried out a first-order difference experiment on  a 3.80 molal solution of nickel perchlorate because it  is generally accepted [7] that ClO^ is appreciably less    0 009-2614/81/0000-0000/S 02.75 © 1981 North-Holland 399    Volume 82, number 3 CHEMICAL PHYSICS LETTERS 15 September 1981          k (A)    Fig. 2. A^(fc) for a 3.80 molal solution of NiCCIO^la in DaO.    active in solution than Cl~ and that direct cation—anion  interactions are negligible.    The experimental methods have been fully described  elsewhere [1,2] . The first-order difference in scattered  intensity as a function of momentum transfer Tik is shown  in fig. 2. This quantity can be written    AN;(A-) -A [S^,Q (k) - 1 ] + B [S^(k) - 1 ]    + ^NiCI^-) - 11 +JD PNiNi^-) - 11 '  where S^g(k) is the partial structure factor relating to  the distribution off? particles around a particles. The  coefficients A—D, are determined by the isotopic state  of the two solutions used and are listed in table 1. Since,  as is usual in this method. A, B &gt; C,D, A^(fe) is dom-  inated by the "hydration" terms, i.e. S^Q(k) and  ^NiD^)- ^e real-space distribution Gw(r) is obtained  by taking the Fourier transform of A^(fe) and is shown  in fig. 3. In terms of the radial distribution functi</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>81854061</aid>
+            <ce:pii>0009-2614(81)85406-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(81)85406-1</ce:doi>
+            <ce:copyright type="unknown" year="1981"/>
+         </item-info>
+         <head>
+            <ce:title>Ni<ce:sup loc="post">2+</ce:sup> hydration in perchlorate and chloride solutions</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.R.</ce:given-name>
+                  <ce:surname>Newsome</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G.W.</ce:given-name>
+                  <ce:surname>Neilson</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.E.</ce:given-name>
+                  <ce:surname>Enderby</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>H.H. Wills Physics Laboratory, University of Bristol, Royal Fort, Bristol BS8 1TL, UK</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Sandström</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Inorganic Chemistry, Royal Institute of Technology, S-100 44 Stockholm, Sweden</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="17" month="7" year="1981"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The hydration of nickel ions in a 3.80 molal solution of nickel perchlorate in (heavy) water has been investigated by the neutron first-order difference method. The coordination of water molecules around nickel ions is identical with that found in an earlier study of a nickel chloride solution of comparable ionic strength.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Soper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Howe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1793</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>323</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>C11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L625</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Sandström</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Weingärtner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Hertz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Trans. I</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2712</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Fontana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Maisano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mugliardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wanderlingh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>676</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Bernan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Stengle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1001</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Cummings</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Enderby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Newsome</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Howe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Howells</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Soper</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>287</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>714</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>
