@@ -1,0 +1,994 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148780533X</prism:url><dc:identifier>doi:10.1016/0009-2614(87)80533-X</dc:identifier><eid>1-s2.0-000926148780533X</eid><prism:doi>10.1016/0009-2614(87)80533-X</prism:doi><pii>0009-2614(87)80533-X</pii><dc:title>Temperature dependence of the relaxation rate constants of the a 1Δg and b 1Σ +
+               g states of oxygen isotopes </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>138</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>419</prism:startingPage><prism:endingPage>424</prism:endingPage><prism:pageRange>419-424</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1987-07-31</prism:coverDate><prism:coverDisplayDate>31 July 1987</prism:coverDisplayDate><prism:copyright>Copyright © 1987 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Plötz, J.</dc:creator><dc:creator>Maier, Max</dc:creator><dc:description>
+               Abstract
+               
+                  The relaxation rate constants of the low-lying electronic singlet states, a 1Δg and b 1Σ+
+                     g , of gaseous natural O2 and of the isotope 18O2 were investigated as a function of temperature from 100 to 295 K. The measured increase of the rate constants with temperature is in good agreement with a theory of electronic-to-vibrational-translational energy transfer. The significant effects of the different electronic states and of the isotope masses on the absolute values of the relaxation rate constants, which range from 1.0× 10−20 to 3.9× 10−17 s−1 molecule−1 cm3 at 295 K, are discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148780533X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148780533X" rel="scidir"/></coredata><scopus-id>4243722500</scopus-id><scopus-eid>2-s2.0-4243722500</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4243722500" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011206">2001-12-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011206">2001-12-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T13:59:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148780533X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(87)80533-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148780533X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(87)80533-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08718</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T22:17:33.171695-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19870731</xocs:date-search-begin>
+      <xocs:year-nav>1987</xocs:year-nav>
+      <xocs:indexeddate epoch="1007596800">2001-12-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>138</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>138</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 138, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>419</xocs:first-fp>
+      <xocs:last-lp>424</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>419</xocs:first-page>
+         <xocs:last-page>424</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19870731</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>31 July 1987</xocs:cover-date-text>
+      <xocs:cover-date-start>1987-07-31</xocs:cover-date-start>
+      <xocs:cover-date-year>1987</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1987 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>TEMPERATUREDEPENDENCERELAXATIONRATECONSTANTSA1GB1GSTATESOXYGENISOTOPES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PLOTZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>WAYNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SINGLETO2</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BRAITHWAITE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>158</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BORRELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>395</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BORRELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>700</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BOODAGHIANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>907</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BORRELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>748</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BORRELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>399</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BILLINGTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>963</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>KOHSEHOINGHAUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3720</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>CHATELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>387</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DAVIDSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMILUMINESCENCEBIOLUMINESCENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DAVIDSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>240</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>KEAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>409</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BRAITHWAITE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>771</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>PARMENTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5233</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>WILD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>KLINGSHIRN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>714</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>LAMBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>52</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>VIBRATIONALROTATIONALRELAXATIONINGASES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>EINWOHNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1458</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PLOTZX1987X419</xocs:refkey3>
+         <xocs:refkey4lp>PLOTZX1987X419X424</xocs:refkey4lp>
+         <xocs:refkey4ai>PLOTZX1987X419XJ</xocs:refkey4ai>
+         <xocs:refkey5>PLOTZX1987X419X424XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(87)80533-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148780533X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148780533X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(87)80533-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T22:17:33.171695-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1987-07-31</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148780533X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148780533X/MAIN/application/pdf/b48a0d1a57bdb7c0c3001df748707a3e/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148780533X/MAIN/application/pdf/b48a0d1a57bdb7c0c3001df748707a3e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>509086</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148780533X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148780533X/PREVIEW/image/png/7285d8ec3fd8d58e27b241801717452f/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148780533X/PREVIEW/image/png/7285d8ec3fd8d58e27b241801717452f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68923</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 138, number 5 CHEMICAL PHYSICS LETTERS 31 July 1987    TEMPERATURE DEPENDENCE OF THE RELAXATION RATE CONSTANTS  OF THE a 'Ag AND b 'Zg STATES OF OXYGEN ISOTOPES    J. PLOTZ and Max MAIER    Naturwissenschafthche Fakultat II - Physik, Vniversitat Regensburg, D-8400 Regensburg, Federal Republic of Germany    Received 30 April 1987; in final form 18 May 1987    The relaxation rate constants of the low-lying electronic singlet states, a 'Ag and b '  g', of gaseous natural 0; and of the isotope  "Os were investigated as a function of temperature from 100 to 295 K. The measured increase of the rate constants with temper-  ature is in good agreement with a theory ofelectronic-to-vibrational-translational energy transfer. The significant effects of the  different electronic states and of the isotope masses on the absolute values of the relaxation rate constants, which range from  l.Ox 10-20 to 3.9x 10- '7 s-' molecule-' cm3 at 295 K, are discussed.    1. Introduction    There is a large number of studies of the quench-  ing reactions of singlet molecular oxygen by ground-  state 0-i and by various diatomic and polyatomic  molecules [ 1 ]. Most of the measurements were car-  ried out at room temperature. Studies of the tem-  perature dependence of the relaxation rate constants  have been made [2-10], which are needed for  checking the existing calculations. Various theoreti-  cal approaches [11-14] do not give a comprehen-  sive picture of the observed quenching phenomena.  The different theoretical models and the large num-  ber of experimental data have been reviewed and  discussed by Wayne [ 1 ].    A particular problem is the calculation of the  relaxation rate constant of singlet molecular oxygen  by ground-state molecular oxygen [ 12,13]. In order  to solve this problem, a theory of vibrational relax-  ation developed by Shin [15] was adapted to the  electronic relaxation of molecular oxygen [ 16,17 ]. A  review of earlier theoretical work on relaxation rate  constants and a discussion of the results is given in  ref. [18]. The modified theory of Shin has been suc-  cessfully applied to the relaxation of singlet 0-t in liq-  uid oxygen. Moreover, it was possible to fit the  calculations to the measured temperature depen-  dence of the Oz(a 'Ag) relaxation between 150 and  295 K [8,10]. The fitting parameter was the range    parameter a of the intermolecular Morse potential  used in the calculations. However, further experi-  mental results are needed to check the validity of this  theoretical approach.    In this Letter, we present a study of the temper-  ature dependence of the collisional quenching of the  low-lying excited electronic singlet states of molec-  ular oxygen, O^a'Ag) and O^b'Zg^), for natural  oxygen, which contains 99.8% "O, and for the iso-  tope '*0-t. The aim of the work is to gain insight into  the mechanism of electronic-to-vibrational-trans-  lational energy transfer by a quantitative compari-  son of the experimental results with the theoretical  approach of refs. [ 15-17 ]. In particular, the observed  effects of the two different electronic singlet states  and of the molecular masses on the absolute values  of the relaxation rate constant of oxygen and on the  temperature dependence of the collisional quench-  ing are discussed in detail.    2. Theoretical model    The calculations are based on the isolated binary  collision (IBC) model. The relaxation rate constant  is written as    k=PZ.                                       (I)  Here, P is the transition probability per collision and    0 009-2614/87/$ 03.50   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)    419    Volume 138, number 5 CHEMICAL PHYSICS LETTERS 31 July 1987    Z is the number of collisions per second.    For the calculation of the transition probability P  the relaxation routes of the electronic states must be  known. Most of the energy of the 'Ag state is trans-  ferred to vibrational levels of the electronic ground  state of the colliding molecules [ 1,16]. A small part  of the electronic energy, the energy mismatch A y,  is transferred to translational motion. The '  g' state  has been shown [1,17] to be quenched by collisions  to vibrational levels of the 'Ag state. The values of  the energy mismatch A y of the most probable relax-  ation channels of the 'Ag and '  ^ states are given in  table 1. A y is smaller for "O; than for ^Oz, because  of the isotope effect in the vibrational frequency.    We use a modified theory of vibrational relaxation  [15,18] to calculate the transition probabilities for  the collisional deactivation of singlet molecular oxy-  gen. The attractive and repulsive forces between the  molecules are taken into account by the Morse  potential U(r, e, a), where e is the depth of the  potential and a is a measure of the range of the inter-  molecular forces. The probability P^vm-r that dur-  ing a binary collision, molecule I will change its    vibrational state from 0 to v, while simultaneously  molecule II will change its vibrational state from 0  to v^-v is given by [16-18]    Poo .^-.=P[VO v(l)}2[VO^-VW]2    (2)    The sum Vm of the vibrational quantum numbers of  the excited levels of the molecules after the collision  is taken to be 5 and 3 for the 'Ag and 'S^ states,  respectively, because then the energy mismatch A y  has its minimum value. The factor P contains the  steric factors and the electronic matrix elements. For  simplicity, we set P= 1 in the calculations.    The vibrational factor (V'^)2 is the square of the  matrix element of the transition between the vibra-  tional states ; and/ For a harmonic oscillator we get  [18]    [I/0.i(I)p^O.^-t.(U)]2    =(fla2/4n)vm{mlAVl)-v(mn^Vn)~{l'm~v)    (3)    Table 1    Energy mismatch A v of the most probable relaxation route, normalized collision energy E*/ksTand normalized relaxation distance  /( /CTuofthe 'Agand 'Sg^ states of natural 0; and the isotope "Ozat 295 K. The Lennard- Jones diameter of Oi is Uu= 0.348 nm. The  transition probability P, the normalized collision frequency ZIn and the relaxation rate constant kin have been calculated using the  following numbers: potential parameters a =4.5 XI O8 cm -1 and tiks = 103 K, vibrational wavenumbersAvC'OhCi.g"))^! 556.5 cm"',  Ar("02('Ag))= 1483.5 cm-', ArC'Ozt^g-))^ 1468.6 cm-', AyC'OzCAg^ 1401.3 cm-', wavenumbers of electronic states, 'Ag:    7882cm-', ' ,: 13120cm-'         Natural 10; "O;    'Ag '^+ 'Ag '^+  A y (cm-') 194 665 624 921  E'lk^T 1.356 3.454 3.511 4.587  R*lau 0.940 0.902 0.901 0.889  lO^pa) 0.32 77 0.00063 1.68  10"Z/n(s-' mol-' cm3) 5.4 0.61 0.54 0.18  10'8fc/?^(s-'mol-' cm3)      calculated a) 1.7 47 0.00034 0.30  measured 1.7 39 0.010 8.1  ^i      calc.  0.036 0.0011   meas.  0.044 0.0012   18^16^      calc.   0.00020 0.0064  meas.   0.0059 0.21    "' The calculated values of the transition probability have been adjusted to get agreement between the measured and calculated relaxation  rate constant kin of natural 0;( 'Ag).    420    Volume 138, number 5 CHEMICAL PHYSICS LETTERS 31 July 1987    (5)    where m\ n and Ar, n are the molecular mass and the  vibrational frequency, respectively.    The temperature dependence of the transition  probability is determined by the translational factor  F, which is given by [15]    _ /27iwA ^2?   / 4(fflf) /2     )    00    -)J    F=[   ,-5     exp    -   \ a^fi2 ) J    \     a-h    X [g(x+AE^/e) -g(x)] -x dx, (4)    with    g(x) = (/CB Tx/c)\n arctg[(A:B Tx/e) '/2]  -^ln(l+ksTx/e).    The integration is carried out over the normalized  collision energies x=ElksT. The total transition  probability is obtained as the sum P=.%o-P :^-i.  over the different relaxation channels.    The collision frequency Z is calculated from an  expression given by Einwohner and Alder [19]    (6)    The term in the brackets is the usual collision fre-  quency Zk of the simple kinetic theory. It is multi-  plied by the pair distribution function g, which  depends on the distance R* between the colliding  molecules where the deexcitation is assumed to occur.  For a low density gas the pair distribution function  is given by [10]    (7)    U(R*) is the intermolecular potential energy at the  relaxation distance R*. For the deactivation of sin-  glet Oz mainly high collision energies are important,  i.e. U(R*)/kBT^.l. Therefore, the pair distribution  function g( T,R*) leads to a temperature-dependent  reduction of the collision frequency.    For the calculation of the collision frequency Z the  relaxation distance R* must be known. There is a  distribution of distances R* because of the thermal  distribution of the collision energies E. For simplic-  ity, we use in the calculation of Z the most probable  value of R*. It is obtained by calculating the most  probable collision energy E* for the deactivation of  singlet molecular oxygen from the integrand of eq.  (4). We assume the relaxation distance R* to be close    to the classical turning point of the collision and cal-  culate it by equating E* with the intermolecular  potential energy U(R*). Table 1 shows typical val-  ues of  * and R* at room temperature for the 'Ag  and '^ states of natural 0; and ^Oz. If the energy  A y, which is transferred to translational motion, is  small (e.g. for Oz( 'Ag)), then the most probable col-  lision energy E* is also small, leading to a large relax-  ation distance R*. It should be noted that E*/kyT  enters the collision frequency via the pair distribu-  tion function g (eqs. (6) and (7)). Large values of  E*/ksT (e.g. for ^Oi) cause a reduction of the col-  lision frequency (see table 1).    The relaxation rate constants k are calculated from  eqs. (1)-(?). The numbers for the various param-  eters used in the calculations are given in table 1. The  results will be discussed in section 4.    3. Experimental    The apparatus for the measurements has been  described elsewhere [10,16,17]. High purity grade  natural Oz (Linde; purity 99.999 vol%; 0.2% ^O)  and '"Oz (Ventron, 99.0% ^O) were used.    The 'Ag state of oxygen was excited by absorption  of the light pulse of a Q-switched Nd:YAG laser. The  time dependence of the 'Ag population was moni-  tored by observing the double-molecule fluorescence  at 635 nm with a photomultiplier. There is a strong  dependence of the double-molecule fluorescence  intensity /p on the number density n of the oxygen  gas (/F(&lt;=0)ocn4). Therefore, the measurements  were carried out at pressures between 2.5 and 10  MPa. Sufficient gas pressure was available only for  temperatures T ^ 140 K. (critical point T^= 154.6 K).  In the pressure range used in the experiments the  relaxation rate constants k were proportional to the  gas density n. The laser energy density was chosen  low enough to get an exponential time decay of the  fluorescence intensity.    OzCSg^) was generated by a ruby-laser-pumped  dye laser with a wavelength of 762.2 nm. The ' g'  population was observed using the fluorescence  emission at 864.8 nm and 858.3 nm of natural 0;    and ^Oz, respectively, which is due to the transition  lI.^(v=0)^I,^(v=l)+hv.   The   fluorescence  intensity decreases only slightly with falling gas den-    421    Volume 138, number 5 CHEMICAL PHYSICS LETTERS 31 July 1987    sity (/F(?=O) ocn'2, from 0.1 to 10 MPa). Sufficient  fluorescence intensity was obtained at a gas pressure  of about 0.2 MPa. Therefore, the relaxation rate con-  stant ofO^C^g) could be measured down to T= 100  K.    4. Results and discussion    The measured and calculated relaxation rate con-  stants kin of the 'Ag and 'Eg' states of natural Oz  and ^Oz at room temperature (T=295 K) and the  values of the parameters used in the calculations are  given in table 1. The value of the potential parameter  a=4.5xl08 cm"' has been used, because it gives  best agreement between the measured and calculated  normalized temperature dependence of all four spe-  cies (see below). The absolute values of the calcu-  lated rate constants have been adjusted to the  measured value of natural OzCAg). The measured  relaxation rate constants of natural O^CAg) and  0;&gt;(' 5^) at 295 K agree with literature values [ 1 ].    It should be noted that the calculated rate constant  of natural OaCSg^) and the calculated ratios k^/k^  of natural Oz and ^Oz are in good agreement with  the measured values (see table 1). This agreement  indicates that the differences in the relaxation of both  singlet states are well described by the theory. The  relaxation rate constants of the 'S^ state of both  oxygen isotopes are larger than the corresponding  values of the 'Ag state (see table 1), because the total  number v^ of the vibrational quanta involved in the  relaxation process is smaller for the 'Sg^ state  (I'm =3) than for the 'Ag state (I'm =5). Smaller val-  ues of u^ yield larger vibrational transition matrix  elements (eq. (3)) and increase the transition prob-  ability P (eq. (2)). The larger matrix elements of the  'Sg^ state overcompensate its smaller collision fre-  quency (table 1) and its smaller translational factor  F(eq. (4)).    A comparison of the relaxation rate constants of  natural Oz and ^Oa in table 1 shows a strong isotope  effect. The rate constants of ^Oz are much smaller  than those of natural 0^. both for the 'Ag state and  the ' g' state. The main reason for the difference is  the larger energy mismatch A \, of the isotope ^O;    (see table 1), which is due to the smaller vibrational  frequency because of the larger mass. More energy    Temperature T(K)  2000 1000 500    300      200      150               100          0            2            4            6           8           10    M'/TIK-'l  Fig. 1. Arrhenius plot of the relaxation rate constants kin of sin-  glet molecular oxygen. Natural OzCAg): open circles, solid and  dotted line; natural OzCZg'): open squares, dashed line;    '"O^ '\): full circles, broken line; "O^ 'Z^): full squares, dash-  dotted line. The high temperature points of natural 02 (' ^) have  been taken from ref. [ 4].    has to be transferred to translational motion for ^Oz  than for "Oz, decreasing the transition probability  P through factor F (eq. (4)). The calculated ratios  'WA: of the rate constants of ^O; and natural 0;    are much smaller than the measured ratios (see table  1). This discrepancy indicates that the isotope effect  is only qualitatively described by the theory.    The temperature dependence of the relaxation rate  constants is presented in fig. 1, where \n(k/n) is plot-  ted versus l/T. The symbols and the lines represent  the experimental points and the calculated curves,  respectively. The temperature dependence of the dif-  ferent species cannot be described by straight lines  over the entire temperature range, i.e. there is no  Arrhenius dependence. It should be noted that for  natural OzCZg^) there is excellent agreement  between the experimental points (DM) and the cal-  culated dashed line over four orders of magnitude of  the relaxation rate constant. The high temperature  points (E) tor natural O^C^-s) haw been taken  from the work ofBorrell et al. [4]. The agreement  between the experiments (0) and the calculations  (solid line) is also good for natural OzCAg). How-  ever, the theory gets worse below 150 K (dotted line).  One of the possible reasons is that the values of the  most probable collision energy E*/kfsTget small. The  calculated broken and dash-dotted curves for the 'Ag  state and the 'Sg' state, respectively, of the isotope    422    Volume 138, number 5 CHEMICAL PHYSICS LETTERS 31 July 1987          Temperature T1KI    Fig. 2. Normalized relaxation rate constants {kln}Tl(kln)t^^  versus temperature T. Natural 0;&gt;('Ag): open circles, solid and  dotted line; natural OzCZg^): open squares, dashed line;    "O^ 'Ag): full circles, broken line; "Ozf' S^):full squares, dash-  dotted line.    5. Conclusions    The measured different temperature dependences  of the relaxation rate constants of the 'Ag and 'Xg'  states of gaseous natural 0; and "Oz are quantita-  tively described by our theoretical model of elec-  tronic-to-vibrational-translational energy transfer.  The differences in the temperature dependence of the  investigated species and the observed isotope effects  are qualitatively explained by the different amount  of electronic energy which is transferred to transla-  tional motion. The larger values of the relaxation rate  constants of Oz(' Sg^) compared to Oa ('Ag) are due  to the fact that in the '  g' relaxation (to the 'Ag state)  a smaller part of the electronic energy is transferred  to vibrational energy (three vibrational quanta) than  in the 'Ag relaxation (five vibrational quanta).    '^O-t lie far below the experimental points ( , ),  because the theory does not describe the isotope effect  properly.    For a detailed discussion of the temperature  dependence of the electronic relaxation, we normal-  ized the rate constants kin to their respective values  at room temperature. The ratios ()dn)Tl(kln)^ ^  are plotted in fig. 2 versus temperature T. In the cal-  culations a value of the potential parameters  a=4.5xl08 cm~1 has been used which gives very  good agreement between the calculated curves and  the corresponding experimental points, except for  18 Oat 'Sg^). For this species the experimental points  ( ) lie above the calculated curve (dash-dotted  line). There is experimental evidence that in partic-  ular the relaxation of ^O^'  g') is most sensitive to  impurities. This fact may be responsible for the  observed difference in fig. 2. The temperature  dependence of the relaxation rate constants of nat-  ural O^'Z^) (D),'^'^) O.and'^CAJ  ( ) is very similar, but the points lie far below those  of natural Oz( 'Ag) (0). The reason is that these spe-  cies have a larger energy mismatch AJEy than natural  Oa ('Ag) (see table 1), which mainly determines the  temperature dependence of the relaxation rate con-  stants (via the factor F, eq. (4)).    References    [ 1 ] R.P. Wayne, in: Singlet Oz, Vol. 1, ed. A.A. Frimer (CRC    press, Boca Raton, 1985) p. 81.  [2] M. Braithwaite, E.A. Ogryzlo, J.A. Davidson and H.I. Schiff,    Chem. Phys. Letters 42 (1976) 158.  [3 ] P. Borrell, P.M. Borrell, M.D. Pedley and K.R. Grant, Proc.    Roy.Soc.A367 (1979) 395.  [4] P.M. Borrell, P. Borrell, K.R. Grant and M.D. Pedley, J.    Phys. Chem. 86 (1982) 700.  [5] R. Boodaghians, P.M. Borrell and P. Borrell, J. Chem. Soc.    Faraday Trans. II 79 (1983) 907.  [6] P.M. Borrell, P. Borrell and K.R. Grant, J. Chem. Phys. 78    (1983) 748.  [7] P. Borrell, P.M. Borrell, D.S. Richards and R.B.    Boodaghians, J. Photochem. 25 (1984) 399.  [8] A.P. Billington and P. Borrell, J. Chem. Soc. Faraday Trans.    1182(1986)963.  [9] K. Kohse-Hoinghaus and F. Stuhl, J. Chem. Phys. 72 (1980)    3720.  [ 10] M. Chatelet, A. Tardieu, W. Spreitzer and M. Maier, Chem.    Phys. 102(1986) 387.    [11] J.A. Davidson and E.A. Ogryzlo, in: Chemiluminescence and  bioluminescence, eds. M.J. Cormier, D.M. Hercules and J.  Lee (Plenum Press, New York, 1973)p. 111; Can. J. Chem.  52(1974) 240.  [ 12 ] K. Kear and E.W. Abrahamson, J. Photochem. 3 (1974/75)    409.  [ 13] M. Braithwaite, J.A. Davidson and E.A. Ogryzlo, J. Chem.    Phys. 65 (1976) 771.    [14]C.S. Parmenter and M. Seaver, Chem. Phys. Letters 67  (1979) 279.    423    Volume 138, number 5                   CHEMICAL PHYSICS LETTERS                          31 July 1987    [15] H.K. Shin, J. Chem. Phys. 55 (1971) 5233.                    [18] J.D. Lambert, Vibrational and rotational relaxation in pa&lt;p   [ 16] E. Wild, H. Klingshirn and M. Maier, J. Photochem. 25           (Clarendon Press, Oxford, 1977) pp. 43-52.    (1984) 131.                                             [19] T. Einwohner and B.J. Alder, J. Chem. Phys. 49 (1968)  [ 17 ] H. Klingshirn and M. Maier, J. Chem. Phys. 82 (1985)714.           1458.    424  ken line; "Ozf' S^):full squares, dash-  dotted line.    5. Conclusions    The measured different temperature dependences  of the relaxation rate constants of the 'Ag and 'Xg'  states of gaseous natural 0; and "Oz are quantita-  tively described by our theoretical model of elec-  tronic-to-vibrational-translational energy transfer.  The differences in the temperature dependence of the  investigated species and the observed isotope effects  are qualitatively explained by the different amount  of e</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8780533X</aid>
+            <ce:pii>0009-2614(87)80533-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(87)80533-X</ce:doi>
+            <ce:copyright type="unknown" year="1987"/>
+         </item-info>
+         <head>
+            <ce:title>Temperature dependence of the relaxation rate constants of the a <ce:sup loc="pre">1</ce:sup>Δ<ce:inf loc="post">g</ce:inf> and b <ce:sup loc="pre">1</ce:sup>Σ <ce:sup loc="pre">+</ce:sup>
+               <ce:inf loc="post">g</ce:inf> states of oxygen isotopes</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Plötz</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Max</ce:given-name>
+                  <ce:surname>Maier</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Naturwissenschaftliche Fakultät II - Physik, Universität Regensburg, D-8400 Regensburg, Federal Republic of Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="30" month="4" year="1987"/>
+            <ce:date-revised day="18" month="5" year="1987"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The relaxation rate constants of the low-lying electronic singlet states, a <ce:sup loc="pre">1</ce:sup>Δ<ce:inf loc="post">g</ce:inf> and b <ce:sup loc="pre">1</ce:sup>Σ<ce:sup loc="post">+</ce:sup>
+                     <ce:inf loc="post">g</ce:inf> , of gaseous natural O<ce:inf loc="post">2</ce:inf> and of the isotope <ce:sup loc="post">18</ce:sup>O<ce:inf loc="post">2</ce:inf> were investigated as a function of temperature from 100 to 295 K. The measured increase of the rate constants with temperature is in good agreement with a theory of electronic-to-vibrational-translational energy transfer. The significant effects of the different electronic states and of the isotope masses on the absolute values of the relaxation rate constants, which range from 1.0× 10<ce:sup loc="post">−20</ce:sup> to 3.9× 10<ce:sup loc="post">−17</ce:sup> s<ce:sup loc="post">−1</ce:sup> molecule<ce:sup loc="post">−1</ce:sup> cm<ce:sup loc="post">3</ce:sup> at 295 K, are discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Wayne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>A.A.</ce:given-name>
+                                    <ce:surname>Frimer</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Singlet O<ce:inf loc="post">2</ce:inf>
+                                       </sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC press</sb:name>
+                                 <sb:location>Boca Raton</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Braithwaite</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Ogryzlo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.I.</ce:given-name>
+                                 <ce:surname>Schiff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>158</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Pedley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Grant</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy.Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A367</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>395</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Grant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Pedley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>700</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boodaghians</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Trans. II</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>907</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Grant</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>748</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Richards</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Boodaghians</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Photochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>399</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Billington</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Borrell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Trans. II</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>963</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kohse-Höinghaus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Stuhl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3720</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chatelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tardieu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Spreitzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>387</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Ogryzlo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.J.</ce:given-name>
+                                    <ce:surname>Cormier</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>D.M.</ce:given-name>
+                                    <ce:surname>Hercules</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Lee</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Chemiluminescence and bioluminescence</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Ogryzlo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>240</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kear</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Abrahamson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Photochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974/75</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>409</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Braithwaite</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Ogryzlo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>771</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Parmenter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Seaver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5233</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wild</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Klingshirn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Photochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Klingshirn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>714</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Lambert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Vibrational and rotational relaxation in gases</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Clarendon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>52</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Einwohner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1458</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

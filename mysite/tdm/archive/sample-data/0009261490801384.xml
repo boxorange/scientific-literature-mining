@@ -1,0 +1,805 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261490801384</prism:url><dc:identifier>doi:10.1016/0009-2614(90)80138-4</dc:identifier><eid>1-s2.0-0009261490801384</eid><prism:doi>10.1016/0009-2614(90)80138-4</prism:doi><pii>0009-2614(90)80138-4</pii><dc:title>The effect of resonant vibrational coupling on the frequency of the ν2 mode of liquid methyl iodide in Raman scattering and infrared absorption </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>172</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>453</prism:startingPage><prism:endingPage>457</prism:endingPage><prism:pageRange>453-457</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1990-09-21</prism:coverDate><prism:coverDisplayDate>21 September 1990</prism:coverDisplayDate><prism:copyright>Copyright © 1990 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Döge, G.</dc:creator><dc:creator>Lindner, D.</dc:creator><dc:creator>Richter, W.</dc:creator><dc:creator>Schiel, D.</dc:creator><dc:description>
+               Abstract
+               
+                  The ν2 mode of methyl iodide has been measured in isotropic and anisotropic Raman scattering, and in infrared absorption in the neat liquid and in isotopic dilution with the deuterated compound. The local field affecting the shape and position of the intense infrared profile has been taken into account by a continuum dielectric approximation. The isotopic dilution shifts observed indicate the action of resonant intermolecular vibrational coupling which presumably is caused by transition dipole interaction. The results are, in principle, in agreement with current theories. For a comparison, certain approximations are necessary (MSM, etc.), which seem to be responsible for the fact that quantitative agreement is not yet very good.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261490801384" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261490801384" rel="scidir"/></coredata><scopus-id>33748921212</scopus-id><scopus-eid>2-s2.0-33748921212</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33748921212" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-03T20:21:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261490801384</xocs:eid>
+      <xocs:pii-formatted>0009-2614(90)80138-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261490801384</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(90)80138-4</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09487</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151005">2015-10-05T04:53:56.008671-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19900921</xocs:date-search-begin>
+      <xocs:year-nav>1990</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>172</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>172</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 172, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>453</xocs:first-fp>
+      <xocs:last-lp>457</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>453</xocs:first-page>
+         <xocs:last-page>457</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19900921</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>21 September 1990</xocs:cover-date-text>
+      <xocs:cover-date-start>1990-09-21</xocs:cover-date-start>
+      <xocs:cover-date-year>1990</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1990 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTRESONANTVIBRATIONALCOUPLINGFREQUENCY2MODELIQUIDMETHYLIODIDEINRAMANSCATTERINGINFRAREDABSORPTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DOGE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>SCHEIBE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>OEHME</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1499</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>DOGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>399</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ZYUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5940</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4039</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BRATOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1591</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LOGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>97</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>LOGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>215</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>LOGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>199</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>DOGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>919</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>LAANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5305</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>LAANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4971</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>CLIFFORD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1536</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>WERTHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4291</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>DICKSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>BLUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1862</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>BOTTCHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYELECTRICPOLARIZATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DOGEX1990X453</xocs:refkey3>
+         <xocs:refkey4lp>DOGEX1990X453X457</xocs:refkey4lp>
+         <xocs:refkey4ai>DOGEX1990X453XG</xocs:refkey4ai>
+         <xocs:refkey5>DOGEX1990X453X457XG</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(90)80138-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261490801384</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261490801384</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(90)80138-4</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-05T04:53:56.008671-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1990-09-21</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261490801384-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261490801384/MAIN/application/pdf/5a06e67991436e426a8b33ab8a0d12a1/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261490801384/MAIN/application/pdf/5a06e67991436e426a8b33ab8a0d12a1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>534184</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261490801384-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261490801384/PREVIEW/image/png/dab5351d8c8c49d6a123a73b67aad2fe/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261490801384/PREVIEW/image/png/dab5351d8c8c49d6a123a73b67aad2fe/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>77513</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 172, number 6  CHEMICAL PHYSICS LETTERS  21 September 1990  0. Doge, D. Lindner  lnstitutjiir Physikalisehe und Theore:ische Chemie tier Technischen Universitdt,  D-3300Braunschweig, FederaiRepublic of Germany  W. Richter and D. Schiel  Physikalisch-Tec.hnische Bundesanstall, 11-3300 Braunschweig, Federal Republic of Germany  Received 17 January 1990; in final form 1 June 1990   The p2 mode of methyl iodide has been measured in isotropic and anisotropic Raman scattering, and in infrared absorption in  the neat liquid and in isotopic dilution with the deuterated compound. The local field affecting the shape and position of the  intense infrared profile has been taken into account by a continuum dielectric approximation. The isotopic dilution shifts ob-  served iadicate the action of resonant intermolecular vibrational coupling which presumably is caused by transition dipole inter-  action. The results are, in principle, in agreement with current theories. For a comparison, certain approximations are necessary  (MSM, etc.), which seem to be responsible for the fact that quantitative agreement is not yet very good.  band parameters are observed in the neat liquid and  in dilution with an isotopically substituted species of  the same compound. In this way, it is possible to de-  couple the vibrations of  neighbouring molecules (if  the corresponding vibrational bands in the two iso-  topic species do not overlap). In anisotropic Raman  scattering such experiments suffer from the low in-  tensity. This scattering is very weak in most cases,  making it difficult to obtain good results in dilution  experiments. This is particularly true if there are per-  turbations by hot bands or other neighbouring bands,  or if the reorientational broadening is large. Pub-  lished data are not therefore always reliable, and what  is more, there are also some discrepancies in the  theories.   In general such problems are treated by studying  the vibrational relaxation function C~(t), which is  obtained by a Fourier transformation of the fre-  quency-dependent intensity function J(co) of the  band, because it is often easier to treat time-depen-  dent effects in this time representation. In this paper  we wish to study the effect of RIVC on band posi-  tions (first moments). Such effects (shifts) are a  1. Introduction     The position and the shape of Raman scattering  and infrared absorption profiles of the vibrational  modes of molecules in the liquid state are in certain  cases well-suited probes for studying the structure and  molecular dynamics in liquids. In this connection it  is sometimes observed that in neat liquids, aniso-  tropic Raman bands have higher peak frequencies  than the corresponding isotropic bands. This effect,  usually called the non-coincidence effect, is caused  by resonant intermolecular vibrational coupling  (RIVC) if there is a certain amount of molecular  orientational order.   In recent years, the problem of the different kinds  of influence of RIVC on isotropic and anisotropic  Raman scattering and infrared absorption has been  taken up again in experimental [1 4] and theoret-  ical [5 9] investigations. The results obtained by  several authors do not always agree. The only ex-  perimental method which can show if RIVC affects  the position and shape of a certain vibrational band  is the so-called isotopic dilution method [10]. The  453  0009-2614/90/S 03.50   1990   Elsevier Science Publishers B.V. (North-Holland)  The effect of resonant vibrational coupling on the frequency  of the v2 mode of liquid methyl iodide  in Raman scattering and infrared absorption  Temp.  (K)  Band maximum  in neat liquid (cm  )  Isotopic dilution  shift (cm  )  IS AS    IS AS    213    1.7  283   1240.3 1241.0   1.2 0.6  313   1240.7 1241.0   1.0 0.5  Volume 172, number 6  CHEMICAL PHYSICS LETITERS  21 September 1990  measure of an ensemble average of that part of the  intermolecular interaction which acts on the vibra-  tional energy. This avenge is time independent and  describes the modulation of C~( t) with a constant  frequency. It is therefore unnecessary to transform  the spectroscopic results into the time domain if we  are dealing only with band shifts due to RIVC, but  we do need the time representation for the treatment  of the other band shape or vibrational correlation  parameters, and these will be the subject of following  papers.        2. Experimental     A Coderg triple-monochromator Raman spec-  trometer was used with an argon ion laser. For the  pressure-dependent measurements we used a pres-  sure cell manufactured by Nova Swiss. As the band  shifts upon isotopic dilution sometimes are very small  (especially in anisotropic scattering), some atmos-  pheric-pressure measurements were performed using  a special technique: To ascertain accurate wavenum-  ber differences for the band maxima obtained with  the neat liquid and the isotopic dilution, both bands  were recorded in the same run. The principle of this  technique has been described by Laane and Kiefer  [11,12]. Two sample cells are mounted on a rotating  cell holder which can rotate around 1800 and back  into the primary position. The laser beam passes  through the neat liquid cell in one of the two posi-  tions, and through the isotopically diluted solution  in the other. A microcomputer controls the counting  time of the scattered photons, the motion of the cells,  the monochromator drive and also collects the  counting rates.   With this arrangement we studied the isotopic di-  lution effect in anisotropic scattering and also re-  peated earlier measurements of this effect in iso-  tropic scattering. The band maximum observed in  VY scattering geometry (polar scattering) was iden-  tified with the band maximum of isotropic scatter-  ing. This is possible because the depolarisation ratio  of the v2 band of iodomethane is very small,   The infrared absorption profile of the v2 mode of  the neat liquid was measured by the two-thickness  method according to  ln[z~ (w)fr2(w)]  (1)  where t~ and 12 are the transmittances of the ab-  sorption path lengths d1 and  2. For the latter, values  of 4 and 12 gm were used in a variable cell with KBr  windows. In this way the absorption coefficient of  the strong band is obtained in good approximation  without disturbances from the frequency-dependent  reflection losses. For the low-temperature measure-  ments, small cuvettes made of thin CaF2 windows  with fixed spacings were used which fitted into a top-  loading liquid-nitrogen-cooled cryostat. In the case  of the isotopic dilution measurements, a single thick-  ness only was used (except with the highest  concentration).        3. Results     Table 1 shows the results for the isotropic and an-  isotropic scattering experiments at two different  temperatures. The values in table 1 are averaged over  four experimental runs. The band maxima have been  used instead of the first moments since the measured  profiles are synunetrical if the  hot  component in  the low-frequency wing is eliminated. The appear-  ance of the non-coincidence effect (different band  maxima in isotropic and anisotropic scattering) in  the case of the neat liquid, together with the band  shift upon isotopic dilution, indicates the action of  RIVC, In additional measurements, we have found  that the mole-fraction dependence of the isotopic di-  lution shift of the isotropic band is exactly linear.   Table 2 shows the corresponding results for the in-    Table 1  Shifts of the v2 band in isotropic (IS) and anisotropic (AS) scat-  tering upon isotopic dilution to a mole fraction of CH~I of 0.1.  Uncertainty of relative frequencies: 0.1 cm1  454  Temp.  (K)  Band maximum  in neat liquid (cm  )  Isotopic dilution shift  ofthe corrected band  maximum for mole  fraction x of CH3I    measured corrected for      internal field  in CDI      x shift(cm )  296   1239.5 1239.7   0.05 1.8 0.45 0.8 0.83 0.3  223   1238.1 1238.6   0.05 2.0  CHEMICAL PHYSICS LETTERS  21 September 1990  Volume 172, number 6  in the directions of the molecular axes. 012 is the pair  coupling energy, given as a circular frequency,  Table 2  Shifts of the , ~ band in infrared absorption upon isotopic dilu-  tion. Uncertainty of frequencies: 0.1 cm    012 11 V,2 2&gt;  (3)  &lt;II describes a state in which molecule 1 is in the  first excited state of the considered vibrational mode  whereas molecule 2 is in the ground state. 12&gt; de-  notes the opposite situation. V12 is the intermolec-  ular interaction operator expanded in a series of the  normal coordinates of both pair molecules. The term  which gives a non-vanishing matrix element  (11 V,2 12) contains the second mixed derivative of  V,2 with respect to the normal coordinates of mol-  ecules 1 and 2.   Neighbouring vibrationally coupled molecules can  vibrate in-phase or anti-phase [1,10]. The coupling  energy has opposite signs in these cases. The Le-  gendre factor in (2) describes the effective coupling  energy which results from different contributions of  the two-phase relations averaged over alt orienta-  tions of the vector that points from molecule 1 to  molecule 2 of the pair. An instructive description of  this is given in ref. [1].   To obtain the averages of eq. (2), it is necessary  to known the dominant vibrational-coupling mech-  anism and the bath Hamiltonian which governs the  structure of the liquid, e.g. the pair-distribution  function (FDF), g(R; 0,, 02). The fact that v2 of  CH3I is very intense in infrared absorption gave rise  to the assumption that transition dipole interaction  is the main coupling mechanism. This assumption  was confirmed by a comparison of experimental and  theoretical second moments [3,10]. Logan pre-  sented an expression for the IS isotopic dilution shift,  extrapolated to infinite dilution, for this kind of  interaction  frared absorption experiments. As the v2 absorption  is rather strong, it is necessary to correct the band  profiles obtained for the internal field. For this cor-  rection we followed the proposal of Clifford and  Crawford [131 which is based on a continuum di-  electric approximation. This correction results in a  frequency increase of 0.2 cm-  at 296 K and 0.5  cm~t at 223 K in the neat liquid.        4. Discussion and comparison with theory     There are only a few theoretical papers which deal  specifically with the non-coincidence effect [5,8,91.  These papers are confined to band shifts due to RIVC  and do not treat band-shape effects. RIVC band shifts  can be described by the changes of the first mo-  ments. The fundamental equation, first derived by  Wang [4], can be written as    Mpjvc N( (012(0) F0(01 02)&gt;    if Logan s notation [7,8] is used. The P~ are Le-  gendre polynomials. For the isotropic Raman ex-  periment n=0, for infrared absorption n =1 and for  anisotropic Raman scattering n=2. The 0 are unit  vectors in the directions of the transition moments  in infrared absorption or the directions of the main  axes of the polarizability-derivative tensors in ani-  sotropic Raman scattering. In the case of axial mol-  ecules and symmetrical vibrations, these vectors lie  2(8p/8q)~  ~(p, T).  (2) Af,5=   (4)  (op/8q)0 is the dipole-moment derivative with re-  spect to the normal coordinate including the mass  term. to0 is the circular frequency of the normal mode  under consideration in the free molecule. a is the  molecular diameter.   ~(p, T) depends on the intermolecular interac-  tions that are responsible for orientational order (if  RIVC is due to transition dipole interactions, no iso-  topic dilution shift is expected in the case of random  455  Temp.  (K)  Density  (gcm3)  Pressure  (MPs)  RIVC sh  exp.  iii (cm- )  theory  293  2.280  0.1  1.2  0.44  293  2.504  168  f~3 )  0.47  213  2.504  0.1  [.9  0.57  Volume 172, number 6  CHEMICAL PHYSICS LETTERS  21 September 1990  molecular orientations). The expression for the  t(p, T) values, given by Logan, is based on Werth-  eim s calculation [14]; this author uses the mean  spherical model (MSM) and the assumption that the  deviation from random orientation is due to the per-  manent point-dipole interaction. If one uses the di-  pole-moment derivative obtained from Dickson,  Mills and Crawford [15] and the molecular diam-  eter 0.458 nm, one has isotopic dilution shifts for IS  of 0.37 cm   at 313 K and 0.51 cm  at 213K. A  comparison with the values of table 1 shows that eq.  (4) gives isotopic dilution shifts for IS that are  markedly smaller than the ones observed and the  temperature dependence is much less in this theory  than in experiment.   Logan also predicted that the RIVC shift in ani-  sotropic scattering is only 1/25 of that in isotropic  scattering and should disappear completely in IR ab-  sorption. Soth predictions are in contrast to our ex-  perimental results. The discrepancies between the-  ory and experiment can be summarized as follows:   (i) The band shifts of v2 of CH3I observed in iso-  topic dilution (ID) are larger throughout and show  larger temperature dependence than theoretical RWC  first-moment predictions for isotropic Raman  scattering.   (ii) In anisotropic Raman scattering, ID band  shifts are larger than 1/25 of the shift in isotropic  scattering.   (iii) In IR absorption, ID band shifts are observed  and are particularly large.   One possible reason for these discrepancies can be  the fact that the theory assumes only point-dipole in-  teractions to be responsible for orientational order,  the degree of which determines the RIVC first mo-  ment if the coupling is due to transition dipole in-  teractions. (i) indicates that orientational order is  larger than results from MSM calculations. It must  probably be taken into account that molecules pos-  sess real dipoles (of finite length), and that aniso-  tropic dispersion and repulsive interactions which  may lead to orientational order must therefore be  considered. The transition dipoles are also real di-  poles, and although they cannot form measurable  orientational forces, they can enhance vibrational  coupling. The experimental results can give no in-  dication of the main reason for the discrepancies.   Some authors assume that the transition dipole  moment, which we took from gas-phase measure-  ments [151 for the comparison of our results with  theory, increases upon condensation. This is also a  possible reason. Some additional information can be  received by splitting the temperature effect of the  RIVC shift into a density and a kinetic energy con-  tribution. Table 3 shows RWC shifts at 293 K at two  densities and also at 213 K for the higher density. A  comparison of the first and second row of the table  shows the pure density contribution, and the differ-  ence of the second and third row describes that of  the kinetic energy. The data show that in both ex-  periment and theory, the kinetic energy effect is larger  than the density effect. What is of particular impor-  tance is the fact that both are larger than predicted  by the MSM. The reasons are probably that (i) the  MSM cannot describe the temperature and density  dependence of the order parameter ~ very well, and  (ii) the use of the point-dipole approximation: in-  teractions are, in general, enhanced by real dipoles  (averaged over all orientations), and in addition, the  multipole expansion of real dipoles leads to terms  with a higher radius dependence than with dipoles.   It is very likely that (ii) has the same origin. In the  MSM theory, the PDF can be expanded to a com-  pLete set of rotational invariants containing only three  terms (see eq. (8) in ref. [14]). The use ofthisthree-  term set to calculate the average of eq. (2) leads to  the prediction that MR,vc almost disappears for an-  isotropic scattering (n = 2).   This set is obviously unable to describe the PDF  if interactions like those mentioned above contrib-  ute to the structure of the liquid, and in such cases  the prediction cannot be maintained. Formally, more  general expansions could be used for the PDF, such    Table 3  Density and kinetic energy contribution to the temperature ef-  feet of theoretical and experimental ID shift extrapolated to in-  finite isotopic dilution  a) Interpolated from experiments at 50, 100, 200, 300 and 400  MPa.  456  Volume 172, number 6  CHEMICAL PHYSICS LETTERS  21 September 1990  as that presented by Blum 116]. But this is doomed  to failure in most cases as a consequence of a lack of  information on real intermolecular interactions.   In principle, the reasons given for (ii) can also be  put forward for (iii), but as the ID shifts are rather  large in the infrared experiment, it seems very likely  that there are other secondary reasons. One is surely  that the MSM theory uses a Linear approximation for  the Boltzmann factor. Simple model calculations,  which we carried out using realistic dipole moments  and temperatures, show that the linear approxima-  tion causes only small errors in both Raman exper-  iments. Applied to the infrared experiment, the cal-  culations confirm Logan s prediction: no ID band  shift in lR absorption. But leaving the approxima-  tion aside, the calculations indicate ID band shifts of  about 10% to 20% of the shifts in isotropic Raman  scattering. The experimentally observed shifts are  even larger. As has already been mentioned, this  could be due to the same reasons as given for (ii).  However, in JR absorption, it should be borne in  mind that problems may arise due to the strong fre-  quency dependence of the refractive index in the fre-  quency region of the absorption band in the neat  liquid.   This raises the question of whether the dispersion  correction used is suitable for comparison with Ra-  man results. As pointed out by Bottcher and Bor-  dewijk [17] and as Schroer s recent molecular sta-  tistic treatment of dielectric fluids [18] indicates,  this correction only eliminates the effect of the fre-  quency-dependent field at a reference molecule due  to the induced dipoles of neighbouring molecules av-  eraged over all possible orientations and positions.  It cannot describe effects due to orientational order.  But those effects seem to be negligible in a first ap-  proximation: First, the extent of orientational order  is small in ordinary liquids like iodomethane, be-  cause orientation-dependent intermolecular inter-  actions (dipole dipole, etc.) are well below the ther-  mal kinetic energy. Furthermore, the polarizability  of iodomethane is nearly isotropic, so the magnitude  of the induced dipoles does not greatly depend on  orientation. This even holds true in the case of col-  lective excitation in the ~ ~2 mode, because the polar-  izabiity derivative with respect to this normal co-  ordinate is also nearly isotropic.   Finally, one should take into consideration that the  entire dispersion correction is small compared with  the observed shift, particularly if one considers the  ID shift of isotopic mixtures at mean concentrations  with respect to very high isotopic dilution. Thus, it  seems justified to say that orientational order can  scarcely contribute to the field at a reference mole-  cule within the frequency range of interest, and that  Crawford s correction accounts for the dispersion ef  fects to a good approximation.  Acknowledgement   Financial support from the Deutsche Forschungs-  gemeinschaft and the Fonds der Chemischen Indus-  trie is gratefully acknowledged. We are most grateful  to Professor W. SchrOer, Bremen, for helpful  discussions.      Referenees    [l]D. Scheibe,J.RamanSpectry. 13(1982)103.  12] K.L. Oehme, C. Rudakoff and K. Klostermann, J. Chem.  Phys. 83 (1985) 1499.    [3]G. Doge, it Arndt sndJ. Ysrwood, MoL Phys. 52 (1984)  399.  [4] T. Zyung and R.E. Wilde, I. Chem. Phys. 86 (1987)5940.  [5] C.H. Wang and J. McHale, 3. Chem. Phys. 72 (1980) 4039.  [6]S.BratosandG. Taijus,Phys.Rev. A24 (1981) 1591.  [7] D.E. Logan, Mol. Phys. 58 (1986) 97.  (8] D.E. Logan, Chem. Phys. 103 (1986) 215.  [9]D.E.Logan,Chem.Phys. 131 (1989) 199.  [10] G. DOge, Z. Naturforsch. A 28 (1973)919.  [11] 3. Laane and W. Kiefer, I. them. Phys. 72 (1980) 5305.  [12]J.LaaneandW.Kiefer,J. Chem. Phys. 73(1980)4971.  [13] A.A. Clifford and B. Crawford Jr., J. Chem. Phys. 70 (1966)  1536.  [14] M.S.Wertheim,J.Chem. Phys. 55(1971) 4291.  [15] A.D. Dickson, LM. Mills and B. Crawford Jr., J. Chem. Phys.  27(1957)445.  [16] L. Blum,J. Chem.Phys. 57 (1972) 1862.  [17] CJ.F. Bdttcher and P. Bordewijk, Theory of electric  polarization, 2nd Ed,, Vol. 2 (Elsevier, Amsterdam, 1978)  ch. 12.  [l8]W. SchrOer, to be published.  457   reasons given for (ii) can also be  put forward for (iii), but as the ID shifts are rather  large in the infrared experiment, it seems very likely  that there are other secondary reasons. One is surely  that the MSM theory uses a Linear approximation for  the Boltzmann factor. Simple model calculations,  which we carried out using realistic dipole moments  and temperatures, show that the linear approxima-  tion causes only small errors in both Raman exper-  iments. Applied to the infrared experiment, the cal-  culations confirm Logan s prediction: no ID band  shift in lR absorption. But leaving the approxima-  tion aside, the calculations indicate ID band shifts of  about 10% to 20% of the shifts in isotropic Raman  scattering. The experimentally observed shifts are  even larger. As has already been mentioned, this  could be due to the same reasons as given for (ii).  However, in JR absorption, it should be borne in  mind that problems may arise due to the strong fre-  quency dependence of the refractive index in the fre-  quency region of the absorption band in the neat  liquid.   This raises the question of whether the dispersion  correction used is suitable for comparison with Ra-  man results. As pointed out by Bottcher and Bor-  dewijk [17] and as Schroer s recent molecular sta-  tistic treatment of dielectric fluids [18] indicates,  this correction only eliminates the effect of the fre-  quency-dependent field at a reference molecule due  to the induced dipoles of neighbouring molecules av-  eraged over all possible orientations and positions.  It cannot describe effects due to orientational order.  But those effects seem to be negligible in a first ap-  proximation: First, the extent of orientational order  is small in ordinary liquids like iodomethane, be-  cause orientation-dependent intermolecular inter-  actions (dipole dipole, etc.) are well below the ther-  mal kinetic energy. Furthermore, the polarizability  of iodomethane is nearly isotropic, so the magnitude  of the induced dipoles does not greatly depend on  orientation. This even holds true in the case of col-  lective excitation in the ~ ~2 mode, because the polar-  izabiity derivative with respect to this normal co-  ordinate is also nearly isotropic.   Finally, one should take into consideration that the  entire dispersion correction is small compared with  the observed shift, particularly if one considers the  ID shift of isotopic mixtures at mean concentrations  with respect to very high isotopic dilution. Thus, it  seems justified to say that orientational order can  scarcely contribute to the field at a reference mole-  cule within the frequency range of interest, and that  Crawford s correction accounts for the dispersion ef  fects to a good approximation.  Acknowledgement   Financial support from the Deutsche Forschungs-  gemeinschaft and the Fonds der Chemischen Indus-  trie is gratefully acknowledged. We are most grateful  to Professor W. SchrOer, Bremen, for helpful  discussions.      Referenees    [l]D. Scheibe,J.RamanSpectry. 13(1982)103.  12] K.L. Oehme, C. Rudakoff and K. Klostermann, J. Chem.  Phys. 83 (1985) 1499.    [3]G. Doge, it Arndt sndJ. Ysrwood, MoL Phys. 52 (1984)  399.  [4] T. Zyung and R.E. Wilde, I. Chem. Phys. 86 (1987)5940.  [5] C.H. Wang and J. McHale, 3. Chem. Phys. 72 (1980) 4039.  [6]S.BratosandG. Taijus,Phys.Rev. A24 (1981) 1591.  [7] D.E. Logan, Mol. Phys. 58 (1986) 97.  (8] D.E. Logan, Chem. Phys. 103 (1986) 215.  [9]D.E.Logan,Chem.Phys. 131 (1989) 199.  [10] G. DOge, Z. Naturforsch. A 28 (1973)919.  [11] 3. Laane and W. Kiefer, I. them. Phys. 72 (1980) 5305.  [12]J.LaaneandW.Kiefer,J. Chem. Phys. 73(1980)4971.  [13] A.A. Clifford and B. Crawford Jr., J. Chem. Phys. 70 (1966)  1536.  [14] M.S.Wertheim,J.Chem. Phys. 55(1971) 4291.  [15] A.D. Dickson, LM. Mills and B. Crawford Jr., J. Ch</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>90801384</aid>
+            <ce:pii>0009-2614(90)80138-4</ce:pii>
+            <ce:doi>10.1016/0009-2614(90)80138-4</ce:doi>
+            <ce:copyright type="unknown" year="1990"/>
+         </item-info>
+         <head>
+            <ce:title>The effect of resonant vibrational coupling on the frequency of the ν<ce:inf loc="post">2</ce:inf> mode of liquid methyl iodide in Raman scattering and infrared absorption</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Döge</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Lindner</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institut für Physikalische und Theoretische Chemie der Technischen Universität, D-3300 Braunschweig Federal Republic of Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>W.</ce:given-name>
+                  <ce:surname>Richter</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Schiel</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Physikalisch-Technische Bundesanstalt, D-3300 Braunschweig, Federal Republic of Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="17" month="1" year="1990"/>
+            <ce:date-revised day="1" month="6" year="1990"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The ν<ce:inf loc="post">2</ce:inf> mode of methyl iodide has been measured in isotropic and anisotropic Raman scattering, and in infrared absorption in the neat liquid and in isotopic dilution with the deuterated compound. The local field affecting the shape and position of the intense infrared profile has been taken into account by a continuum dielectric approximation. The isotopic dilution shifts observed indicate the action of resonant intermolecular vibrational coupling which presumably is caused by transition dipole interaction. The results are, in principle, in agreement with current theories. For a comparison, certain approximations are necessary (MSM, etc.), which seem to be responsible for the fact that quantitative agreement is not yet very good.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Scheibe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Raman Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Oehme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rudakoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Klostermann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1499</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Döge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Arndt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yarwood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>399</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zyung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Wilde</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5940</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>McHale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4039</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bratos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Tarjus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1591</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Logan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>97</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Logan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>215</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Logan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>199</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Döge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>919</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Laane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kiefer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5305</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Laane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kiefer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4971</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Clifford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Crawford</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1536</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wertheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4291</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Dickson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.M.</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Crawford</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Blum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1862</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.F.</ce:given-name>
+                                 <ce:surname>Böttcher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bordewijk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of electric polarization</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>2</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 12</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>W. Schröer, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

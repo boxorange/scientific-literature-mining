@@ -1,0 +1,1333 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261474891116</prism:url><dc:identifier>doi:10.1016/0009-2614(74)89111-6</dc:identifier><eid>1-s2.0-0009261474891116</eid><prism:doi>10.1016/0009-2614(74)89111-6</prism:doi><pii>0009-2614(74)89111-6</pii><dc:title>Effective collision numbers for angular momentum relaxation from nuclear relaxation studies of simple liquids </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>25</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>169</prism:startingPage><prism:endingPage>174</prism:endingPage><prism:pageRange>169-174</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1974-03-15</prism:coverDate><prism:coverDisplayDate>15 March 1974</prism:coverDisplayDate><prism:copyright>Copyright © 1974 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Maryott, A.A.</dc:creator><dc:creator>Malmberg, M.S.</dc:creator><dc:creator>Gillen, K.T.</dc:creator><dc:description>
+               Abstract
+               
+                  Angular momentum correlation times, τ
+                        J
+                     , derived from nuclear relaxation studies of a number of liquids composed of small molecules of high symmetry are compared with hard sphere and cell model collision rates. Either model leads to the conclusion that collision efficiency is high (collision number of 1 to 2) and provides a useful and simple relationship for predicting τ
+                        J
+                      semi-quantitatively over the liquid range.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261474891116" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261474891116" rel="scidir"/></coredata><scopus-id>0041043856</scopus-id><scopus-eid>2-s2.0-0041043856</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0041043856" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20021003">2002-10-03</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20021003">2002-10-03</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-25T02:20:45</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261474891116</xocs:eid>
+      <xocs:pii-formatted>0009-2614(74)89111-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261474891116</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(74)89111-6</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X14182</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150926">2015-09-26T04:56:45.777603-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19740315</xocs:date-search-begin>
+      <xocs:year-nav>1974</xocs:year-nav>
+      <xocs:indexeddate epoch="1033603200">2002-10-03T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>25</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>25</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 25, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>169</xocs:first-fp>
+      <xocs:last-lp>174</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>169</xocs:first-page>
+         <xocs:last-page>174</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19740315</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 March 1974</xocs:cover-date-text>
+      <xocs:cover-date-start>1974-03-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1974</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1974 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTIVECOLLISIONNUMBERSFORANGULARMOMENTUMRELAXATIONNUCLEARRELAXATIONSTUDIESSIMPLELIQUIDS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MARYOTT</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HUBBARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>GORDON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1307</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>FARRAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>FRENKEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2610</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5"/>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>TOMMASINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>KEIJSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>593</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>GORDON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2655</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BARTOLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>413</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DAVIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>517</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>MCCLUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3842</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>MCCLUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5478</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>EINWOHNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1458</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>BARKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>REE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4181</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16"/>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4670</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>OZIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1232</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>OZIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>DAVIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3564</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>MCCLUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>304</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>SPEISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>OOSTING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>395</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24"/>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>GILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>505</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>TISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1526</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>HACKLEMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2688</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>COURTNEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1252</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>SAWYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>MARYOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>GILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5171</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>GILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1573</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MARYOTTX1974X169</xocs:refkey3>
+         <xocs:refkey4lp>MARYOTTX1974X169X174</xocs:refkey4lp>
+         <xocs:refkey4ai>MARYOTTX1974X169XA</xocs:refkey4ai>
+         <xocs:refkey5>MARYOTTX1974X169X174XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(74)89111-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261474891116</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261474891116</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(74)89111-6</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-26T04:56:45.777603-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1974-03-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261474891116-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474891116/MAIN/application/pdf/3e1e387bd48f30f9083f9990cfe61b0c/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474891116/MAIN/application/pdf/3e1e387bd48f30f9083f9990cfe61b0c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>595103</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261474891116-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474891116/PREVIEW/image/png/6b967f417b9e7af64f9c1bc7c873d600/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474891116/PREVIEW/image/png/6b967f417b9e7af64f9c1bc7c873d600/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63110</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 25, number 2 - CHEMICAL PHYSICS LETTERS  15 March 1974    EFFECTIVE COLLISION NUMBERS FOR ANGULAR MOMENTUM RELAXATION  FROM NUCLEAR RELAXATION STUDIES OF SIMPLE LIQUIDS    A.A. MARYOTT, M.S. MALMBERG $  Institute forMaterials Research. National Bureau of Standards, Washington, D.C. 20234, USA    and    K.T. GILLEN  JEOL, Cranford, New Jersey 07016, USA    Received 19 November 1973  Revised manuscript received 8 January 1974     Angular momentum correlation times, rJ, derived from nuclear relaxation studies of a number of liquids composed of small molecules of high symmetry are compared with hard sphere and cell model collision rates- Either model leads to the conclusion that collision efficiency is high (collision number of 1 to 2) and provides a useful and simple relationship for predicting rj semi-quantitatively over the liquid range.    1. Introduction     In this study we collect and re-examine data on angular momentum correlation times, TJ, derived from nuclear magnetic relaxation studies of the liquid phase of small symmetric molecules- Such data are of interest in related studies of orientational relaxation by spectroscopic and other techniques and in connection with molecular dynamics simulation studies. We wish to see how the correlation times depend on the properties of the liquid and of the individual molecules and to compare these times with simple estimates of collision rates in liquids-   Measurements of -rj provide an important probe into the dynamic behavior of liquids and the effect of anisotropic forces on orientational relaxation. The classical theory of isotropic rotational diffusion relates the reorientational correlation time, TB,I, to TJ, which is a measure of the step size, by the Hubbard relation [1]    TB.tTJ =I/1(l+l)kT ,    Guest worker.    where I is the moment of inertia and l denotes the order of the-spherical harmonic. Implicit is the restriction that TjjTgj &lt;&lt; 1, a condition that is often not satisfied in liquids composed of small, more or less symmetrical molecules. Consequently, this relation is not generally useful in estimating values of TJ from known values of Te _ Although a great deal of precise data is available on the reorientational times, comparable data for the more fundamental or elementary quantity, TJ, are rather meager. At present, nuclear magnetic relaxation studies of nuclei for which the spin-rotation interaction provides. the dominant relaxation mechanism appear to be the best, if not the only, means for precise data on TJ.   In examining existing literature, it is not especially clear what factors primarily affect -rj and there is little unanimity regarding the theoretical approach most appropriate for the description of.orientational relaxation. In an effort to shed some light on these questions we consider only cases where ambiguities in the quantitative reduction of data are minimal_ Where desirable or necessary in the light of newer information, the original analyses have been revised. Attention is,focused primarily on systems where the spin-rotation relaxa-     . .169.  Volume 25, number 2 CHEMICAL PHYSICS LETTERS . 15 March 1974    tion mechanism dominates all or much of the liquid range and where the spin-rotation constants either have been accurately measured or else appear to be reliably established by indirect means. The most useful nuclei are 1gF and 31p which generally have large spin-rotation interactions. To avoid complications Arising from highly anisotropic motion we consider only symmetric tops which do not have large inertial asymmetries, spherical tops, and linear molecules. The extended rotational diffusion approach of Gordon [2], specifically the J-diffusion model which provides a generalization of eq. (1) to steps of arbitrary size, has been supported by recent NMR studies of simple liquids [3). In J-diffusion the molecules are subjected to strong impulsive'torques that randomize both the magnitude and orientation of the angular momentum vector in a single event or "collision". Investigations of orientational relaxation in gases by dielectric studies [4], NMR [SJ, Senftleben-Beenakker effects [6j, and depolarized Rayleigh scattering [7j, are consistent with a picture of relatively strong collisions [8j, the relaxation rate frequently being comparable to the kinetic collision rate. The advantages of using the spin-rotatioii relaxation mechanism to probe collision processes in dense gases has already been discussed by Gordon et al. [9]. The extent to which the concept of collisions can be applied to the more dense liquid state depends on the degree of the impulsive character of the torques that are most effective in causing changes in angular momentum. We compare here the experimentally derived values of rJ with predictions based on two simplified treatments of hard-core collisions, namely the Enskog (gas-like) hard sphere model (HSM) [9] and the cell (solid-like) model (CM) [I0; ill.    2. Data analysis    2.1. Spin---rotation relaxation     For the spin-rotation contribution to the nuclear spin-lattice relaxation rate, R I ~n, we use the extended diffusion theory which has been applied by McClung to spherical and symmetric tops [12]:Then for the usual case of liquids in the "motional narrowing" limit,    RI,s = (8rr2/3h2) .&lt;J2&gt; C2efff rl ; : .  (z) .    11 170    where Ceps. is the -effective spin-rotation constant. . The Boltzmann averaged square of the angular momentum is (J2&gt;= (2I.L+111)kT. The angular momentum correlation time is defined by    rJ=&lt;J2&gt;-1 f &lt;J(0)-J(t)&gt;dt.   0    In all cases presently under consideration the nucleus in question lies on an axis of symmetry and no more than two components are needed to specify the second rank tensor, C. With Ca = (2Cj+C11)/3, Cd = CL - C11, and X=K/J=cosBJ K where K is the projection of J on the symmetry axis of the top,    2 -'[ _  ?Cd Cf2 (X2-~) &gt;    Cef ' Ca 1  Ca &lt;j2&gt;    C2&lt;J2(x2-~)2&gt; C2cJ2X2(1-x2)&gt;F  + d CaGT2 -t- d  CatJ2&gt; (3a)   &gt;    = ssCa [  + (1-a)F1 ,    (3b)    where    F= tJ2X2(1-X?)&gt;`I U2X2(1-X2)I(j +of7f)&gt; ,    and the rotational frequency is coJ = hJ/li. Values for a and ss are given in table 1. As the strong collision assumption is made, each term in eq. (3a) is governed by the same correlation time, TJ. With the substitutions l1, = Ct, = X = 0 this equation also applies to linear molecules.   For the numerical results it is convenient to use a reduced molecular time scale where the reduced time r* = (kT/I)F'2 r. For the symmetric tops we replace I by the average value, 1a, = (21L+Ill)(3. For linear molecules we use I!.    2.2. Collision numbers     From kinetic theory the mean time between collisions.is given by     _ mean free path  r L r-J V average velocity v '    In the HSM L,=Lo/g(o) [13, 9j where LO is the limiting expression for the mean free path of the gas at  Volume 25, number 2 CHEMICAL PHYSICS LETTERS 15 March 1974    low densities and g(a) is the normalized pair distribution function evaluated at the molecular diameter, Q. With the average volume occupied by a molecule, vm N-1 , LO = um/2' i2 7ro2, and u = (8RT/7rM)i12, one obtains for the collision time in reduced units    T11Shi =0.182 X 10-12(M/I)iizQ[vm/Q3g(Q)]  (4)    Values of g(a) at higher densities may be obtained from the calculations of Barker and Henderson [14] and from the equation of Ree and Hoover [15] at lower densities. For densities corresponding to the liquid ranger we note the empirical approximation, [vm/a3g(Q)] -- 0.83(vm/a3-0.86), which maybe substituted in the above equation to give    THSM(liq.)-0.150X 10-12(M/I)'/2a-2(vm-0.86o3).   (5)     In the CM the mean free path is given by L = fsf",(vm3-a/fs), where the structure factor, fs, is determined by the geometrical packing of the molecules forming the cage around the central molecule. For simple cubic packing fs = 1 and for face centered and hexagonal packing fs = 21 / 6 . The factor fv, = 2 if the molecules of the wall are assumed fixed in position, whereas fw = 1 has been derived when wall motion is taken into account [10]. The time between collisions is then    TCM =0.81 X 10-12(M/I)iiz fsfw(vMI/3-Q/fs) . (6)     It is convenient to compare the experimentally derived angular momentum correlation times with these collision times in terms of the effective collision number, Z, where    TJ = ZTOon -  (7)    If collisions are strong so that Z 1 or if Z is constant, the CM predicts a linear dependence of Tj with vm3, whereas the HSM gives a linear dependence with vm _    3. Results and discussion     Table 1 lists values of the relevant molecular constants together with the references to the NMR relaxa-    Although the hard-sphere liquid shows a discontinuity in g(o) (i.e., freezes) when VIn/0 3 ~ 1.5, we shall apply eq. (5) to the entire range of the actual liquid.    tion data- The atomic number shown in the chemical formula denotes the nucleus studied- Unless otherwise noted these references also specify the source of the spin-rotation constants, C_ Spin-rotation constants not obtained by direct spectroscopic techniques are enclosed in parentheses: Procedures used for the indirect estimates of the anisotropic term, Cd, are varied. For estimates of the scalar average, Ca, they make use of the absolute chemical shielding, a procedure of established reliability in the case of 19F (see ref. [24]). Uncertainties in these constants are not considered to have a significant effect on the general conclusions to be drawn.   Results for the various liquids conform reasonably well to the predictions of either model. Representative plots of T; versus vn1/3 and vm are shown in figs. 1 and 2 for CH4# and C103F, respectively. In accord with the CM these data are fitted to an equation of the form,    Tj=AJ(um3-Up 3)  (g)    and the results summarized in table 2. In all cases Tj is  found to vary linearly with Vm 1,13 over the available  liquid range. Close to the critical temperature, how  ever, definitive data are usually lacking, in part because  of difficulties in accurately establishing densities.   The intercepts, vo'3, may be compared with the Lennard-Jones diameters derived from gas viscosity data. With the exception of CH4, the spherical tops give intercepts consistent with fcc packing (fs = OL-J/00 3 = 1 _12)_ For the remaining, less symmetrical molecules, values of fs, if taken literally, indicate packing intermediate between simple cubic and fcc.   Effective collision numbers based on the cell model are included in table 2. With the assumption of moving walls (fw = 1) in eq. (6) these numbers are given by    ZCm -TflTCM = IOI2Af/0.81(M/I)ti2f5 .    In most cases these values are remarkably close to the strong collision limit of unity. Excluding CH4 and CHD3, ZCM = 1:1 with an average deviation of about 10%. Collision numbers for the two methanes are about twice as large and suggest somewhat lower collision efficiencies in these cases:    # The original estimates of the intra-dipolar contributions to . Ti of CH4 and-SF6 have been revised on the basis off-dif-. fusion. -    171  Volume 25, number 2 CHEMICAL PHYSICS LEITERS 15 March 1974    Table 1  Molecular. properties and references to the nuclear relaxation data    rD1 1040 1i 111/li   L-Ja) Ca ed R a Reference to .  (g/m01) (g cm 2)  (A) (kHz) (kHz) [eq. (3b)] NMR data    13CS2 - 76.1 258 0 4.48 (-1.41)b) (-2.11) b) 2.25 1 1 [221  C1 H4 16.0   5.33 1 3.76   10.4 c)   18.5 c) 1.70 0.753 [23 ]  C19F4 88.0 149  1 4.66   -6.85 d)   (0) 1 1 [241  13CC14 153.8 490  1 5.95   (0.45)    0 1 1 [251  519F6 146.1 314  1 5.13   -5.21   (0) 1 1 [26-281               (9_2) 1.61 0_775  C'HD3 19.0   8.53 1.24 (3.76)    6.6   12.7 1.69 0.690 [231  31 pH3 34.0   6 ?9 1.15 3.98 -115.6 e)    1.5 e) 1.00 1.00 [29 ]  31 PD3 37.0  12.1 1.20 (3.98) (-59.2) fl  ca.0. 1.00 1.00 [291  C10319r. 102.5 160  0.93 - (-17.6) (-28.2) 1.60 0.788 [301  CC1319r- 137_4 344  1.43 5.44  (-3.66)9)  (-3.12)9) 1.06 0.890 [311  31pC13 137.4 321  1.77 ca.5.24   (4.22)   (0) 1 1 [32]    a) Lennard-Jones distance parameters from gas viscosity [161. b) Ref- [17]. c) Ref. [18 ]. d) Ref. [19].e) Ref. [20].  f) From Ciili(PD3) = Cii1i(PH3). g) Ref. [21 ].    50 70   (4 1 90 110 80 100 120 v^ (d'1 140 160 180  1 1 07 1 i i    3 cm.  06 CIO~F      0.5- T:    (2) 11)  z    oa  (I1  (21   03 0.15  1 0.2  tlp    0.10  (Il    bp. O.J 005    ^' p   ~P-    3.6 3.8 4.0 42 ~:- (p&gt; 4.4 4.6  4H    Fig. 1. Reduced angular momentum correlation time, rj, for CH4 as a function of the cell length, vm3 (curve 1), and of um (curie 2).     The last two columns of table 2 compare values of Tj at the boiling point and at the critical temperatureThe latter values were obtained by extrapolation of eq. (8) where needed. At the boiling point it appears that the angular steps involved in molecular reorientation are already large enough to invalidate the Hubbard relation in all instances- Deviations may be discussed in terms of the extended T-diffusion theory (for spheri--  cad tops) where-- - ... -.    172    40 4.5 5.0 Y.- (A) 5.5 44 45 4.6    Fig. 2. Reduced angular momentum mrrelatiori time, rj, for . . CI03Fas a function of the cell length, vm3 (curve I), and of  vm (curve 2).    Te~2TJ=C(T~16- ,.  (10):    The function G(Tj~) is given in concise, analytical form _:' elsewhere (3]. Deviations from Hubbard's relation (forwhich G = 1) at the boiling point range' from'G .~ 1:15' for CS2 to G z 4. for CHI= Since EIubbard's relation,, -vs is ofiena key-assitmptioil in the analysis of nuclear . . -  relaXatiort data, it is_ of interest to note that sizable . .. discrepancies-oacur even at the`nielting point (G .   Volume 25; number 2 CHEMICAL PHYSICS LETTERS  15 March 1974     Table 2  Cell model parameters [eq. (6)1, effective collision numbers, Z, and reduced angular momentum correlation times, rJ, at the - .  boilirT. point and the critical temperature    0Aj ll3 S ZCM -Juo  ?~*.    (A'1) (A) range at c.t. at b.p. at c.t.    CS2 0.49 4.40 1.02 1.09 1.03-1.21 3.40 0.14 1.1  CH4 3.02 3.65 1.03 2.10 1.3 -2.2 - 3.44 1.0 5.6  CF4 0.82 4.17 1.12 1.05 1.3 -2.3 3.20 0.26 1.6  CC14 - 0.57 5.24 1.13 1_11 1.06-1.19 3.20 0.19 1.4  SF6 0.77 4.54 1.13 1 24 1.4 -3.5 3-5 - 1.8   0.62 4.64 1.11 1.02    1.4  CHD3 2.70 3.6S 1.03 2.25 1.3 -1.9 (3.4) 0.9 5.0  PI-13 1.84 3.89 1.03 0.97 1.1 -1.8 3.25 0.54 3.4  PD3 2.12 3.92 1.02 1.51 1.1 -1.8 (3.3) 0.56 3.8  C103F 0.54 4.33 (1.12)a) 0_75 1_1 -21 3.30 0.17 1.1  C03F 0.63 5.02 1.08 1.20 1.1 -1.9 3.45 0.21 1.5  PC13 0.52 4.99 O.1.05 1.06 1.03-1.26 3.53 0.20 1.4    a) Assumed value.    Table 3    Hard sphere parameters [eq. (I1)[ and collision numbers, ZHS    102 BI    (A-3)    CS-2 0.78  CH4 5.38  CF4 1.41  CC14 0.65  SFg 0.94    0.74  CHD3 5.17  PH3 3.39  PD3 3.58  C103 F 0.84  CC13F 0.69   C13 0.67    ( As)    84.6 44.0 72.5.    144 86 96 45.0 5?S 58 80  123.5  124.5    ZHS vJvo range    2.03 1.03-1.21  2.85 1.3 -2 4  2.36 1.06-1.6  2.35 1.06-1.19  1.98 1.5 -Z.2  1.68 1.4 -2.0  3.35 1.3 -2.0  I.6S 1.2 -1.18  2.34 1.2 -1.8  1.41 1.06-1.6  2.13 1.03-1.8  2.12 1.05--1.28    aHSJu L_7    1.03  0.99  0.94  0.93  0.91  0.94  0.99  1.02  1.02    0.96    1.5) for SF,6, CH4, CHD3, PH3, and PD3.     Comparisons with the HSM are made in table 3. Values of rJ were fitted to the equation,    Tj  a. (um-V0) ,    so that    ZHSM - 1012Bfa2HSlO.1S0(M f)m2. ~ .  (12)    where aHS (0.86 uo)tr3. With vo again an.adjustable parameter, much of the present data is also consistent with eq_ (11).The collision number is also substantialIy the same for most of these liquids, and, excluding ;    the urethanes, ZHSM = 2.0   03. There is no obvious correlation, however, between the 1.ennard-Jones diameter and dHS, the fatter being sometimes smatter and sometimes larger than aL-J. A smaller value for alls has been obtained from an NMR study of dense 142 gas j9J and might have been anticipated, generally, from the importance of strong, hard-core collisions.   It is of interest that, despite the different volume dependences of eqs. (8) and (l l), the data usually can be fitted reasonably well to either: Eq. (8) based on the CM may apply to a wider range a€ volume expansion. This is true for SF6 where precise NMR data and , available over a continuous range from the melting point to the dilute gas and for which only the spinrotatiori relaxation mechanism is considered to be of any significance. Fig- 3 shows that ZCM' remains essentially constant throughout and somewhat beyond the liquid range. When um &gt; 4 X 2lrzv0 (dashed part of curve), the cell walls become diffuse arid the.CM is    (11) no longer appropriate. The HSM, on the other hand, - .    presents a unified treatment of liquid and gas. In this -  case one concludes that there is'a reduction in cal  ision efficiency it going from gas to liquid with the -  transition centered around the critical density. region.. .   In conclusion; either collision model affoid&amp;'thev   basis fo; A simple but ,useful semi-empirical equatioit: `:   relating rf to tile volume exparisicin of the liquid the -.   molecular mass, and the molrient of .itiertia: Fuithei- -    I73-  Volume 25, number 2 CHEMICAL PHYSICS LETTERS 15 March 1974    SF,     i ( (  . mp c r  40    amngut    (223 K) I31B7 K1 (300 K)    ut    5 w   ,o.Z io ( n) 2 o 50 100    K    P.S.    5    omog    (300     Fig. 3. Effective collision numbers, ZHSSl and ZChl, for angular momentum relaxation in liquid and gaseous SF6 as a function of volume (for Cd = 0)-0, ref [281-    more, the corresponding collision numbers, ZChI ^ 1 or ZHSh1 - 2. lend some support to the approximate validity of Gordon's idealized J-diffusion model of molecular reorientation.    References    [1) P.S_ Hubbard, Phys. Rev- 131 iI963) 1155.  [2 j R_G_ Gordon, J. Chem. Phys_ 43 (1965) 1307_  [3J T.C. Farrar, A.A. Maryott and M.S. MaImberg, Ann. Rev. Phys. Chem. 43 (1972) 193.  [4 j L. Frenkel, S.J. Kryder and A.A. Maryott, J. Chem.   Phys. 44 (1966) 2610.  [5 ] M. Bloom, Magnetic resonance, Vol. 4, ch. 1 (Butterworths, London), to be published.  [6 ] F. Tommasini, A.C. Levi, G_ Scoles, J.J. de Groot, J.W. van den Broeke, C.J.N. van den hieijdenberg and J.J.M. Beenakker, Physics 49 (1970) 299_  [7] R.A.1. Keijser, M_ Jansen, V.G. Cooper and H.F.P_ KOp, Physics S 1 (1971) 593.    174 .    [8 j A.A. Maryott and M.S. MaImberg, to be published. [9 j R.G. Gordon, R.L_ Armstrong and E. Tward, J. Chem_ Phys. 48 ii968) 2655.  [10] F.J_ Bartoli and T.A. Litovitz, J_ Chem. Phys. 56 (1972) 413.    [11 J P.K. Davis, 1= Chem. Phys. 57 (1972) 517.  [12] R.E.D. McClung, J_ Chem- Phys. 51 (1969) 3842; 57   (1972) 5478.  [13] T_ Einwohner and B.l_ Alder, J. Chem- Phys. 49 (1968) 1458.  [14] J_A_ Barker and D_ Henderson, Mol. Phys. 21 (1971) 187.  [15] F_1Y. Ree and W.G. Hoover, J. Chem. Phys. 46 (1967)   4181.  [16) R.A. Svehla, Technical Report R-132, NASA.  [17] C_F. Schmidt and S.I. Chan, J. Chem. Phys. SS (1971) 4670.  [18] I_ Ozier, Z. Naturforsch. 26a (1971) 1232.  [19 J I. Ozier, L.hi. Crapo and S.S. Lee, Phys. Rev. 172 (1968) 63.  [20] P.B. Davies, R.M. Neumann, S.C. Wofsy and W.   Klemperer,1. Chem. Phys. 55 (1971) 3564.  [21 J R_E.D_ McClung, Chem. Phys. Letters 19 (1973) 304.  [22 J H_W. Speiss, D. Schweitzer, U. Haeberlen and K.H.   Hausser,1. Mag. Resonance 5 (1971) 101.  [23] P.H. Oosting and N.J. Trappeniers, Physics 51 (1971) 395.  [24] A.A. hiaryott, S.J. Kryder and M.S_ MaImberg, to be published.  (25 ) K_T. Gillen, J.H. Noggle and T_K. Leipert, Chem. Phys. Letters 17 (1972) 505.  [261 1 K- Tison and E.R. Hunt, J. Chem. Phys. 54 (1971) 1526_  [27 j W.R. Hackleman and P.S. Hubbard, J. Chem. Phys. 39 (1963) 2688.  [28] J.A. Courtney and R_L. Armstrong, Can- J- Phys- 50 (1972)1252.  [29] D.W. Sawyer and J.G. Fowles, Mol. Phys_ 21 (1971) 83.  [30] A.A_ Maryott, T.C. Farrar and M.S. MaImberg, J. Chem. Phys. 54 (1971) 64.  [31 J K.T. Gillen, D.C. Douglass, M.S_ Malmberg and A.A. Maryott,1. Chem. Phys. 57 (1972) 5171.  [32] K.T. Gillen, 1. Chem. Phys. 56 (1972) 1573.  importance of strong, hard-core collisions.   It is of interest that, despite the different volume dependences of eqs. (8) and (l l), the data usually can be fitted reasonably well to either: Eq. (8) based on the CM may apply to a wider range a€ volume expansion. This is true for SF6 where precise NMR data and , available over a continuous range from the melting point to the dilute gas and for which only the spinrotatiori relaxation mechanism is considered to be of any significance. Fig- 3 shows that ZCM' </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>74891116</aid>
+            <ce:pii>0009-2614(74)89111-6</ce:pii>
+            <ce:doi>10.1016/0009-2614(74)89111-6</ce:doi>
+            <ce:copyright type="unknown" year="1974"/>
+         </item-info>
+         <head>
+            <ce:title>Effective collision numbers for angular momentum relaxation from nuclear relaxation studies of simple liquids</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.A.</ce:given-name>
+                  <ce:surname>Maryott</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.S.</ce:given-name>
+                  <ce:surname>Malmberg</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute for Materials Research, National Bureau of Standards, Washington, D.C. 20234, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Guest worker.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>K.T.</ce:given-name>
+                  <ce:surname>Gillen</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>JEOL, Cranford, New Jersey 07016, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="19" month="11" year="1973"/>
+            <ce:date-revised day="8" month="1" year="1974"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Angular momentum correlation times, τ<ce:inf loc="post">
+                        <ce:italic>J</ce:italic>
+                     </ce:inf>, derived from nuclear relaxation studies of a number of liquids composed of small molecules of high symmetry are compared with hard sphere and cell model collision rates. Either model leads to the conclusion that collision efficiency is high (collision number of 1 to 2) and provides a useful and simple relationship for predicting τ<ce:inf loc="post">
+                        <ce:italic>J</ce:italic>
+                     </ce:inf> semi-quantitatively over the liquid range.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Hubbard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1307</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Farrar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Maryott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Malmberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Frenkel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Kryder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Maryott</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2610</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M. Bloom, Magnetic resonance, Vol. 4, ch. I (Butterworths, London), to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tommasini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Levi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Scoles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>de Groot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>van den Broeke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.N.</ce:given-name>
+                                 <ce:surname>van den Meijdenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.M.</ce:given-name>
+                                 <ce:surname>Beenakker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.J.</ce:given-name>
+                                 <ce:surname>Keijser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.P.</ce:given-name>
+                                 <ce:surname>Knaap</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>593</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.A. Maryott and M.S. Malmberg, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Armstrong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tward</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2655</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Bartoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Litovitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>413</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>517</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.D.</ce:given-name>
+                                 <ce:surname>McClung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3842</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.D.</ce:given-name>
+                                 <ce:surname>McClung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5478</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Einwohner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1458</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Henderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Ree</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Hoover</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4181</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.A. Svehla, Technical Report R-132, NASA.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4670</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ozier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1232</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ozier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Crapo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>172</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Neumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Wofsy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Klemperer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3564</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.D.</ce:given-name>
+                                 <ce:surname>McClung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>304</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Speiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schweitzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Haeberlen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Hausser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mag. Resonance</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Oosting</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Trappeniers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>395</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.A. Maryott, S.J. Kryder and M.S. Malmberg, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Gillen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Noggle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Leipert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>505</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Tison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Hunt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1526</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Hackleman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Hubbard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2688</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Courtney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Armstrong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1252</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Sawyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Powles</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Maryott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Farrar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Malmberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Gillen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Douglass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Malmberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Maryott</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5171</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Gillen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1573</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1280 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261480851463</prism:url><dc:identifier>doi:10.1016/0009-2614(80)85146-3</dc:identifier><eid>1-s2.0-0009261480851463</eid><prism:doi>10.1016/0009-2614(80)85146-3</prism:doi><pii>0009-2614(80)85146-3</pii><dc:title>Electric field dependence of charge carrier generation in alkane solutions of N,N,N',N'-tetramethyl-p-phenylenediamine (TMPD) </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>74</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>223</prism:startingPage><prism:endingPage>227</prism:endingPage><prism:pageRange>223-227</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1980-09-01</prism:coverDate><prism:coverDisplayDate>1 September 1980</prism:coverDisplayDate><prism:copyright>Copyright © 1980 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>S. Sethi, D</dc:creator><dc:creator>Choi, H.T.</dc:creator><dc:creator>Braun, C.L.</dc:creator><dc:description>
+               Abstract
+               
+                  Studies of the electric field dependence or photocurrents from solutions of TMPD in non-polar solvents are interpreted using Onsager's theory of geminate charge recombination. For all solvents and photon energies, a simple exponential form of the radial distribution function for geminate pairs accounts for the observed field dependence.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261480851463" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261480851463" rel="scidir"/></coredata><scopus-id>4243722326</scopus-id><scopus-eid>2-s2.0-4243722326</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4243722326" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011127">2001-11-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011127">2001-11-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T14:10:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261480851463</xocs:eid>
+      <xocs:pii-formatted>0009-2614(80)85146-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261480851463</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(80)85146-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07075</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T16:29:40.604446-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19800901</xocs:date-search-begin>
+      <xocs:year-nav>1980</xocs:year-nav>
+      <xocs:indexeddate epoch="1006819200">2001-11-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>74</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>74</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 74, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>223</xocs:first-fp>
+      <xocs:last-lp>227</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>223</xocs:first-page>
+         <xocs:last-page>227</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19800901</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 September 1980</xocs:cover-date-text>
+      <xocs:cover-date-start>1980-09-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1980</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1980 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ELECTRICFIELDDEPENDENCECHARGECARRIERGENERATIONINALKANESOLUTIONSNNNNTETRAMETHYLPPHENYLENEDIAMINETMPD</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SSETHI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ONSAGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1938</xocs:ref-pub-year>
+            <xocs:ref-first-fp>554</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>FREEMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1580</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>DODELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4657</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3730</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>MOZUMDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>939</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ABELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1079</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MOZUMDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4305</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>PAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MELZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1694</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BORSENBERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4035</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BORSENBERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5210</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>HOLROYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2128</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BULLOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4908</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BULLOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1374</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BATT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BATT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1967</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CHANCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2269</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CHANCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3573</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>MOZUMDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4300</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>SANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>689</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>MATHIEU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1679</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>WARMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>485</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>FRIAUF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>DODELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2376</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>HONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>MOZUMDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3798</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>MOZUMDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4783</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>BAIRD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3842</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SSETHIX1980X223</xocs:refkey3>
+         <xocs:refkey4lp>SSETHIX1980X223X227</xocs:refkey4lp>
+         <xocs:refkey4ai>SSETHIX1980X223XD</xocs:refkey4ai>
+         <xocs:refkey5>SSETHIX1980X223X227XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(80)85146-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261480851463</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261480851463</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(80)85146-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T16:29:40.604446-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1980-09-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261480851463-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480851463/MAIN/application/pdf/ea828183ef493f8689a2b6e6eb15248d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480851463/MAIN/application/pdf/ea828183ef493f8689a2b6e6eb15248d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>521196</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261480851463-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480851463/PREVIEW/image/png/2e5af3506208b12b4f50b73423706606/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480851463/PREVIEW/image/png/2e5af3506208b12b4f50b73423706606/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>76176</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>CHEMICAL PHYSICS LETTERS                       1 September 1980    Volume 74, number 2    ELECTRIC FIELD DEPENDENCE OF CHARGE CARRIER GENERATION  CM ALKANE SOLUTIONS OF N,N,N',N'-TETRAMETHYL.p-PHENYLENEDIAMINE (TMPD)    D S. SETHI *, H.T. CHOI ** and C.L. BRAUN    Department of Chemistry. Dartmouth College, Hanover. New Hampshire 03755. USA    Received 2 July 1980    Studies of the electric Held dependence of photocurrents from solutions of TMPD in non-polar solvents are interpreted  using Onsager's theory of geminate charge recombination. For all solvents and photon energies, a simple exponential form of  the radial distribution function for geminate pairs accounts for the observed field dependence.    In most condensed phase materials, a photoionized  electron comes to thermal equilibrium at a separation  from its parent positive ion at which the ion's Coulomb  field is still significant. At low ionization densities, the  eventual fate of the thermalized election is either to  recombine with its parent ion (geminate recombination)  or to escape. Onsager [1] obtained an expression for  the probability that a thermalized ion pair, diffusing  in an appbed electric field, will escape geminate recom-  bination. Onsager's theory has been successfully applied  in numerous studies of condensed phase ionization in-  cluding X-ray ionization of organic liquids [2—5],  photoionization of amorphous solids [6,7} and of  liquid solutions [8,9] and photoconductivity of an-  thracene single crystals [10,11] . Here we apply the  theory to studies of the electric field dependence of  photocurrents from TMPD in three non-polar solvents-  n-hexane (HEX), 2,2,4-tri-methylpentane (TMP), and  tetramethylsilane (TMS). We report results of our in-  vestigation of the best-fit form of the radial distribu-  tion function of thermalized geminate pairs and of the  function's dependence on excitation energy.    The application of Onsager's theory to the photo-  ionization process has been described in detail else-  where [10,11]. The theory gives the geminate charge  pair escape probability as a function of the initial    Present address- Chemistry Department, University of Bridge-  port, Bridgeport, Connecticut 06602, USA.  Present address: Department of Chemistry, University of  Minnesota, Minneapolis, Minnesota 55455, USA.    separation r of the just-thennalized charge pair (thermali-  zation length), the applied electric field strength E, the  orientation of the charge pair with respect to E, and the  temperature T. With the assumption that the thermalized  charge pair distribution function is spherically symmetric  and independent off, the escape probability for a  sample of geminate pairs may be written as    P(E, T, a) = N f P^(E, r, r)R(r, a) dr,    (I)    where Py is the angle-averaged Onsager escape probabili-  ty and R(r, a) with range parameter a is the radial dis-  tribution function of geminate pairs- /V" is a normaliza-  tion constant determined such thatP-&gt; 1 as£'-*-°°-  Eq. (3c) of Mozumder [12] was used to compute the  probability Py while the forms o[R(r, a) which are  tested below are as follows:    (i) Delta (DEL), R(r,Ro) =8(r- Ry), N = I.    (ii) Narrow gaussian (N-GAUS), R(rJtf) = r2  X exp[-16(r - Af)2/Af2] ,N= 4/l^l/2Af3.    (ui) Gaussian (pAVS),R(r,G) = r2 expC-r2/^2),  N=4f^Tll2G3.    (iv) Exponential (EXP), R(r, B) = exp(-r/B), N =  \IB.    GAUS2 and EXP3 have been used extensively in  interpreting the X-ray induced conductivity of organic  liquids while most photoconductivity studies [6,7,10,  11] have made use of the DEL function. The N-GAUS  function has a theoretical basis in Sano and Mozumder's  treatment [13] of the thennalization problem.    223    Volume 74, number 2 CHEMICAL PHYSICS LETTERS 1 September 1980    At constant temperature and excitation energy, photo-  conduction quantum yields &lt;S&gt;(E) at field strength E are  proportional to P(E) — hereafter P(E) replaces P(E,T,a)  ofeq.(l)    (2)    where 0,, the quantum yield of thermalized charge  pairs is assumed to be field independent. Under our ex-  perimental conditions, the measured photocurrent ((£")  is proportional to 0ff) and we may use eq. (2) to write    (3)    The experimental zero-field current ;(0) is determined  by a short linear extrapolation of low field i(E) values  to E = 0. Eq. (3) then allows comparison of experimental  values of i(E)ls(0) with theoretical values ofP(E)/P(0).  Such comparisons are illustrated for TMPD in HEX in  Fig. 1 and for TMPD in TMS in fig. 2. While all four  functional forms of R allow reasonable fits to the HEX  data, EXP provides a superior fit (see Fig. 1). The dif-  ferences are far more striking for the TMS curves of fig.  2. Best-fit P(E){P(0) curves determined using the DEL          4     8     IZ     16  E x ^"'•(V/m)    a     12     ie    E ilO-6!^!!)    Fig. 2. As in fig. I but for TMPD/TMS solutions excited at  5.77eV.    n Gnus    .V''    1S.S  ,^'0 •9    .v    ^'••^  '.', "S  '• 50    PjE)  P(01    (-^)'°    e     '2    8  E«10''    12  (V/m)    E«IO'°(V/m)    Fig. 1. Comparison of electric field dependence of experimental  TMPD/HEX phoiocuncnt ratios, :(E)fi(0) (points), with theo-  retical escape probability ratios, P(E)fP(0) (solid lines), for  four geminate pair distribution functions. Excitation energy  = 7.08 eV.    and N-GAUS functions have a far-stronger downward  curvature than does the experimental curve. The broader  GAUS function allows a somewhat better fit, but EXP  provides a clearly superior fit to the data. EXP allows  the best fits to the TMPD in TMP results of fig. 3 as well  where best-fits to results for a number of excitation  energies are presented. Note in fig. 3 the steady increase  in length parameter B as the photon energy is increased.    Figs 1—3 and similar results to be pubbshed else-  where demonstrate that for all three solvents and for  all photon energies (5—7 eV), (he EXP distribution  function allows better fits to experimental field depen-  dence data than do DEL, N-GAUS or GAUS. Generally  the EXP fits are remarkably good for HEX (average  deviation &lt; 2%), good for TMP (^ 3%), and fair for  TMS (^ 5%). As the functional form narrows in the  order EXP, GAUS, N-GAUS, and DEL, the best-fits  deviate more and more from experiment.    Broad distribution functions like EXP and GAUS  have been found to give better fits to data for X-ray  ionized organic liquids than narrow functions like DEL  and N-GAUS. Abel and Funabashi [4] concluded that  EXP gave the best fits to the applied field dependence    224    Volume 74, number 2 CHEMICAL PHYSICS LETTERS 1 September 1980          Fig. 3. Electric field dependence ofphoiocurrent ratio idE)l  t(0) at various excitation energies for TMPD/TMP solutions  (points) compared with best-fit theoretical P(E)IP(0) values  for EXP geminate pair distribution functions (lines) All curves  actually intercept at unity but have been displaced from one  another by one unit for purposes of clarity. The number above  each curve is the excitation energy (eV) and the number below  is the thennalization length parameter Z?(A).    of X-ray induced currents in several abphatic liquids  [14,15] as well as to the concentration dependence of  free electron scavenging in the same liquids [16] .  Mozumder [5] also concluded that EXP generally al-  lowed the best fits to field dependence data for several  neat organic liquids while a second look [17] at the  electron scavenging data again showed that it was best  fit by an exponential distribution of thennalization  lengths. Dodelet et al. [18] have examined various dis-  tribution functions in their X-ray excited conductivity  studies. They excluded EXP from consideration, pre-  ferring a gaussian function with a power function tail  at large r (GP in their notation). GP yielded poor fits  when tested against our data like those of figs. 1—3.    X-ray experiments, however, suffer from a possible  disadvantage compared to those employing low-energy  photoionization in that multiple ionizations often take  place in small volumes of X-ray excited liquids [3]  (spurs and blobs). This means that Onsager's theory  which applies to isolated, geminate pairs is not strictly  applicable to the primary population of ionized pairs  in X-inadiated liquids. Rapid bimolecular recombination    within blobs of charge may lead to a surviving charge  pair which is not geminate. Moreover X-irradiation in-  volves a very large spectrum of excitation energies and  thus potentially a wide array of thennalization lengths  as compared to ionization with monochromatic low-  energy photons. For these reasons, the fact that the EXP  function gives best-fits to most X-irradiation data does  not necessarily imply that the EXP distribution should  obtain for low-energy photoionization. However, we  find that based solely on the criterion of best fits to  the field-dependence of our photocurrent data, the EXP  distribution does work best. For other photoionization  studies, the results are mixed. Bullot, Cordier and  Gauthier (BCG) have studied electric-field induced  fluorescence quenching in solutions ofTMPD in TMP  and TMS [9] . Granted several reasonable assumptions,  their results should be directly comparable with ours.  They find that GAUS and a truncated exponential can  be used to fit their data equally well while narrower dis-  tributions give poor fits. The inability of BCG to dis-  criminate between GAUS and the exponential form  results from the narrower field range of those results  [(0—6) X 106 V/m] as compared to the maximum field  of 18 X 106 V/m reached in the present work. The  numerical thermahzation parameters of BCG agree quite  well with our own. Most recent field-dependent photo-  conductivity studies on solids have been interpreted  using the DEL distribution function [6,7,10,11] and  this does not seem to have been merely a matter of con-  venience. Our attempts to fit the amorphous Se data  of Pai and Enck [6] and the polymeric photoconduc-  tivity data of Borsenberger [7] using the EXP distribu-  tion were not successful. Thus broad distributions seem  to be characteristic of electron thennalization in alkane  liquids irrespective of the mode of ionization while a  narrow distribution (DEL) is required in several amor-  phous solids. It would be surprising if the obvious dif-  ferences between liquid and solid phases were relevant  to the distribution function width.    Even though one might wish for data on more sys-  tems before speculating on why such an apparent quali-  tative difference should exist, the high quasi-free elec-  tron mobilities of alkane liquids as compared with  electron mobilities in the amorphous solids are a  notable difference between the two classes of materials.  The electron mobility in TMS is near 100 cm^fV s and  the pre-exponential factors in the temperature-activated  drift mobdities observed in TMP and HEX are similarly    225    Volume 74, number 2 CHEMICAL PHYSICS LETTERS 1 September 1980    large [19]. The drift mobilities actually measured in  TMP and HEX are much lower but those values may be  irrelevant to geminate recombination which occurs on  a picosecond or shorter time scale [20]. High mobili-  ties are associated with long scattering lengths for mo-  mentum transfer (=s 70 A. in TMS [19]) and suggest the  possibility that the classical-mechanical view of electron  thennalization which leads to a narrow distribution [13]  (N-GAUS) is inadequate. As first discussed by Abell  and Funabashi [4], the EXP distribution arises naturally  if the photoionized electron is regarded as an outgoing  spherical wave with an electron thennalization probabil-  ity that is independent of cation— electron separation.  Another view which also leads to an exponential dis-  tribution function in a natural way is to imagine that  in the alkane liquids, thermalization proceeds through  a succession of Wanmer exciton states each with a proba-  bility density that decays exponentially away from the  origin. Either of the above quantum-mechanical pic-  tures might be relevant in the alkanes where weak elec-  tron scattering excludes a classical-mechanical view [13]  of electron thennalization.    However, substantial caution is called for in inferring  from the present results that the thermalized charge  distribution is in fact exponential. Three important as-  sumptions none of which have been tested at the high  fields employed in this work are embodied in the simple  form ofeqs. (l)—(3).R(r.a) is unlikely to be indepen-  dent of applied field as assumed. For example at r =  100 A, a characteristic thennalization length in TMS,  the Coulomb Field is a bit less than half of the maximum  applied field used in this work. It is also possible that  &lt;^ might not be independent of applied Held as assumed.  Finally in all three solvents, the electron mobility is  known to be field dependent [19]. Thus the propor-  tionality between the negative charge mobility and dif-  fusion constant which is implicit in the use of Onsager's  theory for the calculation ofP,. is not ensured. Unfor-  tunately there is no clear substitute for Onsager's theory  in the present case of field-dependent mobilities [21].    Aldnch 99% purity TMPD was purified by recrystal-  lization from hexane followed by double-zone refining.  Phulips research grade (99.99% purity) TMP and HEX  were first dried by passage through a silica-gel column.  Further purification of all three solvents as well as TMPD  solution preparation and filling of the photoconduction  cell was earned out under high vacuum (&lt; 10~6 Ton).    Solvent purification involved the following steps:    (1) 3 or 4 freeze—pump—thaw cycles, (2) contact with  degassed molecular sieves for one day or more, and (3)  prolonged contact with a freshly evaporated Ba film  C&gt; 48 h). The final solutions (TMPD concentration  »s2 X 10~3 M) typically exhibited quasi-free electron  lifetimes of 1 JUS or greater.    The photoconductivity cell was designed for mea-  surements at high electric fields. One electrode is a  semi-transparent, Ta metal-coated quartz substrate  which transmits the excitation. The back electrode,  machined from a steel gauge block is positioned by a  spring. The spacing between the electrodes is determined  by a quartz spacer (»s 0.2 mm thick) which is sandwiched  between the two electrodes by the force of the spring.    Photocunents (=» 10~11 A) were measured either  by an electrometer (Keithley model 615) or a lock-in  amplifier (Princeton Applied Research model 5101) with  a mechanical light chopper (104 Hz). A 45 W deuterium  lamp was used for excitation at wavelengths above 200  nm and a microwave excited xenon discharge was used  at shorter wavelengths. A Minuteman VUV monochro-  mator provided excitation with a spectral band pass of  5 nm. Measurements were carried out at room tempera-  ture which ranged from 23—27°C.    A more complete account of our field dependence  work including absolute measurements of 0(£) at low  fields will be published elsewhere.    V/e wish to acknowledge support of this work by  NSF grant DMR 77-00318 and to thank Dan Saucy for  help in the computation ofP(E).    References    [1] L Onsager, Phys. Rev. 54 (1938) 55A.  [2] G.R. Freeman, J Chem. Phys 39(1963) 1580;    J P. Dodelet and G R. Freeman, J. Chem. Phys 60 (1974)    4657;    W-F. Schnudt and A 0 AUen, J. Phys-Chem 72(1970)    3730.  [3] A- Mozumder and J.L. Magee, J. Chem. Phys. 47 (1967)    939.  [4] G.C. AbeU and K. Funabashi, J. Chem Phys 58(1973)    1079.    (5] A- Mozumder, J. Chem. Phys. 60 (1974) 4305.  [6] D.M. Pai and RC.Enck, Phys. Rev. Bll (1975)5163.  [7] P. Melz, J. Chem Phys. 57 (1972) 1694,    P M. Borsenberger and A.I. Ateya, J. Appl. Phys 49    (1978)4035;    PAI Borsenberger, J. Chem. Phys. 69 (1978) 5210.    226    Volume 74, number 2 CHEMICAL PHYSICS LETTERS 1 September 1980    [8] R.A. Holroyd and R.L. Russell, J. Phys. Chem. 78 (1974)    2128.  [9] J. BuIIot, P. Cordier and M. Gauthier, J. Chem. Phys. 69    (1978)4908,1374.  [10] R. Batt.C.L. BraunandJ-F. Homig.Appl. Opt. Suppl.    3 (1969) 20; J. Chem. Phys. 49 (1968) 1967.  [11] R.R. Chance and C.L- Braun, J. Chem. Phys. 59 (1973)    2269; 64 (1976) 3573.    [12] A.Mozumder, J. Chem. Phys. 60 (1974) 4300.  [13] H. Sano and A. Mozumder, J.Chem. Phys. 66 (1977)    689.    [14] W.F. Schmidt, Radiation Res. 42 (1970) 73.  [15] J. Mathieu, D. Blanc, P. Caminade and J.P. Patau, J. Chun.    Phys. 64 (1967) 1679.    [16] J.M. Wannan and SJ- Rzad, J. Chem. Phys. 52 (1970)    485.  [17] RJ. Friauf, J- Noolandi and KM. Hong. J. Cheat. Phys-    71 (1979) 143.  [18] J-P. Dodelct, K. Shinsaka, U. Kortsch and G.R. Freeman,    J. Chem. Phys. 59 (1973) 2376-  [19] W.F. Schmidt, Can- J- Chem. 55 (1977) 2197-  [20] K.M. Hong and J. Noolandi, J. Chem. Phys. 68 (1978)    5163.  [211 A. Mozumder, J. Chem. Phys- 65 (1976) 3798:67 (1977)    4783;    J.K. Baud, V-E. Anderson and S.A. Rice, J. Chem- Phys-    67 (1977) 3842.    227  Thus the propor-  tionality between the negative charge mobility and dif-  fusion constant which is implicit in the use of Onsager's  theory for the calculation ofP,. is not ensured. Unfor-  tunately there is no clear substitute for Onsager's theory  in the present case of field-dependent mobilities [21].    Aldnch 99% purity TMPD was purified by recrystal-  lization from hexane followed by double-zone refining.  Phulips research grade (99.99% purity) TMP and HEX  were first dried by passage through a silica-gel column.  Further purification of all three solvents as well as TMPD  solution preparation and filling of the photoconduction  cell was earned out under high vacuum (&lt; 10~6 Ton).    Solvent purification involved the following steps:    (1) 3 or 4 freeze—pump—thaw cycles, (2) contact with  degassed molecular sieves for one day or more, and (3)  prolonged contact with a freshly evaporated Ba film  C&gt; 48 h). The final solutions (TMPD concentration  »s2 X 10~3 M) typically exhibited quasi-free electron  lifetimes of 1 JUS or greater.    The photoconductivity cell was designed for mea-  surements at high electric fields. One electrode is a  semi-transparent, Ta metal-coated quartz substrate  which transmits the excitation. The back electrode,  machined from a steel gauge block is positioned by a  spring. The spacing between the electrodes is determined  by a quartz spacer (»s 0.2 mm thick) which is sandwiched  between the two electrodes by the force of the spring.    Photocunents (=» 10~11 A) were measured either  by an electrometer (Keithley model 615) or a lock-in  amplifier (Princeton Applied Research model 5101) with  a mechanical light chopper (104 Hz). A 45 W deuterium  lamp was used for excitation at wavelengths above 200  nm and a microwave excited xenon discharge was used  at shorter wavelengths. A Minuteman VUV monochro-  mator provided excitation with a spectral band pass of  5 nm. Measurements were carried out at room tempera-  ture which ranged from 23—27°C.    A more complete account of our field dependence  work including absolute measurements of 0(£) at low  fields will be published elsewhere.    V/e wish to acknowledge support of this work by  NSF grant DMR 77-00318 and to thank Dan Saucy for  help in the computation ofP(E).    References    [1] L Onsager, Phys. Rev. 54 (1938) 55A.  [2] G.R. Freeman, J Chem. Phys 39(1963) 1580;    J P. Dodelet and G R. Freeman, J. Chem. Phys 60 (1974)    4657;    W-F. Schnudt and A 0 AUen, J. Phys-Chem 72(1970)    3730.  [3] A- Mozumder and J.L. Magee, J. Chem. Phys. 47 (1967)    939.  [4] G.C. AbeU and K. Funabashi, J. Chem Phys 58(1973)    1079.    (5] A- Mozumder, J. Chem. Phys. 60 (1974) 4305.  [6] D.M. Pai and RC.Enck, Phys. Rev. Bll (1975)5163.  [7] P. Melz, J. Chem Phys. 57 (1972) 1694,    P M. Borsenberger and A.I. Ateya, J. Appl. Phys 49    (1978)4035;    PAI Borsenberger, J. Chem. Phys. 69 (1978) 5210.    226    Volume 74, number 2 CHEMICAL PHYSICS LETTERS 1 September 1980    [8] R.A. Holroyd and R.L. Russell, J. Phys. Chem. 78 (1974)    2128.  [9] J. BuIIot, P. Cordier and M. Gauthier, J. Chem. Phys. 69    (1978)4908,1374.  [10] R. Batt.C.L. BraunandJ-F. Homig.Appl. Opt. Suppl.    3 (1969) 20; J. Chem. Phys. 49 (1968) 1967.  [11] R.R. Chance and C.L- Braun, J. Chem. Phys. 59 (1973)    2269; 64 (1976) 3573.    [12] A.Mozumder, J. Chem. Phys. 60 (1974) 4300.  [13] H. Sano and A. Mozumder, J.Che</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>80851463</aid>
+            <ce:pii>0009-2614(80)85146-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(80)85146-3</ce:doi>
+            <ce:copyright type="unknown" year="1980"/>
+         </item-info>
+         <head>
+            <ce:title>Electric field dependence of charge carrier generation in alkane solutions of N,N,N',N'-tetramethyl-<ce:italic>p</ce:italic>-phenylenediamine (TMPD)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D</ce:given-name>
+                  <ce:surname>S. Sethi</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.T.</ce:given-name>
+                  <ce:surname>Choi</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C.L.</ce:given-name>
+                  <ce:surname>Braun</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, Dartmouth College, Hanover, New Hampshire 03755, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Present address: Chemistry Department, University of Bridgeport, Bridgeport, Connecticut 06602, USA.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Department of Chemistry, University of Minnesota, Minneapolis, Minnesota 55455, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="2" month="7" year="1980"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Studies of the electric field dependence or photocurrents from solutions of TMPD in non-polar solvents are interpreted using Onsager's theory of geminate charge recombination. For all solvents and photon energies, a simple exponential form of the radial distribution function for geminate pairs accounts for the observed field dependence.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Onsager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1938</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>554</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Freeman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1580</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Dodelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Freeman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4657</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.O.</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3730</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mozumder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Magee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>939</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>Abell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Funabashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1079</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mozumder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4305</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Pai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Enck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Melz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1694</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borsenberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Ateya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4035</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Borsenberger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5210</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Holroyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Russell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2128</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bullot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cordier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gauthier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4908</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bullot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cordier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gauthier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1374</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Batt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Hornig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Opt. Suppl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Batt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Hornig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1967</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Chance</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2269</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Chance</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3573</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mozumder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4300</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mozumder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J.Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>689</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Radiation Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mathieu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Blanc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Caminade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Patau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chim. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1679</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Warman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Rzad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phya.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>485</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Friauf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Noolandi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Dodelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Shinsaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Kortsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Freeman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2376</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Noolandi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mozumder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3798</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mozumder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4783</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Baird</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.E.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Rice</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3842</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

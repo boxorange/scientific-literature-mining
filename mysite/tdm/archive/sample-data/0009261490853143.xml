@@ -1,0 +1,885 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261490853143</prism:url><dc:identifier>doi:10.1016/0009-2614(90)85314-3</dc:identifier><eid>1-s2.0-0009261490853143</eid><prism:doi>10.1016/0009-2614(90)85314-3</prism:doi><pii>0009-2614(90)85314-3</pii><dc:title>Carbon and oxygen K-edge photoionization of the CO molecule </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>173</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>122</prism:startingPage><prism:endingPage>128</prism:endingPage><prism:pageRange>122-128</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1990-09-28</prism:coverDate><prism:coverDisplayDate>28 September 1990</prism:coverDisplayDate><prism:copyright>Copyright © 1990 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Domke, M.</dc:creator><dc:creator>Xue, C.</dc:creator><dc:creator>Puschmann, A.</dc:creator><dc:creator>Mandel, T.</dc:creator><dc:creator>Hudson, E.</dc:creator><dc:creator>Shirley, D.A.</dc:creator><dc:creator>Kaindl, G.</dc:creator><dc:description>
+               Abstract
+               
+                  High-resolution, high-intensity photoionization studies were performed near the carbon and oxygen K-edges of gas-phase CO. At least 37 absorption lines were resolved at the carbon K-edge, and new information was obtained about the π*, Rydberg, and double-excitation resonances, including Rydberg states up to n=7 and vibrational transitions up to v′ = 3. Vibrational structure in oxygen is 1s−1π* and Rydberg states was resolved for the first time. The derived molecular structure parameters are consistent with the Z+1 approximation. High-resolution, high-intensity core-level photoabsorption promises new opportunities in vibrational state-to-state chemistry and surface science.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261490853143" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261490853143" rel="scidir"/></coredata><scopus-id>0001054603</scopus-id><scopus-eid>2-s2.0-0001054603</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001054603" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:33:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261490853143</xocs:eid>
+      <xocs:pii-formatted>0009-2614(90)85314-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261490853143</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(90)85314-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09554</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160611">2016-06-11T07:51:31.581333-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19900928</xocs:date-search-begin>
+      <xocs:year-nav>1990</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>173</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>173</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 173, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>122</xocs:first-fp>
+      <xocs:last-lp>128</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>122</xocs:first-page>
+         <xocs:last-page>128</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19900928</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>28 September 1990</xocs:cover-date-text>
+      <xocs:cover-date-start>1990-09-28</xocs:cover-date-start>
+      <xocs:cover-date-year>1990</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1990 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CARBONOXYGENKEDGEPHOTOIONIZATIONCOMOLECULE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DOMKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HITCHCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>TRONC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SHAW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2091</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>HITCHCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>PETERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>PETERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>260</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>DOMKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SODHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>363</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HUBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARSPECTRAMOLECULARSTRUCTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>STEVENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5420</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>899</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6737</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>GELIUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>985</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>MEDHURST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6096</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>ANGONOA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6789</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16"/>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>JUGNET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>198</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DOMKEX1990X122</xocs:refkey3>
+         <xocs:refkey4lp>DOMKEX1990X122X128</xocs:refkey4lp>
+         <xocs:refkey4ai>DOMKEX1990X122XM</xocs:refkey4ai>
+         <xocs:refkey5>DOMKEX1990X122X128XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(90)85314-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261490853143</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261490853143</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(90)85314-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-11T07:51:31.581333-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1990-09-28</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261490853143-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261490853143/MAIN/application/pdf/e352344029a94e67cd333d68c979d921/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261490853143/MAIN/application/pdf/e352344029a94e67cd333d68c979d921/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>575774</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261490853143-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261490853143/PREVIEW/image/png/b5f8e56cefa7f41e02634d0bc840b851/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261490853143/PREVIEW/image/png/b5f8e56cefa7f41e02634d0bc840b851/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>79442</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 173, number 1  CHEMICAL PHYSICS LETTERS  28 September 1990  Carbon and oxygen K-edge photoionization of the CO molecule  M. Domke, C. Xue, A. Puschmann, T. Mandel, E. Hudson   D.A. Shirley  and G. Kaindi  Institut fur Experimentalphysilc Freie Universitat Berlin, Arnimallee 14, D-1000 Berlin 33, Germany    Received 31 May 1990; in final form 29 June 1990         High-resolution, high-intensity photoionization studies were pei-fonned near the carbon and oxygen K-edges of gas-phase Co.  At least 37 absorption lines were resolved at the carbon K-edge, and new information was obtained about the it, Rydberg, and  double-excitation resonances, including Rydberg states up to n=7 and vibrational transitions up to u  =3. Vibrational structure  in oxygen is 1s  0 and Rydberg states was resolved for the first time. The derived molecular structure parameters are consistent  with the Z+ I approximation. High-resolution, high-intensity core-level photoabsorption promises new opportunities in vibra-  tional state-to-state chemistry and surface science.  1. IntroductIon     Core-level excitation can provide unique insight  into molecular structure and dynamics. An essential  feature of this spectroscopy is the excitation of an  electron from a highly localized initial orbital cen-  tered on a single atom into a valence, Rydberg, or  continuum orbital, sometimes accompanied by ad-  ditional excitation in the system. The value of core-  level spectroscopy is greatly enhanced by resolution  at the vibrational level, allowing molecular struc-  tural parameters to be derived from Franck Condon  factors. Vibrational resolution is possible in small  molecules based on carbon, nitrogen, and oxygen, in  which the vibrational quantum of energy can exceed  the natural linewidth of the Is core-hole state. Until  recently, resolution at this level was achieved only  with electron-energy-loss spectroscopy (EELS),  which provided most of our detailed knowledge of  near-edge structure [l-4] ~ . Photon-based excita-  tion with highly monochromatic soft X-rays from an  electron storage ring offers certain advantages. Most  important is even higher resolution without the con-  comitant loss of intensity evident in EELS.      On leave from Department of Chemistry, University of Cali-  fornia, Berkeley, CA 94720, USA.  ~  Ref. [1] is a bibliography of inner-shell excitation studies. Refs.  12 4] are EELS studies on CO.   In this Letter we report a soft X-ray photoexcita-  tion study of CO, at higher resolution and with much  higher statistical accuracy than previously available  [2 41. Our spectra, recorded typically in ten-minute  scans, provide more detailed and accurate infor-  mation on CO than is available from the EELS lit-  erature. The spectra were used to reevaluate the  EELS-based assignments of final states and to re-  solve many more lines, especially vibrational states  in the C 1s  two-electron/two-hole (2h 2e) dou-  ble-excitation region and the O Is   electron/hole  (1h le) u~ and Rydberg states.        2. ExperImental       The measurements were performed with the high-  resolution SX700/II plane-grating monochromator  operated by the Freie Universitat Berlin at the Ber-  liner Elektronenspeicherring fur Synchrotronstrah-  lung (BESSY) [5,6]. With an improved ellipsoidal  minor having a geometrical tangent error of only    O-65 arcsec, a resolution SE of t 85 meY (fwhm)  at the C K-edge (hvt 296 eV) was obtained using  t 20% of the mirror; a further improvement by a  factor of ~ /~ is possible in the second diffraction or-  der. The photon energy was calibrated at the C  (lr u) v =O and O (lrlE*) resonance lines of  122  0009-2614/90/S 03.50   1990   Elsevier Science Publishers B.V. (North-Holland)  Volume 173, number 1 CHEMICAL PHYSICS LETTERS  28 September 1990  CO at 287.40 eV and 534.20 eV, respectively (from  EELS) [7].   The photoabsorplion measurements were per-  formed with an ionization chamber (active length:  10 cm) filled with typically 0.05 mbar of high-purity  CO (99.997%) and separated from the UHV mono-  chromator in the 10_10 mbar range by an Al (1% Si)  window of 1500 A thickness. Different CO pressures  were used to check for saturation effects.      3. The (C is 1~~*)  II resonance     Fig. 1 shows the carbon K-edge absorption region  of CO. with the (C ls_hit*) 111 resonance region ex-  panded in the inset. The spectrum shows several dis-  tinct structures. Below the C Is ionization threshold  at about 296.1 eV [3,8] istheC 1s1 1h le Rydberg  region at 292 296 eV. Above the C is threshold,  many vibrationally resolved lines from 2h 2e dou-  ble-excitation Rydberg states appear.   The (C is h,t*)  H resonance was observed in both  first and second order, with instrumental resolutions  of 85 and 70 meY (fwhm), respectively. Four vi-  brational transitions, v .v  =0-+0, O +1, 0--+2, and                    -h        4,  eh  0 +3 were resolved, the last one for the first time (see  fig. 1, inset). With ground-state parameters of  hv5=269S125 meY and R5~l.l2832 A [9], a  Franck Condon analysis [10,11] results in  hpe( l1)=256 2 meY and R~( l1)=l.l06   0.001 A, in fairly good agreement with EELS results  L 2 4].      4. The 1h-le Rydberg states     In the 292 296 eV energy range are twelve well-  resolved maxima (see fig. 2a), assigned previously  to vibrationally resolved 1h le Rydberg excitations  based on the C is threshold at 296.1 eV. We agree  with most of the earlier assignments, but suggest some  changes.   The 1h le Rydberg excitations of C 1s  core-ex-  cited CO are closely analogous, in the  Z+ 1 ap-  proximation , to Rydberg excitations from the out-  ermost 2x-orbital of (pseudo)-isoelectronic neutral  NO. In addition, the Z+ 1 approximation suggests  comparison of our data with the N is photoexcita-  tion spectrum of molecular N2 [12], which also gives  an NO-like core. As in the EELS work, we assign the   217 III   C1~ir   11*-le  1m-              2k 2e    290 215 300 305 310  Photon Energy (eV)    Fig. 1. High-resolution phololonization spectrum at the C K-edge of gas-phase CO measured at the BESSY-SX700/II beamline. The inset  shows the vibrational band of the C is-  z~ resonance up to V =3. Note that the baseline of the magnified region of the spectrum has  been shifted.      123  Volume 173, number 1  CHEMICAL PHYSICS LETTERS  28 September 1990  Fig. 2. (a) 1h-le Rydberg states below the C K-edge in CO. with  seven vibrational bands resolved from a least-squares fit analysis  u~ing Yqig~t profiles. (b) 2h 2e Rydberg states below the lowest  2h-le C-is satellite state in COt. 21 experimental peaks are re-  solved, with the results of a least-squares fit analysis given (see  text). The inset shows four weak peaks observed in the 299 300  eV range.      first six peaks at hi  = 292 294 eV to the first three  vibrational members (u  =0, 1,2) of the 3sc and 3p~  Rydberg states. A least-squares fit also yields weak  contributions from the 3pa state, u  = O at 293.49 eV  and u  = 1 at 293.79 eV, as expected from the NO and  N2 1s  excitation spectra [9,12]. Franck Condon  fits give the relatively large vibrational frequencies  hv~(3sa)=307 3 meY and hv~(3pir)=309 l  mey, and the shorter internuclear distances  R~(3sa)=l.077 0.00l A and .R~(3pir)=1.073   0.001 A. Relative to the (C ls~,r*)  H state, both  trends are consistent with strengthening of the CO  bond by excitation into nonbonding Rydberg orbit-  ais rather than into the antibonding ir~ orbital.   Above 294.4 eV, six maxima are apparent (fig. 2a),  arising from overlapping vibrational manifolds based  on Rydberg states. The unprecedented statistical ac-  curacy of our spectra facilitated re-analysis of the  peak assignments and comparison of the relative level  positions in the N2 (N Ir ) and NO*  equivalent-  core  molecules with those derived from our  CO (C lr9 spoeWam We disagree with some of the  earlier assignments, in particular the assignment of  all the Rydberg peaks of N2(N is- ) to npa and npir  transitions[l2~.Speciflcally,peakNo.6inref. [12],  which was attributed to a 2Et (4sa) state, is assigned  here to a H2f1(3dir) or H  2E~(3da) state; the cor-  responding peak in our spectrum lies at 294.614 eV.   The next five peaks could be fitted consistently  with a series of Rydberg states and their vibrational  excitations. Peak positions and derived structural  parameters arc summarized in tables I and 2, re-  spectively. A fit of the npic Rydberg series gives an  ionization energy of 296.080 eV and a quantum de-  fect of 0.775.   Derived fit parameters, summarized in table 2,  generally compare well with the best EELS results,  where available [3], except for a 14 meY discrep-  ancy for the 1s  3pn transition due to omission of  the Ir  3pa transition in the EELS work. The far  better statistical accuracy of the present data as com-  pared to previous EELS spectra (despite ~ 300 times  shorter data-acquisition periods) enabied us to fit  more peaks (19 versus 10) and to derive more ac-  curate values for the structural parameters.      5. The 2h 2e Rydberg slates     As shown in fig. 2b, a wealth of structure appears  beyond the C is threshold. Four relatively weak peaks  are visible in the 299 300 eV range (see inset of fig.  2b, peaks l 4), and another series of 17 well-re-  solved peaks lie in the range 300 305 eV (peaks 5  to 21). We agree with previous authors in attributing  structures in this energy region to two-electron ex-  citations, but we shall use a different reference en-  ergy: the C is correlation-state satellites.   Correlation states are well known in X-ray photo-  electron spectroscopy (XPS) as weak satellite peaks  lying at binding energies a few eV (typically 5 20  eV) above core-level peaks. Because each correla-  tion state can usually be described by promoting one  electron from a filled to an empty molecular orbital,  the satellites are often called  shake up  states, but  we shall use the term  two-hole one-electron  or   2h le  states to describe the CO photoelectron sat-  cuites, to which the  2h 2e  absorption peaks bear  the relation of pre-edge Rydberg states.   302 303  Pkitia Energy (ev)  124    v =O  v =l  u =2  v =3 Terinenergies CO   NO~  1h le excitation            lr 2pit  287.400  287.656(2)  287.912(2)   288.168(3) 8.680  9.264  3w  292.368(2)  292.665(2)  287.912(2)  3.712  3.799  3px  293.331(1)  293.630(2)  293.922(2)  2.749  2.786  3pa  293.487(3)  293.787(4)    2.593  2.672  3d~t  294.614(2)  294.920(5)  295.226(6)  1.466  1.503  4px  294.803(2)  295.090(2)  295.374(5)  1.277  1.309  5px  295.313(3)  295.635(5)    0.767  0.768  6p,t  295.561(5)  295,866(7)    0.519  0.508  7p,t  295.744(9)          2h 2e excitation            {5 7}  300.58(1)  300.81(1)  301.04(1)      (8 10)  301.23(1)  301.47(1)  301.71(1)      (13 15)  302.42(1)  302.63(1)  302.86(1)        no   vibrational assignment  (1) 299.15(2)  {lI)30l.98(3)  (18) 303.64(2)  (2) 299.38(2)  (12)302.20(1)  (19) 303.78(2)  {3} 299.58(2)  {16}303.05(2)  (20} 303.94(3)  (4) 299.92(4)  (17)303.31(1)  (21) 304.13(3)    28 September 1990  Volume 173, number 1  CHEMICAL PHYSICS LETrERS  Table t  Energies and assigumeats of the C is 1h le and 2h 2e excitations and their vibrational substates. The numbers in braces refer to   peaks  in fig. 2b. Error bars in units of the last digit are given in parentheses relative to an adopted value of 287.400 eV for the   lr 2pxt, u  =0  resonance line. In the last two columns, term energies for C-Is-excited CO and for (pseudo)-isoelectronic 2z-excited NO are listed.   All  energies are given in eV   ~ Relative to BE of C ls (296.080 eV). b) Relative to BE of 2x (from ref. [9J).   Several 2h  le states based on the C is main line  in CO are known from XPS results [13]. The low-  est-energy satellite grows very intense at threshold,  to 15% of the main line [14]. Angonoa et al. [15]  used a Green s function method to predict seven 2h-  le satellite states in the region 8 to 12 eV above the  main C ls line, with C ls_lrh,t* or C lr Sa  ~it~  character. In a recent high-resolution threshold study,  Medhurst [16] has found that the  9 eV satellite   consists of at least three components. Each can have  a 2h 2e pre-edge structure, including Rydberg series,  in an energy range located the same amount below  the 2h le ionization threshold as the structure in fig.  2a lies below the 296.1 eV threshold. The structure  in fig. 2b fits this criterion relative to Medburst s sat-  ellite thresholds, which lie in the range 304.5 307 eV.   The fitted peaic energies of the 2h 2e transitions  are presented in table 1. The strongest four of these  peaks were previously observed by EELS, but low  yields precluded detailed analysis. Based on inten-  sity ratios, peak separations, and the appearance of  the 1h le Rydberg spectrum, we have tentatively  analyzed the 2h 2e spectra in terms of three vibra-  tional manifolds, of the peak sets (5, 6, 7); (8, 9,  10); (13, 14, 15). Four additionalweakpeaks (lines  l 4, see inset of fig. 2b) lie in the range 299 300 eV.  Franck Condon fits yielded vibritional spacings  (and internuclear distances) of 242 meV (1.197 A)  for lines (5,6,7) and 261 meV (1.174 A) for lines  (8, 9, 10). These lower vibrational constants and  longer bonds, compared with the 1h l e Rydberg ex-  citations, are consistent with promotion of an ad-  ditional electron from a a or it (bonding) to a it   (antibonding) orbital.   Further theoretical modelling is needed to develop  unique assignments of the 2h 2e double-excitation  peaks. Each of the seven satellite thresholds pre-  dicted by Angonoa et al. [15], may have an asso-  ciated Rydberg spectrum similar to the 1h le spec-  trum displayed in fig. 2a. Inspection of figs~ 1 and 2  shows that the 1h le Rydberg peaks extend over the  4 eV range from 292 to 296 eV, and the 2h 2e Ryd  125    Ground state    Excited state  (this work)      Comparison with  NO and OE      R5  hi 5                    R,  hi ,  hvx,          (A)  (meV)  (A)  (meV)  (meY)    R,  hi ,                (A)  (mcv)  CO  1.12832  269.025              Cls-.x5      1.106(1)  256(2)  0  NO  1.1508  246  C ls- Ryd.                  3sa      1.077(1)  307(3)  5(1)    t.0634  307  3px      1.073(1)  309(1)  4(1)    1.062  310  3dzc      1.08(1)  309(1)  0    1.0585  307  4px      1.083(1)  292(1)  2(1)        C 2h 2e                  (5 7}      1.197(2)  242(2)          (8 l0}      1.174(2)  261(2)          Ols  x        146(1)    CF  1.272  168  O ls- Ryd.                  3sa      1.617(9)  227(8)      1.154  229  3px      1.159(9)  224(9)      1.151  232  N2  1.09768 ~  292.42~              N1s~.x5      1164b)  235b)    NO  1.1508  244  ls *3sc      1.077w  293  )      1.0634  304  ls  3px      1073b)  300        1.062  307  Volume 173, number I  CHEMICAL PHYSICS LETTERS  28September 1990  Table 2  Equilibrium distances R, vibrational energies kv, and anbarmonicity constants hvx0 orCO (this work) and N2 (12] in the ground state  and in excited states. The numbers in braces refer to peaks in fig. 2b. Error bars in units of the last digit are given in   parentheses. The  parameters in the last two columns are taken from ref. [9] and the hv~ values were corrected for different reduced masses   (multiplied by  . fii7ii, ~ and . /tinss for NO-*N!, NO-*C50, and CF~.CO5, respectively)   ~Ref, (91. b) Ref. [12].  berg peaks over the 5.5 eV range 299 304.5 eV. The  larger energy range of the 2h 2e peaks may arise from  the energy range of the correlation states [15,16],  which should have the effect of shifting the Rydberg  spectra by ~ l 2 eV, thereby extending their appar-  ent energy range.      6. Vibrational fine structure at the O K-edge     In fig. 3, the absorption spectrum at the oxygen K-  edge, measured in second diffraction order, is shown.  As for the C K-edge, we can see an intense  (O 1 s Ig*)  fl resonance, followed by Rydberg  states. In the (O lr ht*) resonance, resolved fine  structure is apparent, in contrast with earlier high-  resolution EELS I~] and XANES [171 measure-  ments. This spectrum was obtained when BESSY was  operated under special beam conditions, in which  sextupole magnets were not energized, to reduce the  source size. In the Z+ 1 approximation, the O-l s-ex-  cited CO molecule is like a CF radical with a vibra-  tional energy of 168 meV and an equilibrium dis-  tance of R~= 1.272 A f9]; the latter is much larger  than the ground-state distance R5 of CO, so that many  vibrational substates are excited. Our least-squares  fit of this resonance with equally spaced lines yielded  a vibrational spacing of 146(1) meV (table 2), but  we have not been able to make a Franck Condon fit  and obtain R,.   Also in fig. 3, we show a high-resolution measure-  ment of CO Rydberg states at the oxygen K-edge. As  in case of the C Is Rydberg states, the first two peaks  can be assigned to 3w and 3px final states. Both show  shoulders on the high-energy side, which are due to  two vibrational substates with energy splittings of 227  and 224 ineV: Franck Condon fits give C O dis-  tances of 1.167 and 1.159 A, respectively. These val-  ues may be compared with results for the highly ex-  cited CF radical, where liv values of ~ 230 meY and  126  Volume 173, number 1  CHEMICAL PHYSICS LEITERS  28September 1990  s.      I,  53       Photoa Energy (e?)   540 543  Fig. 3. High-resolution photoionization spectrum at the O K-edge of gas-phase CO in second diffraction order showing vibrational  resolution analogous to the C K-edge in fig. 2a.  C F distances of 1.154 and 1.151 Aare known [9].  Thus, our results are consistent with the Z+ 1  approximation.   In contrast to the (O ls h,r*) ifl resonance, the  Rydberg states show an increased vibrational split-  ting. As in the case of the C K-edge, excitation of the  O is electron into the Rydberg states gives stronger  bonding than in the (is   iv ) state. However, ex-  citation of O is into the (is   it4) state results in  greater bond weakening than in the case of  c(ls 1g ). This may also be the reason that no two-  electron excitations beyond the oxygen is ionization  limit are observed.   The third Rydberg peak shows shoulders on both  the high- and low-energy sides. Since higher Rydberg  states are not known for CF, one has to apply plau-  sibility arguments for assigning these transitions. The  central peak and the low-energy shoulder may be due  to 4pic and 3dz, respectively, because of strong sim-  ilarity with the carbon-excited Rydberg states. The  high-energy shoulder, on the other hand, is assumed  to originate from vibrational excitation of the 4pir  state, since it is shifted by ~ 215 meV relative to the  a/ O line. The peaks at higher energies are assigned  to higher Rydberg states (Spit, 6pa, 7pic).  7. Equilibrium distances In the excited states;  comparison with N2     In the Z+ 1 approximation, C-l s-excited CO leads  to final states analogous to N-is-excited N2, namely  NO. For the C ls  ir  transition in CO, nearly all of  the intensity is concentrated in the 0-+0 transition  due to the small difference in equilibrium distance  between ground state and excited state  (AR(CO,it4)=R,~R~=~0,022 A) (see table 2).  This is different from the well-documented case of  N2, where transitions into higher vibrational levels  are more favored at the ir~ resonance [2,4,12], since  the difference in equilibrium distance is large  (AR(N2, it4) = 0.066 A [12]). The reverse situation  is found in case of the vibrationally split Rydberg  states: compared to the (ls  iv ) transition, the mo-  lecular bonds are strengthened (R, decreases). Since  the equilibrium distances in the ground state and  the excited state of N2 are rather similar  (AR(N2,Ryd.)= O.023 A [12]), while a larger  difference exists for CO (AR(CO, Ryd.)=  0.053  A), we get preferentially the 0-+0 transition for the  N2 Rydberg states, but an increasing probability to  excite higher vibrational substates for the CO Ryd-  berg states.    127  01 1   C 0(g)   J!  3e a  rr   534 531  Volume 173, number 1  CHEMICAL PHYSICS LEITERS  28 September 1990  For CO, the equilibrium distances of both the  (is  iv ) state and the Rydberg states are smaller  than the C O distance in the ground state, R~ In case  of two-electron excitations, the equilibrium dis-  tances are larger, but still close to R,. Consequently,  the vibrational substates of the two-electron excita-  tion show a strong 0-+0 transition and (slowly) de-  creasing intensities for higher vibrations. In case of  N2, on the other hand, the (is   iv ') state has a larger  equilibrium distance than the molecular ground state.  For two-electron excitations, the equilibrium dis-  tance is expected to increase even more. Both a de-  crease in stability of the molecule and the excitation  into various vibrational states will decrease the in-  tensities of the individual peaks in the two-electron  excitation which, as expected, appear with smaller  intensities than in the case of CO.      8. Conclusions     High-resolution, high-intensity photoionization  spectra of carbon and oxygen K-edge excitation were  analyzed to yield detailed structural parameters for  C-l s-based 1h l e and 2h 2e states and O-l s-based  1h le states in CO. The results are consistent with,  and confirm, the Z+ 1 approximation and the con-  ventional picture of chemical bonding in CO. The  high soft X-ray resolution and intensity available  from plane-grating monochromators will facilitate  more difficult weak-signal experiments. Among these  are vibrational (state-to-state) photo-dissociation  and molecular spectroscopy of adsorbed molecules  on surfaces.      Acknowledgement     This work was supported by the Bundesminister  fur Forschung und Technologie, project OS-41 3AXI/  TP2. One of us (DAS) is pleased to acknowledge the  Alexander von Humboldt Foundation for support  through a Senior Scientist Award, during 1989 90.  Expert assistance by the staff of BESSY, in particular  by H. Petersen and P. Kuske, is gratefully  acknowledged.      References    1] A.P. Hitchcock, J. Electron Spectry. 25 (1982) 245.  [2]M. Tronc, G.C. King and F.H. Read, J. Phys. B 12 (1979)  137.  [3] D.A. Thaw, G.C. King, D. Cvejanovich and F.H, Read, J.  Phys.B 17(1984)2091.  [41 A.P. Hitchcock and C.E. Brion, J. Electron Spectry. 18  (1980) 1.  [5]H. Petersen, Opt. Commun, 40 (1982) 402; Nucl. Instr.  MethodsA 246 (1986) 260.  [6] M. Domke, A. Puschmann, T. Mandel, H. Petersen and G.  Kaindl, Proceedings of the 2nd European Conference on the  Progress in X-Ray Synchrotron Radiation Research, Rome,  Oct. 1989, in press.  [7] R.N.S. Sodhi and C.E. Brion, J. Electron Spectry. 34 (1984)  363.  [8] S.R. Smith and T.D. Thomas, J. Electron Spectry. 8 (1976)  45.  [9] K.P. Huber and G. Herzberg, Molecular spectra and  molecular structure, Vol. 4 (Van Nostrand Reinhold, New  York, 1979).  [10] A.E. Stevens, C.S. Feigerle and W.C. Lineberger, J. Citent.  Phys. 78(1983) 5420.  [111 L.S. Wang, B. Niu, Y.T. Lee, DA. Shirley and K.  Balasubramanian, J. Chem. Phys. 92 (1990) 899.  [12]C.T. Chen, Y. Ma and F. Sette, Phys. Rev. A 40 (1989)  6737.  [13] V. Gelius, J. Electron Spectry. 5(1974) 985.  [14] L.J. Medhurst, T.A. Ferrett, P.A. Heimann, D.W. Lindle,  S.H. List and D.A. Shirley, J. Chem. Phys. 89 (1988) 6096.  [15] G. Angonoa, D. Walter and J. Schirmer, J. Chem. Phys. 87  (1987) 6789.  [161 U. Medhurst, private communication (1990).  [17] Y. Jugnet, F.J. Himpsel, Ph. Avouris and E.E. Koch, Phys.  Rev. Letters 53 (1984) 198.  128  everse situation  is found in case of the vibrationally split Rydberg  states: compared to the (ls  iv ) transition, the mo-  lecular bonds are strengthened (R, decreases). Since  the equilibrium distances in the ground state and  the excited state of N2 are rather similar  (AR(N2,Ryd.)= O.023 A [12]), while a larger  difference exists for CO (AR(CO, Ryd.)=  0.053  A), we get preferentially the 0-+0 transition for the  N2 Rydberg states, but an increasing probability to  excite higher vibrational substates for the CO Ryd-  berg states.    127  01 1   C 0(g)   J!  3e a  rr   534 531  Volume 173, number 1  CHEMICAL PHYSICS LEITERS  28 September 1990  For CO, the equilibrium distances of both the  (is  iv ) state and the Rydberg states are smaller  than the C O distance in the ground state, R~ In case  of two-electron excitations, the equilibrium dis-  tances are larger, but still close to R,. Consequently,  the vibrational substates of the two-electr</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>90853143</aid>
+            <ce:pii>0009-2614(90)85314-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(90)85314-3</ce:doi>
+            <ce:copyright type="unknown" year="1990"/>
+         </item-info>
+         <head>
+            <ce:title>Carbon and oxygen K-edge photoionization of the CO molecule</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Domke</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C.</ce:given-name>
+                  <ce:surname>Xue</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Puschmann</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Mandel</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.</ce:given-name>
+                  <ce:surname>Hudson</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.A.</ce:given-name>
+                  <ce:surname>Shirley</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Kaindl</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institut für Experimentalphysik, Freie Universität Berlin, Arnimallee 14, D-1000 Berlin 33, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>On leave from Department of Chemistry, University of California, Berkeley, CA 94720, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="31" month="5" year="1990"/>
+            <ce:date-revised day="29" month="6" year="1990"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">High-resolution, high-intensity photoionization studies were performed near the carbon and oxygen K-edges of gas-phase CO. At least 37 absorption lines were resolved at the carbon K-edge, and new information was obtained about the π<ce:sup loc="post">*</ce:sup>, Rydberg, and double-excitation resonances, including Rydberg states up to <ce:italic>n</ce:italic>=7 and vibrational transitions up to <ce:italic>v</ce:italic>′ = 3. Vibrational structure in oxygen is 1s<ce:sup loc="post">−1</ce:sup>π<ce:sup loc="post">*</ce:sup> and Rydberg states was resolved for the first time. The derived molecular structure parameters are consistent with the Z+1 approximation. High-resolution, high-intensity core-level photoabsorption promises new opportunities in vibrational state-to-state chemistry and surface science.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchcock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tronc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Read</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cvejanovich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Read</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2091</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchcock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Petersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Petersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instr. Methods</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 246</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>260</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Domke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Puschmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Mandel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Petersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Keindl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proceedings of the 2nd European Conference on the Progress in X-Ray Synchrotron Radiation Research, Rome</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>Oct. 1989</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>in press</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.N.S.</ce:given-name>
+                                 <ce:surname>Sodhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>363</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.P.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Herzberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular spectra and molecular structure</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>4</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Van Nostrand Reinhold</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Feigerle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Lineberger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5420</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shirley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Balasubramanian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>899</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6737</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Gelius</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>985</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Medhurst</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Ferrett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Heimann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Lindle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shirley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6096</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Angonoa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Walter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schirmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6789</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>L.J. Medhurst, private communication (1990)</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jugnet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Himpsel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ph.</ce:given-name>
+                                 <ce:surname>Avouris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>198</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

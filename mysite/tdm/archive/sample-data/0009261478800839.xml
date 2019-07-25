@@ -1,0 +1,555 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261478800839</prism:url><dc:identifier>doi:10.1016/0009-2614(78)80083-9</dc:identifier><eid>1-s2.0-0009261478800839</eid><prism:doi>10.1016/0009-2614(78)80083-9</prism:doi><pii>0009-2614(78)80083-9</pii><dc:title>Critical anomaly in the proton chemical shift of methylfluoride </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>54</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>203</prism:startingPage><prism:endingPage>206</prism:endingPage><prism:pageRange>203-206</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1978-03-01</prism:coverDate><prism:coverDisplayDate>1 March 1978</prism:coverDisplayDate><prism:copyright>Copyright © 1978 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Trappeniers, N.J.</dc:creator><dc:creator>Van Emden, F.W.</dc:creator><dc:description>
+               Abstract
+               
+                  The first experimental results are presented of an investigation on the density and temperature dependence of the proton chemical shift in CH3F between 40°C and 60°C and at densities up to 485 amagat, corresponding to pressures of about 1000 bar. A striking result of this investigation is the discovery of an anomalous behaviour of the proton chemical shift in CH3F in the gas-liquid critical region.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261478800839" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261478800839" rel="scidir"/></coredata><scopus-id>49349135526</scopus-id><scopus-eid>2-s2.0-49349135526</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49349135526" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T21:19:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261478800839</xocs:eid>
+      <xocs:pii-formatted>0009-2614(78)80083-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261478800839</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(78)80083-9</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07245</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151005">2015-10-05T10:18:37.453178-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19780301</xocs:date-search-begin>
+      <xocs:year-nav>1978</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>54</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>54</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 54, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>203</xocs:first-fp>
+      <xocs:last-lp>206</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>203</xocs:first-page>
+         <xocs:last-page>206</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19780301</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 March 1978</xocs:cover-date-text>
+      <xocs:cover-date-start>1978-03-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1978</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1978 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CRITICALANOMALYINPROTONCHEMICALSHIFTMETHYLFLUORIDE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TRAPPENIERS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HOMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>OLDENZIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>581</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CORNFELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4A">
+            <xocs:ref-normalized-surname>CARR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4B">
+            <xocs:ref-normalized-surname>PAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5A">
+            <xocs:ref-normalized-surname>OLDENZIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>565</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5B">
+            <xocs:ref-normalized-surname>OLDENZIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6"/>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>RAYNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3481</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>RUMMENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>535</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>SCHUG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1816</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ISIHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TRAPPENIERSX1978X203</xocs:refkey3>
+         <xocs:refkey4lp>TRAPPENIERSX1978X203X206</xocs:refkey4lp>
+         <xocs:refkey4ai>TRAPPENIERSX1978X203XN</xocs:refkey4ai>
+         <xocs:refkey5>TRAPPENIERSX1978X203X206XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(78)80083-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261478800839</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261478800839</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(78)80083-9</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-05T10:18:37.453178-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1978-03-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261478800839-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478800839/MAIN/application/pdf/dbdc9b830d31c798bf73b25ee75ef1f0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478800839/MAIN/application/pdf/dbdc9b830d31c798bf73b25ee75ef1f0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>316628</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261478800839-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478800839/PREVIEW/image/png/7dbd1407a64af832854c58f50fda47c4/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478800839/PREVIEW/image/png/7dbd1407a64af832854c58f50fda47c4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>76801</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 54, numi^ CHEMICAL PHYSICS LETTERS 1 March 1978    CRITICAL ANOMALY IN THE PROTON CHEMICAL SHIFT OF METHYLFLUOR1DE    N.J. TRAPPEN1ERS and F.W. VAN EMDEN    Van der Waals-I-aboratonum. Umversitcit ian Amsterdam. Amsterdam, The Netherlands  (241th publication of the van der Waals Fund)    Received 28 November 1977    The first experimental results are presented of an investigation on the density ;ind temperature dependence of the proton  chemical shift in CH3F between 40°C and 60°C and at densities up to 485 amaaat, corresponding to pressures of about 1000  bar. A striking result of this investigation is the discovery of an anomalous behaviour of the proton chemical shift in CH3F  in the gas—liquid critical region.    1. Introduction    The study of high resolution NMR spectra in gases  can be very useful for obtaining information about  the influence of the intermolecular interaction on the  cliemical shift and hence on the magnetic shielding  constant and also on the correlation of molecular mo-  tion. Up to the present, a considerable number of in-  vestigations [1] has been carried out in order to study  the influence of temperature and pressure on these  spectra. In practically all these studies the pressure  was limited to a maximum of about 200 bar because  of the use of sealed glass tubes. Recently, however,  Oldenziel and Trappeniers [2] have studied the proton  chemical shift in methane up to 570 amagat and in  ethylene up to 470 amagat, corresponding to pres-  sures up to 2500 bar. Another point of interest is that,  with a single exception [3], all these experiments were  carried out outside the gas—liquid critical region.    In 1968 Carr and co-workers [3,4] discovered a re-  markable anomalous behaviour of the xenon magnetic  shielding in the vicinity of the critical point. A possi-  ble explanation for this anomaly was given in terms of  critical density fluctuations [3]. The question arises  whether this anomalous behaviour is particular to  xenon or whether it is a general property of the mag-  netic shielding in the critical region. Moreover, it might  be interesting also to investigate the influence of elec-  trostatic interactions on the nature of this shielding  anomaly. This article reports the first results of a study  of the temperature and density dependence of the  chemical shift of the polar molecule CH^F.    The puipose of the investigation was twofold: first,  to investigate the chemical shift in CH3F over a large  density range from 0 to 485 amagat, corresponding to  pressures up to 1000 bar and, secondly, to focus the  attention on the behaviour of the chemical shift in tlie  gas—liquid critical region- The critical temperature of  CH3F is 44.49°C, the critical density is equal to: p^ =  202.6, PA denoting the amagat density.    2- Experimental    Tlie measurements were made with a Varian  HR-60-V2100B spectrometer, equipped with a berylli-  um copper high pressure vessel which was used previ-  ously in high resolution high pressure research at the  Van de Waals-Laboratory [2,5]. Inside the high pres-  sure vessel the sample tube can he rotated at a rate of  about 50 rev/s; the pressure inside the vessel can be  vaned continuously between 0 and 2500 bar.    The spectrometer lias been equipped with a double  frequency modulated transmitter which can operate  at 56.5 Mil/, (fluorine resonance) and 60 MHz (proton  resonance). The required temperature control was ob-  tained by means of a heated air flow type thermostat,  built around the pressure vessel, which controls the  temperature to within 0.01°C in the temperature range  between 20°C and 70°C.    Line distances were measured with respect to an ex-  ternal reference consisting of a sealed glass capillary  tube and containing a mixture of 50% by volume  CgHg and 50% by volume CsH5CF3.This capillary    203    Volume 54, number 2 CHEMICAL PHYSICS LETTERS 1 March 1978    tube was placed in the centre of the sample tube and  could withstand pressures up to 2500 bar. Line dis-  tances could be reproduced 10 within 0.2 Hz.    3. Experimental results for the proton chemical shift  inCH3F    The proton chemical shift in Cr^F has-been inves-  tigated by measuring the line distance 61 between the  external reference line and the upfield line of the pro-  ton doublet. In fig. 1 the variation AS1)1 in the line dis-  tance 5" with respect to an arbitrary reference point,  namely the line distance at zero density and 60.15°C,  lias been plotted against the amagat density p/^. The  value of 5" for tins reference point is 372.2 Il7, so  that for the four temperatures of fig. 1. AS" =51]1  -272.2 Hz.    H    Froni fig. 1 it can be seen tliat, in general, 5? de-  creases continuously with increasing density. Ilow-          1'ig. 1. The proton chemical shift in CH3l' as a ("unction of  density and temperature.          I i?. 2.T!^&gt;.•bri^lJviou^of(A6H);l= AS? - (AS")11 at 48.28°C,  46.3()°C, 45.74"r and 45.40"C-    cver, at 48.28°C and, more strongly so, at 46.30°C,  45.74°C and 45.40°C, it is clearly seen that in the vi-  cinity of the Clitical density a hump-shaped anomaly  appears on ths normal background behaviour. There-  fore, in a purely formal way, the behaviour of the vari-  ation A5" of the proton line distance S" as a function  of temperature and density may be written as    AS"^^")1^^")3,                    (1)    where (A5") represents the background, while  (AS'i1)" accounts for the anomalous behaviour. The  background curve has been constructed by interpolat-  ing grapliically between the low density and high den-  sity data points. The anomaly (AS^)3, as obtained by  subtracting (AS")1' from AS", is illustrated in tig. 2.  It is clearly seen that the anomaly increases when the  temperature approaches the critical temperature t^ =  44.49°C. The critical constants ofCr^Fhave been  obtained from a separate investigation [6] set up in  order to determine the necessary p VT data ofCH^F.  The anomaly corresponds to a shift to a decreasing lo-  cal magnetic field at the position of the hydrogen nu-  clei in CH3F, i.e. an increase in magnetic shielding. It  also appears to be nearly symmetrical with respect to  the critical density. Another way of looking at the  anomaly is to take in fig-1 a constant density, for ex-  ample the critical density (P\)^ = 202.6, and to con-  sider the shift as a function of temperature. For the  critical isochore this leads to fig. 3, in which the critical  anomaly is plotted as a function of 7"—7p. The extra-    204    1 March 1976    Volume 54, number 2 CHEMICAL PHYSICS LETTERS          I-'ig. 3. Tile anomaly in the proton chemical ihift, (AS^)3, as  a function of temperature Jt the critic.il density and dt d re-  sonJnce frequency of 60 MHz.    polation to the critical temperature Ty i.e. T—T^ = 0,  gives for the anomaly a maximum value. (Ao")^^ =  11 Hz.    In order to obtain more information about this pro-  ton shift anomaly as well as about the behaviour of  the fluorine chemical shift in €'113? in the critical re-  gion, the measurements of the proton and fluorine  chemical shift will be further extended and the results  will be presented in a next article.    4. Discussion    From the experimentally found variation in '.;ie  proton chemical shift, ASp, the variation in the pro-  ton shielding constant Ao^ can be obtained by apply-  ing a correction for the bulk susceptibility of the sam-  ple, according to    AaH=A5"+|7r.x^p.                    (2)    Provided XcHaF ls a linear function of the density,  which is a reasonable assumption, the susceptibility  term will not affect the critical anomaly so that    (A6")3 = ACT^.                           (3)    in which Ao^ denotes the anomalous part of the pro-  ton magnetic shielding.    Up to the present the theory of the coefficient of    the magnetic shielding, o, has been developed mainly  for the low density gas region [1 ]. The most conve-  nient treatment was the binary collision model of  Raynes, Buckingham and Bernstein [7] (hereafter  referred to as RBB), who have used a virial-type ex-  pression of the form    o(p) = Oo + Oi? + Gap2 +....                 (4)    According to RBB, the "second virial screening con-  stant" o, can be written as    o,=-^/AOp^cxp(-(//fcr)    y.R2dRsm6ld0^s,m0^d0^d&lt;p,             (5)    where U is the intci molecular pair potential and  exp(- U/kT) a simple approximation for the radial  distribution function. In expression (5) tlie pair inter-  action Ao -,. can be divided into a number ot contri-  butions:    A0p.,,r = ;:AOp^)w + (A0pa,-,)i. + (ACpa,-,)..,,       (6)    where (AOpay-^y is the contribution due to the van  der Waals-type interactions, (A0pgy.)p results from per-  manent and electric moments and (Ao-gj,.)^ arises  from magnetic anisotropy. Theoretical expressions for    (^pJi^W. (^p.iir)? and (^pai^a are available in the  literature: a review of these has been given by Homer [1].  Substitution of the principal model expressions in (5)  together with a value for if, either a (6—12) Lennard-  Joncs or a Stockmaycr potential, leads to numerical  values for o;, which have been listed in table 1 togeth-  er with the present experimental values for CT( . It can    Table 1    Comparison of thcoreticdl and cxperimcntJl values of 01 in    CH3l'    r=40.35°C /=50.32°C r=60I5°C    oi(ppm cm /mol)  expcrimcntiil    -27 ±4    - 20 ±3    -23 ±4        (oi)wRBB[7I Rummuns [8] -35 -17.4 -33.7 -17.0 -33 -166  (OI)F RBB [7] -23.7 -22.3 -20.6  (oi).., Schug[91 -1 -1 -1    205    Volume 54, number 2 CHEMICAL PHYSICS LETTERS 1 March 1978    be seen that the general feature of the different mod-  els is a decreasing shielding with increasing density, in  qualitative agreement with the results of fig. 1. How-  ever, there is clearly no quantitative agreement.    The critical anomaly in the proton shift cannot be  explained by this type of shielding theories, because  they all predict a linear relationship between shielding  and density. Moreover, the theories are only valid in  the low density gas region as at higher densities several  assumptions made in the derivation of (5) become  questionable. For example: the additivity of pair inter-  action, the use of a two-centre potential function for  non-spherical molecules at close distances and the ap-  proximation, e\p(—U/kT), for the pair distribution  function.    It is interesting to note that the C^F shielding  anomaly differs from the xenon anonidly [3,4] in the  sense that the xenon anomaly amounts to an excess  decrease in the shielding, while the €113 F anomaly rep-  resents an increase in the shielding superimposed on  the background behaviour. The form of the curve in  fig. 3 suggests the possibility of describing the shift  anomaly by means of a critical exponent. By plotting    ln[(Ao-^)n,ax - ^ftl ^-""st \n(T-T^), a straight line  with slope 0 = 0.48 ±0.07 is obtained. This is about  half the value of the compressibility critical exponent  7= 1.08 ±0.06, as found from the pVT measurements  [6]. It is therefore to be expected that the correlation  of molecular positions and orientations in the critical  region will play an important role in the molecular in-      terpretation of the anomaly. This will be investigated  in the following article [10].    Acknowledgement    This investigation is part of the research program of  the "Stichting voor Fundamenteel Onderzoek der  Materie (F.O.M.)", supported by the "Organisatie voor  Zuiver-Wetenschappelijk Onderzoek (Z.W.O.)". The  authors are indebted to Mr. Rijswijk for assistance  with the measurements.    References    [ 1 { J. Homer, Appi Speclry. Rev. 9 (1975) 1.    [2] J.G. Oldenziel and N.J. Trappeniers, Physica 82A(1975)  581.    [3| A. Cornfeld, thesis, Rutgers University (1972), unpub-  lished.    (4] 1I.Y. Carr, van der Waals Conference, Amsterdam (1973):    B. Pas', thesis, Rutgers University (1972), unpublished.  [5] J.G. OIden7ieI and N.J. Trappcniers, Physica 82A (1975)    565; 83A (1975) 173.  [61 N.J. rrappeniurs and F.W. van Emden, Physica, to be    published.  [7] W.T. Raynes, A.U. Buckingham and H.J. Bernstein, J.    Chum. Phys. 36 (1962) 3481.  [8] F.H.A. Runnnens, Mol. Phys. 21 (1971) 535.  [91 J.C. Schug, 1. Phys. Chem. 70 (1966) 1816.  [10] A. Ismara and N.J. Trippunicrs, Chcm. Phys. Letters 54    (1978)207.    206  -^/AOp^cxp(-(//fcr)    y.R2dRsm6ld0^s,m0^d0^d&lt;p,             (5)    where U is the intci molecular pair potential and  exp(- U/kT) a simple approximation for the radial  distribution function. In expression (5) tlie pair inter-  action Ao -,. can be divided into a number ot contri-  butions:    A0p.,,r = ;:AOp^)w + (A0pa,-,)i. + (ACpa,-,)..,,       (6)    where (AOpay-^y is the contribution due to the van  der Waals-type interactions, (A0pgy.)p results from per-  manent and electric moments and (Ao-gj,.)^ arises  from magnetic anisotropy. Theoretical expressions for    (^pJi^W. (^p.iir)? and (^pai^a are available in the  literature: a review of these has been given by Homer [1].  Substitution of the principal model expressions in (5)  together with a value for if, either a (6—12) Lennard-  Joncs or a Stockmaycr potential, leads to numerical  values for o;, which have been listed in table 1 togeth-  er with the present experimental values for CT( . It can    Table 1    Comparison of thcoreticdl and cxperimcntJl values of 01 in    CH3l'    r=40.35°C /=50.32°C r=60I5°C    oi(ppm cm /mol)  expcrimcntiil    -27 ±4    - 20 ±3    -23 ±4        (oi)wRBB[7I Rummuns [8] -35 -17.4 -33.7 -17.0 -33 -166  (OI)F RBB [7] -23.7 -22.3 -20.6  (oi).., Schug[91 -1 -1 -1    205    Volume 54, number 2 CHEMICAL PHYSICS LETTERS 1 March 1978    be seen that the general feature of the different mod-  els is a decreasing shielding with increasing density, in  qualitative agreement with the results of fig. 1. How-  ever, there is clearly no quantitative agreement.    The critical anomaly in the proton shift cannot be  explained by this type of shielding theories, because  they all predict a linear relationship between shielding  and density. Moreover, the theories are only valid in  the low density gas region as at higher densities several  assumptions made in the derivation of (5) become  questionable. For example: the additivity of pair inter-  action, the use of a two-centre potential function for  non-spherical molecules at close distances and the ap-  proximation, e\p(—U/kT), for the pair distribution  function.    It is interesting to note that the C^F shielding  anomaly differs from the xenon anonidly [3,4] in the  sense that the xenon anomaly amounts to an excess  decrease in the shielding, while the €113 F anomaly rep-  resents an increase in the shielding superimposed on  the background behaviour. The form of the curve in  fig. 3 suggests the possibility of describing the shift  anomaly by means of a critical exponent. By plotting    ln[(Ao-^)n,ax - ^ftl ^-""st \n(T-T^), a straight line  with slope 0 = 0.48 ±0.07 is obtained. This is about  half the value of the compressibility critical exponent  7= 1.08 ±0.06, as found from the pVT measurements  [6]. It is therefore to be expected that the correlation  of molecular positions and orientations in the critical  region will play an important role in the molecular in-      terpretation of the anomaly. This will be investigated  in the following article [10].    Acknowledgement    This investigation is part of the research program of  the "Stichting voor Fundamenteel Onderzoek der  Materie (F.O.M.)", supported by the "Organisatie voor  Zuiver-Wetenschappelijk Onderzoek (Z.W.O.)". The  authors are indebted to Mr. Rijswijk for assistance  with the measurements.    References    [ 1 { J. Homer, Appi Speclry. Rev. 9 (1975) 1.    [2] J.G. Oldenziel and N.J. Trappeniers, Physica 82A(1975)  581.    [3| A. Cornfeld, thesis, Rutgers University (1972), unpub-  lished.    (4] 1I.Y. Carr, van der Waals Conference, Amsterdam (1973):    B. Pas', thesis, Rutgers University (1972), unpublished.  [5] J.G. OIden7ieI and N.J. Trappcniers, Physica 82A (1975)    565; 83A (1975) 173.  [61 N.J. rrappeniurs and F.W. van Emden, Physica, to be    published.  [7] W.T. Raynes, A.U. Buckingham and H.J. Bernstein, J.    Chum. Phys. 36 (1962) 3481.  [8] F.H.A. Runnnens, Mol. Phys. 21 (1971) 535.  [91 J.C. Schug, 1. Phys. Chem. 70 (1966) 181</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>78800839</aid>
+            <ce:pii>0009-2614(78)80083-9</ce:pii>
+            <ce:doi>10.1016/0009-2614(78)80083-9</ce:doi>
+            <ce:copyright type="unknown" year="1978"/>
+         </item-info>
+         <head>
+            <ce:title>Critical anomaly in the proton chemical shift of methylfluoride</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>N.J.</ce:given-name>
+                  <ce:surname>Trappeniers</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.W.</ce:given-name>
+                  <ce:surname>Van Emden</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Van der Waals-Laboratorium, Universiteit van Amsterdam, Amsterdam, The Netherlands (241th publication of the van der Waals Fund)</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="28" month="11" year="1977"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The first experimental results are presented of an investigation on the density and temperature dependence of the proton chemical shift in CH<ce:inf loc="post">3</ce:inf>F between 40°C and 60°C and at densities up to 485 amagat, corresponding to pressures of about 1000 bar. A striking result of this investigation is the discovery of an anomalous behaviour of the proton chemical shift in CH<ce:inf loc="post">3</ce:inf>F in the gas-liquid critical region.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Homer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Spectry. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Oldenziel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Trappeniers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>581</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Cornfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Rutgers University</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>unpublished</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="BIB4A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Carr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>van der Walls Conference, Amsterdam</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB4B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Pas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Rutgers University</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>unpublished</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="BIB5A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Oldenziel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Trappeniers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>565</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB5B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Oldenziel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Trappeniers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>N.J. Trappeniers and F.W. van Emden, Physica, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Raynes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Buckingham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Bernstein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3481</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.A.</ce:given-name>
+                                 <ce:surname>Rummens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>535</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Schug</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1816</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Isihara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Trappeniers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1190 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261492860138</prism:url><dc:identifier>doi:10.1016/0009-2614(92)86013-8</dc:identifier><eid>1-s2.0-0009261492860138</eid><prism:doi>10.1016/0009-2614(92)86013-8</prism:doi><pii>0009-2614(92)86013-8</pii><dc:title>Photoabsorption and the unoccupied partial density of states of chemisorbed molecules </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>197</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>12</prism:startingPage><prism:endingPage>16</prism:endingPage><prism:pageRange>12-16</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1992-09-04</prism:coverDate><prism:coverDisplayDate>4 September 1992</prism:coverDisplayDate><prism:copyright>Copyright © 1992 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Nilsson, A.</dc:creator><dc:creator>Björneholm, O.</dc:creator><dc:creator>Zdansky, E.O.F.</dc:creator><dc:creator>Tillborg, H.</dc:creator><dc:creator>Mårtensson, N.</dc:creator><dc:creator>Andersen, J.N.</dc:creator><dc:creator>Nyholm, R.</dc:creator><dc:description>
+               Abstract
+               
+                  The 1s to 2π* resonances have been studied for CO strongly chemisorbed on Ni(100) and weakly chemisorbed on Cu(100) using high resolution X-ray absorption spectroscopy. We show that the spectra can be consistently described in terms of the local density of unoccupied 2π* electron states with the Fermi level obtained from corresponding X-ray photoelectron spectra. The core hole is demonstrated to induce large shifts in the unoccupied 2π* density of states.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261492860138" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261492860138" rel="scidir"/></coredata><scopus-id>0002179751</scopus-id><scopus-eid>2-s2.0-0002179751</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0002179751" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020214">2002-02-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020214">2002-02-14</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-04-11T17:07:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261492860138</xocs:eid>
+      <xocs:pii-formatted>0009-2614(92)86013-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261492860138</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(92)86013-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X13668</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T20:14:36.156129-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19920904</xocs:date-search-begin>
+      <xocs:year-nav>1992</xocs:year-nav>
+      <xocs:indexeddate epoch="1013644800">2002-02-14T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>197</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>197</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 197, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>12</xocs:first-fp>
+      <xocs:last-lp>16</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>12</xocs:first-page>
+         <xocs:last-page>16</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19920904</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>4 September 1992</xocs:cover-date-text>
+      <xocs:cover-date-start>1992-09-04</xocs:cover-date-start>
+      <xocs:cover-date-year>1992</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1992 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>PHOTOABSORPTIONUNOCCUPIEDPARTIALDENSITYSTATESCHEMISORBEDMOLECULES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NILSSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1"/>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>PLUMMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>58</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8434</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MURPHY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7517</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>WURTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7741</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>WURTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12933</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>JUGNET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>198</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>GUMHALTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8048</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ANDERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>NILSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SODHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>363</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>KUHLENBECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3475</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>JOHNSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9427</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>MEMMEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1884</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>PEEBLES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>635</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>BREITSCHAFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>493</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>SANDELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>REIMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>259</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>VONBARTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5150</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>ANTONSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>601</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>SHAW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2091</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>UNGIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NILSSONX1992X12</xocs:refkey3>
+         <xocs:refkey4lp>NILSSONX1992X12X16</xocs:refkey4lp>
+         <xocs:refkey4ai>NILSSONX1992X12XA</xocs:refkey4ai>
+         <xocs:refkey5>NILSSONX1992X12X16XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(92)86013-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261492860138</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261492860138</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(92)86013-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2011-04-11T17:44:46.967953-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1992-09-04</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261492860138-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261492860138/MAIN/application/pdf/3d0c2b9e7465445bc9c307259bb5bc5a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261492860138/MAIN/application/pdf/3d0c2b9e7465445bc9c307259bb5bc5a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>438989</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261492860138-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261492860138/PREVIEW/image/png/9c237da6990fa1fb4898d219f854218a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261492860138/PREVIEW/image/png/9c237da6990fa1fb4898d219f854218a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74539</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 197, number 1,2 CHEMICAL PHYSICS LETTERS  4 September 1992    Photoabsorption and the unoccupied partial density of states of chemisorbed molecules    A. Nilsson, O. Bjorneholm, EOT. Zdansky, H. Tillborg, N. Martensson    Department of Physics, Uppsala University, Box 530, S-75121 Uppsala, Sweden    J.N. Andersen and R. Nyholm    Department of Synchrotron Radiation Research, Lund University, Sdlvegatan 14, S-223 62 Lund, Sweden and MAX-lab, Lund University, Box 118, S-221 00 Lund, Sweden    Received 4 June 1992    The is to 2n* resonances have been studied for CO strongly chemisorbed on Ni(100) and weakly chemisorbed on Cu (100) using high resolution X-ray absorption spectroscopy. We show that the spectra can be consistently described in terms of the local density of unoccupied 2n* electron states with the Fermi level obtained from corresponding X-ray photoelectron spectra. The core hole is demonstrated to induce large shifts in the unoccupied 2n* density of states.     X-ray absorption spectroscopy (XAS), or near edge X-ray absorption fine structure (NEXAFS), is a powerful method for studying the unoccupied states before and after adsorption on a surface [ 1-9 ] . In this method a core electron is excited to an initially unoccupied level. The localized nature of the core hole and the dipole selection rules make it possible to probe the atomic population as well as the symmetry of the various orbitals. However, it is essential to consider the fact that these unoccupied states may be strongly perturbed by the presence of the core hole.   When interpreting XA spectra in terms of unoccupied valence electron states it is necessary to establish the relevant Fermi level position. This has caused considerable controversy [ 1-9 ] . Often the Fermi level position has simply been assumed to coincide with the half height of the leading edge. Such an assumption, however, is most often wrong. We argue that for chemisorbed systems the lowest accessible state observed in XAS corresponds to the core level binding energy as measured by X-ray photoelectron spectroscopy (XPS). This is in contrast to recent claims where the direct relationship     Correspondence to: N. Martensson, Department of Physics, Uppsala University, Box 530, S-751 21 Uppsala, Sweden.    12    between the XPS and the XAS energy scales has been questioned [ 7 ] .   We address these matters in connection with high resolution XAS and XPS measurements of CO strongly chemisorbed on Ni (100) and weakly chemisorbed on Cu (100) performed with an absolute photon and binding energy scale determination of   0.1 eV. The C 1 s and O 1 s core holes are found to shift the unoccupied 21c* states towards the Fermi level by as much as several electron volt.   Normal incidence XAS measurements at the C and O K-edges of CO adsorbed on Ni (100) and Cu (100 ) were performed at the MAX synchrotron radiation facility in Lund using a modified SX-700 monochromator [ 10 ] . The XA spectra were recorded in the partial electron yield detection mode using pulse counting and the spectra were normalized to the spectrum from the clean surface. The resolution was about 0.2 eV for C is and 0.5 eV for O Is. The XP spectra were recorded in Uppsala with an overall resolution of 0.4 eV [ 11 ].   The photon energy scale was calibrated in two ways, which gave results identical to within 0.1 eV. Firstly the 2n* resonance positions for CO multilayers were measured. These positions are known from gas-phase measurements (287.40 and 534.20 eV for    0009-2614/92/$ 05.00  1992 Elsevier Science Publishers B.V. All rights reserved.  Volume 197, number 1,2 CHEMICAL PHYSICS LETTERS 4 September 1992    C 1 s and O 1 s, respectively) [ 8,12 ] . Secondly, we used the fact that the difference in kinetic energies of photoelectrons excited by first- and second-order light is exactly the photon energy.   Fig. 1 shows the 2Tr* resonance of the C 1 s and O 1 s XA spectra for adsorbed CO on Ni (100) in the c (2 X 2) phase at 80 K. The corresponding XP spectra are shown with the binding energy scale aligned to the photon energy scale. The C 1 s 2n* resonance maximum at 287.40 eV is 1.5 eV higher and the O is 2x* resonance maximum at 533.35 eV is 1.15 eV higher than the respective XPS peak positions. The XA resonances are much broader than the XPS peaks; the XAS line widths (fwhm) being 1.65 eV for C is and 2.55 eV for O is compared to 0.7 and 1.2 eV in XPS.   Fig. 2 similarly shows C 1 s and O 1 s XA and XP spectra for adsorbed CO on Cu (100) in the c (2 X 2 ) phase at 80 K. The weak nature of the CO/Cu chemisorption bond is manifested in the strong XPS shakeup peaks. For both levels the XAS resonances appear at higher energies than the lowest XPS peaks, just as for the CO/Ni system. This is in direct contrast to    CO/Ni (100) c(2 2) 80 K    C1s-2rt' NEXAFS o1s-2rt'    o    W  Z    PHOTON ENERGY (eV)    Cis    xPs    01s     ..,~ .  ~.-.w    284 288 292' 530 534 538    BINDING ENERGY (eV)    Fig. 1. C Is and O is core lines in (a) photoabsorption and (b) photoemission for CO/Ni(100) c(2X2) recorded at 80 K.    CO/Cu (100) c(2 2)  80 K  els-2rt  XAS Ols-2r(-    h    a  d    Z  w    ,~    284 288  292 530 ~  534    PHOTON ENERGY (eV)    Cis  XPS    01s    284 288  29230 534 538    BINDING ENERGY IeV)    Fig. 2. C Is and O is core lines in (a) photoabsorption and (b) photoemission for CO/Cu (100 ) c(2 X 2 ) recorded at 80 K.    what previously has been reported in ref. [ 7 ] . The C 1 s 2&gt;c* resonance maximum at 287.5 eV is 1.2 eV higher and the O is 2n* resonance maximum at 533.7 eV is 0.7 eV higher than the respective XPS peak positions. As in the CO/Ni case, the XA resonances are broader than the XPS peaks; the XA line widths (fwhm ) being 1.0 eV for C 1 s and 1.8 eV for O 1 s compared to 0.7 and 1.5 eV in XPS. The XA resonances, however, are narrower for CO/Cu than for CO/Ni.   Of the two systems, CO/Ni (100 ) is by far the most completely studied. Without expecting any significantly different behaviour for CO /Cu(100), we will therefore use CO/Ni(100) as a typical example of a chemisorption system. Fig. 3 illustrates how the XA process can be related to the core-level binding energy and the unoccupied 2Tt* density of Mates as observed by inverse photoemission. In the XAS the unoccupied density of states is probed by the excitation of an electron from a core level to the unoccupied valence levels. In the free CO molecule the 27i* orbital is empty, but upon adsorption it becomes slightly populated by the formation of 27c-metal hy-  Volume 197, number 1,2 CHEMICAL PHYSICS LETTERS 4 September 1992    ~_CCUEIED     UNOCCUPIED   Q    a) '~E    0    e~    E nnrr    BINDING ENERGY    b)    c)    PHOTOABSORPTION    1 S-2 T1 .  L -  EB(XPSI   BROADENED    d) - A -  EBIXPSI  PHOTON ENERGY    Fig. 3. A schematic illustration of the CO derived 2a' density of states (a) in the ground state, (b) in the presence of a core hole, and (c) the corresponding photoabsorption spectrum (d) with vibrational broadening.    brid states. This leads to a splitting into 2rt* derived states which are bonding and antibonding with respect to the surface (see fig. 3a). For CO/Ni the occupied bonding states have mainly Ni 3d character, and have been observed in photoemission at 1-2 eV below the Fermi level [ 11,13 ] . The unoccupied metal-CO 2a* states have been identified at 3-4 eV above the Fermi level by inverse photoemission [ 14,15 ] . These states have mainly CO 2Tr* character but they are hybridized with Ni 3d and 4sp states [15].   The core hole will modify the 2tc* derived states, as shown schematically in fig. 3b. The 2n* character of the occupied bonding states increases considerably due to the attractive core-hole potential. This can be seen for instance from the Z+ 1 model where the C 1 s hole state is replaced by an adsorbed NO molecule. In NO the 2n* orbital is occupied by one electron already in the free molecule. For NO adsorbed on Ni (100 ) the 2n* states have been identified in photoemission at a binding energy of 2 eV    14    [16-18]. The unoccupied 2x* states are located about 1.5 eV above the Fermi level as determined by inverse photoemission [ 14,19 ] . In other words we estimate that the presence of the C 1 s hole shifts the unoccupied 2Tt* states by about 2 eV towards the Fermi level in this case.   The XAS onset corresponds to the creation of a final state where a core electron has been placed in the lowest unoccupied state, i.e. at the Fermi level in a metallic system. In the completely screened XPS final state a charge redistribution has taken place where one electron has been taken from the Fermi level to locally screen the core hole. The two final states are indistinguishable and the energy onset in XAS should correspond to the XPS binding energy ( see fig. 3c ) . This is indeed observed for both CO on Ni and Cu in figs. 1 and 2. The observation of the completely screened state in XPS requires that the adsorbate valence orbitals are to some extent hybridized with substrate orbitals. The 2rt* screening of the core hole in adsorbed CO corresponds to the increased weight of occupied 27c* derived states in fig. 3b. This increase can be viewed in two different ways; ( i ) some of the previously unoccupied 27c* states are pulled down below the Fermi level due to the core-hole potential and become populated or ( ii ) the bonding d-n hybrid orbitals contract towards the adsorbate, thereby increasing their 2n* character.   There are two major effects which modify the shape of the XA spectrum relative to the empty partial density of states in fig. 3b. Firstly, there are modifications due to dynamical effects which according to model calculations [ 20 ] tend to build up a singular response at the Fermi level, thereby enhancing the intensity at the threshold, as indicated in fig. 3c. Secondly, the XA spectrum will be broadened due to vibrational effects (see fig. 3d). The XA process is fast on the time scale of molecular vibrations. This implies that the transitions are vertical with no change in geometry. In a Franck-Condon picture each electronic final state corresponds to a particular potential energy surface for the atomic motion. Whenever this is different from the ground state potential energy surface, vibrations are excited. We know that the XPS line profiles for adsorbed CO are dominated by vibrational contributions [ 21 ] . Since the electronic states at the XAS threshold are almost identical to the XPS final state they will be broad-  Volume 197, number 1,2 CHEMICAL PHYSICS LETTERS 4 September 1992    ened in a similar way. Furthermore, since the XAS process is vertical its onset, i.e. the Fermi level, should be associated with the vertical XPS ionization energy which can best be approximated by the position of the main peak.   The picture above agrees excellently with the present experimental results. For CO/Ni the peak position of the C ls-2n* resonance appears at 1.5 eV above the XPS binding energy. This is the energy estimated from inverse photoemission results for adsorbed NO and not CO. This clearly demonstrates the importance of considering the effect of the core hole which pulls the 27t* resonance down from 3-4 to 1.5 eV above the Fermi level. The present result indicates that the Z+ 1 approximation provides a reliable way of estimating the core-hole induced shifts.   It is also of great interest to compare the resonance energies between the adsorbed and free molecules. It has previously been observed that the C is resonance energy position is rather similar for free and adsorbed CO [ 8 ] . However, in that comparison no correction was made for the fact that the open shell character of the core excited free molecule leads to exchange split singlet and triplet states and that only the dipole allowed transition to the singlet state is observed in XAS. The dipole forbidden triplet state transition has been observed by electron energy loss spectroscopy at 1.3 eV lower excitation energy [ 22 ] . When the hybridization width of the 2n* orbital is comparable to the exchange splitting the latter will be quenched. This is the case for the C 1 s excited final state in the CO /Ni(100) system, whereas the situation in the CO/Cu(100) case is not conclusively determined. The appropriate molecular excitation energy for the comparison in the CO/Ni (100) case is thus the configuration average energy, 286.4 eV. After making this correction we find a positive shift of 1 eV in the C is to 2n* excitation energy between free CO and CO adsorbed on Ni(100). This upward shift indicates antibonding character with respect to the substrate for the states at the resonance maximum. Transitions into the bonding part of the 2n* states occur at energies below the gas phase excitation energy, e.g. the XPS binding energy position for CO/Ni(100), 285.9 eV, corresponds to such bonding states. In the O 1 s resonance no exchange splitting has been resolved in electron energy loss spectroscopy due to the much larger line width and smaller splitting [23]. An upper limit of 0.6 eV has    been estimated, leading to a minimum configuration average of 533.8 eV. In the CO/Ni case most of the adsorbate resonance intensity falls below the gasphase value, indicating a much stronger bonding of the final state to the Ni surface for states at the O 1 s resonance maximum than for those of the C 1 s case.   The resonances in CO are much broader for the adsorbate than for the free molecules. The molecular line widths are 0.1 and 1.2 eV for C 1 s and O 1 s, respectively. The additional broadening for the adsorbate has a contribution from vibrational effects but is mainly due to the hybridization between the 2n* states of the final state molecule and the metal states [ 8 ], which is stronger in the Ni than in the Cu case. Inverse photoemission also shows rather broad 2n* structures [ 15 ] . The larger O 1 s widths show that the O 1 s final state molecule interacts more strongly with the substrate than does the C 1 s final state molecule [ 8,21 ] . The 2x* orbital is more localized to the carbon end in the O is ionized state than in the C 1 s ionized state [ 8,21 ] , leading to larger mixing with substrate electronic states in the former case.   In conclusion, we have demonstrated that the final state rule is obeyed by both weakly and strongly chemisorbed molecules. This demonstrates the necessity to take core-hole effects into account when discussing XA spectra of molecular adsorbates in terms of the unoccupied density of states. In the CO/ Ni (100) case, the C 1 s core hole pulls the 2n* resonance down by 2 eV consistent with Z+ 1 estimates. The Fermi level position for the empty valence states cannot be seen directly in the XA spectra due to vibrational effects. It is instead provided by the vertical core level binding energy. This gives a consistent picture of the core ionization and excitation processes in chemisorbed molecules, and provides a framework for interpreting the XA spectra in terms of the unoccupied density of states for the corehole species.     This work was supported by the Swedish Natural Science Research Council and the Swedish Board for Technical Development.    References    1 ] J. Sttihr, Springer series in surface science, NEXAFS spectroscopy (Springer, Berlin), in press.    15  Volume 197, number 1,2 CHEMICAL PHYSICS LETTERS 4 September 1992    [ 2 ] J. St6hr and R. Jaeger, Phys. Rev. B 26 (1982) 4111.  [3] E.W. Plummer, C.T. Chen, WK. Ford, W. Eberhardt, R.P. Messner and H.J. Freund, Surface Sci. 158 (1985) 58.  [4 ] C.T. Chen, R.A. DiDio, W.K. Ford, W. Eberhardt and E.W. Plummer, Phys. Rev. B 32 (1985) 8434.  [ 5 ] R. Murphy, E.W. Plummer, C.T. Chen, W. Eberhardt and R. Carr, Phys. Rev. B 39 (1989) 7517.  [6] W. Wurth, C. Schneider, R. Treichler, E. Umbach and D. Menzel, Phys. Rev. B 35 (1987) 7741.  [ 7 ] W. Wurth, D. Coulman, A. Puschmann, D. Menzel and E. Umbach, Phys. Rev. B 41 (1990) 12933.  [ 8 ] Y. Jugnet, F.J. Himpsel, Ph. Avouris and E.E. Koch, Phys. Rev. Letters 53 (1984) 198.  [ 9 ] B. Gumhalter, K. Wandelt and Ph. Avouris, Phys. Rev. B 37 (1988) 8048.  [ 10] J.N. Andersen, O. Bjorneholm, A. Sandell, R. Nyholm, J. Forsell, L. Thanell, A. Nilsson and N. Martensson, Synchr. Rad. News 4 (1991) 21.  [ 11 ] A. Nilsson and N. Martensson, Phys. Rev. B 40 (1989 ) 10249.  [ 12 ] R.N.S. Sodhi and C.E. Brion, J. Electron Spectry. 34 (1984 ) 363.  [ 13 ] H. Kuhlenbeck, H.B. Saalfeld, U. Buskotte, M. Neumann, H.J. Freund and E. W. Plummer, Phys. Rev. B 39 (1989 ) 3475.    16    [ 14 ] P.D. Johnsson and S.L. Hulbert, Phys, Rev. B 35 (1987 ) 9427.  [ 15 ] N. Memmel, G. Rangelov, E. Bertel, V. Dose, K. Kometer and N. Rosch, Phys. Rev. Letters 63 (1989) 1884.  [ 16] D.E. Peebles, E.L. Hardegree and J.M. White, Surface Sci. 148 (1984) 635.  [ 17 ] M.J. Breitschafer, E. Umbach and D. Menzel, Surface Sci. 109 (1981) 493.  [ 18 ] A. Sandell, A. Nilsson and N. Martensson, Surface Sci. 241 (1991) Ll.  [19] W. Reimer, Th. Fink and J. Kuppers, Surface Sci. 193 (1988) 259.  [ 20 ] U. von Barth and G. Grossman, Phys. Rev. B 25 (1982 ) 5150.  [21 ] H. Antonsson, A. Nilsson, N. Martensson, I. Panas and P.E.M. Siegbahn, J. Electron Spectry. 54/55 (1990) 601.  [22] D.A. Shaw, G.C. King, D. Cvejanovic and F.H. Read, J. Phys. B 17 (1984) 2091.  [ 23 ] L. Ungier and T.D. Thomas, Chem. Phys. Letters 96 (1983 ) 247.  final state to the Ni surface for states at the O 1 s resonance maximum than for those of the C 1 s case.   The resonances in CO are much broader for the adsorbate than for the free molecules. The molecular line widths are 0.1 and 1.2 eV for C 1 s and O 1 s, respectively. The additional broadening for the adsorbate has a contribution from vibrational effects but is mainly due to the hybridization between the 2n* states of the final state molecule and the metal states [ 8 ], which is stronger in the Ni than in the Cu case. Inverse photoemission also shows rather broad 2n* structures [ 15 ] . The larger O 1 s widths show that the O 1 s final state molecule interacts more strongly with the substrate than does the C 1 s final state molecule [ 8,21 ] . The 2x* orbital is more localized to the carbon end in the O is ionized state than in the C 1 s ionized state [ 8,21 ] , leading to larger mixing with substrate electronic states in the former case.   In conclusion, we have demonstrated that the final state rule is obeyed by both weakly and strongly chemisorbed molecules. This demonstrates the necessity to take core-hole effects into account when discussing XA spectra of molecular adsorbates in terms of the unoccupied density of states. In the CO/ Ni (100) case, the C 1 s core hole pulls the 2n* resonance down by 2 eV consistent with Z+ 1 estimates. The Fermi level position for the empty valence states cannot be seen directly in the XA spectra due to vibrational effects. It is instead provided by the vertical core level binding energy. This gives a consistent picture of the core ionization and excitation processes in chemisorbed molecules, and provides a framework for interpreting the XA spectra in terms of the unoccupied density of states for the corehole species.     This work was supported by the Swedish Natural Science Research Council and the Swedish Board for Technical Development.    References    1 ] J. Sttihr, Springer series in surface science, NEXAFS spectroscopy (Springer, Berlin), in press.    15  Volume 197, number 1,2 CHEMICAL PHYSICS LETTERS 4 September 1992    [ 2 ] J. St6hr and R. Jaeger, Phys. Rev. B 26 (1982) 4111.  [3] E.W. Plummer, C.T. Chen, WK. Ford, W. Eberhardt, R.P. Messner and H.J. Freund, Surface Sci. 158 (1985) 58.  [4 ] C.T. Chen, R.A. DiDio, W.K. Ford, W. Eberhardt and E.W. Plummer, Phys. Rev. B 32 (1985) 8434.  [ 5 ] R. Murphy, E.W. Plummer, C.T. Chen, W. Eberhardt and R. Carr, Phys. Rev. B 39 (1989) 7517.  [6] W. Wurth, C. Schneider, R. Treichler, E. Umbach and D. Menzel, Phys. Rev. B 35 (1987) 7741.  [ 7 ] W. Wurth, D. Coulman, A. Puschmann, D. Menzel and E. Umbach, Phys. Rev. B 41 (1990) 12933.  [ 8 ] Y. Jugnet, F.J. Himpsel, Ph. Avouris and E.E. Koch, Phys. Rev. Letters 53 (1984) 198.  [ 9 ] B. Gumhalter, K. Wandelt and Ph. Avouris, Phys. Rev. B 37 (1988) 8048.  [ 10] J.N. Andersen, O. Bjorneholm, A. Sandell, R. Nyholm, J. Forsell, L. Thanell, A. Nilsson and N. Martensson, Synchr. Rad. News 4 (1991) 21.  [ 11 ] A. Nilsson and N. Martensson, Phys. Rev. B 40 (1989 ) 10249.  [ 12 ] R.N.S. Sodh</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>86013</aid>
+            <ce:pii>0009-2614(92)86013-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(92)86013-8</ce:doi>
+            <ce:copyright type="unknown" year="1992"/>
+         </item-info>
+         <head>
+            <ce:title>Photoabsorption and the unoccupied partial density of states of chemisorbed molecules</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Nilsson</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>O.</ce:given-name>
+                  <ce:surname>Björneholm</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.O.F.</ce:given-name>
+                  <ce:surname>Zdansky</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Tillborg</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Mårtensson</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Physics, Uppsala University, Box 530, S-751 21 Uppsala, Sweden</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Correspondence to: N. Mårtensson, Department of Physics, Uppsala University, Box 530, S-751 21 Uppsala, Sweden.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.N.</ce:given-name>
+                  <ce:surname>Andersen</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Nyholm</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Synchrotron Radiation Research, Lund University, Sölvegatan 14, S-223 62 Lund, Sweden</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation>
+                  <ce:textfn>MAX-lab, Lund University, Box 118, S-221 00 Lund, Sweden</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="4" month="6" year="1992"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="SP0005" view="all">The 1s to 2π* resonances have been studied for CO strongly chemisorbed on Ni(100) and weakly chemisorbed on Cu(100) using high resolution X-ray absorption spectroscopy. We show that the spectra can be consistently described in terms of the local density of unoccupied 2π* electron states with the Fermi level obtained from corresponding X-ray photoelectron spectra. The core hole is demonstrated to induce large shifts in the unoccupied 2π* density of states.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography id="R0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="RS0005">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Stöhr, Springer series in surface science, NEXAFS spectroscopy (Springer, Berlin), in press.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Plummer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Ford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Messner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Freund</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>58</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>DiDio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Ford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Plummer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8434</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Murphy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Plummer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Carr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7517</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wurth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Treichler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Umbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Menzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7741</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wurth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coulman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Puschmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Menzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Umbach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12933</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jugnet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Himpsel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ph.</ce:given-name>
+                                 <ce:surname>Avouris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>198</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gumhalter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wandelt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ph.</ce:given-name>
+                                 <ce:surname>Avouris</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8048</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Björneholm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sandell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Nyholm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Forsell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Thånell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nilsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Mårtensson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Synchr. Rad. News</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nilsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Mårtensson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.N.S.</ce:given-name>
+                                 <ce:surname>Sodhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>363</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kuhlenbeck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Saalfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Buskotte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Neumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Freund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Plummer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3475</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Johnsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Hulbert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9427</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Memmel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rangelov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bertel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kometer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Rösch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1884</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Peebles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.L.</ce:given-name>
+                                 <ce:surname>Hardegree</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>148</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>635</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Breitschafer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Umbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Menzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>493</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sandell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nilsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Märtensson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Reimer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Th.</ce:given-name>
+                                 <ce:surname>Fink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Küppers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>259</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>von Barth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Grossman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5150</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Antonsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nilsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Mårtensson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Panas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.E.M.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54/55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>601</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cvejanovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Read</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2091</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ungier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

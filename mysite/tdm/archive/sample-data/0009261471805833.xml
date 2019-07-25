@@ -1,0 +1,708 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261471805833</prism:url><dc:identifier>doi:10.1016/0009-2614(71)80583-3</dc:identifier><eid>1-s2.0-0009261471805833</eid><prism:doi>10.1016/0009-2614(71)80583-3</prism:doi><pii>0009-2614(71)80583-3</pii><dc:title>Simple calculation of the pair distribution function for a moderately dense hard-sphere fluid </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>8</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>85</prism:startingPage><prism:endingPage>87</prism:endingPage><prism:pageRange>85-87</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1971-01-31</prism:coverDate><prism:coverDisplayDate>January 1971</prism:coverDisplayDate><prism:copyright>Copyright © 1971 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Oden, L.E.</dc:creator><dc:creator>Henderson, D.</dc:creator><dc:description>
+               Abstract
+               
+                  The pair distribution function and equation of state of a hard-sphere fluid are calculated for several modifications of the Percus-Yevick (PY) theory by means of a perturbation calculation in which the zeroth-order term is the PY result. Even in first order, this technique provides a very simple way of examining modifications of the PY theory and yields accurate results for low and moderately dense (ρσ3 ⩽ 0.8) hard-sphere fluids.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261471805833" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261471805833" rel="scidir"/></coredata><scopus-id>49649150015</scopus-id><scopus-eid>2-s2.0-49649150015</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49649150015" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011121">2001-11-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011121">2001-11-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:33:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261471805833</xocs:eid>
+      <xocs:pii-formatted>0009-2614(71)80583-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261471805833</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(71)80583-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07592</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160611">2016-06-11T05:42:02.382985-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19710101</xocs:date-search-begin>
+      <xocs:date-search-end>19710131</xocs:date-search-end>
+      <xocs:year-nav>1971</xocs:year-nav>
+      <xocs:indexeddate epoch="1006300800">2001-11-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>8</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>8</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 8, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>24</xocs:sort-order>
+      <xocs:first-fp>85</xocs:first-fp>
+      <xocs:last-lp>87</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>85</xocs:first-page>
+         <xocs:last-page>87</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>197101</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 1971</xocs:cover-date-text>
+      <xocs:cover-date-start>1971-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1971-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1971</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1971 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SIMPLECALCULATIONPAIRDISTRIBUTIONFUNCTIONFORAMODERATELYDENSEHARDSPHEREFLUID</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ODEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>STELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>517</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>PERCUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1958</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>THIELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>474</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>WERTHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>WERTHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>643</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ROWLINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ROWLINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>533</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>CARLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A42</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>STELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>WATTS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HENDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>429</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>REE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>939</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CARNAHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>635</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>LADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4828</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>REE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ODENX1971X85</xocs:refkey3>
+         <xocs:refkey4lp>ODENX1971X85X87</xocs:refkey4lp>
+         <xocs:refkey4ai>ODENX1971X85XL</xocs:refkey4ai>
+         <xocs:refkey5>ODENX1971X85X87XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(71)80583-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261471805833</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261471805833</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(71)80583-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-11T05:42:02.382985-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1971-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1971-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261471805833-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261471805833/MAIN/application/pdf/c0eb23b709afaad273ccbea77ff8d5fa/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261471805833/MAIN/application/pdf/c0eb23b709afaad273ccbea77ff8d5fa/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>278226</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261471805833-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261471805833/PREVIEW/image/png/4d295ca920c64bd871c145e5959a60d8/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261471805833/PREVIEW/image/png/4d295ca920c64bd871c145e5959a60d8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64072</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Volume 8, number 1  CHEMICAL PHYSICS LETTERS  I danuary 1971  SIMPLE CALCULATION 0F THE PAIR DISTRIBUTION FUNCTION  FOR A MODERATELY DENSE HARD-SPHERE FLUID‘    L. E. ODEN  Depart nient of Physics, iilderson-Broaddus College, Phiflppi, West Virginia 26416. US4~‘  and Depa~1 ni ant of Applied Mathematics, University of Waterloo, Waterloo, Ontario, canada  and  D. HENDERSON  113M Ecscarc.i: Laboratory. San Jos~I. California 95114, USA  Received 20 October 197G   The pair distribution function and equation of state of a hard-sphere fluid are calculated for several  modifications of the Percus—Yevick (PY) theory lu‘ means of a perturbation calculation in which the zeroth—  order term is the PY result. Even in first order, this technique provides a very simple way of exatninin~  modifications of the PY theory and yields accurate results for low and moderately dense (pa3 ~ 0. 8)  hard-sphere fluids.   The pair distribution function (PDF), g(r), is  defined as the ratio of the local number density  of molecules at a distance r from a fixed molecule  to the average number density of molecules,  p=N/V. Thus,    -(31)   g(r12) constant Je dr3... dz-N (1)    where N is the number of molecules in the system,  p = 1/kT, tJ(.r1,... ‚ r~.~-) is the potential energy of  the system, and Vand T are the volume and tem-  perature of the system. The constant in (1) is  chosen so thatg(r) becomes unity when r is large.   For hard spheres    U(r1,... ‘z-N) =~u(r~~)   y(r) =g(r)/c(r) ‚ (4)   e(r) =exp{.-ssu(r)} . (5)     It is well known [1] that y(r) satisfies the exact  integral equation:    y(12) = 1-4-d(12)/pf {e(13)y(13) -i}    x {[e(23) -lJy(23)/d(23)} dz-3 ‚ (6)  where  where y(12) = y(r12), etc. The graphs, which  represent integrands involving products of the  function f(r) n e(r) - I, which contrIbute to y(l2)  are either nodal or non-nodal. A nodal diagram    is one which contains a point through which all   (2) paths connecting molecules I and 2 must pass.    The diagrams arising from the integral in (6)  are nodal diagrams. Thus, the function d(12) is   the sum of all non-nodal diagrams contributing  to y(l2). Unfortunately, no exact closed expres-  sion, is known for the function d(r). However, the  Percus-Yevick (PY) theory [2], which is based  on the approximation  - -  - - d(r)=0‘, -   (‘1)    gives quite good results when applied to the hard-  -- sphere fluid [3,4]. The PY theory has the further  - convenience of yielding analytical resulta for hard  -- spheres; -  - RowlinsOn E~1 has proposed two appraxtmations  ford(r):- - - -- - -- -   where    r~ =Jr._ r~,    u(r)=m, 7&lt;   - - 0, r&gt;o. - (3)    - For hard spheres g(r) is discontinuous at o. -  Thus, -it Is convenient to use the continuous func-  tion - - - -    - * This work has been supported in part by grants from  - - - - the Department of the Interior, -Office of Saline Water,  - - and the National Research Council of Canada, -   **perp~nentaddress. - - - - -- - -  - - 85  pci3 - - Ref. [10) Ref. fill PY(p) PY(c) - Ref. [12) - Eq. (12) Eq. (13) Eq. (17) Eq.(18) -  - Volume 8, number I  CHEMICAL PHYSICS LETFERS -  1 January 1971  - Tablel -  Equation of state of hard spheres  •  0.0 -    - 1.00    1.00    1.O0    LOG  2.00  1.00  .  1.00  1.00  1.00    0.1    - 1.24  .  1.24    1.24    1.24  1.24  - 1.24    1.24  1.24  1.24    0.2  -  1.55    1.55    1.55    1.56  1.55  1.55    1.55  1.55  1.55    0.3    -1.97    1.97    1.95    1.97  1.97  .1.97    1.97  1.97  1.97    0.4  - -  - 2.52    2.52    2A8    2.54  2.51  2.51    2.52  2.53  2.52    -0.5    3.27    3.26    3.17    3.31  3.25  3.24    3.26  3.27  3.26    0:6    4.29    4.28    4.09    4.38  4.24  4.23    4.26  4.28  4.27    - 0.7    5.7]    5.71    5.32    5.90  5.6?  5.58  -5.66    5.64  5.66    0.8    7.73    - 7.75    7.00    8.12  7.51  7.65    7.84  8.04  7.81   The difference   between the approximation  imposed on (6) by (10) and (il) and the exact  solution of (6) does not appear until the sixth  vi~ia1 coefficient. Thus, this procedure is iden-  tical with determining the exact solution of (6) at  low and intermediate densities and should be  significantly different from (6) only at the highest  densities.   In an earlier publication [8] we approximated  the solution of (11) by   y~(r) =d0(r) . (14)  and        where (p = ~(p) is a parameter, not dependent on  r, whose value will be determined later. Eqs. (8)  and (9) are similar. For example, if (p = 1, (9)  becomes identical with (8). However, for (p * 1,  (8) and (9) are not equivalent. Eq. (8) has been  independently proposed by Carley and Lado [6].  Recently, Stell [‘7] has proposed (9).   We seek a perturbative solution to (6) with  d 0. We write -     -y(r) =y0(r) / ~Pyi(r)  where Yo(~) is the known solution of the PY equa-  tion. Substitution of (10) into (6) yields, in first  order, -  d(r) =(p[y-1-lny] (8)  d(r) =(p[exp{y-1-d(r~}-y(r)/d(r)] ‚ (9)  Tins is a remarkably good approximation over  all. particularily for r small. In fact, we have    found it to be a very good first approximation in   (10) the solution of (11). However, subsequent ex    perience [9] has shown that (14) is deficient in  the region r ~ a. Since r ~ ci is the most inter-  esting region, we shall not consider (14) further.  The values of y1(r) obtained using (13) become  large at high densities when r is small. At first  sight this would appear to contradict our assump-  tion that y1(r) is a perturbation. However, when  r is small, yi(r) always appears in the combina-  (11) tlon y1(r) -d0(r). - This latter quantity is small  and this is what really matters.   We have numerically solved (11) assuming (12)  (12) and (13). The parameter (p can be determined by  requiring that the equation of state computed from  the pressure equation   PV/NkT = 1 /(2ir/3) pa3y(a) (15) -    be the same as that computed from the compressi-  bilii‘~y equation - .- - - -    kr(aP/ap)T=1+4~pf r2hcr~dr, (16) -    where h(r) = g(r) -1. The results Of these calcu- -  - - lations are listed in table 1. The Bee and Hoover -  yi(l2) = d0(12) + pf e(13) y1(13)[e(23) -1]y~(23) dr3  /pf{[e(13) — 1]y1(13)+do(13)}{e(23)yo(23) _1} dr3  where  d0(r) =yo(r) -1 —lny~fr)  or  d0(r) =exp{yofr)-1}-yofr) ‚ (13)  depending on whether (8;. or (9) is used.  Eq. (11) is considerably easier to solve than  - (6) because (11) is linear whereas (6) is not. Also,  the inner, r23, integration in (11) is independent  of d0(r) and yi(r) and need only, be performed once  even if several expressions for d0(r) are being -    - examined. Furthermore, -In first order, y1(r) -  - does not depend on (p.. Thus, (11-y need not be -    solved again if (pis varied. - - ‚- - -  -86  Volume 8, number 1  CHEMICAL PHYSICS LETTERS  1 January 1971  g(r)                          Fig. 1. Pair distribution function for hard spheres near  contact. The points give molecular dynamics values,  the broken line gives the PY values, and the solid line  gives the results of eqs. (11) and (13).      [10] and Carnahan and Starling [11] isotherms are  highly accurate. The results of these isotherms  are included for comparison as are the PY re-  sults. Lado [12] has solved (6) assuming (8). His  results are also included in table 1 for compa-  rison.   Comparison of our perturbation results based  on (8) with those of Lado shows that the perturba-  tion results are in good agreement with Lado‘s  except at the highest densities. Thus, for pci3  &lt;0.8, the error in the perturbation approach 15  small. For pci~ &gt; 0.8, the error in the perturba-  tion approach is of the order of the perturbative  correction. Thus, we do not give results for  pa3 &gt; 0.8.   Eqs. (9) and (12) seem slightly better than  eqs. (8) and (12). In fact, if the error in pertur-  bative approach based on (9) is the same as that  based on (8) then (9) will give almost exact re-  sults.   The PDF resulting from (11) and (13) is com-  pared with the molecular dynamics* and P1~  results in fig. 1. The accuracy of the perturbation  results is good.   We have also solved (6) wider the assumptions  that  d(r) -~ p2 {c~(r) -~-  and  / »{y0(r) -1 - InyO(r) ..4p2c2(r)}  d(r) ~ p2{c~(r) i-d5(r)}  (17)  + ~{exp[y0~r) -1] -yo~r) -kp~c~@-)} (18)  by an obvious generalization of the above pertur-  bation scheme. The functions c2fr) and d5(r) are  defined in [9]. The perturbation results obtained  using (17) and (18) and adjusting ~ to make the  pressure and compressibility isotherms identical  are given in table 1. They are slightly better than  those obtained using (8) and (9).    * B. .1. Alder and T. E. Wainwrigbt, unpublished data  quoted in ref. [131.      REFERENCES    (1] G.Steli, Physica 29 (1963) 517.  [2j J. K. Percus and G. J. Yevick, Phys. Rev. 110  (1958) 1.  [3] E. Thiele, J. Chem. Phys. 39 (1963) 474.  [4J M.S.Wertheim, Phys.Rev. Letters JO (1963) 323.;  J.Math.Phys.5 (1964) 643.  [5) J. S. Rowlinson, Mol. Phys. 9 (1965) 217: 1G (1966)  533.  [6) D.D. Carley and F. Lad.,, Phys.Rev~ 137 (1965) A42.  (71 G. Stell, Mol. Phys. 16 (1969) 209.  (8] R. O. Watts and D.Henderson. Mol.Phys 16 (1969)  217.  (9) D. Henderson and R.O.Watts, Mol.Phys. LB (1970)  429.  [10] F. Ree and W. G. Hoover, J. Chem. Phys. 40 (1964)  939. -  [11] N. F. Carnahari and K. E.Starling, J.Chem. Phys.  51 (1969) 635.  [121 F. Lado, J.Chem.Phys.47 (1967) 4828.  [~31 F. H. Ree, R. N.Keeler and S. L. McCarthy, J.  Chem.Phys.44 (1966) 3407.   - 87  ria  h densities when r is small. At first  sight this would appear to contradict our assump-  tion that y1(r) is a perturbation. However, when  r is small, yi(r) always appears in the combina-  (11) tlon y1(r) -d0(r). - This latter quantity is small  and this is what really matters.   We have numerically solved (11) assuming (12)  (12) and (13). The parameter (p can be determined by  requiring that the equation of state computed from  the pressure equation   PV/NkT = 1 /(2ir/3) pa3y(a) (15) -    be the same as that computed from the compressi-  bilii‘~y equation - .- - - -    kr(aP/ap)T=1+4~pf r2hcr~dr, (16) -    where h(r) = g(r) -1. The results Of these calcu- -  - - lations are listed in table 1. The Bee and Hoover -  yi(l2) = d0(12) + pf e(13) y1(13)[e(23) -1]y~(23) dr3  /pf{[e(13) — 1]y1(13)+do(13)}{e(23)yo(23) _1} dr3  where  d0(r) =yo(r) -1 —lny~fr)  or  d0(r) =exp{yofr)-1}-yofr) ‚ (13)  depending on whether (8;. or (9) is used.  Eq. (11) is considerably easier to solve than  - (6) because (11) is linear whereas (6) is not. Also,  the inner, r23, integration in (11) is independent  of d0(r) and yi(r) and need only, be performed once  even if several expressions for d0(r) are being -    - examined. Furthermore, -In first order, y1(r) -  - does not depend on (p.. Thus, (11-y need not be -    solved again if (pis varied. - - ‚- - -  -86  Volume 8, number 1  CHEMICAL PHYSICS LETTERS  1 January 1971  g(r)                          Fig. 1. Pair distribution function for hard spheres near  contact. The points give molecular dynamics values,  the broken line gives the PY values, and the solid line  gives the results of eqs. (11) and (13).      [10] and Carnahan and Starling [11] isotherms are  highly accurate. The results of these isotherms  are included for comparison as are the PY re-  sults. Lado [12] has solved (6) assuming (8). His  results are also included in table 1 for compa-  rison.   Comparison of our perturbation results based  on (8) with those of Lado shows that the perturba-  tion results are in good agreement with Lado‘s  except at the highest densities. Thus, for pci3  &lt;0.8, the error in the perturbation approach 15  small. For pci~ &gt; 0.8, the error in the perturba-  tion approach is of the order of the perturbative  correction. Thus, we do not give results for  pa3 &gt; 0.8.   Eqs. (9) and (12) seem slightly better than  eqs. (8) and (12). In fact, if the error in pertur-  bative approach based on (9) is the same as that  based on (8) then (9) will give almost exact re-  sults.   The PDF resulting from (11) and (13) is com-  pared with the molecular dynamics* and P1~  results in fig. 1. The accuracy of the perturbation  results is good.   We have also solved (6) wider the assumptions  that  d(r) -~ p2 {c~(r) -~-  and  / »{y0(r) -1 - InyO(r) ..4p2c2(r)}  d(r) ~ p2{c~(r) i-d5(r)}  (17)  + ~{exp[y0~r) </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>71805833</aid>
+            <ce:pii>0009-2614(71)80583-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(71)80583-3</ce:doi>
+            <ce:copyright type="unknown" year="1971"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>This work has been supported in part by grants from the Department of the Interior, Office of Saline Water, and the National Research Council of Canada.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>Simple calculation of the pair distribution function for a moderately dense hard-sphere fluid</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>L.E.</ce:given-name>
+                  <ce:surname>Oden</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Physics, Alderson-Broaddus College, Philippi, West Virginia 26416, USA<ce:cross-ref refid="FN1">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref>
+                     <ce:footnote id="FN1">
+                        <ce:label>1</ce:label>
+                        <ce:note-para>Permanent address. Department of Applied Mathematics, University of Waterloo, Waterloo, Ontario, Canada</ce:note-para>
+                     </ce:footnote>
+                  </ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Henderson</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>IBM Research Laboratory, San José, California 95114, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="20" month="10" year="1970"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The pair distribution function and equation of state of a hard-sphere fluid are calculated for several modifications of the Percus-Yevick (PY) theory by means of a perturbation calculation in which the zeroth-order term is the PY result. Even in first order, this technique provides a very simple way of examining modifications of the PY theory and yields accurate results for low and moderately dense (ρσ<ce:sup loc="post">3</ce:sup> ⩽ 0.8) hard-sphere fluids.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>517</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Percus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Yevick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1958</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Thiele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>474</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wertheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wertheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Math. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>643</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Rowlinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Rowlinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>533</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Carley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lado</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A42</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>Watts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Henderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Henderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>Watts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>429</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ree</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Hoover</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>939</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.F.</ce:given-name>
+                                 <ce:surname>Carnahan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Starling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>635</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lado</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4828</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Ree</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.N.</ce:given-name>
+                                 <ce:surname>Keeler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>McCarthy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

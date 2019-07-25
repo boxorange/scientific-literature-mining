@@ -1,0 +1,800 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261485856189</prism:url><dc:identifier>doi:10.1016/0009-2614(85)85618-9</dc:identifier><eid>1-s2.0-0009261485856189</eid><prism:doi>10.1016/0009-2614(85)85618-9</prism:doi><pii>0009-2614(85)85618-9</pii><dc:title>Vibrational energy relaxation in dense fluid H2: Comparison of experiments and binary-collision models </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>120</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>356</prism:startingPage><prism:endingPage>358</prism:endingPage><prism:pageRange>356-358</prism:pageRange><prism:number>4-5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-10-18</prism:coverDate><prism:coverDisplayDate>18 October 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Tardieu, A.</dc:creator><dc:creator>Chātelet, M.</dc:creator><dc:creator>Oksengorn, B.</dc:creator><dc:description>
+               Abstract
+               
+                  A detailed analysis is given for the vibrational energy relaxation rate in dense fluid H2 using the framework of Chesnoy's binary-collision model. It is shown that this model reproduces qualitatively the experimental behaviour: however, the temperature dependence given by this model is slightly different from that obtained using low-density binary-collision dynamics.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261485856189" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261485856189" rel="scidir"/></coredata><scopus-id>46549097035</scopus-id><scopus-eid>2-s2.0-46549097035</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/46549097035" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011116">2001-11-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011116">2001-11-16</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T10:20:06</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261485856189</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)85618-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261485856189</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)85618-9</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X03995</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T16:32:25.898973-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19851018</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1005868800">2001-11-16T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>120</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>120</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 120, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>356</xocs:first-fp>
+      <xocs:last-lp>358</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>356</xocs:first-page>
+         <xocs:last-page>358</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19851018</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>18 October 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-10-18</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>VIBRATIONALENERGYRELAXATIONINDENSEFLUIDH2COMPARISONEXPERIMENTSBINARYCOLLISIONMODELS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TARDIEU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DETAT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CHATELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DETAT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>893</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>MADIGOSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>489</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CHATELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2374</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CHATELET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>413</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4804</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CARNAHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>635</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>DAVIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>505</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ANDERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1597</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>264</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>HERZFELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>743</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>LUKASIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DETAT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>GIANTURCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>97</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>YARDLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONMOLECULARENERGYTRANSFER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>KIEFFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TARDIEUX1985X356</xocs:refkey3>
+         <xocs:refkey4lp>TARDIEUX1985X356X358</xocs:refkey4lp>
+         <xocs:refkey4ai>TARDIEUX1985X356XA</xocs:refkey4ai>
+         <xocs:refkey5>TARDIEUX1985X356X358XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)85618-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261485856189</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261485856189</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)85618-9</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T16:32:25.898973-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-10-18</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261485856189-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485856189/MAIN/application/pdf/7ab3e08e61307c8b38f83b8ebeefc1d7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485856189/MAIN/application/pdf/7ab3e08e61307c8b38f83b8ebeefc1d7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>256830</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261485856189-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485856189/PREVIEW/image/png/cd41f3e7320f02dd4eb9218d6fa974d2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485856189/PREVIEW/image/png/cd41f3e7320f02dd4eb9218d6fa974d2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>66458</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 120, number 4,5 CHEMICAL PHYSCIS LETTERS  18 October 1985    VIBRATIONAL ENERGY RELAXATION IN DENSE FLUID H2'  COMPARISON OF EXPERIMENTS AND BINARY-COLLISION MODELS    A- TARDIEU M CHATELET and B OKSENGORN    lyboraroire des Inrerarrions Alolrrulaires er des Hautes Pressions CNRS Uniccrsire Paris -Nord 934-iO Villetaneuse France    Recened 14 June 1985 in final form 30 July 1985     A detailed analysis is green for the %tbrat,onal energy relaxation rate to dense fluid H_ using the framework of Chesnoy s binary-collision model It is shown that this model reproduces quahiatt%tly the experimental behavior howe%er the temperature dependence gt,en by this model is slightly different from that obtained using low-density binary-collision dyr_imtcs    1 Introduction     In the last decade many experimental studies have been carried out to determine the V-R,T transfer rate for vibrational energy of diatomic molecules in dense media (liquid, solid or highly compressed gas phases), particularly in the case of pure hydrogen [1,21 For this molecular system experimental values of the vibrational relaxation time Tl have been obtained for a large range of densities (up to 3 5 X 10'-'- molecules cm-3) and temperatures (14-400 K)     At low density the vibrational relaxation rate follows a linear density dependence, reflecting a binarycollision relaxation process This relaxation rate is given theoretically using the isolated binary-collision (IBC) approximation by the following expression    Ti' =Ppc,    (1)    where P is the transfer probability for one binary collision, and vc the collision frequency which is linearly density dependent In the low-density range     However, when the density increases to large values, strong non-lineanties appear in the density dependence of the relaxation rate. In a recent review, a discussion is given of the most important measurements in dense phases and of different theoretical approaches and models for vibrational energy relaxation in dense media as a function of density and temperature [3] For the high-density range, the first model was given by    356    Lttovitz and Madigosky [4] by assuming the IBC approximation for the relaxation process, only the collision frequency vc is density dependent, and is deduced from the mean free path calculated in the framework of a moving-wall cell model. This model is very crude and cannot describe accurately the density dependence over a large range [2,5]_ A more elaborate model has been put forward by Delalande and Gale [6], who also use the IBC approximation, and introduce a hard-core repulsive potential perturbed by an attractive tall for calculating the frequency of the collisions responsible for the relaxation process In this model the relaxation rate is related to the density and temperature pair distribution function evaluated at the hard-core diameter Q7gHS(P,T,°) calculated using the Carnahan and Starling expression (7], and is given by    Tll(P.T)=k(T)p81.1g(p,T,a)exp(-Qe).  (23    where k(T) is the relaxation constant in the low-density  gas, p the number density, p = 1/kHT with kp die  Holtzmann constant, and a the well depth of the at  tractive tall   A careful comparison between thus model and the experimental results for highly compressed HZ has shown that there is only qualitative agreement. the hard-core diameters a deduced from the fits with the relation (2) and the high-density values of the relaxation rate are 7% larger than the theoretical hard-core diameters (2,5J_    0 009-2614/85/$ 03.30 © Elsevier Science Publishers B V. (North-Holland Physics Publishing Division)  Volume 120, number 4,5 CHEMICAL PHYSICS LETTERS 18 October 1985    Table 1  Hard-sphere diameter aAWC, specific distance R* for relaxation, and their ratios, for different temperatures    T(K)    oAWC (a) Rcal (A) a) Kcal (A) b) Rexp (A) c) RcxploAWC     35 d) 2 96(CE) 2 53 2.78 2 80 0 946   50 d) 2 92(CE) 2 49 2.75 2 65 0 908   77 e) 291 244 270 256 0880    2 88(CE) - - 257 0 892   196 e) 2 80 2 34 2 60 2 41 0 861   293 e) 2_73 2 29 2 55 2.45 0 897   400 e) 2 68 2 26 2 52 2 45 0 914    a) Values calculated for a collinear collision. b) Values were calculated taking into account the relaxation probability for Hz as computed by LukasOc [ 13] c) Values calculated by using the Chesnoy model and the experimental results for the relaxation tine of HZ in the 1-~,-density range d) Experimental results from ref. [ 1 ] e) Experimental results from ref. [2]     In an effort to get a better understanding of the relaxation process to dense phases, Chesnoy has refined the Delalande and Gale model, using a more realistic potential given by a spherical potential u(r) with a "soft core" and an attractive tail [8]. He calculated the relaxation rate in the dense phases from the general expression given by Davis and Oppenheim [9] on the basis of a statistical-mechanical approach-    'A]    245 0    L75 175 225 275 325 10 T    H,    Fig 1. Comparison between the experimental values of the specific distance Rexp and the calculated values Rcaj, as a function of temperature. o,+ values of Rexp obtained by fitting the experimental results for Hz given by Chatelet [ 2 J with the Chesnoy model [8]. x values of R*,p obtained by flitting the experimental results for HZ given Ty 1)ela7ande (1] with the Chesnoy model [8]. o- values of Rcal calculated for a colLnear collision of two partners o- values of Rcaj calculated for a binary collision by taking into account the computed probability of V-T transfer for H2 [ 13 ].    PgasT~IpbqTl q =gliq(R*)/ggas(R*),    the relaxation process occurring around a specific distance R" close to the molecular diameter, but slightly smaller than the latter; the pair distribution functions taken at this specific distance R* are calculated to determLtie the binary-collision frequencies in low- and high-density phases. Chesnoy has obtained the relation    T, 1(P,T1=k(T)PYHS(R*)exp(-ssE),    where the function yHS(R *) in the dense phase is related to the pair distribution function taken at the specific distance R* by the expression    gc(R *) = exP (-P[v(R *) + e] }YHg(R *)    uL the theoretical framework developed by Andersen et al (AWC) [10]-   In ties paper we give a detailed analysis of the experimental results for H2 obtained to the high-density range for several isotherms, using the Chesnoy model.    2. Calculations and discussion     It is easy to show that the function yHS(R*) is not far from the hard-sphere pair distribution function gHS(a)• when the ratio (a -R *)/a is small [81, the hard-sphere diameter a being evaluated by the AWC theory [10]. In tlus oseyHS(R`) is related analytical-    357  Volume 120, number 4,5 CHEMJCAL PHYSICS LETTERS 18 October 1985    ly to gHS(a) by a formula given by Chesnoy [8]   We have determined the values of the specific distance Rexp in the high-density range by fitting relation (3) with the experimental values of the relaxation time for several isotherms in ale flwd phase. At 35 and 50 K the results obtained by Olalande [I ] have been used, the other isotherms have been taken from measurements by Chatelet [2]   For the isotherms at 35, 50 and 77 K a quantum correction has been added to the well depth e, by using a classical equivalent eCE obtained by following the Delalande and Gale method [1 ] (a Lennard-Jones potential has been used eu = 37 K, aE, = 2 96 A)   A comparison of these values ofReX p may be made with those calculated in the case of a pair collision with the relative velocity V* for which the probability of transfer is the biggest, given by    V * = (2irwL/pV) I13    (5)    where ti is the vibrational frequency of the diatorruc molecule,L the range of the repulsive part of the potential, and ¡1 the reduced mass of the collision partners We have assumed that the values of R,*.1 are close to those of the classical turning point corresponding to the velocity V*, this approximation seems adequate, since it is known that many strong-interaction processes occur m the vicinity of the timing point For the calculation of V*, the values of L for Hz have been obtained ruing the Herzfeld method [12]_  In this collinear model, the probability of transfer is  independent of the rotation of the diatomic molecule,  however, In the case of H.,, many calculations and ex  periments have shown that the rotational levels must  be taken into account [13,14] Consequently, we have  calculated another series ofR~ using the method pro  posed by Yardley [15] _ The values of V* were deduced  from the crossing between the curve of the distribution  function for the relative energy of the collision and the  curve of the transfer cross section as a function of en  ergy, as computed by Lukasik [13] Table ] shows the  values of the hard-sphere diameter aAwc the different  specific distances R*, and the ratios R~/a,ev„C_ It can  be seen that the values of R Xp* all between the two  series of calculated values of RO, and that the ratios  Rexp/QAWC remain in the narrow range 0_95-0 85.  On the other hand, fig 1 shows a comparison, as a  function of temperature, between the experimental  valuesR*~t~p and the two series of calculated values RO  the latter iollow a Landau-Teller-type law with almost    358    the same slope, while the temperature dependence of the former is slightly different Nevertheless, one could expect a very similar behavior as a function of temperature, since the same gas-like approximation is made at high and low density.    3. Concluding remarks     Our analysis of the experimental results for H2, In terms of the most refined btnary-collision model given by Chesnoy [8], shows that this kind of model O qualitatively reproduce the experimental results for HZ In other respects, it seems difficult to observe possible effects of ternary correlations, as shown by Chesnoy and Gale [3], more accurate results for different systems of pure fluids or mixtures must be obtained as a function of density, temperature and concentration to test these effects   Finally, computer simulations in dense phases could complement the study of these different contributions, as suggested by several authors [3,16]    References    [ 1 ] C Delalande, These d'Eiat, Universite Pans XI (1979)  [2] ht Chatelet. These d'Gtat, Universite Pans X111 (1982)    [3] J_ Chesnoy and G M Cale, Ann Phys_ (Pans) 9 (1984) 893  [4] 1v hi filadigosky and T A Litovitz,1_ Chem. Phys 34    (1961) 489  [5] M_ Chatelet. B Oksengorn. G_ Widenlochcr and Ph.   Marteau, J_ Chem- Phys 75 (1981) 2374,   hf_ Chatelet, J_ Kieffer and B Okscngorn, Chem Phys   79 (1983) 413  [6] C Delalandc and G ht Gale, J Chem. Phys 71 (1979) 4804_  [7] N_F Carnahan and K E Starling, J_ Chem Phys. 51   (1969) 635    [8J J Chesnoy,Chem Phys. 83 (1984) 283_  [9] PJC Davis and I Oppenheun, J Chem Phys 57 (1972) 505 [ 101 H_C Andersen, I-D Weeks and D_ Chandler, Phys Rev A4 (1971) 1597_ [ 11 ] C_ Delalande and GM. Gale, Chem. Phys Letters 71 (1980)264 [ 12] K F_ Herzfeld, J Chem. Phys 47 (1967) 743. [ 13] J_ Lukasik, These d'Etet; Univerate Pans XI (1975). [ 141 F A Gtantti&gt;•co and U.T_ Lamarina, Chem Phys 38 (199) 97 [ 15 J 1_T Yardley, Introduction to molecular energy transfer (Academic Press, New York, 1980) p. 105 [ 16] J. Kieffer and H Oksengorn, Chem Phys 91 (1984) 69  dded to the well depth e, by using a classical equivalent eCE obtained by following the Delalande and Gale method [1 ] (a Lennard-Jones potential has been used eu = 37 K, aE, = 2 96 A)   A comparison of these values ofReX p may be made with those calculated in the case of a pair collision with the relative velocity V* for which the probability of transfer is the biggest, given by    V * = (2irwL/pV) I13    (5)    where ti is the vibrational frequency of the diatorruc molecule,L the range of the repulsive part of the potential, and ¡1 the reduced mass of the collision partners We have assumed that the values of R,*.1 are close to those of the classical turning point corresponding to the velocity V*, this approximation seems adequate, since it is known that many strong-interaction processes occur m the vicinity of the timing point For the calculation of V*, the values of L for Hz have been obtained ruing the Herzfeld method [12]_  In this collinear model, the probabilit</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85856189</aid>
+            <ce:pii>0009-2614(85)85618-9</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)85618-9</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>Vibrational energy relaxation in dense fluid H<ce:inf loc="post">2</ce:inf>: Comparison of experiments and binary-collision models</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Tardieu</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Chātelet</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Oksengorn</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire des Interactions Molèculaires et des Hautes Pressions, CNRS, Université Paris-Nord, 93430 Villetaneuse, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="14" month="6" year="1985"/>
+            <ce:date-revised day="30" month="7" year="1985"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">A detailed analysis is given for the vibrational energy relaxation rate in dense fluid H<ce:inf loc="post">2</ce:inf> using the framework of Chesnoy's binary-collision model. It is shown that this model reproduces qualitatively the experimental behaviour: however, the temperature dependence given by this model is slightly different from that obtained using low-density binary-collision dynamics.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Thèse d'Etat</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Université Paris XI</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chātelet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Thèse d'Etat</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Université Paris XIII</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>893</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Madigosky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Litovitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>489</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chātelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Oksengorn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Widenlocher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ph.</ce:given-name>
+                                 <ce:surname>Marteau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2374</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chātelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kieffer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Oksengorn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>413</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4804</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.F.</ce:given-name>
+                                 <ce:surname>Carnahan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Starling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>635</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Oppenheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>505</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Weeks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1597</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>264</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.F.</ce:given-name>
+                                 <ce:surname>Herzfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>743</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lukasik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Thèse d'Etat</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Université Paris XI</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Gianturco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.T.</ce:given-name>
+                                 <ce:surname>Lamanna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>97</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Yardley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Introduction to molecular energy transfer</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kieffer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Oksengorn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

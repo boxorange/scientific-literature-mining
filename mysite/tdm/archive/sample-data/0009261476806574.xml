@@ -1,0 +1,1744 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261476806574</prism:url><dc:identifier>doi:10.1016/0009-2614(76)80657-4</dc:identifier><eid>1-s2.0-0009261476806574</eid><prism:doi>10.1016/0009-2614(76)80657-4</prism:doi><pii>0009-2614(76)80657-4</pii><dc:title>The electron—electron cusp condition for the spherical average of the intracule matrix </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>42</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>476</prism:startingPage><prism:endingPage>481</prism:endingPage><prism:pageRange>476-481</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1976-09-15</prism:coverDate><prism:coverDisplayDate>15 September 1976</prism:coverDisplayDate><prism:copyright>Copyright © 1976 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Thakkar, Ajit J.</dc:creator><dc:creator>Smith, Vedene H.</dc:creator><dc:description>
+               Abstract
+               
+                  The Kato electron—electron cusp condition is used to derive a corresponding cusp condition for the spherical average of the intracule matrix. The numerical utility of this condition is illustrated by considering the Hart and Herzberg 20-parameter Hylleraas-type wavefunctions for the helium-like ions. It is shown that these functions do not satisty the cusp condition. The analytic utility of the latter is illustrated by considering the asymptotic behaviour of the total X-ray scattering intensity.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261476806574" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261476806574" rel="scidir"/></coredata><scopus-id>0001410881</scopus-id><scopus-eid>2-s2.0-0001410881</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001410881" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T08:30:54</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261476806574</xocs:eid>
+      <xocs:pii-formatted>0009-2614(76)80657-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261476806574</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(76)80657-4</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07233</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T21:45:15.882827-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19760915</xocs:date-search-begin>
+      <xocs:year-nav>1976</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast authsuff footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>42</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>42</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 42, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>476</xocs:first-fp>
+      <xocs:last-lp>481</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>476</xocs:first-page>
+         <xocs:last-page>481</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19760915</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 September 1976</xocs:cover-date-text>
+      <xocs:cover-date-start>1976-09-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1976</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1976 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ELECTRONELECTRONCUSPCONDITIONFORSPHERICALAVERAGEINTRACULEMATRIX</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>THAKKAR</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>STEINER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2365</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BINGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>PACK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>556</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BINGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>341</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6A">
+            <xocs:ref-normalized-surname>BINGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>54</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6B">
+            <xocs:ref-normalized-surname>BINGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>99</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>365</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>COULSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>831</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BENESCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>586</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BENESCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>413</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>LOWDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1474</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>MCWEENY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1960</xocs:ref-pub-year>
+            <xocs:ref-first-fp>335</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>COLEMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>457</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>GILBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>491</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15A">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>226</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15B">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>TATEWAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>601</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>BONHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>185</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18"/>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>HART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>BENESCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1403</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>BENESCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>579</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>LIGHTHILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONFOURIERANALYSISGENERALIZEDFUNCTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>BETHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>QUANTUMMECHANICSONETWOELECTRONATOMS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24"/>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>KIMBALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1513</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26A">
+            <xocs:ref-normalized-surname>GOSCINSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2539</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26B">
+            <xocs:ref-normalized-surname>GOSCINSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>826</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27A">
+            <xocs:ref-normalized-surname>LESTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27B">
+            <xocs:ref-normalized-surname>LESTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>CURL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>647</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>PEIXOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>322</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>BENESCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>482</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>KOHL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4236</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32A">
+            <xocs:ref-normalized-surname>KATRIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>190</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32B">
+            <xocs:ref-normalized-surname>KATRIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>BANYARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1132</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>SEDDON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1065</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>782</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB37">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>KAGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>755</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB39">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>592</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB40">
+            <xocs:ref-normalized-surname>WEINSTEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB41">
+            <xocs:ref-normalized-surname>PEKERIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1216</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>THAKKARX1976X476</xocs:refkey3>
+         <xocs:refkey4lp>THAKKARX1976X476X481</xocs:refkey4lp>
+         <xocs:refkey4ai>THAKKARX1976X476XA</xocs:refkey4ai>
+         <xocs:refkey5>THAKKARX1976X476X481XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(76)80657-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261476806574</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261476806574</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(76)80657-4</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T21:45:15.882827-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1976-09-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261476806574-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261476806574/MAIN/application/pdf/53cee0b51c5d9ba2cbb17a9859cc429a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261476806574/MAIN/application/pdf/53cee0b51c5d9ba2cbb17a9859cc429a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>429865</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261476806574-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261476806574/PREVIEW/image/png/0a00426214fdb01db1d3ba71a39c83c9/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261476806574/PREVIEW/image/png/0a00426214fdb01db1d3ba71a39c83c9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58415</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 42, number 3 CHEMICAL PHYSICS LETTERS 15 September 1976    THE ELECTRON-ELECTRON CUSP CONDITION FOR THE  SPHERICAL AVERAGE OF THE INTRACULE MATRIX?    Ajit J. THAKKAR^ and Vedene H. SMITH Jr.  Department of Chemistry, Queen's University, Kingston, Ontario K7L 3N6, Canada    Received 25 March 1976  Revised manuscript received 2 June 1976    The Kato electron—electron cusp condition is used to derive a corresponding cusp condition for the spherical average of  the intracule matrix. The numerical utility of this condition is illustrated by considering the Hart and Herzberg 20-param-  eter Hylleraas-type wavefunctions for the heuum4ike ions. It is shown that these functions do not satisfy the cusp condi-  tion. The analytic utility of the latter is illustrated by considering the asymptotic behaviour of the total X-ray scattering  intensity.    1. Introduction    In a seminal paper [1], Kato showed that the exact eigenfunctions of a non-relativistic hamiltonian for an  atom with an infinite-mass nucleus satisfy certain cusp conditions at those points in configuration-space where two  particles coalesce. Since then cusp conditions have attracted considerable interest [2—7]. They provide insight into  the many-body problem, serve as sensitive tests of an approximate wavefunction, and proffer valuable help in the  construction of variational approximations.    We show in this paper that the Kato electron—electron cusp condition implies a corresponding condition on  the spherical average of the intracule matrix. This condition is of considerable interest since the above spherical  average is closely related to the electron—electron pair distribution function [8—10]. As an illustration of the  numerical utility of this condition, we consider the 20-parameter Hylleraas-type wavefunctions of Hart and  Herzberg for the helium-like ions. It is shov/n that none of these functions satisfy the electron—electron cusp con-  dition. As an illustration of the analytic utility of the cusp condition derived here, we discuss the asymptotic be-  haviour of the total X-ray scattering intensity.    2. The cusp condition    Throughout this paper we shall use atomic units defined by fi = Wg = e = 1. To establish notation and terminology  we recall a few definitions. The spin-traced p-particle reduced density matrix for an ^V-electron system [11,12] is  defined by    !tP\r^r^...,^p;r\,r^...,^'p)    V?)./^0''2'' -' p\p + 1T -.-^^C1^ ...,p,p+ I, ...,N)ds^ ...ds^dIp+idFp+2 -d^v. 0)    *This research has been supported in part by the National Research Council of Canada.  " National Research Council of Canada Postgraduate Scholar.    476    Volume 42, number 3                   CHEMICAL PHYSICS LETTERS                     15 September 1976    where dF, indicates integration over the spatial coordinates of electron t and ds, indicates summation over the spin  coordinate of electron i. As defined above F^ satisfies the Lowdin normalization convention [II]    !r{P\r^,r^...,rp,r^,r^...,rp)dV^V^...&amp;Vp^(y^.                                        (2)  The intracule matrix [13] is obtained from F^ as follows. Let    ^=0-l+r2)/2, R'=(r[+r^)2, r^ =n - r^ , r^- =r[ -r^ .                             (3)  Then by changing coordinates we obtain    r^R^^R1,^.^ r^o-i^-.ri.rs).                                         (4)    Finally by integrating over the extracular coordinates we obtain the intracule matrix    J(r^^l-2•)=Jr ^(R^t^R^r^dR.                                                      (5)  The spherical average of a diagonal element ofJ is then given by    2l7   IT    ftO-12) = W~1 f f J(r^,r^)sinad&amp;d(S,                                            (6)  0  0    where ri2= (ri2, a,0).    Note that A(r^) is related to the electron—electron distribution function •PoO'n) [9&gt;10] by    h(r^)-po(r^/4TTr^                                                        (7)    and to the weighted pair distribution function g(r^ 3) [14,15] by    h(.r^^)=s(rY^)l^rl'i•                                                                                (8)    A function proportional to h(r^) has been calculated for some four-electron ions [16] . h(r^) is also proportional  to the spherical average ofBonham's pair density [17]. Some useful properties ofh(r^ are    03                                                                                                                                                 00    A(0) = S &lt;S(r^)&gt;,  4ir / r^-2 h(r^^ = S &lt;^&gt;, 4ir / r^ h^dr^ -N(N - 1)/2.     (9)    Kf                         Q                                    K]                   o    Adetailed discussion of the properties of h(r^) will be presented elsewhere [18].    We now show that the Kato electron—electron cusp condition implies a condition on the logarithmic derivative  ofh(r^). Consider an eigenfunction of/I, S2 and S^ for an TV-electron atom with total spin S&lt;.N/2. Bingel  [5,6] has shown that Kate's condition implies (see eq. (13) of ref. [5])    ^(2)(rl,^2-,rp^2)=^(2&gt;(^^;J^',2^f)(l+»•l2/2+/•l'2•/2)+rl2•d^^')+^l'2r•^'.^)-i--.    (10)    when both r^ andr^'2' are small. In the above R,R',r^,r^-^' are defined by eq. (3), and d* depends on the  other particles in the system and is not determined by the coulombic singularity. Letting r[ = r^ and r^ = r^,  changing to the coordinates of eq. (3), integrating over the extracular coordinates and spherically averaging over  the intracular coordinates, we see that for small r^    ftO^) ^ h(0) (1 + ri2) + 0 (r?2) .                                                               (11)  Hence    lim [^'(r^Mr^) 1=1/2,                                                                (12)  ri2-*0    477    15 September 1976    Volumi. 42, number 3 CHEMICAL PHYSICS LETTERS    where h' (r^) = dA/dr^- E(!- O2)is the desired cusp condition for h(r^). Further details of the derivation are  given elsewhere [18].    We have included a factor of 1/2 on both sides ofeq. (12) to emphasize the analogy with the electron-nuclear  cusp condition [2] for the spherical average of a diagonal element of F' /    lim ^p(r)lp(r)]=-Z.                                                                       (13)  r-*0  The right hand sides of both conditions (12) and (13) are equal to the product of the charges of the coalescing    particles and their reduced mass. p(r) is defined by    2lT   V    p(r) = (47r)-1 f f F^ (r, r) sin 9 d0 d0 ,                                                       (14)  0   0    where r=(r, 6,4&gt;).    Note the close parallelism between eqs. (9) and the equations    03                                                                                                                            °°    p(0)=S&lt;oO-,.)&gt;, 4ir f rK+2p(.r)dr=^(rK), 4ir / r2p(r)dr=N.                        (15)  '0               /          0    Finally note that eq. (12) is applicable to molecular systems, although we stated our results for atomic systems.    3. Cusp condition checks for some wavefunctions    As an illustration of the numerical utility ofeq. (12) we test the 20-parameter Hart and Herzberg [19]  Hylleraas-type wavefunctions for the ground states of the helium-like ions. To show to what extent these wave-  functions satisfy eq. (12), and for the sake of completeness eq. (13) as well, the following quantities were com-  puted    C^=Iim [-\p'(r)lp(r)} , C^ = lim [k h'(r^fh(.r^)],  r-rO                       rif^O    AC^ = 100 (Z - C^)IZ , AC^ = 100 (0.5 - C^)fO.S .    (16)    The computation was trivial in view of the fact that Benesch [20] has tabulated algebraic expressions for .Po0"12)  and Dn(r) for these wavefunctions. Benesch also considered the electron—nucleus cusp condition. Note that    Table 1  Cusp condition checks for the Hart and Herzberg functions        Ion ^en Cee ACen ACee  H- 0.9906 0.4534 0.94 9.32  He 2.0030 0.4686. -0.15 6.28  1^ 3.0038 0.4675 -0.13 6.50  B3" 5.0056 0.4624 -0.11 7.52  o6" 8.0059 0.4647 -0.07 7.06  Ne8" 10.0062 0.4646 -0.06 7.08  Mg10" 12.0062 0.4657 -0.05 6.86    478    Volume 42, number 3                   CHEMICAL PHYSICS LETTERS                     15 September 1976    p(^)=Do(r)f4^rrt .                                                                                (17)    The results are shown in table 1. It is clear that none of the wavefunctions satisfy either of the cusp conditions.  The election—nuclear cusp condition is satisfied to a greater extent than the electron—electron cusp condition in  all cases. The wavefunction for H~ is markedly poorer than the other functions from the point of view of the cusp  conditions. This is not particularly surprising since it is well known that it is more difficult to obtain accurate wave-  functions for H~ than for any of the other two-electron ions.    4. Asymptotic behaviour of the total X-ray scattering intensity    From the density matrix formulation of X-ray scattering [21 ], the total intensity /^((I)//Q is given by    /tWci =^+2/^(2)(rl,l•2;rl,r2)expO^^•rl2)dFldF:, ,                                       (18)    where (i= (p., a, 0) and the momentum transfer p. is related to the X-ray wavelength X and scattering angle CJ by  p. = 47rsin(&lt;A?/2)/X. For a spherically symmetric electron distribution or for an average over random orientations of  a non-spherical -/v-electron gas atom, eq. (18) reduces [9] to    oo    W/Icl=N+2f Wu) [sin (^•12)^12] ^u -                                     09)    0  With the help of standard techniques [22] the asymptotic expansion    00    Wl^d - A^ 2 Z) (-1)" ^^(O)/^2"-1^                                                  (20)  11=1    has been obtained [15]. In view of eq. (8) the above can be written as    00    ftWa -N^ 16 TT S (-1)" n^2"-1^)/^2^2.    M= 1    n=l    (21)    Now, for /v-electron systems with total spin 5 &lt;N/2, we can utilize the cusp condition for h(r^), eq. (12) and  the first ofeqs. (9) to obtain    ^a    ItWUci -N ^ -167T/2-4 D &lt;5(r,-.)&gt; + 167T Z) (-1)" nh^-^WIn2^2 .                        (22)  t"&lt;/              n=1    The above asymptotic result makes precise the notion that the total scattering intensity for large p. is governed by  2,-&lt;;.&lt;S (r,.)&gt;. The latter quantity also plays a role in relativistic and radiative corrections to the energy [23] . Ob-  viously the step from (21) to (22) is valid only for an intensity computed from a wavefunction which satisfies the  cusp conditions. The exact wavefunction is one such function. It will be shown elsewhere [24] that a wavefunction  of finite -1-rank can never satisfy the cusp condition for h(r^). Note that the leading term of eq. (22) has been  given previously; first by one of us [15] and then by Kimball [25]. Note also that use of the cusp condition for  h(r^) derived by us has simplified the derivation.    Finally we illustrate further the parallelism between results for p(r) and for h(r^) by considering the form factor.  If the electron distribution is spherically symmetric, or if one averages over random orientations of a non-spheri-  cal gas atom, then [9] the form factor is given by    00    F(f£) = f £&gt;o(r) [sin (utr)fpr\ dr .                                                                        (23)    0  Again using standard techniques [22] as well as eq. (17) we obtain the asymptotic expansion    479    Volume 42, number 3 CHEMICAL PHYSICS LETTERS 15 September 1976    F(n)^ Sn D (-1)" K p^"-1^)/^2"-1-2 .  n=l    Now we can utilize the cusp condition for p(r), eq. (13), and the first ofeqs. (15) to write  F(ui)^ 16TTZI.T4 S&lt;5(r.)&gt;+8ir £ (-1)" npt2"-1^)/^2""1'2 .    /                        71=2    (24)    (25)    The leading term of this expansion has been given previously [26] - The above asymptotic result makes precise  the notion that the form factor for large p. is governed by &lt;S,-5(r,)&gt;. The latter quantity plays a role in relativistic  and radiative corrections to the energy [23] , and is associated, via a sum rule, to the oscillator-strength distribu-  tion of the atom [23] ; Note the close parallelism between eqs. (21),(22) and eqs. (24),(25).    5. Discussion    The electron—electron cusp condition for A(rn) that we have derived in this paper should prove very useful in  analyses of the electron—electron pair distribution function [8—10] ^o^^)- There has been considerable interest  [8—10,14,16,20,27—39] in such analyses particularly in connection with the Coulomb hole function. The  latter is defined [8] as the difference between the exact and the Hartree—Fock-PoO"^)- There have been sug-  gestions [14,16] that a similar definition that employs a weighted pair distribution function might be more use-  ful. The cusp condition, eq. (12), lends support to the redefinition of the Coulomb hole function as the difference  between the exact and a reference (e.g. Hartree—Fock) intracule function h(r^).    It has been suggested recently [40] that the charge density p(r) is a monotonically decreasing function ofr.  In a similar vein, we note that the exact h(r^) cannot be monotonic and, in fact, must possess at least one max-  imum. This is evident from the facts that for a state with total spin S &lt;N/2,h(r^) is positive at the origin, is  everywhere nonnegative, vanishes at infinity, and satisfies the cusp condition given by eq. (12). Note that this is an  example where the parallelism between results for p(r) and h(r^) breaks down.    The numerical utility of the cusp condition for h(r^) has been illustrated in section 3. It is worth noting that  in the past [41] electron—electron cusp condition checks for non-trivial explicitly-correlated wavefunctions  have been made by a Fock-expansion technique. Eq. (12) provides an alternative, and perhaps more convenient,  route to such tests.    The analytic utility ofeq. (12) has been illustrated in section 4.    References    (1} 7. Kato.Commun. Pure Appl. Math. 10 (1957) 151.    (21 E. Steiner. J. Chem. Phys. 39 (1961) 2365.    {3] W. Bingcl, Z. Naturforsch. 18a(1963) 1249.    (4{ R.T Pack and W. Byers-Brown, J. Chem. Phys. 45 (1966) 556.    S5? W. Bingel, Theorei. Chim. Acta 5 (1966) 341.    (6} IV. BingeL Theoret. Chim. Acta 8 (1967) 54; 9 (1967) 99.    I?} V.H. Smith Jr., Chem. Phys. Letters 9 (1971) 365.    {8} C.A. Coulson and A.H. Neilson, Proc. Phys. Soc. (London) 78 (1961) 831.    j9) R. Benesch and V.H. Smith Jr., Acta Cryst. A26 (1970) 586.    i !0} R. Benesch and V.H. Smith Jr., Intern. J. Quantum Chem. 3S (1970) 413.    {i 1 j P.O. Lowdin, Phys. Rev. 97 (1955) 1474.    1121 R. McWceny, Rev. Mod. Phys. 32 (1960) 335.    I«3i A J.Coleman, Intern. J. Quantum Chem. IS (1967) 457.    {141 T.L. Gilbert, Rev. Mod. Phys. 35 (1963) 491-    |I5j V.H. Smith Jr., Chem. Phys. Letters 7 (1970) 226; 11 (1971) 152.    4SO    Volume 42, number 3 CHEMICAL PHYSICS LETTERS 15 September 1976    [16] H. Tatewaki and K. Tanaka, J. Chem. Phys. 60 (1974) 601.    [17] R.A. Bonham, Record Chem. Progr. 30 (1969) 185.    (181 AJ. Thakkar, Ph.D. Thesis, Queen's University, Kingston, in preparation.    {19] J.F. Hart and G. Herzberg, Phys. Rev. 106 (1957) 79.    [20] R. Benesch, J. Phys. B4 (1971) 1403.    [21] R. Benssch and V.H. Smith Jr., Acta Cryst. A26 (1970) 579.    [22] MJ. Lighthill, Introduction to Fourier analysis and generalized functions (Cambridge Univ. Press, London, 1959).    [23] H.A. Bethe and E. Salpeter, Quantum mechanics of one- and two-electron atoms (Springer, Berlin, 1957).    (24] AJ. Thakkar and V.H. Smith Jr., to be published.    [25] J.C. Kimball, J. Phys. AS (1975) 1513.    [26] 0. Goscinski and P. Lindner, J. Chem- Phys. 52 (1970) 2539; 54 (1971) 826.    [27] W.A. Lester Jr. and M. Krauss, J. Chem. Phys. 41 (1964) 1407; 44 (1966) 207.    [28] R.F. Curl Jr. and C.A. Coulson, Proc. Phys. Soc. (London) 85 (1965) 647.    [29] E.M.A. Peixoto, C.F. Bunge and R.A. Bonham, Phys. Rev. 181 (1969) 322.    [30] R. Benesch and V.H. Smith Jr., J. Chem. Phys. 55 (1971) 482.    [31] D.A. Kohl, J. Chem. Phys. 56 (1972) 4236.    [32] J. Katriel, Phys. Rev. A 5 (1972) 1990;Theoret. Chim. Acta 26 (1972) 163.    [33] K.E. Banyard and GJ. Seddon, J. Chem. Phys- 58 (1973) 1132.    [34] GJ. Seddon and K.E. Banyard, J. Chem. Phys. 59 (1973) 1065.    [35] RJ. Boyd and C.A. Coulson, J. Phys. B 6 (1973) 782.    [36] RJ- Boyd and J. Katriel, Intern. J. Quantum Chem. 8 (1974) 255.    [37] RJ. Boyd,Theoret. Chim. Acta 33 (1974) 79-    [38] T. Kagawa and T. Murai, Intern. J. Quantum Chem. 8 (1974) 755.    [39] RJ. Boyd, Can. J. Phys. 53 (1975) 592.    [40] H. Weinstein, P. Politzer and S. Srebrenik, Theoret. Chim. Acta 38 (1975) 159.    [41] C.L. Pekeris, Phys. Rev. 115 (1959) 1216-    481    gestions [14,16] that a similar definition that employs a weighted pair distribution function might be more use-  ful. The cusp condition, eq. (12), lends support to the redefinition of the Coulomb hole function as the difference  between the exact and a reference (e.g. Hartree—Fock) intracule function h(r^).    It has been suggested recently [40] that the charge density p(r) is a monotonically decreasing function ofr.  In a similar vein, we note that the exact h(r^) cannot be monotonic and, in fact, must possess at least one max-  imum. This is evident from the facts that for a state with total spin S &lt;N/2,h(r^) is positive at the origin, is  everywhere nonnegative, vanishes at infinity, and satisfies the cusp condition given by eq. (12). Note that this is an  example where the parallelism between results for p(r) and h(r^) breaks down.    The numerical utility of the cusp condition for h(r^) has been illustrated in section 3. It is worth noting that  in the past [41] electron—electron cusp condition checks for non-trivial explicitly-correlated wavefunctions  have been made by a Fock-expansion technique. Eq. (12) provides an alternative, and perhaps more convenient,  route to such tests.    The analytic utility ofeq. (12) has been illustrated in section 4.    References    (1} 7. Kato.Commun. Pure Appl. Math. 10 (1957) 151.    (21 E. Steiner. J. Chem. Phys. 39 (1961) 2365.    {3] W. Bingcl, Z. Naturforsch. 18a(1963) 1249.    (4{ R.T Pack and W. Byers-Brown, J. Chem. Phys. 45 (1966) 556.    S5? W. Bingel, Theorei. Chim. Acta 5 (1966) 341.    (6} IV. BingeL Theoret. Chim. Acta 8 (1967) 54; 9 (1967) 99.    I?} V.H. Smith Jr., Chem. Phys. Letters 9 (1971) 365.    {8} C.A. Coulson and A.H. Neilson, Proc. Phys. Soc. (London) 78 (1961) 831.    j9) R. Benesch and V.H. Smith Jr., Acta Cryst. A26 (1970) 586.    i !0} R. Benesch and V.H. Smith Jr., Intern. J. Quantum Chem. 3S (1970) 413.    {i 1 j P.O. Lowdin, Phys. Rev. 97 (1955) 1474.    1121 R. McWceny, Rev. Mod. Phys. 32 (1960) 335.    I«3i A J.Coleman, Intern. J. Quantum Chem. IS (1967) 457.    {141 T.L. Gilbert, Rev. Mod. Phys. 35 (1963) 491-    |I5j V.H. Smith Jr., Chem. Phys. Letters 7 (1970) 226; 11 (1971) 152.    4SO    Volume 42, number 3 CHEMICAL PHYSICS LETTERS 15 September 1976    [16] H. Tatewaki and K. Tanaka, J. Chem. Phys. 60 (1974) 601.    [17] R.A. Bonham, Record Chem. Progr. 30 (1969) 185.    (181 AJ. Thakkar, Ph.D. Thesis, Queen's University, Kingston, in preparation.    {19] J.F. Hart and G. Herzberg, Phys. Rev. 106 (1957) 79.    [20] R. Benesch, J. Phys. B4 (1971) 1403.    [21] R. Benssch and V.H. Smith Jr., Acta Cryst. A26 (1970) 579.    [22] MJ. Lighthill, Introduction to Fourier analysis and generalized functions (Cambridge Univ. Press, London, 1959).    [23] H.A. Bethe and E. Salpeter, Quantum mechanics of one- and two-electron atoms (Springer, Berlin, 1957).    (24] AJ. Thakkar and V.H. Smith Jr., to be published.    [25] J.C. Kimball, J. Phys. AS (1975) 1513.    [26] 0. Goscinski and P. Lindner, J. Chem- Phys. 52 (1970) 2539; 54 (1971) 826.    [27] W.A. Lester Jr. and M. Krauss, J. Chem. Phys. 41 (1964) 1407; 44 (1966) 207.    [28] R.F. Curl Jr. and C.A. Coulson, Proc. Phys. Soc. (London) 85 (1965) 647.    [29] E.M.A. Peixoto, C.F. Bunge and R.A. Bonham, Phys. Rev. 181 (1969) 322.    [30] R. Benesch and V.H. Smith Jr., J. Chem. Phys. 55 (1971) 482.    [31] D.A. Kohl, J. Chem. Phys. 56 (1972) 4236.    [32] J. Katriel, Phys. Rev. A 5 (1972) 1990;Theoret. Chim. Acta 26 (1972) 163.    [33] K.E. Banyard and GJ. Seddon, J. Chem. Phys- 58 (1973) 1132.    [34] GJ. Seddon and K.E. Banyard, J. Chem. Phys. 59 (1973) 1065.    [35] RJ. Boyd and C.A. Coulson, J. Phys. B 6 (1973) 782.    [36] RJ- Boyd and J. Katriel, Intern. J. Quantum Chem. 8 (1974) 255.    [37] RJ. Boyd,Theoret. Chim. Acta 33 (1974) 79-    [38] T. Kagawa and T. Murai, Intern. J. Quantum Chem. 8 </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>76806574</aid>
+            <ce:pii>0009-2614(76)80657-4</ce:pii>
+            <ce:doi>10.1016/0009-2614(76)80657-4</ce:doi>
+            <ce:copyright type="unknown" year="1976"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>This research has been supported in part by the National Research Council of Canada.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>The electron—electron cusp condition for the spherical average of the intracule matrix</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Ajit J.</ce:given-name>
+                  <ce:surname>Thakkar</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Vedene H.</ce:given-name>
+                  <ce:surname>Smith</ce:surname>
+                  <ce:suffix>Jr.</ce:suffix>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, Queen's University, Kingston, Ontario K7L 3N6, Canada</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>National Research Council of Canada Postgraduate Scholar.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="25" month="3" year="1976"/>
+            <ce:date-revised day="2" month="6" year="1976"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The Kato electron—electron cusp condition is used to derive a corresponding cusp condition for the spherical average of the intracule matrix. The numerical utility of this condition is illustrated by considering the Hart and Herzberg 20-parameter Hylleraas-type wavefunctions for the helium-like ions. It is shown that these functions do not satisty the cusp condition. The analytic utility of the latter is illustrated by considering the asymptotic behaviour of the total X-ray scattering intensity.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Commun. Pure Appl. Math.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Steiner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2365</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Bingel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.T</ce:given-name>
+                                 <ce:surname>Pack</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Byers-Brown</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>556</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Bingel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>341</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="BIB6A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Bingel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>54</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB6B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Bingel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>99</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>365</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Coulson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Neilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Phys. Soc. (London)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>831</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Benesch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>586</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Benesch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3S</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>413</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.-O.</ce:given-name>
+                                 <ce:surname>Löwdin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1955</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1474</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>McWeeny</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Mod. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1960</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>335</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Coleman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1S</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>457</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Gilbert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Mod. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>491</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="BIB15A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>226</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB15B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tatewaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tanaka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>601</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Bonham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Record Chem. Progr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>185</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.J. Thakkar, Ph.D. Thesis, Queen's University, Kingston, in preparation.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Hart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Herzberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Benesch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1403</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Benesch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>579</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Lighthill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Introduction to Fourier analysis and generalized functions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1959</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cambridge Univ. Press.</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Bethe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Salpeter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Quantum mechanics of one- and two-electron atoms</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1957</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.J. Thakkar and V.H. Smith Jr., to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Kimball</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1513</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="BIB26A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Goscinski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lindner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2539</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB26B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Goscinski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lindner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>826</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="BIB27A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Lester</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Krauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB27B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Lester</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Krauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Curl</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Coulson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Phys. Soc. (London)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>647</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.M.A.</ce:given-name>
+                                 <ce:surname>Peixoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Bunge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Bonham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>181</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>322</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Benesch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.H.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>482</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Kohl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4236</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="BIB32A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Katriel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>190</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB32B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Katriel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Banyard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Seddon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1132</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Seddon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Banyard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1065</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Coulson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B 6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>782</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Katriel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Murai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>755</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB39">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>592</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB40">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Weinstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Politzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Srebrenik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Theoret. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB41">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Pekeris</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1216</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,246 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261478854268</prism:url><dc:identifier>doi:10.1016/0009-2614(78)85426-8</dc:identifier><eid>1-s2.0-0009261478854268</eid><prism:doi>10.1016/0009-2614(78)85426-8</prism:doi><pii>0009-2614(78)85426-8</pii><dc:title>Range of the screened coulomb interaction in electrolytes and double layer problems </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>53</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>397</prism:startingPage><prism:endingPage>399</prism:endingPage><prism:pageRange>397-399</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1978-01-15</prism:coverDate><prism:coverDisplayDate>15 January 1978</prism:coverDisplayDate><prism:copyright>Copyright © 1978 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>John Mitchell, D.</dc:creator><dc:creator>Ninham, Barry W.</dc:creator><dc:description>
+               Abstract
+               
+                  It is shown that the range of the Coulomb interaction in unsymmetric electrolytes at large distances is determined not by the Debye screening length, but by a rather more complicated function of the density, which is evaluated explicitly.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261478854268" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261478854268" rel="scidir"/></coredata><scopus-id>0001712962</scopus-id><scopus-eid>2-s2.0-0001712962</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001712962" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T05:56:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261478854268</xocs:eid>
+      <xocs:pii-formatted>0009-2614(78)85426-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261478854268</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(78)85426-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X07221</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T13:25:23.160207-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19780115</xocs:date-search-begin>
+      <xocs:year-nav>1978</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>53</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>53</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 53, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>48</xocs:sort-order>
+      <xocs:first-fp>397</xocs:first-fp>
+      <xocs:last-lp>399</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>397</xocs:first-page>
+         <xocs:last-page>399</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19780115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 1978</xocs:cover-date-text>
+      <xocs:cover-date-start>1978-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1978</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1978 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>RANGESCREENEDCOULOMBINTERACTIONINELECTROLYTESDOUBLELAYERPROBLEMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JOHNMITCHELL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MITCHELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>MITCHELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>280</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JOHNMITCHELLX1978X397</xocs:refkey3>
+         <xocs:refkey4lp>JOHNMITCHELLX1978X397X399</xocs:refkey4lp>
+         <xocs:refkey4ai>JOHNMITCHELLX1978X397XD</xocs:refkey4ai>
+         <xocs:refkey5>JOHNMITCHELLX1978X397X399XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(78)85426-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261478854268</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261478854268</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(78)85426-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T13:25:23.160207-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1978-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261478854268-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478854268/MAIN/application/pdf/ab42323600ea7320da29e510c1e0ae64/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478854268/MAIN/application/pdf/ab42323600ea7320da29e510c1e0ae64/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>211311</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261478854268-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478854268/PREVIEW/image/png/14923f1580757b8d92d3827a8937969d/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478854268/PREVIEW/image/png/14923f1580757b8d92d3827a8937969d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63662</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 53, number 2 CHEMICAL PHYSICS LETTERS 15 January 1978    RANGE OF THE SCREENED COULOMB INTERACTION  DM ELECTROLYTES AND DOUBLE LAYER PROBLEMS    D. John MITCHELL and Barry W. NINHAM    Department of Applied Mathematics. Research School of Physical Sciences. Institute of Advanced Studies,    The Australian National University, Canberra. A.C.T. 2600, Australia    Received 10 June 1977  Revised manuscript received 23 November 1977    K is shown that the range of the Coulomb interaction in unsymmetric electrolytes at large distances is determined not  by the Debye screening length, but by a rather more complicated function of the density, which is evaluated explicitly.    In a not very recent calculation [1,2] the authors  derived the asymptotic form of the pair distribution  function of a classical electron gas. We have extended  that result to the primitive model of electrolytes.    For the one-component electron gas Gellium model)  the pair distribution function has the asymptotic form  [2]    g^fr)    l-(Afx)e-BX    (1)    X-    where ifA=(47r&lt;3^p) 'is the dimensionless plasma  parameter (A is denoted by e in ref. [2]); KQ1 =  (4lTJ3^2p)l/2 is the Debye screening length; andx=  icyr; r = [r^ — r-^ |, A and B have the explicit asymptotic  expansions    A=A+(|l^3-^|^)A2+b(A3l^A),          (2)    B = 1 + iA In 3 + A2^ In A + 0.66) + 0(A3 In A). (3)    Here q is the unit charge, 0 = IfkT, and p is the elec-  tron density. This result follows from the Montroll—  Mayer cluster expansion method. The first terms ofeq.  (3) are already implicit in the hypemetted chain ap-  proximation which neglects so-called bridge, or non-  elementary diagrams, although this is not generally rec-  ognised because most solutions for the primitive mod-  el of electrolytes are numerical, and deal with. thermo-  dynamic properties only.    We have extended eq. (1) to a two-component elec-      trolyte. The argument very closely parallels the treat-  meat in ref- [2] and we simply summarise the neces-  sary steps. Consider a solution of a strong electrolyte  C^1 AJ2 in an aqueous solvent of dielectric constant e  at density p molecules/cm3. C and A denote cation and  anion with charge z^q, z-^q respectively- We have    Pi = v\P-. Pi = "IP, v\z\ +^2 = °'        (4)    the last being a consequence of charge neutrality. The  Debye screening length for the system is given by    K^= (4!rp&lt;^2p/e) (v^zf + ^ zj).                 (5)    The indirect correlation functions h.Xr) = g..(f) — 1  are related to the direct correlation functions c,.  through the Omstein—Zemike relations    ^7 = ^7 + ^p Pkf ^0' - s)h^(s)ds ,          (6)  which in Fourier space have the solution  c!! -Pl(cnc^-cj^)    h    (7)    I —PI&lt;'U -^^l +PlP2(cllc22 —c^2)    with similar expressions for h^, ^22- ^s ln re^- [2] •&gt;  the asymptotic forms of/iy orgy are determined by  the zero of the denominator in eq. (7). It remains to  calculate the c". To do this we expand any Mayer _f-  bond as    (8)  397    'a -Jif    CHEMICAL PHYSICS LETTERS                       15 January 1978    Voluirte 53, number 2    f^=-ff(Ri+Rf-r),    f^=H(r -R, -Rf) [expC-^-z^/er) - 1] .    (9)    Here H is the step function and-ft, and R. denote  radii of cation or anion- The Coulomb parts/,1 can be  expanded further into bare Coulomb diagrams and a  resummation effected as in ref. [2]. In lowest order  we have two contributions:    -0_r,3..-iA;-r f0  if~J d re     Iff    Uc-r f0    c--= (10)    = -(4ir/K5n) [sin(Ko^y-S2) - Ko^yS2cos(Ko^v")],    where here and hereafter £2 = fe/Kg, x = ncQ, Rf. =  R{ +.R.. This contribution is negligible for Ko./iy &lt; 1.  The second contribution to Cy is given by the bare  Coulomb diagram and is    4 =/d3 e^"" (-fSz^.q 2f€r) H(r - R^)    = -(47rz,z/K^22)0^2/g) cos(Ko^y£2) .     (11)    The cosine term can be replaced by unity for KnRff "^  1- Next in order is the simple diagram denoted by fig-  6a of ref. [2]. It consists of two screened Coulomb  bonds in parallel which connect particles i and/. Again,  following ref. [2], its contribution for K-oRf. -^ 1 is    c^ = (2ff/Kott)(z,-z,P&lt;^2/e)2 tan-1 ^ .        (12)    Collecting together eqs. (10)—(12) and substituting  into the denominator of eq. (7) we require the zero of    1 K^A tan-1 ^Q '    1+    (13)    ^i"^ i i        o    i i  ———— ^f^i(^l-Z2)2tan-l^a+...=0,    K§£23  with    K^ = (4^2p/e)0^ + ^^), A = Ko^fe . (14)  Inversion ofeq. (7) then yields  gy-OO^e-^/Jc,                            (15)  where    0»i z? + ^I)2  5=H-iAln3————————+0(A31nA). (16)    (v^i+v^y-    The correction term to the Debye screening length  vanishes identically for symmetric electrolytes. It is  obvious that the mean spherical model cannot give out  the correct asymptotic form for the pair distribution  function and therefore it is no surprise that the mean  spherical model is inadequate especially for unsym-  metric electrolytes.    To obtain ah estimate of the region of validity of  eq. (16), it is sufficient to note from eq. (3) that the  ratio of the third to second terms is ^ A = HQfSq^le.  The result also breaks down when KQR{. becomes sig-  nificant compared with unity. At room temperature  (SQ2fe ^ 7 A, so that the necessary condition  (KQRf.)2 &lt;^ 1 is always satisfied for real electrolytes  whenever A &lt; 1. For unsymmetric electrolytes we have  from eq. (16) -    (17)    where c is the salt concentration in moles per litre,  and we have explicitly    K(eff)  "0    (18)    {lO~2M 1.06(2:1)   1.12(2:3)   1.32(3:1)  lO^M   1-18 (2 : 1)   1.39 (2:3)   2   (3 : 1)    At 10~1 M the effective screening length formula has  certainly broken down. The result eq. (17) has clear  implications for double layer problems and questions  of colloid stability where the long range nature of the  screened Coulomb interaction is important.    Recently Israelachvili and Adams [3] have meas-  ured double layer forces operating between molec-  ularly smooth mica surfaces in various aqueous elec-  trolyte solutions. For 1 : 1 electrolytes the screening  length agrees with the theoretical KQ within experi-  mental error up to lO^ molar in agreement with ex-  pectation. On the other hand, for 2:1 electrolytes,  the screening length deviates by 20% at l0~4 M and  by 40% at 10~3 M from KQ in the direction indicated  by eq. (18). The density expansion for K (efi) is clearly    398    Volume 53, number 2                   CHEMICAL PHYSICS LETTERS                       15 January 1978    of limited validity, and e.g. a variational approach to       References    the hypemetted chain equation might be expected to    do better. Nonetheless, the results of this paper do          [11 D.J. MitcheU and B.w. Nuiham, Phys. Letters 37A (1968)    underline the inadequacy of methods of treating dou-         154-    ble layer interactions based on the Poisson-Boltzmann     I2! DJ- Mitehell and B.W. Ninham, Phys. Rev. 174 (1968)    equation; which assumes K =Kn» and point to a pos-       rii TM'T   i i, -11- -ir-ir *-i    i ^i,   c'   c -.  ^                          "'     *         r          [3] J.N. IsraelachvHh and G.E. Adams, J. Chem. Soc-Faraday    sible reconciliation within the framework of existing          U^ ^o ^e published.  theory.    We thank D.Y-C. Chan and B.A. Pailthorpe for dis-  cussions.    399  ft, and R. denote  radii of cation or anion- The Coulomb parts/,1 can be  expanded further into bare Coulomb diagrams and a  resummation effected as in ref. [2]. In lowest order  we have two contributions:    -0_r,3..-iA;-r f0  if~J d re     Iff    Uc-r f0    c--= (10)    = -(4ir/K5n) [sin(Ko^y-S2) - Ko^yS2cos(Ko^v")],    where here and hereafter £2 = fe/Kg, x = ncQ, Rf. =  R{ +.R.. This contribution is negligible for Ko./iy &lt; 1.  The second contribution to Cy is given by the bare  Coulomb diagram and is    4 =/d3 e^"" (-fSz^.q 2f€r) H(r - R^)    = -(47rz,z/K^22)0^2/g) cos(Ko^y£2) .     (11)    The cosine term can be replaced by unity for KnRff "^  1- Next in order is the simple diagram denoted by fig-  6a of ref. [2]. It consists of two screened Coulomb  bonds in parallel which connect particles i and/. Again,  following ref. [2], its contribution for K-oRf. -^ 1 is    c^ = (2ff/Kot</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>78854268</aid>
+            <ce:pii>0009-2614(78)85426-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(78)85426-8</ce:doi>
+            <ce:copyright type="unknown" year="1978"/>
+         </item-info>
+         <head>
+            <ce:title>Range of the screened coulomb interaction in electrolytes and double layer problems</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>John Mitchell</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Barry W.</ce:given-name>
+                  <ce:surname>Ninham</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Applied Mathematics, Research School of Physical Sciences, Institute of Advanced Studies, The Australian National University, Canberra, A.C.T. 2600, Australia</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="10" month="6" year="1977"/>
+            <ce:date-revised day="23" month="11" year="1977"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">It is shown that the range of the Coulomb interaction in unsymmetric electrolytes at large distances is determined not by the Debye screening length, but by a rather more complicated function of the density, which is evaluated explicitly.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>174</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>280</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.N. Israelachvilli and G.E. Adams, J. Chem. Soc. Faraday II, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

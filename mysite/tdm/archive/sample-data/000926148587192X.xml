@@ -1,0 +1,763 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148587192X</prism:url><dc:identifier>doi:10.1016/0009-2614(85)87192-X</dc:identifier><eid>1-s2.0-000926148587192X</eid><prism:doi>10.1016/0009-2614(85)87192-X</prism:doi><pii>0009-2614(85)87192-X</pii><dc:title>Higher-order interaction-induced effects on depolarized light scattering from fluids of optically anisotropic molecules </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>121</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>351</prism:startingPage><prism:endingPage>355</prism:endingPage><prism:pageRange>351-355</prism:pageRange><prism:number>4-5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-11-15</prism:coverDate><prism:coverDisplayDate>15 November 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Ladanyi, Branka M.</dc:creator><dc:description>
+               Abstract
+               
+                  The effect of higher-order terms in dipole-induced dipole (DID) interactions on the depolarized light scattering intensity in liquid oxygen is calculated using molecular dynamics computer simulation. The total induced dipole moment in the system is evaluated iteratively. Inclusion of multiple DID interaction terms is found to lead to a non-negligible increase in the depolarized intensity over the first-order result.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148587192X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148587192X" rel="scidir"/></coredata><scopus-id>0000131097</scopus-id><scopus-eid>2-s2.0-0000131097</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000131097" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011024">2001-10-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011024">2001-10-24</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T08:31:32</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148587192X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)87192-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148587192X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)87192-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05167</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T22:04:32.689639-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19851115</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1003881600">2001-10-24T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>121</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>121</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 121, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>14</xocs:sort-order>
+      <xocs:first-fp>351</xocs:first-fp>
+      <xocs:last-lp>355</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>351</xocs:first-page>
+         <xocs:last-page>355</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19851115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHERORDERINTERACTIONINDUCEDEFFECTSDEPOLARIZEDLIGHTSCATTERINGFLUIDSOPTICALLYANISOTROPICMOLECULES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LADANYI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KIVELSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>523</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KEYES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>411</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>LADANYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHENOMENAINDUCEDBYINTERMOLECULARINTERACTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>FRENKEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>156</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTERMOLECULARSPECTROSCOPYDYNAMICALPROPERTIESDENSESYSTEMS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>FRENKEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2801</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LADANYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2189</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>DORFMULLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1167</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>LADANYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1099</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>LADANYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1247</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>WEIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BRUINING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>355</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BRUINING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1425</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>VERLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1757</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BRIDGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>BANCEWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LADANYIX1985X351</xocs:refkey3>
+         <xocs:refkey4lp>LADANYIX1985X351X355</xocs:refkey4lp>
+         <xocs:refkey4ai>LADANYIX1985X351XB</xocs:refkey4ai>
+         <xocs:refkey5>LADANYIX1985X351X355XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)87192-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148587192X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148587192X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)87192-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T22:04:32.689639-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148587192X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148587192X/MAIN/application/pdf/131750b4bec7cbf5bcfb2fd04559c8aa/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148587192X/MAIN/application/pdf/131750b4bec7cbf5bcfb2fd04559c8aa/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>359266</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148587192X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148587192X/PREVIEW/image/png/d22a0648badfe3f5c3f5b6f82af05402/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148587192X/PREVIEW/image/png/d22a0648badfe3f5c3f5b6f82af05402/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65793</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 121; number 4,5 CHEMICAL PHYSICS LETTERS 15 November 1985    HIGHER-ORDER INTERACTION-INDUCED EFFECTS  ON DEPOLARIZED LIGHT SCATTERING  FROM FLUIDS OF OPTICALLY ANISOTROPIC MOLECULES    Branka M. LADANYI '    Department of Chemistry, Colorado Sraie Unioersfry. Fort Collins, CO 80533, USA    Received 16 August 1985     The effect of higher-order terms in dipole-induced dipole (DID) interactions on the depolarized light scattering intensity in liquid oxygen is calculated using molecular dynamics computer simulation- The total induced dipole moment in the system is evaluated iteratively. Inclusion of Multiple DID interaction terms is found to lead to a non-negligible increase in the depolarized intensity over the first-order result-    1. Introduction     It is now well known that the interaction-induced part of the collective polarizability of dense fluids of optically anisotropic molecules contributes significantly to the depolarized light scattering (DLS) intensity [1-3]. In estimating this contribution to the intensity, only the leading tern in the interaction between molecular induced dipoles is usually taken into account. The influence of this leading term often turns out to be quite substantial [4-7], so it is reasonable to expect that higher-order terms in this series might be important. Bancewicz derived an expression for the DLS intensity including all second-order DID terns and evaluated approximately the individual contributions [7] . He found that the contribution from the second-order interaction term in the collective polarizability, absent from earlier calculations, was nonnegligible and that it lead to a decrease in the intensity in the case of the two fluids of Lennard Jones diatomics he considered. He used only pair distribution function information to obtain numerical estimates, and the accuracy of these calculations is thus somewhat uncertain. It is desirable to obtain a more accurate estimate of these higher-order terms. This can    t Alfred P_ Sloan Fellow and Camille and Henry Dreyfus   Teacher-Scholar-    0 009-2614/85/$ 03.30   Elsevier Science Publishers B.V. (North-Holland Physics Publishing Division)    be done by using molecular dynamics (MD) computer simulation to evaluate the quantities of interest.   In the Dm model, the induced dipole moment in molecule i depends on the applied optical-frequency field E and on the moments induced in the remaining N- 1 molecules in the system:     = EN  hiai:+ r, Tij-Iti~ ,   jol where Tij = T(rij) is the dipole tensor    T (r) = (3 H - 1)/r 3 ,    (2)    carets denote unit vectors, 7 is a unit tensor, rid = ri ri, and ri is the position of the center of mass of molecule i, ai is the molecular polarizability tensor. In the case of symmetric-top molecules    ai=a, t2_   -i yQ ,    (3)    where a is the isotropic polatizability, y the polarizability anisotropy and    ai=3 ,    where fj  is the unit vector along the molecular symmetry axis.     Eq. (1) and its counterparts for all remaining values of i = 1, ...Ar form a set of linear equations, which can be solved for hi, i = 1, ..IV in terms of E. This solution can be written    (4)    351  Volume 121, number 4,5 CHEMICAL PHYSICS. LETTERS 15 November 1985    Pi =ai E= [ai +Ani] ~E,    where it, is the effective polarizability of molecule i in the presence of N- 1 other molecules and Dal is the interaction-induced part of ni.   The DLS intensity per molecule depends on the collective polarizability    N    II= r, ai,  i=1    which, like ai, is a sum of scalar and second-rank ten  sorial components. The intensity is given by    IVH =(C/lON)[3(n2+2)l4(n(2):n(2&gt;&gt;.  (7)    Here the superscript (1) denotes the Ith tensorial rank, angular brackets the equilibrium ensemble average, C a constant independent of the system properties, and n the refractive index. n2 can be related to II(O) by    [5,6,8] (n2 - 1)/(n2 +2)=(47r/3Y)(II(0)),    where V is the volume of the system. Our goal is to calculate lvH DID interaction contributions to II above first order. In the remainder of this paper we describe our method of calculation and the results for IVH and for various contributions to this quantity.    (6)    (8)    2. Method of calculation     If Dal is small relative to ai, an iterative solution to eq. (1) and its counterparts for the remaining N- 1 induced dipoles converges rapidly and  s the method of choice when N is large and conventional linear equation algorithms become slow. Weis and Alder [9] found that this method worked very well for II(2) in a model for liquid argon. The iterative solution to eq.    (1) is  N    pi.(R+1)-Pi-tE+ ~ Ti/'Pi.(n)~ ~ (9)  j#i    Table 1 Input data    where n = 0, 1... and the subscript (n) represents the result of nth iteration. The two lowest-order terms are     i.(0) -ai E    and  N     i.(1)-a=~ (1+ i-#; Tij~a  )'E.    Eq. (10) gives rise to the pure orientational compo  nent of the DLS spectrum and eq. (11) is the expres  sion used to calculate 11 in recent computer simula  tion studies of DhS from molecular fluids [4-7J. We  use the iterative scheme of eq. (9) until satisfactory  convergence  s reached. Since we are interested  n all  the distinct Cartesian components of II, we consider  the response of the system to three unit fields applied,  respectively,inx,y, and z directions: E=El = [1,0,0],  E = E2 = [0,1,0] and E = E3 = [0,0,1].   The collective polarizability and the resulting IV H were calculated from the MD trajectory data. These were obtained for a system of 108 two-center LennardJones diatomic molecules with bond length L and interaction parameters a and a chosen to model 02 fluid [4,5] . These are listed in table 1. The reduced density p* = pa3 and the average reduced temperature (T') = kg(T)/e are listed there as well. They correspond approximately to a thermodynamic state at T= 77 K and atmospheric pressure, for which recent experimental-DU data are available [10]. After equilibration, the simulation was carried out for 6 X 104 time steps using the time step size of 0.002r, where r = (mat/e)In, and m is the oxygen atom mass. The Lennard-Jones interactions as well as the DID interactions were cut off at half the length of the simulation cube. The molecular center of mass and bond vector data were collected every 10 time steps. Qi and N    Q _ E of  i=1    were then calculated and stored. Verlet [11] and    (a) intermolecular potential a/kg = 61.6 K a = 295 A L/a = 0.420  (b) thermodynamic state pa3 = 0587 kg(7)/e = 1.33  (c) molecular polarizabr7ity a/o3 = 0.0622    -r/o3 = 0.0428    (12)    352  Volume 121, number 4,5 CHEMICAL PHYSICS LETTERS 15 November 1985    Singer [12] algorithms were used, respectively, for translation and -rotation.   These data were then used to find IIiteratively, strarting with pi (1), given by eq. (11). The values of a and y from ref (13) were used and are listed in table 1. Ail the distinct components of Tij and 40z-Twere saved after being calculated in the first iteration step and used in the subsequent steps. Thus the computer time for second and subsequent iterations was considerably shorter than that of the initial step. By considering the values of the Cartesian components of N     n= r, One  r=1    for several individual time steps, it was determined  that five iterations lead to satisfactory convergence,  As indicated in eq. (7), six independent Cartesian  components of the symmetric tensor rI were used in  the calculation of 1VH.    3. Results and discussion    (13)     The DLS intensity can be analysed in terms contributions which can be evaluated separately. First, IVH is a product of the Lorentz-Lorenz local field factor    FL L = I 3 (n2 + 2)] 4    and the anisotropic polarizability correlation    Spg = (I./lON)(n(2):n(2)) .    As can be seen from eq_ (8) FLL is a function of the effective isotropic polarizability [4]    aeff = (II(O))/N.    SyH can be separated into orientational and interaction-induced components in two ways:    Scheme I. SVH is written as a three-term sum [ 14]    (15)    (I 6)    SVH -SOR,P +`fCROSS +SINT x where SOR,p = (2/45N)y2&lt;Q:Q) is the pure orientational component, 'CROSS = (21151V),y(Q:dII(2)i    the cross term between uure orientatianal and interaction-induced contributions, and    (18)    (19)    SINT - (lIlON)&lt;AIli&lt;2):4II&lt;2)?  the pure interaction-induced contribution.     Scheme ll. The alternate separation scheme distinguishes between all the intensity in the rotational band and the remainder [5,6,8]. It is convenient for fluids in which orientationaI relaxation is significantly slower than intermolecular relaxation contributing to "collision-induced" (CI) scattering and thus gives rise to a disW ict spectral feature. This fume-scale separation does not exist for fluids of small  iatomics such as 02. According to this second scheme    (20)    SvH =SOR +ScI where    SoR = (2/45N) y~ fCQ:Q&gt; is the total intensity in the rotational band,  xeff `'Y +'3f(Q:11n (2))J(a:Q) is the effective polar zability anisotropy, SCl = (I J i0N)( IIC  :drIC  ) is the intensity component due to    orI   = arI(2) - a&lt;a:An(2))lcQ:n&gt; (2s)    is the projection of the interaction-induced polarizability orthogonal to Q_   The results farIVH and its components are summarized in table 2. The values of these quantities evaluated using the first-arderDID contribution to  n= AI (11 are compared to the final converged result of iteration (AU =AII(f)). Note that SoR,P is independent of DID interactions. Several conclusions can be reached on the basis of these results=   (a) The magnitude of On decreases, on the average, as higher DID interaction contributions are added. In the case of G1TI(z), this can be seen by comparing SCROSS,(1) toSCROSS,(f) andSINT,(1) toSINT,(f)     (17) The magnitude of both  f these quantities decreases    as a result of iteration. Similarly, "Yeff - y, which is  closely related to SCROSS, decreases in magnitude  n  going from the first-order to the final result. In the  case of Arl( ), this can be seen by comparing (ae ff -  a)(11 to (aeff - a)tf)- We observed, as did Weiss and  Alder 19) in their MD study of DLS from liquid argon,  that successive iterations introduce contributions to  III having alternating signs and decreasing magni  tudes.    (21)    (22)    (23)    (24)    353  Volume 121, number 4.5 CHEMICAL PHYSICSLETTERS . . ,  15 November 1985    Table t : . . : . . ' - . . : . : . .. . ..: - ..  Contributions to the depolarized light scattering intensity of liquid oxygen: comparison of fast- and infinite-order. DID models  for the collective polarizability. .,     (b) As was already noted in connection with the first-order results [8],  ][I(2) is more strongly affected by DID interactions than AM()). This can be seen by comparing ^yeffly to aeff/a- The largest relative changes occur in purely interaction-induced parts of SVH, SINT m scheme I, or SCI in scheme 11. However, in scheme I, since SC ROSS is the largest interaction-induced contribution to SVH, the increase in this quantity has the largest overall impact on SVH, resulting in an increase in SVH, even.though SINT decreases. Similarly, in scheme II, the increase in -reff leads to an overall increase in SV H, even though SCI decreases. The change in FLL is negligible, so IV H follows the behavior of SVH..   (c) The higher-order contributions to SCROSS are of the same order of magnitude as the first-order result for SINT, i.e. SINT,(1) "25(SCROSS,(f) SCROSS (1 )~ confirming the prediction made by Bancewicz 114]. However, Bancewicz calculated a negative higher-order contribution to SCROSS- whereas a positive one is found here. This discrepancy may be due to the fact that he considered different model fluids, or that he neglected the contributions of threeand four-molecule correlations.   The effect of higher-order DID interaction terms should be more. pronounced in the case of fluids of more polarizable and more elongated molecules: It is interesting to note that the leading term- in ZII(2)    354    Quantity First order    Final % difference    effective ae f f/a 0.984  0.989 .  OS.   polarizabilities yeff/y 0.861  0_875-.  1.6  Lorentz-Lorenz   local field factor FLL 1.920  1.927  0.4  polarizability SOR.P 1.333  1.333  0.0   correlations SCROSS -0.187 -0.167 12   (units of l0-4a6) SINT 0.052  0.043 21    SOR 0_982  1.016  3.3    Sci 0.026  0.022 18    SVH 1.008  1.037  2.8  total intensity   (units of 10-4o6/C) IVH 1.935  1998   32    has been found to decrease IvH for all the fluids studied so far [1-8,14]. It is possible then that the inclusion of higher-order DID terms will always lead to an increase in IV H, when compared with the first-order result.    Acknowledgement    ' Helpful correspondence with T. Bancewiez is gratefully acknowledged. This work was supported in part by the National Science Foundation through Grant. No. CH"405165. Computational work was supported in part by the NIH Grant No. GM-27945_    References    [1] D_ Kivelson and PA. Madden, Ann. Rev. Phys. Chem.  31 (1980) 523.  [2] T. Keyes and B.M_ Ladanyi, Advan. Chem. Phys. 56 (1984) 411.  [31 B11 . Ladanyi, in: Phenomena induced by intermolecular interactions, ed. G. Birnbaum (Plenum Press, New York, 1985):  [4] D. Frenkel, in: Intermolecular spectroscopy end dynamical properties of dense systems,  d. J: van Kranendonk (North-Holland, Amsterdam, 1980) p: 156.  [5 ] D. Frenkel mid J.P: McTague; J. Chem. Phys. 72 (1980)   2801  .. .. -  Volume 121; number 4,5 CHEMICAL PHYSICS LETTERS  15 November 1985     [6]. B.M.Ladanyi; J. Chem. Phys. 78(1983) 2189.  [11] L. Verlet, Phys. Rev. 159 (1967) 98.  . [7 ] Th. D rfmiiller and J. Samios, Mot Phys. 53 (1984)  [12] K. Singer, A. Taylor and J.V.L. Singer, MoL Phys. 30     1167.-   (1977)1757.   [8] EA. Ladanyi and T. Keyes, Mol. Phys. 33 (1977) 1099,  [13] NJ- Bridge and A.D. Buckingham, Proc. Roy. Soc.    _ 1247. _  A295 (066) 334. .   [9] J.-1. Weis and B.J. Alder;  hem. Phys. Letters 81 (1981) [14] T_ Bancevid, MoL Phys.50 (1983) 173.     113.  [10] J. Bnu;ning and J.HR_ Clarke, Chem. Phys. Letters 31     (1975) 355; Mol. Phys. 30 (1976) 1425.       . , . . _ 355  to (aeff - a)tf)- We observed, as did Weiss and  Alder 19) in their MD study of DLS from liquid argon,  that successive iterations introduce contributions to  III having alternating signs and decreasing magni  tudes.    (21)    (22)    (23)    (24)    353  Volume 121, number 4.5 CHEMICAL PHYSICSLETTERS . . ,  15 November 1985    Table t : . . : . . ' - . . : . : . .. . ..: - ..  Contributions to the depolarized light scattering intensity of liquid oxygen: comparison of fast- and infinite-order. DID models  for the collective polarizability. .,     (b) As was already noted in connection with the first-order results [8],  ][I(2) is more strongly affected by DID interactions than AM()). This can be seen by comparing ^yeffly to aeff/a- The largest relative changes occur in purely interaction-induced parts of SVH, SINT m scheme I, or SCI in scheme 11. However, in scheme I, since SC ROSS is the largest interaction-induced contribution to SVH, the increase in this quantity has the largest overall impact on SVH, resulting in an increase in SVH, even.though SINT decreases. Similarly, in scheme II, the increase in -reff leads to an overall increase in SV H, even though SCI decreases. The change in FLL is negligible, so IV H follows the behavior of SVH..   (c) The higher-order contributions to SCROSS are of the same order of magnitude as the first-order result for SINT, i.e. SINT,(1) "25(SCROSS,(f) SCROSS (1 )~ confirming the prediction made by Bancewicz 114]. However, Bancewicz calculated a negative higher-order contribution to SCROSS- whereas a positive one is found here. This discrepancy may be due to the fact that he considered different model fluids, or that he neglected the contributions of threeand four-molecule correlations.   The effect of higher-order DID interaction terms should be more. pronounced in the case of fluids of more polarizable and more elongated molecules: It is interesting to note that the leading term- in ZII(2)    354    Quantity First order    Final % difference    effective ae f f/a 0.984  0.989 .  OS.   polarizabilities yeff/y 0.861  0_875-.  1.6  Lorentz-Lorenz   local field factor FLL 1.920  1.927  0.4  polarizability SOR.P 1.333  1.333  0.0   correlations SCROSS -0.187 -0.167</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8587192X</aid>
+            <ce:pii>0009-2614(85)87192-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)87192-X</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>Higher-order interaction-induced effects on depolarized light scattering from fluids of optically anisotropic molecules</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Branka M.</ce:given-name>
+                  <ce:surname>Ladanyi</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, Colorado State University, Fort Collins, CO 80523, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Alfred P. Sloan Fellow and Camille and Henry Dreyfus Teacher-Scholar.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="16" month="8" year="1985"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The effect of higher-order terms in dipole-induced dipole (DID) interactions on the depolarized light scattering intensity in liquid oxygen is calculated using molecular dynamics computer simulation. The total induced dipole moment in the system is evaluated iteratively. Inclusion of multiple DID interaction terms is found to lead to a non-negligible increase in the depolarized intensity over the first-order result.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kivelson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>523</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>411</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>G.</ce:given-name>
+                                    <ce:surname>Birnbaum</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Phenomena induced by intermolecular interactions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Frenkel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>van Kranendonk</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Intermolecular spectroscopy and dynamical properties of dense systems</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>156</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Frenkel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>McTague</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2801</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2189</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Th.</ce:given-name>
+                                 <ce:surname>Dorfmüller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Samios</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1167</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1099</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1247</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bruining</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.R.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>355</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bruining</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.R.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1425</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Verlet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.L.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1757</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Bridge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Buckingham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A295</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bancewicz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

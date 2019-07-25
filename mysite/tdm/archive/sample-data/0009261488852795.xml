@@ -1,0 +1,739 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261488852795</prism:url><dc:identifier>doi:10.1016/0009-2614(88)85279-5</dc:identifier><eid>1-s2.0-0009261488852795</eid><prism:doi>10.1016/0009-2614(88)85279-5</prism:doi><pii>0009-2614(88)85279-5</pii><dc:title>Ethylidyne formation rates on the Pt(111) surface </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>151</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>227</prism:startingPage><prism:endingPage>229</prism:endingPage><prism:pageRange>227-229</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1988-10-14</prism:coverDate><prism:coverDisplayDate>14 October 1988</prism:coverDisplayDate><prism:copyright>Copyright © 1988 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Gland, John L.</dc:creator><dc:creator>Zaera, Francisco</dc:creator><dc:creator>Fischer, Daniel A.</dc:creator><dc:creator>Carr, Roger G.</dc:creator><dc:creator>Kollin, Edward B.</dc:creator><dc:description>
+               Abstract
+               
+                  The isothermal rates of ethylidyne formation from adsorbed ethylene have been characterized on a Pt(111) surface from 230 to 280 K using transient near edge X-ray absorption fine structure (T-NEXAFS). These studies establish the feasibility of T-NEXAFS as a method for measuring surface reaction rates in the 10−2 to 10−5 monolayer/s range. Since direct measurements of surface concentrations are used to establish the rates of the surface reaction no desorbing products are required for characterization of the isothermal reaction rates. The ethylidyne formation rates are first order in ethylene coverage. A substantial isotope effect is observed, perhydroethylene reacts about twice as fast as perdeuteroethylene. The activation energies are 14.4±0.7 kcal/mol (perhydro) and 16.7±1.0 kcal/mol (perdeutero) for the alehydrogenation of adsorbed ethylene.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261488852795" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261488852795" rel="scidir"/></coredata><scopus-id>0001699327</scopus-id><scopus-eid>2-s2.0-0001699327</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001699327" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T10:17:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261488852795</xocs:eid>
+      <xocs:pii-formatted>0009-2614(88)85279-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261488852795</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(88)85279-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10044</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T07:06:50.704605-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19881014</xocs:date-search-begin>
+      <xocs:year-nav>1988</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>151</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>151</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 151, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>227</xocs:first-fp>
+      <xocs:last-lp>229</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>227</xocs:first-page>
+         <xocs:last-page>229</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19881014</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>14 October 1988</xocs:cover-date-text>
+      <xocs:cover-date-start>1988-10-14</xocs:cover-date-start>
+      <xocs:cover-date-year>1988</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1988 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ETHYLIDYNEFORMATIONRATESPT111SURFACE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GLAND</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>IBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRONENERGYLOSSSPECTROSCOPYSURFACEVIBRATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SALMERON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>341</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ZAERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HYDROGENINCATALYSISTHEORETICALPRACTICALASPECTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>HIETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>400</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KESMODEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2180</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>SKINNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1203</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>ZAERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2288</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>GODBEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>150</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>OGLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>246</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>KOESTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>332</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>ZAERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMSOCSYMPSER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GLANDX1988X227</xocs:refkey3>
+         <xocs:refkey4lp>GLANDX1988X227X229</xocs:refkey4lp>
+         <xocs:refkey4ai>GLANDX1988X227XJ</xocs:refkey4ai>
+         <xocs:refkey5>GLANDX1988X227X229XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(88)85279-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261488852795</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261488852795</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(88)85279-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T07:06:50.704605-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1988-10-14</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261488852795-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261488852795/MAIN/application/pdf/1d319f42ad8fe06f79c11110110c2fa1/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261488852795/MAIN/application/pdf/1d319f42ad8fe06f79c11110110c2fa1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>263778</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261488852795-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261488852795/PREVIEW/image/png/4fdf00c119c0938b892d179ee7f688f0/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261488852795/PREVIEW/image/png/4fdf00c119c0938b892d179ee7f688f0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>77080</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 151, number 3  CHEMICAL PHYSICS LETTERS  14 October 1988  ETHYLIDYNE FORMATION RATES ON THE Pt(ll1) SURFACE    John L. GLAND a~ Francisco ZAERA b, Daniel A. FTSCHER ~   Roger G. CARR d and Edward B. KOLLIN a   Corporate Resea.rch Laboratory, Exxon Research and Engineering, Clinton Township, Annandale, NJ 08801, USA  ~ Chemistry Department, University of flhtfornia Riverside, Riverside, CA 92521, USA     Exxon P.RT. NSLS Brookhaven National Laboratory, Upton. NY 1)973. USA    d SS RL, StanJbrd Linear Accelerator Center, Stanjbrd, CA 94305, USA    Received 11 July 1988         The isothermal rates of ethylidyne formation from adsorbed ethylene have been characterized ana Pt 1,1 11) surface from 230  to 280 K using transient near edge X-ray absorption fine structure (T-NEXAFS). These studies establish the feasibility of T-  NEXAFS as a method far measuring surface reaction rates in the 10_2 to I 0 ~ monolayer/s range. Since direct measurements of  surface concentrations are used to establish the rates of the surface reaction no desorbsng products are required for characteriza-  tion of the isothermal reaction rates. The ethylidyne formation rates are first order in ethylene coverage. A substantial isotope  effect is observed, perhydroethylene reacts about twice as fast as perdessteroethylene. The activation energies are 14.4   0.7 heal   /  mol (perhydro) and 16.7   1.0 kcal/mnl (perdeutero) for the dehydrogenation of adsorbed ethylene.   Ethylene adsorption and dehydrogenation have  been studied extensively on the Pt( Ill) surface us-  ing a wide range of surface methods [1 61. The ini-  tial work which lead to structural characterization of  ethylidyne has recently been summarized [1]. More  recent articles have focused on further spectroscopie  and kinetic characterization of ethylene and ethyli-  dyne [2 9]. NEXAFS spectra of ethylene and ethy-  lidyne on Pt (111) clearly indicate that these species  can be distinguished easily [10]. The surface char-  acterization methods agree that ethylene adsorbs with  its C C bond parallel to the surface. In the 295 K  temperature range ethylene losses a single hydrogen  atom and rearranges to form adsorbed ethylidyne C   CH3. This transformation occurs in a temperature  range where hydrogen desorption is not rapid; thus  measurements of gas phase hydrogen formation rates  may not accurately reflect the rate of ethylene de-  hydrogenation [Il].   In this Letter we report isothermal NEXAFS mea-  surements of cthytidyne formation rates on the  Pt (111) surface. Rates were obtained by measuring  the concentration of adsorbed ethylidyne using  NEXAFS. Previous kinetic studies have been pri-  marily based on the desorption rate of hydrogen from  the surface [2 9]. Recently isothermal secondary ion  mass spectrometry (SIMS) studies of ethylidyne for-  mation have been reported by Ogle et al. as part of  a SIMS study of adsorbed ethylene and ethylidyne  [9]. They observed an activation energy of 15 kcal/  mol and a fairly complex coverage dependence of the  rate.   The NEXAFS experiments were performed at  beamline l-l of the Stanford Synchrotron Radiation  Laboratory. This beamline is equipped with a grass-  hopper monochromator as described previously  [12]. We ran with a resolution of about 0.7 eV at  300 eV and estimate the photon flux on the sample  tobe approximately I X l0~ photons/s for a ring cur-  rent of 50 mA. The end station contained provisions  for TPD, low energy electron diffraction, Auger elec-  tron spectroscopy and gas dosing. The Pt( ill) sam-  ple was oriented, prepared and cleaned using  standard procedures. Soft X-ray absorption was  measured using a partial electron yield detector based  on a 5 cm diameter channel plate located approxi-  mately 5 cm from the sample. A retarding potential  of  200 eV was used for collection of spectra above  the carbon K edge.   NEXAFS spectra of adsorbed ethylene and ethyl-  227  Volume 151, number 3  CHEMICAL PHYSICS LETTERS  14 October 1988  Photon Energy (ev)    Fig. 1. NEXAFS spectra of ethylene (T=90 K) and elhylidyne  (T= 300 K) ehemisorbed on the P5(111) surface taken with the  incident light normal to the surface. The difference between the  spectra is also shown to indicate the maximum at 285.8 eV used  In measure the surface concentration of ethylidyne.  0 250 500  Time (seconds)  Fig. 2. A typical data set oblained during ethylidyne formation  from perdeuteroethylene adsorbed on the Pt (111) surface. The  photon energy was fixed at 285.8 eV and normal incidence was  used. The temperature was rapidly increased from 130 to 264 K  at zero time to initiate the reaction.   250 500    Times (s)    Fig. 3. The linear semilogarithmie plots of the log of ethylene sur-  face concentration versus time indicate that ethylidyue forma-  tion is first order in ethylene surface concentration.  t     o  u  o    C,  C  ci  (n  8.5  8.25  8.0  e,D4 Decomposition  Pt(III)           SAA&amp;M&amp;&amp;JS hr   I I t I I j  idyne agree with earlier results as illustrated in fig.  1 [10]. The concentration of adsorbed ethylidyne  was determined using the intensity of ethylidyne s it~  resonance at 285.8 eV. A typical kinetic result is  shown in fig. 2 for perdeuteroethylene dehydrogen-  ation at 264 K. Ethylidyne formation begins im-  mediately as the sample is heated to reaction  temperature as indicated by the abrupt rise in inten-  sity at zero time. The background signal at 285.8 eV  ts about 8&gt;&lt; l0~ counts/s (c/s) while a saturated  monolayer of ethylidyne yields an additional 2.5 X 102  c/s giving a signal-to-background of about 3%. Each  data point represents a 10 s average. The absolute  noise level is close to being statistical (below  25 c/s for 10 s counting time per point), so the signal  to noise is better than 10%. Thus kinetic, measure-  ments can certainly be performed for starting aver-  ages as small as 10% of saturation coverage.   Semilogarithmic plots of ethylene coverage as a  function of time for several temperatures in the 230        C  o  CL  es  w-n,  ce  t&gt;-  t,    0.                      t      c  SD      o-te    .~ e  S&gt;-  zt  e  w  to 280 K range are illustrated in fig. 3. These linear  plots clearly indicate that the reaction is first order  in ethylene coverage. Small non-linearities near the  stan of the kinetic experiments are caused by tem-  perature fluctuations associated with the tempera-  ture step which initiated the experiment. An  Arrhenius plot of the ethylidyne formation rates from  perhydro and perdentero ethylene is shown in fig. 4.  Perhydroethylene dehydrogenates about twice as  rapidly as perdeuteroethylene. The activation ener-  gies for ethylidyne formation are 14.4   0.7 (per-  hydro) and 16.7  1.0 kcal/mol (perdeutero). The  e  e  s.  C  o  C  o  e  Di  e  e  s  o  C,  e  C  s  s.  w  1.0          0.5            0.2  ETHYLENE CONVERSION TO ETHYLIDYNE Pt (111)  SL C2H4 Te=170K  Eh, 285.8 eV          dt        n - 252K                258K  211K  228  Volume 151, number 3  CHEMICAL PHYSICS LETTERS  14 October 1988  ~0  C  o  c,  e  t     e  o.  t~C    e  o  o  C  a  E    e  u    o,  o  L4x l0~~ preexponential factor for perhydroethy-  lene is smaller than the 3.9&gt;&lt; 10 preexponential ob-  served for perdeuteroethylene indicating that a  compensation effect is observed for the ethylidyne  formation reaction.   The first-order behavior in ethylene surface cov-  erage clearly indicates that a single ethylene mole-  cule is involved in the rate limiting step. The isotope  effect observed is consistent with a primary isotope  effect, suggesting that C H bond cleavage may be in-  volved in the rate limiting step. The first-order be-  havior in ethylene coverage is quite different from  the complex coverage dependence observed using  SIMS. This comparison suggests that neutralization  effects may be causing non-linearities in the re-  sponse of the SIMS signal as a function of coverage  [9].   In summary, transient electron yield NEXAFS is  a promising method for characterizing the rates of  surface reactions, particularly when rapid product  desorption does not occur. Ethylidyne formation on  the Pt (Ill) surface is first order in ethylene cov-  erage indicating a single ethylene molecule is in-  volved in the rate limiting step. A substantial isotope  effect is observed indicating that hydrogen is in-  volved in the rate limiting step.  References    [1] H. Ihach and D. Mills, Electron energy loss speetroscopy  and surface vibrations (Academic Press, New York, 1 982).  [21M. Salmeron and GA. Somorjai, J. Phys. Chem. 86 (1982)  341.  [31F. Zaera and GA. Somorjai, in: Hydrogen in catalysis: the-  oretical and practical aspects, cd. Z. Paal (Dekker, New  York, 1987).  [4] P.J. Hiett, F. Flores, P.J. Grant, N.M. March, A. Martin-  Rodero and G. Senatore, Surface Sei. 140 (1985) 400.  [5] L. Kesmodel, L. Dubois and G.A. Sornoijai, J. Chem. Phys.  70(1979)2180.  [6] P. Skinner, MW. Howard, IA. Oxton, S.F.A. Kettle, D.B.  Powell and N. Sheppard, J. Chem. Soc. Faraday Trans. II  77(1981)1203.  [7] F. Zaera and G.A. Somorjai, J. Am. Chem. Soc. 106 (1984)  2288.  [8] D. Godbey, F, Zaera, R. Yates and GA. Somarjai, Surface  Sei. 167 (1986) 150.  [91 KM. Ogle, J.R. Creighton, S. Akhter and iM. White, Sur-  face Sei. 169 (1986) 246.  1101 R.J. Koestner, J Stohr, J.L. Gland and J.A. Horsley, Chem.  Ph~. Letters 105 (1984) 332.  1111 F. Zaera, DA. Fischer, R.G. Can, E.B. Kollin and J.L.  Gland, in: Am. Chcm. Sue. Symp. 5er., cd. M. Soriaga  (1988).  [121 C. Brawn, R.Z. naehraeh and N. Lien, NucI. Instr. Methods  152 (1978) 73.   2.5       3       3.5       4       4.5       5       5.5       6       6.5       7       7.5        Fig. 4. The ltnear Arrhenius plots for ethylidyne formation indicate that the activation energies for perhydroethylene is 14.4     0.7 kcal/  mol and forperdeuteroethylene is 16.7  1.0 kcal/mol.  I/r a 1000  229  -  ments can certainly be performed for starting aver-  ages as small as 10% of saturation coverage.   Semilogarithmic plots of ethylene coverage as a  function of time for several temperatures in the 230        C  o  CL  es  w-n,  ce  t&gt;-  t,    0.                      t      c  SD      o-te    .~ e  S&gt;-  zt  e  w  to 280 K range are illustrated in fig. 3. These linear  plots clearly indicate that the reaction is first order  in ethylene coverage. Small non-linearities near the  stan of the kinetic experiments are caused by tem-  perature fluctuations associated with the tempera-  ture step which initiated the experiment. An  Arrhenius plot of the ethylidyne formation rates from  perhydro and perdentero ethylene is shown in fig. 4.  Perhydroethylene dehydrogenates about twice as  rapidly as perdeuteroethylene. The activation ener-  gies for ethylidyne formation are 14.4   0.7 (per-  hydro) and 16.7  1.0 kcal/mol (perdeutero). The  e  e  s.  C  o  C  o  e  Di  e  e  s  o  C,  e  C  s  s.  w  1.0          0.5            0.2  ETHYLENE CONVERSION TO ETHYLIDYNE Pt (111)  SL C2H4 Te=170K  Eh, 285.8 eV          dt        n - 252K                258K  211K  228  Volume 151, number 3  CHEMICAL PHYSICS LETTERS  14 October 1988  ~0  C  o  c,  e  t     e  o.  t~C    e  o  o  C  a  E    e  u    o,  o  L4x l0~~ preexponential factor for perhydroethy-  lene is smaller than the 3.9&gt;&lt; 10 preexponential ob-  served for perdeuteroethylene indicating that a  compensation effect is observed for the ethylidyne  formation reaction.   The first-order behavior in ethylene surface cov-  erage clearly indicates that a single ethylene mole-  cule is involved in the rate limiting step. The isotope  effect observed is consistent with a primary isotope  effect, suggesting that C H bond cleavage may be in-  volved in the rate limiting step. The first-order be-  havior in ethylene coverage is quite different from  the complex coverage dependence observed using  SIMS. This comparison suggests that neutralization  effects may be causing non-linearities in the re-  sponse of the SIMS signal as a function of coverage  [9].   In summary, transient electron yield NEXAFS is  a promising method for characterizing the rates of  surface reactions, particularly when rapid product  desorption does not occur. Ethylidyne formation on  the Pt (Ill) surface is first</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>88852795</aid>
+            <ce:pii>0009-2614(88)85279-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(88)85279-5</ce:doi>
+            <ce:copyright type="unknown" year="1988"/>
+         </item-info>
+         <head>
+            <ce:title>Ethylidyne formation rates on the Pt(111) surface</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>John L.</ce:given-name>
+                  <ce:surname>Gland</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Francisco</ce:given-name>
+                  <ce:surname>Zaera</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Daniel A.</ce:given-name>
+                  <ce:surname>Fischer</ce:surname>
+                  <ce:cross-ref refid="AFF3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Roger G.</ce:given-name>
+                  <ce:surname>Carr</ce:surname>
+                  <ce:cross-ref refid="AFF4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Edward B.</ce:given-name>
+                  <ce:surname>Kollin</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Corporate Research Laboratory, Exxon Research and Engineering, Clinton Township, Annandale, NJ 08801, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Chemistry Department, University of California Riverside, Riverside, CA 92521, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Exxon PRT, NSLS Brookhaven National Laboratory, Upton, NY 11973, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>SSRL, Stanford LinearAccelerator Center, Stanford, CA 94305, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="11" month="7" year="1988"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The isothermal rates of ethylidyne formation from adsorbed ethylene have been characterized on a Pt(111) surface from 230 to 280 K using transient near edge X-ray absorption fine structure (T-NEXAFS). These studies establish the feasibility of T-NEXAFS as a method for measuring surface reaction rates in the 10<ce:sup loc="post">−2</ce:sup> to 10<ce:sup loc="post">−5</ce:sup> monolayer/s range. Since direct measurements of surface concentrations are used to establish the rates of the surface reaction no desorbing products are required for characterization of the isothermal reaction rates. The ethylidyne formation rates are first order in ethylene coverage. A substantial isotope effect is observed, perhydroethylene reacts about twice as fast as perdeuteroethylene. The activation energies are 14.4±0.7 kcal/mol (perhydro) and 16.7±1.0 kcal/mol (perdeutero) for the alehydrogenation of adsorbed ethylene.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Electron energy loss spectroscopy and surface vibrations</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Salmeron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>341</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zaera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>Z.</ce:given-name>
+                                    <ce:surname>Paal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Hydrogen in catalysis: theoretical and practical aspects</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Dekker</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Hiett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Flores</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Grant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.</ce:given-name>
+                                 <ce:surname>March</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martin-Rodero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Senatore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>400</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kesmodel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Dubois</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2180</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Skinner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Howard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Oxton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.A.</ce:given-name>
+                                 <ce:surname>Kettle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sheppard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1203</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Faraday Trans. II</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zaera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2288</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Godbey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zaera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>167</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>150</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Ogle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Creighton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Akhter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>169</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>246</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stohr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Horsley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>332</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zaera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Carr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Kollin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Soriaga</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Am. Chem. Soc. Symp. Ser.</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1988</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Z.</ce:given-name>
+                                 <ce:surname>Bachrach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lien</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instr. Methods</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

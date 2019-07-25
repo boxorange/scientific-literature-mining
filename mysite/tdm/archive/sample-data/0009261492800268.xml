@@ -1,0 +1,919 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261492800268</prism:url><dc:identifier>doi:10.1016/0009-2614(92)80026-8</dc:identifier><eid>1-s2.0-0009261492800268</eid><prism:doi>10.1016/0009-2614(92)80026-8</prism:doi><pii>0009-2614(92)80026-8</pii><dc:title>Near-edge and photoemission studies of condensed diborane. Evidence for intermolecular interactions in the solid phase </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>198</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>449</prism:startingPage><prism:endingPage>453</prism:endingPage><prism:pageRange>449-453</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1992-10-16</prism:coverDate><prism:coverDisplayDate>16 October 1992</prism:coverDisplayDate><prism:copyright>Copyright © 1992 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Ruckman, M.W.</dc:creator><dc:creator>Murray, M.F.</dc:creator><dc:creator>Mowlem, J.K.</dc:creator><dc:creator>Moore, J.F.</dc:creator><dc:creator>Strongin, D.R.</dc:creator><dc:description>
+               Abstract
+               
+                  Boron K near-edge X-ray absorption fine structure (NEXAFS) and photoemission spectra for condensed diborane and argon containing five percent B2H6 (matrix isolated case) were obtained. The near-edge spectrum obtained for the condensed diborane differs from that obtained for the matrix isolated case which resembles that reported for the gas phase. The valence band photoemission from condensed B2H6 appears more similar to that published for B4H10 than that for gaseous diborane. From the spectroscopic data, it is concluded that diborane molecules are affected by intermolecular interactions and undergo a change in electronic structure.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261492800268" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261492800268" rel="scidir"/></coredata><scopus-id>5544248844</scopus-id><scopus-eid>2-s2.0-5544248844</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/5544248844" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011113">2001-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011113">2001-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-30T15:29:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261492800268</xocs:eid>
+      <xocs:pii-formatted>0009-2614(92)80026-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261492800268</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(92)80026-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10937</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151002">2015-10-02T09:26:04.165013-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19921016</xocs:date-search-begin>
+      <xocs:year-nav>1992</xocs:year-nav>
+      <xocs:indexeddate epoch="1005609600">2001-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>198</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>198</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 198, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>449</xocs:first-fp>
+      <xocs:last-lp>453</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>449</xocs:first-page>
+         <xocs:last-page>453</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19921016</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>16 October 1992</xocs:cover-date-text>
+      <xocs:cover-date-start>1992-10-16</xocs:cover-date-start>
+      <xocs:cover-date-year>1992</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1992 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>NEAREDGEPHOTOEMISSIONSTUDIESCONDENSEDDIBORANEEVIDENCEFORINTERMOLECULARINTERACTIONSINSOLIDPHASE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>RUCKMAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>WADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRONDEFICIENTCOUMPOUNDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BAETZOLD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>METALCLUSTERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HADDON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>WEAVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BEEKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GMELINHANDBUCHDERANORGANISCHENCHEMIEBORVERBINDUNGEN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BRUNDLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3863</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LLOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>97</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>ULLMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>449</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8444</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BLANEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>553</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1060</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>KUCHITSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4455</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>HAGSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICSVADEMECUM</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>LLOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1382</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>MUETTERTIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BORONHYDRIDECHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>ZIMKINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>229</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>SWITKES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3837</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>SWITKES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3847</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>RUCKMANX1992X449</xocs:refkey3>
+         <xocs:refkey4lp>RUCKMANX1992X449X453</xocs:refkey4lp>
+         <xocs:refkey4ai>RUCKMANX1992X449XM</xocs:refkey4ai>
+         <xocs:refkey5>RUCKMANX1992X449X453XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(92)80026-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261492800268</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261492800268</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(92)80026-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-02T09:26:04.165013-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1992-10-16</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261492800268-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261492800268/MAIN/application/pdf/4d23f9b1eabd8d01b99cc084eb43f09f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261492800268/MAIN/application/pdf/4d23f9b1eabd8d01b99cc084eb43f09f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>485547</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261492800268-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261492800268/PREVIEW/image/png/8155b01384daf39681a8b0bc7b858ed9/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261492800268/PREVIEW/image/png/8155b01384daf39681a8b0bc7b858ed9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73742</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 198, number 5  CHEMICAL PHYSICS LETTERS  16 October 1992  M.W. Ruckman, M.F. Murray  Physics Department, Brookhaven National Laboratory, Upton, NY 11973, USA  J.K. Mowlem, J.F. Moore and D.R. Strongin  Department of Chemistry, State University of New York at Stony Brook, Stony Brook, NY 11794, USA    Received 26 June 1992         Boron K near-edge X-ray absorption fine structure (NEXAFS) and photoemission spectra for condensed diborane and argon  containing five percent B2H6 (matrix isolated case) were obtained. The near-edge spectrum obtained for the condensed diborane  differs from that obtained for the matrix isolated case which resembles that reported for the gas phase. The valence band photoem-  ission from condensed B2H6 appears more similar to that published for B4H0 than that for gaseous diborane. From the spectro-  scopic data, it is concluded that diborane molecules are affected by intermolecular interactions and undergo a change in electronic  structure.  The electronic structure of boranes and their de-  localized bonding is of great interest to physical  chemists [1]. The multi-center bonding found in  boranes is analogous to the sort of bonding found in  small metal clusters [2] and the newly discovered  fullerenes [3]. Much of the experimental work de-  signed to investigate the bonding has involved op-  tical probes like Raman spectroscopy or nuclear  magnetic resonance (NMR) [4]. Much less work  has been done using techniques like photoemission  which can access both valence and core levels and  energy absorption spectroscopies like electron en-  ergy loss spectroscopy (EELS) and near-edge X-ray  absorption spectroscopy (NEXAFS). The photoem-  ission work has focused on the examination of gas-  eous boranes like B2H6 [5,6] or larger boron hy-  drides [7]. Photoemission also has been used to  study thin borane and carborane layers adsorbed on  surfaces [8]. To the best of our knowledge, the pho-  toemission and NEXAFS techniques have not been  applied to solid diborane.       Correspondence to: D.R, Strongin, Department of Chemistry,  State University of New York at Stony Brook, Stony Brook, NY  11794, USA.  This letter reports boron K-edge and photoemis-  sion results for pure diborane condensed on a graph-  ite substrate and matrix-isolated diborane in argon.  The pure diborane film was assembled from the gas  phase at 78 K and the matrix-isolated phase by co-  condensing an Ar/B2H6 mixture at 15 K. The spec-  troscopic data presented in this Letter contains fea-  tures which suggest that a modification in the mo-  lecular electronic structure takes place in the pure  diborane condensed from the gas phase at liquid ni-  trogen temperature. The modificiations exceed those  usually seen in photoemission or NEXAFS spectra  when molecular solids are formed from the gas phase  [9]. More complex boranes like tetraborane can be  readily synthesized by the compression of diborane  gas at room temperature. In spite of this, the issue of  intermolecular bonding in B2F16 has often been ig-  nored or dismissed in earlier work [10,11].  We condensed the diborane from a commercial 5%  B2H6 mixture in argon onto an exfoliated highly ori-  ented pyrolytic graphite (HOPO) wafer at 7 8 79 K.  The diborane films were condensed on graphite sub-  strates to minimize their interaction with the sub-  strate. A mass spectrometer was used to examine the  gas and check its composition. The characteristic  449  0009-2614/92/S 05.00   1992 Elsevier Science Publishers B.Y. All rights reserved.  Near-edge and photoemission studies of condensed diborane.  Evidence for intermolecular interactions in the solid phase  Volume 198, number S  CHEMICAL PHYSICS LETtERS  16 October 1992  cracking pattern for diborane was seen and mass  peaks for other boranes were not detected. We also  monitored the desorption of the diborane from the  substrate upon heating and found that the diborane  desorbed from the surface between 100 and 115 K.  The spectroscopic work was done in an ultra-high  vacuum system of conventional design with a base  pressure of 5 X 10~   Ton. To condense the dibor-  ane, a jet of the diborane/Ar mixture was directed  onto the liquid nitrogen cooled substrate. The argon  partial pressure was (l 2) x 1 O_5 Ton during de-  position and the ionization gauge was turned off to  minimize ionization after the pressure was stabi-  lized. The diborane film was sufficiently thick after  condensation to completely obscure photoemission  from the C ls peak but not so thick as to cause charg-  ing during photoemission. The matrix-isolated di-  borane was condensed onto a silver film from the  same B2H6/Ar mixture, but the substrate was cooled  to 15 K to ensure the co-condensation of the argon  which had a partial pressure of 5 x l0~~ Ton. This  film was also thick enough to ensure that the sub-  strate has little or no effect on the data.   The photoemission data were obtained using a 100  mm hemispherical analyzer and the NEXAFS data  were obtained in the total yield mode using an elec-  trometer connected to a Faraday cup above the sub-  strate. The photoemission data were collected along  the sample normal with the photon beam incident at  45 to the sample normal. The photon source for the  spectroscopie work was the 750 MeY VUV storage  ring at the National Synchrotron Light Source  (NSLS).   Valence band photoemission spectra for the thick  B2H6 film on HOPO and several reference spectra  taken from the literature are shown in fig. 1. Spectra  are not shown for the matrix-isolated case because  the Ar 3p levels obscured the diborane features. We  have adjusted the energy scale of fig. 1 to align the  reference energy with the Fermi level of the silver  support. For comparison of the data for solid B2H6  to that for gas-phase B2H5, it is necessary to compute  the binding energy relative to the vacuum level. To  compute the binding energy, the work function of the  silver support was taken to be 4.2 eV [12] and this  has to be added to the apparent binding energy plot-  ted in fig. 1 to get the binding energy referenced to  the vacuum level. The location of the peaks for the  Fig. 1. Normal incidence valence band photoemission from a thick  diborane film condensed on graphite at 78 K. The spectrum was  obtained at a photon energy of 150 eV using a pass energy of 44  eV. Spectra for gas-phase diborane (ref. [5]) and tetraborane  (ref. 113]) are reproduced for comparison with our data for solid  B2H6.      gaseous and solid phases of B2H6 is marked with ver-  tical lines above the graph for the solid and for the  gases. Our photoemission data for condensed dibor-  ane differs from that published for gaseous diborane  by Brundle et al. [5] which is reproduced in fig. I.  Ultraviolet photoemission data [5] for gaseous di-  borane taken using He 11(40.8 eV) radiation shows  six peaks labeled l 6 associated with lb28, 3;, lb3~,  1b211, 2b1~ and 2; energy levels, respectively. Our  photoemission spectrum for solid diborane shows six  peaks (also labeled 1 6) 9.4, 11.1, 13.0, 14.3, 16.9  and 20.1 eV below the vacuum level. To compare  our data with that of gaseous diborane, a shift of 3  eV was applied to the data of Brundle et al. to match  his data with the least tightly bound photoemission  feature in our data. The rational for applying what  appears to be an arbitrary energy shift is that it ac-  counts for the screening of the valence holes created  by photoemission in the solid state, There is some  agreement between the relative positions of peaks 1  C  J                  Co    z  w  I-.    z  BINDING BNERGY (eV)  450  Volume 198, number 5  CHEMICAL PHYSICS LETTERS  16 October 1992  through 4 and the five B2H6 energy levels found be-  tween 10.0 and 15.0 eV. There is no agreement be-  tween peaks 5 and 6 and their gas-phase B2H6  counterpart.   The poor agreement between our spectrum for  condensed diborane and gas-phase diborane  prompted a comparison with the electronic structure  of a more complex borane. A photoemission spec-  trum for tetraborane (B4H10) from the work of Lloyd  et al. [13] also is shown in fig. I. As in the previous  case of gas-phase diborane, the data of Lloyd et al.  are shifted by 3 eV to align his photoelectron spec-  trum with our data. There is better agreement be-  tween our data and that reported for tetraborane. For  B4H10, Lloyd et al. identifS  the first and second peaks  or bands (labeled Nos. 1 and 2) as being due to the  Sa1, 3b2, 2b1, 4a1 and 2b2 orbitals located 11.5 12.93  eV. The third peak (No. 3) is due to the la2 and 3;  orbitais at 14.15 and 14.53 eV and the fourth peak  (No. 4) is due to the 2a1 orbital and is 15.85 eV be-  low the ionization potential. The fifth and sixth peaks  (Nos. Sand 6) are associated with the lb1, lb2 (18.1  and 18.9 eV) and the la1 (23.1 eV) levels,  respectively.   The electronic structure of the tetraborane mole-  cule differs from that of diborane [14] in that the  lowest energy level in diborane, the 2a8 level, is  formed from B 2s atomic orbitals which are partially  mixed with the B 2p states. For tetraborane, the la1  level is nearly all B 2s character and related to the B   B bond. The lb1 and lb2 levels are associated with  the bridging hydrogen bonds and the terminal hy-  drogen bonds and contain contributions from the  boron 2s and p states and the hydrogen ls state. At  this point, we note that the photoelectron features of  condensed B2H6 and B4H10 coincide on a peak-by-  peak basis. The apparent similarities between tetra-  borane and solid diborane argue for the existence of  similarities between the electronic structure of the  B4H10 molecule and solid B2H6 condensed from the  gas phase. One possible conclusion is that a change  in the hybridization of boron and hydrogen states  takes place.   Fig. 2 shows the NEXAFS data for the boron K-  edge for a diborane film on graphite and matrix iso-  lated diborane. The NEXAFS result for matrix-iso-  lated diborane shown in fig. 2 (upper curve) does  not look like that found for condensed diborane but  does match that reported for gas-phase diborane  [15]. The pre-edge peak marked 1  at 191.5 eV pho-  ton energy is very strong, features marked 2 , 3 and  4  are seen at 195, 198 and 202 eV photon energy,  respectively. A much weaker peak is seen just above  205 eV photon energy. The data for the matrix-iso-  lated case are in good agreement with the only pub-  lished B K near-edge data for gas-phase diborane  done by electron energy loss spectroscopy. In this  study, Zimkina and Vinogradov [15] detected three  absorption features between 192 and 200 eV. The  lowest feature at 192.5 eV had significantly more os-  cillator strength than the features at 194 and 197 eV  and was clearly below the ionization threshold.  Zimkina and Vinogradov [15] associated the three  near-edge features with transitions from the B is level  to B 2p states. Self-consistent field (SCF) calcula-  tions [16] for diborane indicate there are two un-  occupied levels which should be accessed by tran-  sitions from the B ls core level. These levels, the lb38  and 4a8, are 1.9 eV apart and are separated from the  uppermost occupied level by a gap of 12 eV. The lb38  orbital is a lt*_like orbital associated with the bridg-  ing hydrogen bonds between the two boron atoms  and the 4a8 is a a*~like orbital also associated with  the same B H B bond. We interpret the level at 192.5  eV (peak I ) as a transition from the B ls to e level  a  5  4    Co  z  w  I-  z   200 210    PHOTON ENERGY (eV(  Fig. 2. B~ near-edge spectra ror diborane condensed on graphite  and diborane isolated in an argon matrix at 15 K. The spectra are  taken in the total yield mode using an electrometer to monitor  the sample to ground current.  451  16 October t992  Volume 198, numberS  CHEMICAL PHYSICS LETTERS  ron nearest neighbors. It should be emphasized that  gaseous diborane can be evolved from the pure di-  borane when heated to 100 l 10 K which implies that  the changes are reversible when the solid is heated  and also implies that the intermolecular bonding is  weak. This probably rules out the removal of hydro-  gen or bond breaking and boron boron bond for-  mation required during the formation of tetraborane  or pentaborane from diborane. It should also be noted  that B4H10 and B5H9 are thermally stable at these and  higher temperatures. Like the photoelectron spec-  trum shown in fig. 1, however, the NEXAFS spectral  similarities between the condensed phase and pen-  taborane also suggest some common electronic prop-  erties between these materials.   The data shown in figs. 1 and 2 argue that di-  borane molecules undergo changes in their elec-  tronic structure when condensed into the solid state.  The fact that diborane is evolved when the solid is  evaporated suggests that the bonding is weak and  easily broken. If diborane is bound by the mecha-  nisms usually associated with the van der Waais in-  teraction, the changes are due to a redistribution of  charge at boron and hydrogen sites. If the interaction  is due to hydrogen bonding, the formation of hy-  drogen bonds may cause changes in the hybridiza-  tion of boron and the hydrogen atoms. Clearly, fur-  ther theoretical study is needed to determine the type  of intermolecular interaction in solid diborane and  the apparent changes in the electronic structure of  the molecule. Differences have been seen in results  from other experimental techniques [4] (i.e. the in-  frared spectrum) when diborane is condensed and a  detailed re-examination of such results could help to  identify the exact nature of the changes taking place  when diborane is condensed from the vapor phase.   To summarize, the photoemission and near-edge  experiments show changes in the electronic structure  which can be explained by an intermolecular inter-  action when diborane is condensed at 78 K. It is not  obvious from the data what mechanisms cause the  changes seen in the spectra. The spectra suggest that  the hybridization between hydrogen and boron  changes and there is increased occupation of the un-  occupied states associated with the bridging hydro-  gen bonds.     This work was supported by the US Department  and the peak 2.5 eV above it (peak 2 ) as the B is  to r~ transition. The features above 195 eV may be  related to Rydberg states, a shape resonance or multi-  electron excitations during ionization. High-resolu-  tion NEXAFS data would greatly aid experimental  identification of the features near the ionization  threshold.   For the pure diborane on graphite (fig. 2, bottom  curve), the boron K-edge shows a feature at 190 eV  photon energy (peak 1), a prominent peak at 192 eV  (peak 2), at least two smaller features at 194 and  195.5 eV (peaks 3 and 4) anda broad peak near 200  eV (peak 5). The data were taken at different angles  of incidence to check for evidence of molecular ori-  entation on the HOPG substrate. We did this be-  cause HOPG can act as a template for the epitaxial  growth of crystalline molecular solids. There was lit-  tle or no systematic intensity variation with angle  which suggests there is no orientational ordering of  the molecules.   We think the changes in the NEXAFS spectra are  due to intermolecular interactions when the dibor-  ane is condensed. The nature of the intermolecular  interaction and the extent, if any, of the changes in  the intramolecular bonds are not clear. These changes  could be due to the formation of hydrogen bonds be-  tween the diborane molecules or bonding between  the bridging hydrogen atoms. The changes could also  be due to additional bonding between hydrogen and  boron atoms. If the B2H6 molecules combine in the  solid state to form a more complex borane, a logical  conjecture would be to assume that the new sub-  stance resembles tetraborane or pentaborane. We are  unaware of NEXAFS data for tetraborane in either  the gas or solid phase but NEXAFS data for pen-  taborane (B5H9) [17] has recently become avail-  able. The B K-edge for pure condensed diborane is  remarkably similar to the spectrum obtained for the  pentaborane. Examination of the predicted eigen-  states for B4H10 indicates the existence of only one  dipole allowed transition (B Is to Sa1) and the sharp  feature (peak 2) at the B K-edge could be associated  with this transition. The unresolved states at 194 195  eV photon energy are likely to be unresolved  Rydberg transitions. The peak at 200 eV has many  of the characteristics of a shape resonance and we  believe it is strong in condensed diborane because of  the scattering of the outgoing photoelectron by bo  452  Volume 198, number S  CHEMICAL PHYSICS LETTERS  16 October 1992  of Energy, Division of Materials Sciences under  Contract No. DE-ACO2-76CH0001 6. The authors  thank Fran Loeb for the construction of some of the  cryogenic equipment used during this work and H.  Wiessmann for preparing the diborane sources. The  spectroscopic work was done at the National Syn-  chrotron Light Source. One of the authors (MFM)  gratefully acknowledges support from the Depart-  ment of Energy s Division of University and Indus-  try Programs, office of Energy Research, as a Science  and Engineering Research Semester (SERS) Pro-  gram participant.      References    [1] K. Wade, Electron deficient coumpounds (Nelson, London,  1971).  [2] R.G. Baetzold, in: Metal clusters, cd. M. Moskovits (Wiley,  New York, 1986) ch. 2.  [3] R.C. Haddon, Accounts Chem, Res. 25(1992)127;  J.H. weaver, Accounts Chem. Res. 25(1992)143.  [4] K. Becker, H. Keller-Rudek and H. List, in: Gmelin  Handbuch der anorganischen Chemie, Borverbindungen  Teil 18, Bor wasserstofi verbindungen (Springer, Berlin,  1978) p. 67.  15] C.R. Brundle, M.B. Robin, H. Basch, M. Pinsky and A.  Bond, I. Am. Chem. Soc. 92(1970)3863.  16] D.R. Lloyd and N. Lynaugh, Phil. Trans. Roy. Soc. A 268  (1970) 97.  [7] J.A. Utlman and T.P. Fehlner, J. Am. Chem. Soc. 100  (1978) 449.  [8] 5. Lee, D. Li, SM. Cendrowski-Guillaume, PA. Dowben,  F.K. Perkins S.P. Frigo and R.A. Rosenberg, preprint;  S. Lee, D. Li, P.A. Dowben, F.K. Perkins, M. Onellion and  J.T. Spencer, J. Am. Chem. Soc. 113(1991) 8444.  [9] B.L Blaney and G.E. Ewing, Ann. Rev. Phys. Chem. 27  (1976) 553.  [10] H.W. Smith and W.N. Lipscomb, J. Chew. Phys. 43 (t965~  1060.  [11]K. Kuchitsu, J. Chem. Phys. 49(1968) 4455.  [12] H.D. I Iagstrom, in: Physics Vade Mecum, cd. H.L Anderson  (American Institute of Physics, New York, 1981).  [13] D.R. Lloyd, N. Lynaugh, P.J. Roberts and M.F. Guest, J.  Chem. Soc. Faraday Trans. 1173(1975)1382.  [14] E.L. Muetterties, Boron hydride chemistry (Academic Press,  New York, 1975).  [15] T.M. Zimkina and A.S. Vinogradov, Bull. Acad. Sd. USSR  Phys. 5er. 36(1972) 229.  [16] E. Switkes, I.R. Epstein, J.A. Tossell, R.M. Stevens and W.N.  Lipscomb, J.Am. Chem. Soc. 92(1970)3837;  E. Switkes, W.N. Lipscomb and M.D. Newton, J. Am. them.  Soc. 92 (1970) 3847.  [17] S. Lee, PA. Dowben, A.T. Wen, A.P. Hitchcock, J.A. Glass  and J.T. Spencer, preprint.  453  e HOPG can act as a template for the epitaxial  growth of crystalline molecular solids. There was lit-  tle or no systematic intensity variation with angle  which suggests there is no orientational ordering of  the molecules.   We think the changes in the NEXAFS spectra are  due to intermolecular interactions when the dibor-  ane is condensed. The nature of the intermolecular  interaction and the extent, if any, of the changes in  the intramolecular bonds are not clear. These changes  could be due to the formation of hydrogen bonds be-  tween the diborane molecules or bonding between  the bridging hydrogen atoms. The changes could also  be due to additional bonding between hydrogen and  boron atoms. If the B2H6 molecules combine in the  solid state to form a more complex borane, a logical  conjecture would be to assume that the new sub-  stance resembles tetraborane or pentaborane. We are  unaware of NEXAFS data for tetraborane in either  the gas or solid phase but NEXAFS data for pen-  taborane (B5H9) [17] has recently become avail-  able. The B K-edge for pure condensed diborane is  remarkably similar to the spectrum obtained for the  pentaborane. Examination of the predicted eigen-  states for B4H10 indicates the existence of only one  dipole allowed transition (B Is to Sa1) and the sharp  feature (peak 2) at the B K-</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>92800268</aid>
+            <ce:pii>0009-2614(92)80026-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(92)80026-8</ce:doi>
+            <ce:copyright type="unknown" year="1992"/>
+         </item-info>
+         <head>
+            <ce:title>Near-edge and photoemission studies of condensed diborane. Evidence for intermolecular interactions in the solid phase</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.W.</ce:given-name>
+                  <ce:surname>Ruckman</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.F.</ce:given-name>
+                  <ce:surname>Murray</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Physics Department, Brookhaven National Laboratory, Upton, NY 11973, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.K.</ce:given-name>
+                  <ce:surname>Mowlem</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.F.</ce:given-name>
+                  <ce:surname>Moore</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.R.</ce:given-name>
+                  <ce:surname>Strongin</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, State University of New York at Stony Brook, Stony Brook, NY 11794, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Correspondence to: D.R. Strongin, Department of Chemistry, State University of New York at Stony Brook, Stony Brook, NY 11794, USA.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="26" month="6" year="1992"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Boron K near-edge X-ray absorption fine structure (NEXAFS) and photoemission spectra for condensed diborane and argon containing five percent B<ce:inf loc="post">2</ce:inf>H<ce:inf loc="post">6</ce:inf> (matrix isolated case) were obtained. The near-edge spectrum obtained for the condensed diborane differs from that obtained for the matrix isolated case which resembles that reported for the gas phase. The valence band photoemission from condensed B<ce:inf loc="post">2</ce:inf>H<ce:inf loc="post">6</ce:inf> appears more similar to that published for B<ce:inf loc="post">4</ce:inf>H<ce:inf loc="post">10</ce:inf> than that for gaseous diborane. From the spectroscopic data, it is concluded that diborane molecules are affected by intermolecular interactions and undergo a change in electronic structure.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wade</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Electron deficient coumpounds</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1971</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Nelson</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Baetzold</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>M.</ce:given-name>
+                                       <ce:surname>Moskovits</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Metal clusters</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ch. 2</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Haddon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Accounts Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Weaver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Accounts Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Beeker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Keller-Rudek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>List</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Gmelin Handbuch der anorganischen Chemie, Borverbindungen</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Teil 18, Bor-Wasserstoff Verbindungen</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Brundle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Robin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Basch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pinsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bond</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3863</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Lloyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lynaugh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phil. Trans. Roy. Soc. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>268</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>97</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Ullman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Fehlner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>449</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>a S. Lee, D. Li, S.M. Cendrowski-Guillaume, P.A. Dowben, F.K. Perkins S.P. Frigo and R.A. Rosenberg, preprint</ce:textref>
+                     </ce:other-ref>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Dowben</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.K.</ce:given-name>
+                                 <ce:surname>Perkins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Onellion</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Spencer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8444</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Blaney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Ewing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>553</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Lipscomb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1060</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kuchitsu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4455</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Hagstrom</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>H.L.</ce:given-name>
+                                       <ce:surname>Anderson</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Physics Vade Mecum</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Institute of Physics</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Lloyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lynaugh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Guest</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Trans. II</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1382</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.L.</ce:given-name>
+                                 <ce:surname>Muetterties</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Boron hydride chemistry</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Zimkina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Vinogradov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Acad. Sci. USSR Phys. Ser.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>229</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Switkes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>Epstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Tossell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Lipscomb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3837</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Switkes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Lipscomb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Newton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3847</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Lee, P.A. Dowben, A.T. Wen, A.P. Hitchcock, J.A. Glass and J.T. Spencer, preprint.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

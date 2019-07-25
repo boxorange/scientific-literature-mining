@@ -1,0 +1,1143 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261478852531</prism:url><dc:identifier>doi:10.1016/0009-2614(78)85253-1</dc:identifier><eid>1-s2.0-0009261478852531</eid><prism:doi>10.1016/0009-2614(78)85253-1</prism:doi><pii>0009-2614(78)85253-1</pii><dc:title>Fine structure above the carbon K-edge in methane and in the fluoromethanes </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>54</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>425</prism:startingPage><prism:endingPage>429</prism:endingPage><prism:pageRange>425-429</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1978-03-15</prism:coverDate><prism:coverDisplayDate>15 March 1978</prism:coverDisplayDate><prism:copyright>Copyright © 1978 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Brown, Frederick C.</dc:creator><dc:creator>Bachrach, R.Z.</dc:creator><dc:creator>Bianconi, A.</dc:creator><dc:description>
+               Abstract
+               
+                  Synchroton radiation has been utilized to obtain high resolution soft X-ray absorption spectra above the carbon K-edges in CH4, CD4 and the fluoromethanes. The results near threshold are in close agreement with forward scattering electron energy loss data in the cases where that comparison can be made. With increasing fluorination the Rydberg-like threshold spectra of methane shift to higher energy and evolve into a complex band in CF4. Well above threshold extended fine structure (EXAFS) is observed in CF4.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261478852531" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261478852531" rel="scidir"/></coredata><scopus-id>85024940007</scopus-id><scopus-eid>2-s2.0-85024940007</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85024940007" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011217">2001-12-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011217">2001-12-17</xocs:available-online-date>
+      <xocs:ew-transaction-id>2018-05-10T10:39:37</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261478852531</xocs:eid>
+      <xocs:pii-formatted>0009-2614(78)85253-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261478852531</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(78)85253-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05374</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180510">2018-05-10T13:44:30.62111Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19780315</xocs:date-search-begin>
+      <xocs:year-nav>1978</xocs:year-nav>
+      <xocs:indexeddate epoch="1008547200">2001-12-17T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>54</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>54</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 54, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>6</xocs:sort-order>
+      <xocs:first-fp>425</xocs:first-fp>
+      <xocs:last-lp>429</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>425</xocs:first-page>
+         <xocs:last-page>429</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19780315</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 March 1978</xocs:cover-date-text>
+      <xocs:cover-date-start>1978-03-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1978</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1978 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>FINESTRUCTUREABOVECARBONKEDGEINMETHANEINFLUOROMETHANES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BROWN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KINCAID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1361</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CADIOLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3A">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IVTHINTERNATIONALCONFERENCEVACUUMULTRAVIOLETRADIATIONPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3B"/>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>NAKAMURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1303</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>CHUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>EBERHARDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7A">
+            <xocs:ref-normalized-surname>WIGHT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7B">
+            <xocs:ref-normalized-surname>WIGHT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>WUILLEMIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>C4</xocs:ref-first-fp>
+            <xocs:ref-last-lp>88</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BAGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10A">
+            <xocs:ref-normalized-surname>CURTISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10B">
+            <xocs:ref-normalized-surname>DEUTSCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>588</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HITCHCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>THOMAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4184</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>SIEGBAHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ESCAAPPLIEDFREEMOLECULES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14A">
+            <xocs:ref-normalized-surname>DAVIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>671</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14B">
+            <xocs:ref-normalized-surname>DAVIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3295</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15A">
+            <xocs:ref-normalized-surname>HARSHBARGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>319</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15B">
+            <xocs:ref-normalized-surname>ROBIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>184</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHEREXCITEDSTATESPOLYATOMICMOLECULES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>DEHMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4496</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>LYTLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4825</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2862</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BROWNX1978X425</xocs:refkey3>
+         <xocs:refkey4lp>BROWNX1978X425X429</xocs:refkey4lp>
+         <xocs:refkey4ai>BROWNX1978X425XF</xocs:refkey4ai>
+         <xocs:refkey5>BROWNX1978X425X429XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(78)85253-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261478852531</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261478852531</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(78)85253-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2018-05-10T13:44:30.62111Z</xocs:timestamp>
+         <xocs:cover-date-start>1978-03-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261478852531-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478852531/MAIN/application/pdf/b5bc47da42c787e438e09be09c10eec1/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478852531/MAIN/application/pdf/b5bc47da42c787e438e09be09c10eec1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>384037</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261478852531-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478852531/PREVIEW/image/png/323f020a37e25963ad9321837395f678/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478852531/PREVIEW/image/png/323f020a37e25963ad9321837395f678/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52430</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 54, number 3 CHEMICAL PHYSICS LETTERS  15 March 1978    FINE STRUCTURE ABOVE THE CARBON K-EDGE IN METHANE AND IN THE FLUOROMETHANES    Frederick C. BROWN  Opartn:ent of Physics, University of Illinois,  Urbana, Illinois 61801, USA    R.Z. BACHRACH  Xerox Palo Alto Research Center,  Palo Alto, California 94304, USA    and    A. BIANCONI  Stanford Synchrotron Radiation Project,  Stanford, California 94305, USA    Received 20 October 1977  Revised manuscript received 3 January 1978     Synchrotron radiation has been utilized to obtain high resolution soft X-r iy absorption spectra above the carbon Kedges in CH4, CD4 and the fluoromethanes. The results near threshold are in dose agreement with forward scattering electron energy loss data in the cases where that comparison can be made. With increasing fluorination the Rydberg-like threshold spectra of methane shift to higher energy and evolve into a complex band in CF4_ Weil above threshold extended fme structure (EXAFS) is observed in CF4.     Absorption spectroscopy above the carbon K-edge at photon energies of about 284 eV (43.7 A) has long been of interest as a possible technique for obtaining structural and energy level information. For example, extended X-ray absorption fine structure (EXAFS) [1 ] if extended into this relatively long wavelength X-ray region might be informative about changes in interatomic distances in organic molecules. It is also true that the detailed absorption structure observed within a few electron volts of a deep level threshold is specific to the atomic environment whether that environment is for an atom in the condensed state or a molecular gas. In the case of light elements and sufficiently small molecules it should be possible to compare observations of threshold structure with ab initio theory of excitation from core levels to excited Rydberg and valence    * Supported in part by the National Science Foundation under grant no. DMR 76 2O6O.    molecular orbitals. This would relate to recent ideas about inner and outer-well effective potentials (2] and could yield a better understanding of threshold response in more corr plicated systems. We have studied methane and the series of fluoromethanes to explore these ideas.   Unfortunately the K-edges of carbon (284 eV), nitrogen (399 eV) and oxygen (532 eV) lie in an extremely awkward part of the electromagnetic spectrum. The source problem has been solved to some extent with the advent of synchrotron radiation, however, monochromators in this grazing incidence region of the vacuum ultraviolet suffer from low efficiency and everpresent carbon contamination. The latter can be minimized by the use of fresh surfaces in ultrahigh vacuum. The present measurements were made with the ultrahigh vacuum "grasshopper" monochromator (3] on the four degree line at the Stanford Synchrotron Radiation Project. The various gases studied were contained at pressures up to 3 torr within a thin Window    425  Volume 54, number 3 CHEMICAL PHYSICS LETTERS 15 March 1978    gas cell 13_5 cm long inside a separate ultrahigh vacuum chamber beyond the focussing mirror after the exit slit of the monochromator. Evaporated titanium films   1000 A thick were supported by 82% transparent Ni mesh over six mm diameter apertures in two miniconflat flanges. It was possible to make these windows sufficiently free of holes so that a pressure of 10-9 torr could be maintained outside the cell with several torr of gas inside- A photon pass band from 50 eV up to the Ledge of Ti at 460 eV was achieved using a 2400 21mm replica grating of 2 m radius in the monochromator. With entrance and exit slits set at approximately 15 micron a spectral bandpass of about 0.4 eV at 284 eV was achieved. The instrument was calibrated with reference to the 2P3/, -&gt;4s transition of argon gas shown by Nakamura et al. [4] to occur at 244 ± 0.05 eV.   The K-edge of methane (CH4) is shown in the upper part of fig. 1. A strong resonance is observed at    14!  12  8_  4-    l2~-  8_  4    0 284292 300 308  PHOTON ENERGY (eV)    Fig- 1. Threshold K-spectra for methane gas and the fluoromethanes. Because of difficult stray light corrections the absolute cross sections in Mb are only known to about 20% accuracy- Vertical lines 4, 5, 6 and 7 indicate ionization energies from refs. [I2-i4j_    426    288.1 eV preceded by a weak line at 287.0 eV in approximate agreement with the early data of Chun [SJ and the more recent electron yield spectra of Eberhardt [6], however, absolute cross sections are given. The spectrum closely agrees with recent energy loss data (7J and indicates that one or more states emerge into the continuum leading to a peak at about 289.4 eV. The methane spectrum differs in two ways from the 1 s -tip Rydberg series of neon (8J, which is the corresponding united atom. The initial line is relatively weak and the strong second line at 288.1 eV is slightly asymmetric. ;;ague et al- (9] noted the first of these differences and assigned the first line to a forbidden I a 1 - 3a 1(3s) Rydberg transition which is observed because of vibronic coupling. They estimated the oscillator strength and suggested it should double in strength in CD4 compared to CH4. The strong second line plus following structure was assigned to IaI -&gt; nt2 (ttp) with n ~,&gt; 3 allowed dipole transitions. This theory and also the work of Deutsch and Curtiss [10] is compared with experiment in table 1.   We have observed the K spectrum for deuterated methane CD4 using two different commercial sources of gas (analysis indicated a CD4 content of 96% or greater in each case). The spectra for CH4 and CD4 were found to be almost identical with the first line in CD4 slightly lower if anything. This is in agreement with the recent electron energy loss data of Hitchcock et al. [ 11 ] who find a 19% decrease in the deuterated case. The result is explained in terms of a different vibronic coupling mechanism.   Fig. 1 also shows K-spectra for the fluoromethanes_ Prominent features are numbered, and tentative assignments given in table 1. For this purpose energies are refereed to the ionization limits (12-14] to obtain term values. We then rely upon the observations of Robin and co-workers (15], namely that the term values of Rydberg states in a given molecule depend upon the final configuration and are nearly independent of the initial orbital. Thus with different amounts of fluorination the 3s term values should hold in the range of 4.0.3 eV, whereas the 3p and 3d term values should remain at 2? and 1.6 eV, respectively-   Strong chemical shifts with increasing fluorination can be seen in the absorption data of fig- 1 _ These closely follow ESCA binding energy shifts and exceed 10 eV in CF4. Note also how, as one proceeds from methane through the fluorinated compound, line num-  Volume 54, number 3 CHEMICAL PHYSICS LETTERS 15 March 1978    Table 1  Spectral features, absolute energies observed and calculated, and final molecular orbital assignments    Substance and Spectral Energy a) Calculated Orbital  point group feature  energy (eV) assignment    E(eV)    oE(eV)    CH4(Td) 1 287.0 3 8 287.1 c), 287.3 d) Sat (3s)   2 288.1 2.7 288 5 c), 288.4 d) 3t2 (3p)   3 289.4 1.4  nt2, n -_ 4   4 290.8 b) 0.0 291 0 c) ionization  CH3F(C3v) 1 2891 4.4  3s   2 290.5 3.0  3p   3 291.6 1.9  3d   4 292.0 1.5  rap   5 293 5 e) 0.0 293 9 c) ionization  CH2 Fz (C30 1 291.9 4 5  3s   2 292.9 3 5   3 294.0 2.4  3p   4 294 5 1 9  3d   5 295.5 0 9  n p   6 296.4 e) 0 0 297 1 c) ionization  CHF3 (C30 1 294 8 4 3  -   2 295.3 3-8  -   3 297.2 1.9  3d''   4 298.0 1 2   5 298.6 0 5   6 299.1 e) 0 0 300_3 c) ionization  CF4(Td) 1 297 6 4 2  -   2 298.0 3.8  -   3 298 5 3.3  -   4 298.9 2 9  -   5 299.9 1.9  3d?   6 301 0 8  rap   7 301 8 e) 0.0  ionization    a) Absolute energies ± 0.05 eV from present observations. b) Core ionization energy, from ref. [12[. c) Ref. 1101. d) Ref. 191. e) Core ionization energy, refs. 113,141.    ber 1 steepens and finally merges with line 2 in the complex spectrum of CF4. As pointed out by Wight and Brion [7j the intense band and features i-4. between 296 and 299 eV in the CF4 spectrum can hardly be identified with the Rydberg-like s and p transitions of CH4. Apparently the excitation of CF4 is a good example of an inner-outer well problem. It would be useful to have a theory for the effective potential as this is a case intermediate between BF3 (21 and SF6 [16] .     Additional low level structure can be seen in the spectrum for CF4 beyond 308 eV. This is shown in    fig. 2 with data extending 150 V above threshold. The two broad bands, one at 315 the other at 324 eV have been observed before, and at least one of these may be due to double excitations [7J. Over a wider range a slowly varying modulation can be seen. Two maxima and two minima are indicated by arrows in fig. 2. We believe this to be the first EXAFS observation at the carbon K-edge-     Extended fine structure or EXAFS is a diffraction effect associated with back scattering of an outgoing electron wave by atoms surrounding an excited atom. In a simple system the observed modulation is a sutra    427  Volume 54, number 3 CHEMICAL PHYSICS LETTERS 15 March 1978    12    z  C -  r  U  W    m ss 4 U    0L  i `~'-L -L   2 ~3 4 5 6  k(A ')      i  290 310 330 350 370 390 410 430 450   PHOTON ENERGY(eV)    Fig. 2. Absorption of CF4 over an extended range. Inset shows the n-value for the maxima and minima, indicated by arrows, plotted against wavevector k.    of expressions of tire form    X(k) = II(k~ n)I e-Z°2k2 sin [2kr + 28 (k)j   kR'-    where k = (0_263 E)1/2 A-1 is the wavevector of the outgoing photoelectron whose energy E is measured with respect to the ionization threshold, f(k, 7r) is the backscattering amplitude, R the distance to a scattering atom, a2 is the mean square fluctuation in R and 25 (k) is a total phase shift describing propagation of the photoelectron to scattering atom and back againGiven appropriate wavefuncttons it should be possible to calculate the phase shift 28 (k) for the excited carbon and scattering fluorine ions in CF4_ The fluorine atoms are in a tetrahedral arrangement all at the same distance from the carbon, therefore a single EXAFS frequency should result from the sin term in eq. (1). Scattering by light elements such as fluorine is expected to produce large oscillations which damp rapidly- In addition, vibrational effects will be minima] close to threshold, therefore, the essential information about the carbon-fluorine bond distance may lie relatively close to threshold. Rather than carry out the complete EXAFS calculation or attempt a Fourier inversion of the data over a limited range, the simple graphical method described by Lytle et aI. [17] has been used. In this method, the phase shift is taken to be approximately linear, S = -ak + (3, and for a single coordination distance, the maxima (n = 0, 2, 4, ._.) and minima (n = 1, 3, 5.._) of the sin function are determined by:    428    (2n + I ) n/2 = 2k (r-a) + 20.    (2)     The slope of a plot of n versus k allows determination of R-a from eq. (2). When this is done for the data of fig. 2 quite a good straight line is obtained as shown. The known C-F bond distance is R = 1.323 A and this gives a coefficient a = 0.30 -f- 0.02_ This is a reasonable value of a quite close to that obtained in other cases [17,18). The extended fine structure observed for CF4 suggests the possibility of using this technique for detecting structural changes following reactions or possibly adsorption on surfaces. For such purposes, however, it would bee desirable to allow for a wider range of energies above threshold and as good a signal to noise ratio as possible.     The authors would like to thank M.B. Robin for helpful comments as well as for providing some samples. We thank H. Petersen, H_ Six, M_ Hecht, B.A. Fraass and 3_C. McMenamin for help with the measurements and samples. They are also grateful to the Director and staff of the Stanford Synchrotron Radiation Project which is supported by the National Science Foundation under contract number NSF DMR 73-07692_    References    [ 1 ] B-hi. Kincaid and P. Eisenberger, Phys_ Rev. Letters 34 (1975)1361.  (2j B. Cadioli, U_ Pincelli, E. Tosatti, U. ratio and J_L_ Ohmer, Chem. Phys. Letters 17 (1972) 15.  (3j F.C. Brown, R.Z. Bachrach, S B.hf_ Hagstrom, N. Lien   and C.H. Pruett, in- The IVth International Conference   on Vacuum Ultraviolet Radiation Physics, eds. E.E. Koch,   R. Haensel and C_ Kunz (Pergamon, New York- 1974);   Nucl. lnstr. Methods, to be published.  [4] N. Nakamura, M_ Sasanuma, S. Sato, M. Watanabe,   H. Yamishita, Y. lguchi, A. Ejiri, S. Nakai, S_ Yamaguchi,   T. SagaSVa, Y. Nakai and T. Oshi, Phys. Rev. Letters 21   (1965)1303. -  [5] H.U. Chun, Phys. Letters 30A (1969) 445.  [6] 1V_ Eberhardt, R= P. Haelbich, M_ Iwan, E.E_ Koch and   C. Kunz, Chem. Phys. Letters 40 (1976) 180.  [7j G.R. Wight and C.E. Brion,1. Electron Spectry_ 4 (1974)   25,327.  [8] F. Wuillemier, J. Phys_ (Paris) 32 C4-88 (1971), suppl_   no. 10.  [9] P.S. Bagus, M. Krauss and R.E. LaVrlla-Chem: Phys_   Letters 23 (19 7 3) 13.  Volume 54, number 3 CHEMICAL PHYSICS LETTERS 15 March 1978    (101 L.A. Curtiss and P.W. Deutsch, 1. Electron Spectry. 10   (1977)193;   P.W. Deutsch and L.A. Curtiss, Chem. Phys. Letters 39   (1976)588.  [ 111 H P. Hitchcock, M. Pocock and C.E. Brion, Chem. Phys.   Letters 49 (1977) 125.  (12] T.D.Thomas,1. Am. Chem. Sec. 92 (1970) 4184.    [ 131 K. Siegbahn, C. Nordling, G. Johansson, J. Hedntan, P.F. Heden, K. Hamrin, U. Gelius, T. Bergmark, L.O. Werme, R. Manne and Y. Baer, ESCA applied to free molecules (North-Holland, Amsterdam, 1971).    (141 D W. Davis, D.A. Shirley and T.D Thomas, J Chem.   Phys. 56 (1972) 671; 52 (1970) 3295.  [ 151 W.R. Harshbarger, M.B. Robin and E.N. Lassettre, J. Electron Spectry. 1 (1972/73) 319; M B. Robin, Higher excited states of polyatomic molecules, Vol 1 (Academic Press, New York, 1974) p. 184.  [ 161 J.L. Dehmer, J. Chem. Phys. 56 (1972) 4496.  [171 F.W. Lytle, D.E. Sayers and E.A_ Stern, Phys. Rev. B I1   (1975)4825  [181 P.A. Lee and G. Beni, Phys. Rev. B15 (1977) 2862    429  rine ions in CF4_ The fluorine atoms are in a tetrahedral arrangement all at the same distance from the carbon, therefore a single EXAFS frequency should result from the sin term in eq. (1). Scattering by light elements such as fluorine is expected to produce large oscillations which damp rapidly- In addition, vibrational effects will be minima] close to threshold, therefore, the essential information about the carbon-fluorine bond distance may lie relatively close to threshold. Rather than carry out the complete EXAFS calculation or attempt a Fourier inversion of the data over a limited range, the simple graphical method described by Lytle et aI. [17] has been used. In this method, the phase shift is taken to be approximately linear, S = -ak + (3, and for a single coordination distance, the maxima (n = 0, 2, 4, ._.) and minima (n = 1, 3, 5.._) of the sin function are determined by:    428    (2n + I ) n/2 = 2k (r-a) + 20.    (2)     The slope of a plot of n versus k allows determination of R-a from eq. (2). When this is done for the data of fig. 2 quite a good straight line is obtained as shown. The known C-F bond distance is R = 1.323 A and this gives a coefficient a = 0.30 -f- 0.02_ This is a reasonable value of a quite close to that obtained in other cases [17,18). The extended fine structure observed for CF4 suggests the possibility of using this technique for detecting structural changes following reactions or possibly adsorption on surfaces. For such purposes, however, it would bee desirable to allow for a wider range of energies above threshold and as good a signal to noise ratio as possible.     The authors would like to thank M.B. Robin for helpful comments as well as for providing some samples. We thank H. Petersen, H_ Six, M_ Hecht, B.A. Fraass and 3_C. McMenamin for help with the measurements and samples. They are also grateful to the Director and staff of the Stanford Synchrotron Radiation Project which is supported by the National Science Foundation under contract number NSF DMR 73-07692_    References    [ 1 ] B-hi. Kincaid and P. Eisenberger, Phys_ Rev. Letters 34 (1975)1361.  (2j B. Cadioli, U_ Pincelli, E. Tos</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>78852531</aid>
+            <ce:pii>0009-2614(78)85253-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(78)85253-1</ce:doi>
+            <ce:copyright type="unknown" year="1978"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Supported in part by the National Science Foundation under grant no. DMR 76-20644.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>Fine structure above the carbon K-edge in methane and in the fluoromethanes</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Frederick C.</ce:given-name>
+                  <ce:surname>Brown</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Physics, University of Illinois, Urbana, Illinois 61801, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.Z.</ce:given-name>
+                  <ce:surname>Bachrach</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Xerox Palo Alto Research Center, Palo Alto, California 94304, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Bianconi</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Stanford Synchrotron Radiation Project, Stanford, California 94305, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="20" month="10" year="1977"/>
+            <ce:date-revised day="3" month="1" year="1978"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Synchroton radiation has been utilized to obtain high resolution soft X-ray absorption spectra above the carbon K-edges in CH<ce:inf loc="post">4</ce:inf>, CD<ce:inf loc="post">4</ce:inf> and the fluoromethanes. The results near threshold are in close agreement with forward scattering electron energy loss data in the cases where that comparison can be made. With increasing fluorination the Rydberg-like threshold spectra of methane shift to higher energy and evolve into a complex band in CF<ce:inf loc="post">4</ce:inf>. Well above threshold extended fine structure (EXAFS) is observed in CF<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Kincaid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Eisenberger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1361</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Cadioli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Pincelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tosatti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Fano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="BIB3A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Z.</ce:given-name>
+                                 <ce:surname>Bachrach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.M.</ce:given-name>
+                                 <ce:surname>Hagstrom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Pruett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kunz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>E.E.</ce:given-name>
+                                       <ce:surname>Koch</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>R.</ce:given-name>
+                                       <ce:surname>Haensel</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The IVth International Conference on Vacuum Ultraviolet Radiation Physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pergamon</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref id="BIB3B">
+                        <ce:label>b</ce:label>
+                        <ce:textref>Nucl. Instr. Methods, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nakamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sasanuma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yamishita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Iguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ejiri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nakai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nakai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Oshi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1303</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Chun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-P.</ce:given-name>
+                                 <ce:surname>Haelbich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iwan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Koch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kunz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="BIB7A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Wight</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB7B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Wight</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wuillemier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>C4</sb:first-page>
+                              <sb:last-page>88</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>suppl. no. 10</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Bagus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Krauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>La Villa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="BIB10A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Curtiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Deutsch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB10B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Deutsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Curtiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>588</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Hitchcock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pocock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brion</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>125</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4184</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Siegbahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Nordling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hedman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Hedén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hamrin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Gelius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bergmak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.O.</ce:given-name>
+                                 <ce:surname>Werme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Baer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>ESCA applied to free molecules</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1971</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="BIB14A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shirley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>671</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB14B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Shirley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3295</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="BIB15A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Harshbarger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Robin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.N.</ce:given-name>
+                                 <ce:surname>Lassettre</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972/73</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>319</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB15B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Robin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Higher excited states of polyatomic molecules</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>184</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4496</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Lytle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Sayers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Stern</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4825</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Beni</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2862</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

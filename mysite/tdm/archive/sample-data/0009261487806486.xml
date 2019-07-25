@@ -1,0 +1,611 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261487806486</prism:url><dc:identifier>doi:10.1016/0009-2614(87)80648-6</dc:identifier><eid>1-s2.0-0009261487806486</eid><prism:doi>10.1016/0009-2614(87)80648-6</prism:doi><pii>0009-2614(87)80648-6</pii><dc:title>Electrolyte solutions between uncharged walls </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>142</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>485</prism:startingPage><prism:endingPage>491</prism:endingPage><prism:pageRange>485-491</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1987-12-25</prism:coverDate><prism:coverDisplayDate>25 December 1987</prism:coverDisplayDate><prism:copyright>Copyright © 1987 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Kjellander, Roland</dc:creator><dc:creator>Marčelja, Stjepan</dc:creator><dc:description>
+               Abstract
+               
+                  The anisotropic hypernetted chain approximation is applied to calculate the ion concentration profiles, the pair distribution functions and the surface-surface interaction between two uncharged slabs immersed in a primitive model electrolyte solution. The dielectric constant of the slabs is much smaller than that of the solvent. The full complexity of this problem is considered without further approximations. At short surface separations the ions are largely expelled from the space between the slabs due to repulsive image charge interactions. The pressure results clearly demonstrate the interdependence of the image charge interactions and the dispersion interactions between the slabs.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261487806486" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261487806486" rel="scidir"/></coredata><scopus-id>0004232979</scopus-id><scopus-eid>2-s2.0-0004232979</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0004232979" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011206">2001-12-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011206">2001-12-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-27T03:52:28</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261487806486</xocs:eid>
+      <xocs:pii-formatted>0009-2614(87)80648-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261487806486</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(87)80648-6</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08986</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150928">2015-09-28T05:47:04.423051-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19871225</xocs:date-search-begin>
+      <xocs:year-nav>1987</xocs:year-nav>
+      <xocs:indexeddate epoch="1007596800">2001-12-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>142</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>142</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 142, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>485</xocs:first-fp>
+      <xocs:last-lp>491</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>485</xocs:first-page>
+         <xocs:last-page>491</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19871225</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>25 December 1987</xocs:cover-date-text>
+      <xocs:cover-date-start>1987-12-25</xocs:cover-date-start>
+      <xocs:cover-date-year>1987</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1987 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ELECTROLYTESOLUTIONSBETWEENUNCHARGEDWALLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KJELLANDER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DERJAGUIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1941</xocs:ref-pub-year>
+            <xocs:ref-first-fp>633</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>VERWEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1948</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYSTABILITYLYOPHOBICCOLLOIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>MAHANTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DISPERSIONFORCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3"/>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ATTARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5"/>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2122</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9"/>
+         <xocs:ref-info refid="BIB10"/>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>NINHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>646</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>NINHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>664</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>GARVEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>993</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>FLORIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2889</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KJELLANDERX1987X485</xocs:refkey3>
+         <xocs:refkey4lp>KJELLANDERX1987X485X491</xocs:refkey4lp>
+         <xocs:refkey4ai>KJELLANDERX1987X485XR</xocs:refkey4ai>
+         <xocs:refkey5>KJELLANDERX1987X485X491XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(87)80648-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261487806486</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261487806486</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(87)80648-6</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-28T05:47:04.423051-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1987-12-25</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261487806486-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261487806486/MAIN/application/pdf/413d2674a44ee519d3e127ec9a8f5ef4/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261487806486/MAIN/application/pdf/413d2674a44ee519d3e127ec9a8f5ef4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>690244</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261487806486-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261487806486/PREVIEW/image/png/f22bcf8c7f137423f8f347dfbf7a286b/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261487806486/PREVIEW/image/png/f22bcf8c7f137423f8f347dfbf7a286b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>80991</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 142, number 6  CHEMICAL PHYSICS LETTERS  25 December 1987  ELECTROLYTE SOLUTIONS BETWEEN UNCHARGED WALLS    Roland KJELLANDER and Stjepan MAR~ELJA  Department ofApplied Mathematics. Research School of Physical Sciences, Australian National University,  Canberra, A CT 2601, Australia    Received 6 October 1987         The anisotropic hypernetted chain approximation is applied to calculate the ion concentration profiles, the pair distribution  functions and thc surface surface interaction between two uncharged slabs immersed in a primitive model electrolyte solution.  The dielectric constant of the slabs is much smaller than that of the solvent. The full complexity of this problem is considered  without further approximations. At short surface separations the ions are largely expelled from the space between the slabs due to  repulsive image charge interactions. The pressure results clearly demonstrate the interdependence of the image charge interactions  and the dispersion interactions between the slabs.  between two slabs immersed in an electrolyte solu-  tion. The slabs have a dielectric constant different  from that of the solvent. They remain uncharged, and  interact with the ions as hard walls and via the po-  larization charges induced at their surface (image in-  teractions). The electrolyte solution is described  within the primitive model, i.e. the solvent is mo-  delled as a dielectric continuum and the ions as  charged hard spheres. The radii of the anions and the  cations are identical, so we have complete charge  symmetry.   In the traditional theory of interactions between  colloid particles, the DLVO theory [1], the inter-  particle force is the sum of two contributions: the  dispersion force between the dielectric media as cal-  culated by the Hamaker or the Lifshitz theory and  the contribution from the ions as given by the  Poisson Boltzmann (PB) thoery. In the present case  of uncharged surfaces, the latter contribution is zero.  Since the dispersion force is calculated for the sys-  tem in the absence of ions, it is assumed that the dis-  persion interaction between the particles is unaffected  by the presence of the ions. In practice, this is true  for the non-zero-frequency (infrared to ultraviolet)  contributions to the dispersion interaction, because  the ion response is too slow. However, with regard  to the zero-frequency term of the Lifshitz theory [2],  this assumption is incorrect. Thus, the DLVO theory  1. Introduction     The study of interactions between electro-neutral  particles in electrolyte solutions is interesting for  several reasons. At increased salt concentrations, the  behaviour of dispersions of uncharged colloidal par-  ticles, solutions of neutral macromolecules and ag-  gregates of non-ionic surfactants is fairly complex.  There are examples where the solute precipitates  ( salting out ) and others where the solubility in-  creases ( salting in ). The added salt will shield the  dispersion interaction between the particles. The an-  ions or the cations can preferentially adsorb to the  initially uncharged particles, making each particle  gain a charge and set up a diffuse double layer. Since  the (static) polarizability of the particles is likely to  be different from that of the solvent, there will be  image charge interactions affecting the ion distri-  bution near each particle. There are also important  contributions to the interactions from solvation pro-  cesses,  solvation  (or  hydration ) forces.   In order to gain insight into the fundamental  mechanisms affecting the interactions between un-  charged particles, it is important to study well-de-  fined model systems, where one can separately focus  attention on one of the many different effects, each  of which represents a complex phenomenon. In this  paper we report results of a study of the interaction  o 009-26 141871$ 03.50   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)  485  Volume 142, number 6  CHEMICAL PHYSICS LETTERS  25 December 1987  is based on inconsistent assumptions. It includes the  interactions due to correlations in the polarization  fluctuations of the dielectric media (dispersion  forces), but it neglects the interactions due to cor-  relations in charge density fluctuations of the ionic  medium and their dependence on the polarization  response of the particles (image charge interactions  of the ions).   The inconsistency of DLVO theory can be re-  moved by generalizing the Lifshitz theory to include  fluctuations in charge density of the electrolyte phase,  treating all electrostatic fluctuation interactions on  the same level. This has been carried out by Ninham  and Parsegian [3] on the basis of the linearized  Poisson Boltzmann equation. The result is that the  zero-frequency dispersion force between the dielec-  tric media is screened and decays at increasing sur-  face separation essentially in an exponential manner.  However, in this approach the ion density through-  out the space between the slabs is assumed to be equal  to the bulk density, and the charge fluctuations are  not accurately described since the ion ion correla-  tions are treated at the level of the Debye Huckel  theory. The severity of these assumptions has never  been tested.   Using both formally exact and approximate (but  accurate) methods, Attard, Kjellander, Mitchell and  Jonsson [4,5] studied the electrostatic fluctuation  interactions   including the contributions from the  ion ion correlations   in a related, but simpler sys-  tem: two identical uncharged slabs on which all ions  of the system were adsorbed but free to move along  the surface. The slabs were separated by a phase con-  sisting of pure solvent. The results highlight the in-  terdependence of the various fluctuation contribu-  tions to the pressure. The exact analysis [51 showed  that unless the dispersion interactions and the image  charge interactions were treated consistently, ficti-  tious pressure contributions can be introduced that  may even change the qualitative results. In this case  the ions also screen the dispersion interaction. This  screening is manifested [4,5] as a repulsive pressure  contribution from the image charge interactions that  identically cancels the zero-frequency dispersion term  calculated in the absence of the ions.   In the present system with an electrolyte solution  between the surfaces, the ion density changes with  surface separation, and it is important to treat the  density distribution and the ion ion correlations as  weil as the image and the dispersion interactions self-  consistently. The ion density is strongly affected by  the image charge interactions. If the dielectric con-  stant of the walls is less than that of the solvent, the  image interactions are repulsive and at short surface  separations the ions are largely expelled from the  space between the walls. The external pressure (in  the bulk that surrounds the system), which at large  separations is balanced by the internal pressure be-  tween the walls, will therefore constitute a large part  of the net pressure at short separations (at least if the  bulk electrolyte concentration is reasonably high).   In this paper we shall use the powerful anisotropic  hypernetted chain (HNC) approximation to treat  this problem. This approximation gives accurate re-  sults for systems with long-range interactions. Most  importantly, within the primitive model it allows for  a complete treatment of all the complications men-  tioned above without any further approximations  [6 8] and generally with only minor additional ef-  fort compared to calculations on the corresponding  closed system without image interactions.   We may note that compared to simulation tech-  niques, these features make the anisotropic HNC  method very attractive. Since simulations take place  in real space, there is no easy way to include multiple  images in the interaction potentials. The best option  is probably to tabulate the potential function, since  it constitutes a slowly converging series (while it is  a closed, analytic expression in Fourier space, which  is utilized in the HNC method). To obtain the proper  force curve as a function of surface separation, one  must do the calculations under the condition of con-  stant chemical potential (open system). A straight-  forward simulation would thus require a grand  canonical ensemble study with multiple images in-  cluded in ail interactions, i.e. very laborious calcu-  lations. There has been no such study to date.      2. Method     The anisotropic HNC theory used in the calcula-  tions is described in ref. [7]. The Omstein Zernike  equation and the HNC closure for the anisotropic  pair correlation functions are combined with an  equation for the density profiles that utilizes the ex-  486  Volume 142, number 6  CHEMICAL PHYSICS LETTERS  25 December 1987  plicit HNC expression for the chemical potential.  Given the chemical potential for the bulk solution  with which the system is in equilibrium, a self-con-  sistent solution can be obtained by a double iterative  procedure [7,8]. The interaction potentials arising  from the multiple images are explicitly included us-  ing the analytic, closed formula in Fourier space. The  long-range tail of the direct correlation function due  to the electrostatic ion ion and ion image charge  potentials is subtracted and treated analytically. Li-  kewise, the discontinuity of the correlation function  at the hard-core diameter and the accompanying  long-range tail in Fourier space are eliminated and  treated analytically. For further details see refs. [7,9].   The net pressure between the surfaces equals    Pfl~~ 1~ionic +Pjj~p Pbulk      where the interaction due to the ions between the  slabs is  PionicPkin +Pei +Pcore +Pim      Here, Pkjn is the ideal (kinetic) contribution calcu-  lated at the midplane between the surfaces, P~1 is the  electrostatic pressure across the midplane due to the  correlations of the ions in one half with those in the  other, Pcore is the contribution due to core core con-  tacts across the midplane and Pjm is the image charge  contribution. Explicit formulae for these compo-  nents can be found in refs. [6,8]. The bulk pressure,  Pbulk, must be calculated within the same approxi-  mation. Fdiip is the dispersion interaction between  the dielectric media in the absence of ions. Note that  P0~~ and ~disp are additive as a consequence of the  basic assumption that the dielectric media respond  linearly.   Since in this paper we are considering the static  dielectric properties of the slabs and the solvent, we  only include the zero-frequency part of the disper-  sion interaction [21, i.e. we take    Pcjjspfljip =  k8TA(e~)/8nd5    where d is the distance between the dielectric dis-  continuities, k3 is the Boltzmann constant, T is the  temperature, 2(x) = Z,,&gt;0x 1n3, e~= (c~    I + €2) and I and €2 are the dielectric constants of  the solvent and the slabs, respectively. The remain-  ing, non-zero frequency part of Pdisp can, to a very  good approximation, be added to our results.  3. Results and discussion     We have investigated the system at two different    salt concentrations of the surrounding bulk electro    lyte solution, 0.1 and 0.5 M. The ions were mono    valent and had a diameter of 4.6 A. The dielectric    constant of the solvent was €1 = 78.358 and that of    the slabs ~2 = 3.00, the dielectric discontinuity being    located at the plane of contact between the ions and    the slab surface (i.e. the distance of closest approach,    w, of the ion centers to the discontinuity was w= 2.3    A). The temperature was 298.15 K. We have chosen    a coordinate system with the z axis perpendicular to    the walls and with the origin at the midplane be    tween them. The x and y axes lie in that plane.   (1) Throughout this paper the surface separation will be    measured as the distance, d, between the dielectric    discontinuities.     Fig. 1 shows the concentration profile of the ions    between the slabs for various surface separations in    the case where the bulk concentration is 0.5 M. Be    cause of the charge symmetry, the profiles for the an    ions and the cations are identical. Due to the  0.6      0.5  C 0.4  n  -ri  4)  (o  L  4)  C  w  o  C  o  (J  0.3  0.2  0.1      0.0  (2) Fig. 1. The concentration profile, p(z). for an aqueous solution  of a symmetric 1:1 electrolyte between two uncharged, hard walls  at various surface separations (full curves, from top to bottom:  22.6, 17.5, 13.8, 9.2, 6.6 and 5.6 A separation, defined as the dis-  tance between the dielectric boundaries). The walls have lower  dielectric constant (e2=3.00) than the solvent (e~ =78.358). The  dielectric discontinuities are located 2.3 A (the ionic radius)  outside the vertical portions of the curves. The system is in equi-  librium with a 0.5 M electrolyte solution (bulk reservoir). This  concentration is indicated by the dashed line.  z (X)  487  Volume 142, number 6  CHEMICAL PHYSICS LETTERS  25 December 1987  repulsive image interactions with the walls, the ion  concentration close to the surfaces is lower than in  the middle (the images are repulsive when ~ &gt; efl).  At small separations, these interactions cause most  of the ions to be expelled from the space between the  slabs. Note that the rate of expulsion increases with  decreasing surface separation. The reason for this is  that the surface polarization charges grow in mag-  nitude since the induced charge at one surface in-  duces a charge at the other surface and vice versa.  This multiple coupling becomes stronger when the  surfaces come close together. In terms of the image  charges, this can be expressed as an increase in the  repulsions from the multiple images since they come  closer to the surfaces at smaller separations.   From these results we can conclude that it is im-  portant to have a correct image potential function  and an accurate method to handle the equilibrium  condition with the bulk solution.   Fig. 2 shows examples of the pair distribution  functions g~( r, z, z ) and g,~( r, z, z ) between like and  unlike ions (due to the charge symmetry g+ + =g_ .).  The variables z and z  denote the z coordinates of  the two particles and r= ri, where r~(x x ,  y y ) is the radius vector in cylindrical coordinates  counted from one of the particles. Since the pair dis-  tribution functions are anisotropic, they are compli-  cated to plot in full. We have restricted ourselves to  plotting a few examples of the g value in a plane  passing through an ion center and lying parallel to  the surfaces, i.e. g as a function of r for z=z .   The dashed curves in fig. 2 show the ion distri-  butions around an ion that is located at the midplane  between the walls for a system with a surface sepa-  ration d= 24.3 A. In this case, the ion concentration  at the midplane is close to the bulk value of 0.5 M.  The dotted curves show the ion distributions around  an ion close to a wall in the same system, and we see  that the ion ion correlations are much stronger there.  This is due to the ion image charge interactions; the  ions in the neighbourhood of the ion at r~ O interact  with both the latter and with its image charges (the  charges on the ion and its images have the same sign).  This effectively increases the coupling strength. The  full curve in fig. 2 shows the pair distribution when  the surface separation is reduced to d= 7.6 A (g is  nearly the same at the surfaces and at the midplane  here). In this case, we see that the correlations are  Fig. 2. The ion ion correlation functions g~(r, z, z ) plotted for  a few cases with z= z  in different planes parallel to the wall  (z=constant; z being the coordinate axis perpendicular to the  wall). For this kind of plot, one ion is located at the origin and r  denotes the distance in the plane that passes through the ion, while  z  is its z coordinate. The lower set of three curves shows the  correlation between ions of equal charge and the upper set be-  tween those of opposite charge. For the dashed and the dotted  curves the surface separation is 24.3 A; the dashed curves show  the correlation when the central ion is located in the middle plane  between the walls and the dotted when it lies next to one of the  walls. The full curves are for the surface separation of 7.6 A, and  the central ion is located at one wall. The system is identical to  that of fig. I.        even stronger. This is a consequence of the increase  in surface polarization at short surface separations;  the multiple images lie closer to the surfaces and in-  fluence the ions more strongly. It is interesting to note  that the ions respond to the unfavourable interac-  tions with the image charges in two ways: they avoid  the space near the walls, which locally lowers the  concentration (fig. 1), and those ions remaining near  the walls cluster around ions of opposite charge (fig.  2), which could be described as ion pairing.   In fig. 3, the pressure between the surfaces is pre-  sented as a function of their separation, d. The net  pressure due to the ions, P10,~,.  PbUIk, is plotted to-  gether with the total net pressure ~flet from eq. (1),  which also involves the zero-frequency dispersion  interaction between the dielectric media (eq. (2)).  We see that at separations larger than about 6 A,  P0~   PbUIk becomes repulsive. This behaviour orig-  inates from a long-range, repulsive contribution in  N    N    L   15 20  r (X)  488  I  volume 142, number 6  CHEMICAL PHYSICS LETTERS  25 December 1987  I I I I  H-  I    t)  L  J  a  a  t)  L  9-  I  o  -J  F-  I    Ii)  L    e)  (J)  a)  L  EL  3 1  2 0  t  1      e   O -  2   4   0 5 10 15 20  Separation iX~    Fig. 4. A (og/linear diagram showing the total net attraction,    between the walls for two different concentrations of the bulk  reservoir solution; 0.5 M (lower curves) and 0.1 M (upper  curves). Note the two different ordinate scales applicable for these  cases. P,,,/RTis measured in units of M. The full curves show the  results of anisotropic HNC theory, while the dashed curves give  the predictions from the Ninham Parsegian theory, which is based  on the linearized Poisson Boltzmann equation. The filled sym-  bols show the attraction at 4=2w, which equals P1~,, ~FbuIk  (when all ions between the surfaces are squeezed out). The dot-  ted curve segments are obtained by interpolation between each  full curve and the corresponding filled symbol, and are not cal-  culated (see text).    lyte) is short-range due to the shielding effect of3he  ions, it follows by necessity that the correction term  13ionic   Pbulk must be long-range and repulsive. This  fictitious, repulsive contribution will show up in Pm,  since the image interactions express the change in  polarization. Our results clearly demonstrate that it  is very important to treat the various pressure con-  tributions in a fully consistent manner.   Fig. 4 compares Fnet for the systems with bulk con-  centrations of 0.5 and 0.1 M. In both cases the pres-  sure is everywhere attractive, and log(  Pnet) is  plotted to show the attraction over the entire range  of separations, d. When the separation is decreased,  more and more ions between the surfaces arc ex-  pelled (cf. fig. 1). Below d=5.6 A (the ion diame-  ter) all ions are expelled, and the net pressure  becomes P%5~ ~PbuIk. For the 0.5 and the 0.1 M so-  lutions PbUlk/RT= 1.03 and 0.19 M, respectively,  which are close to the ideal values. For each case in  fig. 4 we have indicated by a separate point the value  of P~ ~   Pbulk at the separation of 4.6 A. The full   5 10 15 20   Separation (A)    Fig. 3. The pressure between the walls as a function of their sep-  aration for the same system as in fig. 1. The unit of P/RT, where  R is the gas constant, is M. The dotted curve shows the net con-  tribution from the ions, P0,,.   Pbulk, while the full curve shows  the total net pressure, i.e. including the zero-frequency disper-  sion interaction, P1,,,,, between the dielectric media. (The non-  zero frequency dispersion force is not included in this treatment,  but it can simply be added to the force curves displayed.)    the term Pjm. However, this repulsion is not a real  feature of the system; it is merely a consequence of  the artificial separation of the various electrostatic  fluctuation interactions as discussed in section 1 and  in refs. [4,5]. In fact, the total net pressure Ffl0~ is  short-range and everywhere attractive (fig. 3). The  long-range, repulsive contribution to Pim and the dis-  persion interaction ~ which is also long-range,  cancel each other. (Remember that ~ is the at-  tractive pressure between the slabs in the absence of  ions.)   The physical basis of these observations can be ex-  pressed as follows. The polarization fluctuations in  the dielectric media and the charge fluctuations in  the electrolyte are interdependent. This coupling is  formally described with electrostatic images, i.e. the  change in dielectric polarization (averaged over  fluctuations) due to the presence of the ions. Despite  this interdependence one can insist on writing the  total interaction in the presence of ions as two sep-  arate terms: one term, ~ calculated in their ab-  sence, and a correction term, P10~   Pbulk, that is  nothing but the change in pressure due to the ad-  dition of the ions. Since ~ (without electrolyte)  is long-range and attractive, while P~, (with electro  25  489  Volume 142, number 6  CHEMICAL PHYSICS LEflERS  25 December 1987  curve, which shows the HNC values of P,~1, is ex-  tended to that point with a dotted curve. Due to nu-  merical difficulties, we have not made any HNC  calculations of the pressure in the region of the dot-  ted curve segment. For such short surface separa-  tions the coupling in the system is very large due to  the multiple images, and the HNC calculations con-  verge very slowly.   At larger separations each HNC curve in fig. 4 is  nearly a straight line, which implies an essentially ex-  ponential decay of the pressure. Accordingly, the in-  teraction between the surfaces is very short-range.  The result clearly demonstrates the screening of the  long-range, zero-frequency dispersion interaction, eq.  (2), which is present in the salt-free system. The  screening implies that when salt is added, this long-  range interaction is replaced by the short-range,  nearly exponentially decaying interaction as evalu-  ated from eq. (1).   It is of interest to make a comparison with the  Ninham Parsegian (NP) theory [3] mentioned in  section 1. The predictions of this theory for the same  systems are also plotted in fig. 4. For the same ge-  ometry as used in the HNC calculations, the inter-  action free energy per unit area in the NP theory is  given by    F(d)=      xfln1~l ((s+k)eDexp( 2wk)+s k 2  J L \js k)€~ exp( 2wk)+s+k      xexp[_2s(d_2w)]] kdk,    where s= (k2 + ic2) 112, Ic ~S the Debye parameter for  the bulk phase and w is the distance of closest ap-  proach of the ionic charges to the dielectric discon-  tinuities. (Eq. (3) is a straightforward generalization  of eq. (7.49) in ref. [2], in which w is assumed to  be zero.) The pressure is obtained by taking the neg-  ative derivative of F with respect to d. NP theory  treats the ion ion correlations on the Debye Huckel  (DH) level, using the bulk value of the ion concen-  tration throughout the space between the surfaces. In  fact, this theory can be derived from the DH theory  of inhomogeneous ionic fluids [10] by imposing a  constant profile.   From fig. 4 we see that NP theory works surpris-  ingly well at medium to large surface separations. The  attraction calculated in the HNC theory is 50% larger  than the NP value in that regime, but the NP theory  predicts the right slope of the curve. For large sep-  arations, eq. (3) yields a pressure that, decays as   (k~T,c2/4n) exp(  2icl)/l, where l=d 2w, i.e. the  decay length is half a Debye length. (Note that lis  the width of the  electrolyte phase , i.e. the space  accessible to the ion centers.)   The HNC and the NP curves in fig. 4 are calcu-  lated using the same system parameter values. Since  these curves run nearly parallel at medium to large  separations, it is possible to get them to overlap in  that region by changing the w parameter used in the  NP expression. For the 0.5 M case, the NP curve with  w= 2.8 A nearly coincides with the HNC curve with  w=2.3 A for d . 10 A. Since this refers to the pres-  sure as a function of d, it means that the width, 1, of  the electrolyte phase in the NP case is reduced by 1.0  A compared to the HNC case at the same surface  separation. This curve fitting exercise was motivated  and the results can be rationalized as follows. NP  theory assumes that the ion concentration is equal to  that of the bulk for   ~ z~ ~l, while the correct    concentration profile decreases somewhat before it    drops to zero at z=   ~l(fig. 1). By reducing/by 1.0    A in the NP case one partially mimics this effect.     From fig. 4 it is evident that NP theory breaks    down at small surface separations. Since the  real    ism  of the primitive model at these short separa    tions is poor in any case, it may seem of little    consequence. However, a major deficiency of NP   (3) theory is that it does not consider the influence of    the image interactions on the density profile. As we    have seen, this leads to quantitatively inaccurate    pressures at all separations.     In real applications of these results, the higher-fre    quency contributions to the dispersion interaction    have to be added. In contrast to the zero-frequency    term, these are not screened by the electrolyte and    remain long-range [21. Accordingly, they will dom    inate in the pressure at large distances. In most cases    they constitute the dominant part of the dispersion    interaction. However, there are some important cases    (e.g. interactions of hydrocarbon across water [2,11])    where in the absence of salt the zero-frequency term    contributes a large part of the total dispersion inter-  490  25 December 1987  Volume 142, number 6  CHEMICAL PHYSICS LEiTERS  action. Due to the screeening of the zero-frequency  contribution, the long-range behaviour of the inter-  action will then be considerably changed when salt  is added to the system. In the general case, there will  always be a substantial electrolyte effect at very large  separations where the higher-frequency contribu-  tions are retarded and the zero-frequency term dom-  inates in the absence of salt.   As we have seen, the salt effect on the interaction  at small separations is also considerable. To a large  extent, this is due to the exclusion of the ions from  the space between the surfaces, which makes the ex-  ternal bulk pressure push the slabs together; at short  separations ~net ~ P~j~   Pbutk. An analogous mecha-  nism is likely to contribute to the  salting out  of  neutral solutes from aqueous solutions [12,13].  References    [I] B.V. Derjaguin and L. Landau, Acta Phys. Chim. USSR 14  (1941) 633;  E.J.W. Verwey and J.Th.G. Overbeek, Theory of the stabil-  ity of lyophobic colloids (Elsevier, Amsterdam, 1948).  [2] J. Mahanty and B.W. Ninham, Dispersion forces (Aca-  demic Press, New York, 1976).  13] B.W. Ninham and A. Parsegian, unpublished (1972), pre-  sented inch. 7.4 of ref. [2].  14] P. Attard, D.J. Mitchell and R.Kjellandcr, Chem. Phys.  Letters 139 (1987) 219.  [5] P. Attard, D.J. Mitchell, R. Kjcllander and B. Jonson, to be  published.  [6] R. Kjellander and S. Mar~elja, Chem. Phys. Letters 112  (1984) 49.  [7] R. Kjellander and S. Mar~elja, J. Chem. Phys. 82 (1985)  2122.  [8] R. Kjellander and S. Mareelja, Chem. Phys. Letters 127  (1986) 402.  [9] R. Kjellander and S. Mar~elja, to be published.  [10] P. Attard, D.J. Mitchell and B.W. Ninham, to be published.  [11] B.W. Ninham and A. Parsegian, Biophys. J. 10 (1970) 646,  664.  [12] M.J. Garvey and 1.D. Robb, J. Chem. Soc. Faraday Trans.  175(1979) 993.  [13] E. Florin, R. Kjellander and J.C. Eriksson, J. Chem. Soc.  Faraday Trans. 180 (1984) 2889.  491  o the ion centers.)   The HNC and the NP curves in fig. 4 are calcu-  lated using the same system parameter values. Since  these curves run nearly parallel at medium to large  separations, it is possible to get them to overlap in  that region by changing the w parameter used in the  NP expression. For the 0.5 M case, the NP curve wi</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>87806486</aid>
+            <ce:pii>0009-2614(87)80648-6</ce:pii>
+            <ce:doi>10.1016/0009-2614(87)80648-6</ce:doi>
+            <ce:copyright type="unknown" year="1987"/>
+         </item-info>
+         <head>
+            <ce:title>Electrolyte solutions between uncharged walls</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Roland</ce:given-name>
+                  <ce:surname>Kjellander</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Stjepan</ce:given-name>
+                  <ce:surname>Marčelja</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Applied Mathematics, Research School of Physical Sciences, Australian National University, Canberra, ACT 2601, Australia</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="6" month="10" year="1987"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The anisotropic hypernetted chain approximation is applied to calculate the ion concentration profiles, the pair distribution functions and the surface-surface interaction between two uncharged slabs immersed in a primitive model electrolyte solution. The dielectric constant of the slabs is much smaller than that of the solvent. The full complexity of this problem is considered without further approximations. At short surface separations the ions are largely expelled from the space between the slabs due to repulsive image charge interactions. The pressure results clearly demonstrate the interdependence of the image charge interactions and the dispersion interactions between the slabs.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.V.</ce:given-name>
+                                 <ce:surname>Derjaguin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Landau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Phys. Chim. USSR</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1941</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>633</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.J.W.</ce:given-name>
+                                 <ce:surname>Verwey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Th.G.</ce:given-name>
+                                 <ce:surname>Overbeek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of the stability of lyophobic colloids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1948</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mahanty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Dispersion forces</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>B.W. Ninham and A. Parsegian, unpublished (1972), presented in ch. 7.4 of ref. [2].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Attard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P. Attard, D.J. Mitchell, R. Kjellander and B. Jönson, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marčelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marčelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2122</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marčelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Kjellander and S. Marčelja, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P. Attard, D.J. Mitchell and B.W. Ninham, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Parsegian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>646</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Parsegian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>664</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Garvey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.D.</ce:given-name>
+                                 <ce:surname>Robb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>993</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Faraday Trans. I</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Florin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Eriksson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2889</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Faraday Trans. I</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

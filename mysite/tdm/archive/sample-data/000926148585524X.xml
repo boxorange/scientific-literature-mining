@@ -1,0 +1,1212 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926148585524X</prism:url><dc:identifier>doi:10.1016/0009-2614(85)85524-X</dc:identifier><eid>1-s2.0-000926148585524X</eid><prism:doi>10.1016/0009-2614(85)85524-X</prism:doi><pii>0009-2614(85)85524-X</pii><dc:title>Vibration-vibration energy transfer processes in liquid xenon: a measurement of the rate constant for Hcl(⋎ = 2) + HCl(⋎ = 0) → 2HCl(⋎ = 1) </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>121</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>272</prism:startingPage><prism:endingPage>278</prism:endingPage><prism:pageRange>272-278</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-11-08</prism:coverDate><prism:coverDisplayDate>8 November 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Vlahoyannis, Yannis P.</dc:creator><dc:creator>Krueger, Herman</dc:creator><dc:creator>Knudtson, J.Thomas</dc:creator><dc:creator>Weitz, Eric</dc:creator><dc:description>
+               Abstract
+               
+                  The rate constant for the deactivation of HCl(ν = 2) by HCl has been measured in liquid Xe at 208 K. Rate constants for deactivation of HCl(ν = 2) by HClCCl2 were also measured at 208 K in the gas phase and in liquid Xe solutions. Both processes were found to be accelerated by the solution environment. The possible physical reasons for this enhancement are discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926148585524X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926148585524X" rel="scidir"/></coredata><scopus-id>0038879742</scopus-id><scopus-eid>2-s2.0-0038879742</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0038879742" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011116">2001-11-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011116">2001-11-16</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:27:39</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926148585524X</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)85524-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926148585524X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)85524-X</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X04010</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T20:37:24.642862-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19851108</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1005868800">2001-11-16T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>121</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>121</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 121, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>272</xocs:first-fp>
+      <xocs:last-lp>278</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>272</xocs:first-page>
+         <xocs:last-page>278</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19851108</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>8 November 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-11-08</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>VIBRATIONVIBRATIONENERGYTRANSFERPROCESSESINLIQUIDXENONAMEASUREMENTRATECONSTANTFORHCL2HCL02HCL1</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VLAHOYANNIS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MADIGOSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>489</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>LAUBEREAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>607</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CALAWAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>485</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CALAWAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2842</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>OXTOBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>487</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>OXTOBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>987</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KNUDTSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KNUDTSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>MOSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6631</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BERRY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3114</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>220</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>SCHRAMM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>850</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>SHARMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>924</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BENEDICT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1671</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13"/>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>PINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>30</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>BAIOCCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2041</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>BRATOZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1051</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>CHAKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1934</xocs:ref-pub-year>
+            <xocs:ref-first-fp>644</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>BULANIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>ONSAGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1936</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1486</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>GLUECKAUF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1637</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>WARSHEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1640</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>DAVIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>505</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4804</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>DELALANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1918</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>CHESNOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>REIF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FUNDAMENTALSSTATISTICALTHERMALPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VLAHOYANNISX1985X272</xocs:refkey3>
+         <xocs:refkey4lp>VLAHOYANNISX1985X272X278</xocs:refkey4lp>
+         <xocs:refkey4ai>VLAHOYANNISX1985X272XY</xocs:refkey4ai>
+         <xocs:refkey5>VLAHOYANNISX1985X272X278XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)85524-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926148585524X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926148585524X</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)85524-X</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T20:37:24.642862-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-11-08</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926148585524X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148585524X/MAIN/application/pdf/411e4b6613dbdede21485a7057290002/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148585524X/MAIN/application/pdf/411e4b6613dbdede21485a7057290002/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>627973</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926148585524X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926148585524X/PREVIEW/image/png/1dbdf2aea10edfb24876178d69df8f0e/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926148585524X/PREVIEW/image/png/1dbdf2aea10edfb24876178d69df8f0e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67808</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 121, number 3 CHEMICAL PHYSICS LETTERS  8 November 1985    VIBRATION-VIBRATION ENERGY TRANSFER PROCESSES IN LIQUID XENONA MEASUREMENT OF THE RATE CONSTANT FOR HCI(v= 2)+ HCI(o= 0)-&gt; 2HCI(L= 1)    Yannls P_ VLAHOYANNIS, Herman KRUEGER, J Thomas KNUDTSON ' and Eric WEITZ Deparrmenr of Chemtsrn Norrhitesrrrn Untverstn Evanston IL 60201 US,1    Recei,,d 24 June 1985 to final form 16 August 1985     The rate constant for the deacmatton of HCI(o = 2) by HCl has been measured to liquid Xe at 208 K Rate constants for deactt,atton of HCI(v = 2) by CH== CCl= were also measured at 208 K to the gas phase and to liquid ae solution Both processes tt,re found to be accOerated by the solution t-n,ironment The possible phytcal reasons for this enhanct.mt.ni are discussed    1 Introduction     Though there had been earlier work on vibrational relaxation in liquids [1] , Callaway and Ewing's report of the vibrational relaxation rate for liquid N2 [2] produced a considerable amount of interest and activity in the area of vibrational energy transfer and relaxation in the liquid phase. Much of the work has focused on neat diatomic liquids or dilute solutions of diatomic gases in cryogenic liquids Various isolated binary collision (IBC) models have been extensively used to describe energy transfer in such systems [3] These models essentially treat liquids as high density gases- Relaxation rates in liquids are thus compared to gas phase results by correcting the gas phase rates, at the desired temperature, for the change in density and the liquid radial distribution function   The IBC models have been primarily employed to describe vibration to translation/rotation (V - T/R) relaxation, where the inelasticity hw is much larger than kT When car &gt; 1, where ai is the frequency of the relaxing mode and T the lifetime, only infrequent, highly impulsive collisions, which occur at the repulsive part of the potential, contribute to the relaxation rate The effects of three-body collisions, interference between successive collisions and long range interac-    t Present addrt,ss Aerospace Corp M5-753 P O Box 92957  Los Angles CA 90009 USA    272    tons may thus be ignored On the other hand, when cjr S 1, as could be the case for near resonant vibration to vibration (V - V) transfer, these effects can  become important and IBC models may break down  [4] - An effective probe of the potential breakdown of IBC models therefore involves the measurement of V  -&gt; V energy transfer rates in solution and their comparison to gas phase rates measured at the same tempera-  ture   In previous studies in this laboratory, it was found that the V --&gt; T/R relaxation rate of HC1 (v = 1) by  HC1 in liquid Xe was in good agreement with the IBC model [5] _ On the other hand, the deactivation rates of HCl (u= 1) by either 1,1-dichloroethylene or  chloroethylene in liquid xenon were found to be 3 4  ± 0_6 and 5_0 ± 0-7 times faster, respectively, than the corresponding gas phase rates [6] _ The latter deactivation processes have been attributed to near resonant  V - V transfer from HC1 (u = 1) (2850 cm-1) to 1,1-  dichloroethylene or chloroethylene- Based on proximity, the most likely accepting mode is v7 at 3035  cm-1 in l,l-dichloroethylene and v3 at 3030 cm-1 in chloroethylene_ In the present study we extend the investigation of solvent effects on V - V energy transfer by measuring the rate of the process    ks  HC1(u = 2) + HC1(u = 0) -&gt; HC1 (u = 1) + HC1 (u = 1)   (1) and also the rate of deactivation of HC1 (u = 2) by    0 009-2614/85/S 03 30 © Elsevier Science Publishers B-V (North-Holland Physics Publishing Division)  Volume 121, number 3 CHEMICAL PHYSICS LETTERS 8 November 1985    CH2=CC", In both cases measurements were made in oo  the gas phase and in liquid xenon solution at 208 K.    2 Experimental      The experimental apparatus has been described in   detail elsewhere [SJ Briefly, when the rate of HC1 (v  = 2) relaxation by CH2=CCI., was to be measured, the  low temperature cell, held at 208 K, was filled with   0 5-2.0 Torr of 1,1-dichloroethylene through a monel   high pressure vacuum line- When process (1) was to be   studied, 0 25_0 Torr of HCl were added to 1_0 Torr   of CH2=CC12 The cell was then isolated from the line,   which was pumped out and subsequently pressurized   with = 8 5 atm of Xe The xenon was then admitted to   the cell in bursts, until the cell was filled with liquid   During filling, turbulence was sufficient to ensure com   plete mixing.    Vibrationally excited HC1 (HCl*) was produced by   photolysis of CH2=CCIZ using an excimer laser opera   ting on ArF at 193 rim [7,8] _ Infrared emission was   viewed by an InSb photovoltaic detector The output   of the detector was amplified by a Perry amplifier   fitted with an external load resistor, which could be   varied to provide response times appropriate for the   observed rates The signal was further amplified, digi   tized, averaged and stored for analysis, as described   previously The relaxation rate of HC1 (u = 2) was mea   sured as a function of parent or added HC1 concentra   tion by monitoring HCl* fluorescence through a nar  row band filter, which had a-maximum transmission   of 87% with fwhm from 3 656 to 3.779 hum From re   cently published spectra of HCl in liquid xenon rt can   be determined that this filter transmits emission pri   marily from the HC1 (1 E- 2) transition, along with   some emission from HC1 (u = 1) [9] Since the filter   passes some emission from HCl (ti = 1) along with   HCl (v = 2) emission and, as will be discussed later,   these states relax with different rates, the signal as   shown in fig. 1 exhibits a double exponential fall The   emission spectrum of the photolyzed solution, ob   tained m the 3-4 Eim region by use of a circular vari   able interference filter, confirmed that the emitting   species was excited HC1 in the v = 2 and v = 1 states    Although the presence of HC1 (u &gt;- 3) produced via   193 rim photolysis of CH2=CC12 has been documented   in the gas phase (8J , emission from such states was not    1lss   1    =60    t j  T  O I    o a40-    h:  Y    W  ~zo-    0    10 25 50 7_) 100 ~~25 ~ --150 -__-1715  TIME (mss Il    Fig- 1 Observed infrared emission for HCl* in a solution consisting of mole fractions of 3_83 X 10-6 (1 0 Torr) of CHz=CCIz and 5 74 X 10-6 (1 5 Torr) of HCl in liquid xenon The dashed lint represents a threc-component (rise and double decay) exponential least squares ft to the data    observed in the present case This could be due to either very rapid relaxation of these highly excited species or to possible solvent effects on the dissociation dynamics, which might inhibit formation of HC1 in vibrational states above v = 2_   Vibrahonally excited HC1 can also be produced by 193 rim photolysis of HCl and subsequent recombination and/or exchange processes involving the photofragments [SJ Such processes are, however, insignificant at the low HC1 number densities of the present experunents, since only approximately 0_01% of the Hi.1 present is photo dissociated per laser pulse. On the other hand a single pulse photodissociates about 1% of the chloroethylene parent- In order to minimize the build up of photoproducts and to be able to treat the parent and added HCl concentrations as constant, a maximum of eight laser pulses were used per solucion_ For this number of pulses, relaxation rates were found to be independent of laser power and number of pulses    3. Results and discussion     The time-resolved emission signals from HC1 as seen through the filter consist of a fast rise and a double exponential decay and were fit to a three-component exponential function (see fig 1) Because of some over-    273  Volume 121, number 3 CHEMICAL PHYSICS LETTERS 8 November 1985    Mole Fraction cHz.cci, (X10 )    to to ~o    io    e    06 12 16 20    PcH..cu~ ( lorry    Fig 2 The rate of relaxation of HCI(u = 2) versus concentration of 1.1-dichlorocthylene m liquid xenon (panel A) and in the gas phase (panel H) The upper abscissa refers to panel A and is in units of mole fraction trines 106_ The lower abscissa as m units of Torr and refers to panel B    lap between the (1 &lt;- 2) and (0 - 1) transitions in the emission spectrum of HC1 within the bandpass of the interference filter emission from both HO (v = 2) and HC1 (u = 1) is observed The fast and slow components of the fall are attributed to the decay of HC1 (u = 2) and HO (v = 1), respectively. Plots of the measured rates of HC1(u = 2) relaxation by 1,1 -dichloroethylene (fast components of the decay) versus parent concentration are shown in fig. 2 for both the solution (panel A) arid the gas phase (panel B)_ The rate constants obtained from these plots are (2_6 ± 03) X 1012 cm3 mole-1 s-1 (198 ± 22 iris-1 Torr-1) to solution and (7 5 ± 0 9) X 1011 cm3 mole-1 s-1 (58 ± 7 ms-1 I Torr-1) in the gas phase. The slow components of the decays were similarly analyzed and the rate constants were found to be in excellent agreement with those previously determined for the relaxation of HCl(u = 1) by CH2=CC12 [6] , again verifying that the slow expo-    274    nential decay is due to emission from HC1 (u = 1).   Deactivation of HO (u = 2) by HO can occur, in principle, by both a V -&gt; T/R process resulting in the HO initially excited to u = 2 in v = 1 and the HO collision partner in u = 0 or by the V ~ V process of eq. (1) where both HO molecules reside in u = 1 following the encounter- However, based on a gas phase study of HO (u = 2) deactivation [10] and the existing body of literature indicating that V - T/R relaxation rates in liquids scale from gas phase rates [1-6,9,17] , it can be concluded that V - T/R relaxation of HO (v = 2) is negligible compared to V-V relaxation Thus the rate measured for the loss of population in u = 2 of HC1 is assigned to the V-V process indicated in eq. (1).   Rates for the HO V -&gt; V energy sharing step (pro-    Mole Fraction I,ci (X106)    3 83 7 65 7 7 5 15 3 7 9 7    2100  2000    1-00    1600    soo    eoo    300    lao    4    2200 ~---r    d 1500  E  Iq00  d  laoo    1200    a    O i 2 3 4 3    Pl,ci ( Torr)    Fig 3_ The rate of relaxation bf HCl(u = 2) versus mole fraction (pressure) of added HO in the presence of a mole fraction of -3.83 X 10-6 (1_0 Toa) of CH2=CCl2 iii liquid xenon (panel A) and in the gas phase (panel B)  Volume 121, number 3 CHEMICAL PHYSICS LE7TERS 8 November 1985    cess (1)), in the presence of 1 Torr of CH2=CC12 (which is used to produce vibrationally excited HO), are plotted versus added HCl in fig 3 for both the liquid (panel A) and the gas phase (panel B). The rate constants are (2 8 ± 0 1) X 1012 cm3 mole-1 s-1 (214 ± 8 ms-1 Torr-1) in solution and (1.5 ± 0.1) X 101'- cm3 mole-'1 s-1 (116 ± 9 ms -1 Torr-1) in the gas phase. The gas phase value is in good agreement with the literature value of 103 4 ms-1 Ton -1 at 208 K [ 10] .   As seen from the above results, process (1) is -1-9 times faster in solution than in the gas phase In order to determine whether this enhancement represents a breakdown of the IBC model, the factors affecting the rate of process (1) in solution need to be examined   In the gas phase, V-V processes have been successfully modeled via a semiclassical perturbation treatment popularized by Sharma and co-workers [11] . The probability, P, that a V - V transition occurs is given by    P=rZ-2 ~~ erwt (O'ly(t)IO&gt; dt1 ' z    (2)    where O and O' represent the wavefunctions for the initial and final states, respectively, Y(t) is the timedependent intermolecular potential, co is the net energy gap for the process divided by h and h has its usual meaning. Y(t) may then be expressed in terms of a multipole expansion for non-overlapping charge distributions. For molecules with significant dipole moment derivatives, the dominant term in the interaction potential which leads to V -V transitions involves the interaction of the dipole moment derivatives of the molecules involved in the process Since the time dependence of this interaction is what is important, the time dependent integral in eq. (2) is normally parameterized in a distance variable to explicitly account for the dependence of the potential of interaction on intermolecular distance. In the gas phase the process of integrating eq. (2) along the path of the intermolecular interaction is normally simplified by assuming a straight line trajectory for a collision. For the gas phase with mean free paths that are large compared to collision diameters tlus is normally a good approximation as long as the energy and momentum change due to the V-V process is small. Since the probability of V -V processes normally fall off rapidly for energy    gaps greater than kT this latter condition is typically satisfied   Thus within this picture it is clear that any factor which affects either the magnitude of the dipole moment derivatives of the interacting molecules or the trajectory of the interaction process would be expected to change the magnitude of the cross section for vibration-vibration energy transfer-   A solution environment would in general be ex-  aczed to affect both of the aforementioned features We will now proceed to delineate how the solution environment affects these factors and the expected magnitude of these effects for the system under consideration- However, before doing this it is worthwhile to emphasize that the solution environment would not be expected to affect V -&gt; T/R processes similarly since they are dominated by short range encounters involving the repulsive part of the intermolecular potential. Thus the effect of a solution environment on nearresonant Y- Vprocesses could be very different than the effect of a solution: environment on V-T/R processes-   Since the probability of V - V energy transfer scales with the product of the squares of the off-diagonal transition moment matrix elements (the dipole moment derivative matrix element between initial and final states) of the donor and acceptor, any increase in these moments will increase the V - V transfer rate. Information about the magnitude of dipole moment matrix elements m solution may be obtained from the infrared spectroscopy of solutions since the bandstrengths of transitions are proportional to the square of the matrix element for the transition [12]   Fundamental bandstrengths scale with the squares of the transition moments Therefore the ratio (p o/ Eii )2, where the superscripts L and G refer to the liquid and gas phase, respectively, and Erlp is the HCl(0 &lt;- 1) transition moment, may be determined from measured HCl(0 - 1) absorption intensities What is normally reported for band intensities is Slp which is the integrated bandstrength Si~Si, is directly proportional to (¡.e /p,   10 o)2 neglecting minimal changes due to the small frequency shift between the gas phase and solution. Knudtson and Weitz have measured the liquid xenon solution phase value for SL for HCl as Si = 303 ± 6 cm-2 aim-1 [13] . A recent measurement of ,5'1"p by Pine et al using a tunable laser spectrometer with Doppler-limited resolution produced a value of    275  Volume 121, number 3 CHEMICAL PHYSICS LETTERS 8 November 1985    1563 ± 4.7 cm-2 atm-1 [14] These values yield a ratio of --~1 94 for Sip/S o- This indicates a sigruficant increase in the infrared absorption strength of HCl to liquid xenon versus gas phase HCI. It has been postulated that a variety of factors can contribute to this ratio being different than 1.0 [13] .   Firstly, HCl transition moments may be increased due to charge reorganization within a HCl molecule upon interaction with and formation of HCl-Xe van der Wails type complexes [15] . These complexes are formed by a significant fraction of HCl molecules in liquid xenon solution [16] Secondly, the increase in the HCl(0 - 1) transition moment may be due to image dipole effects. This results from polarization of xenon atoms surrounding HCl by the HCl dipole moment with this induced dipole [17] Finally, the dielectric constant of the solvent molecules interspersed between the solute molecules affects the HCl transition moment for bulk measurements such as an integrated absorption coefficient. Due to this effect, the integrated bandstrength is expected to increase by a factor of (I12 + 2)2/9n [18,19] , where, in dilute solutions, n can be taken as the refractive index of the non-absorbing solvent For liquid xenon n = 1 369, resulting in enhancement by a factor of 1.22 [19]   Since all of these effects affect the HCl transition dipole moment they all could affect V-V probabilities in solution However, whether the last effect, described above, can cause a change in V-V probabilities is questionable. It has been shown that the major contribution to V - V transfer probabilities is due to multipole interactions at intermolecular distances comparable to a molecular diameter In terms of eq (2), this means that the major contribution to the V-V probability comes from integration between + and - a molecular diameter At such distances a vanety of models indicate that the value of the dielectric constant is appreciably smaller than the bulk dielectric constant of the solution [20-22] Based on the simplest of these models, the dielectric constant in the space between two colliding solute molecules is not expected to vary significantly from the gas phase value of 1.0 [21] , thus it is expected that the effects of the dielectric constant of liqu'd xenon do not significantly alter the rate of process (1).  Therefore the contribution to the SL 6/Sip ratio of  1.94 from the bulk dielectric constant should be eliminated As stated above, the contribution of this effect    276    to the ratio is 1 22. Thus we would expect process (1) to be accelerated in liquid xenon solution, due to effects on the dipole moment matrix element, by a factor of 1.94/ 1 22 = 1-59.   Also involved in calculating the probability for eq (1) via eq (2) is the matrix element for the HCl(u = 2 - u = 1) transition There is no spectroscopic information on the effects of the liquid environment on the HCl(1 E- 2) transition moment However, information on the ratio (UL.   21/,U21 )2 may be extracted from the observed rates of relaxation of HCl" by l,l-dichloroethylene. It was found that the rate for the process    HCl(u = 1) + CH 2=CC12    -3 HCl(u = 0) + CH 2=CC12 + pE3  (3)    is increased by a factor of 5 ± 0 7 in liquid xenon solution, compared to an increase of a factor of 3 4 ± 0 6 for the process    HCl(u = 2) + CH 2=CC12    Z4  HCl(u= 1) + CH2=CC12 + `aE4    This difference in enhancement could result from differences in the effects of the liquid environment on the energy gap, the collision dynamics and/or the transition moments of the species involved in the two processes.   The limited solubility of 1,1-dichloroethylene in liquid xenon makes it difficult to obtain its solution spectrum in the 3000 cm-1 region and thus determine the magnitude of any frequency shifts and/or bandstrength changes On the other hand, due to proximity, it is very likely that the transition undergone by CH2=CC12 in process (3) is the same as the transition in process (4). With this assumption, the same 1,1-dichloroethylene transition moments would enter into calculations of the rates of processes (3) and (4). Thus the effect of the solvent on thus moment cannot account for the difference in enhancement of processes (3) and (4) versus their respective gas phase rates Furthermore, spectroscopic studies of the (0 E 2) and (0 &lt;-- 1) transitions of HCl in the gas phase and in liquid xenon have shown that, although there is a significant red-shift of the HCl(v = 2) arid HCl(v = 1) states in solution, the anharmonicity is only altered by 5 cm-1 [13] . This indicates that the solvent has essentially identical effects on the frequencies of the (1 E- 2) and    (4)  Volume 121, number 3 CHEMICAL PHYSICS LETTERS 8 November 1985    (0 - 1) transitions of HCI This result, together with the fact that the acceptor molecule undergoes the same transition, strongly suggests that a change in the energy gaps of processes (3) and (4) versus their respective gas phase values are not responsible for the observed difference in enhancement It is also very unlikely that the liquid environment could have a different effect on the dynamics of motion of HCl(u = 1) versus HCl(v = 2) in interactions with CH2=CC12 We therefore conclude that the difference in enhancement of the solution phase rate for process (3) versus process (4) is due to a difference in the effect of the solvent on the magrutude of the HCl(0 - 1) versus HCI(1 &lt;-- 2) transition moments Specifically, we expect that    U~1 /h p)2 _ k3/k3    l~,21/h2 )2 kc1kc    (5)    where, as before, the superscripts L and G refer to the liquid and gas phases and k3 and k4 are the measured rate coefficients for steps (3) and (D, respectively Solving eq. (5) for the ratio (Lr21/1121)2 we obtain a value of 1 1 ± 0 25 for the enhancement of the HCI(1 ~- 2) transition moment   These results suggest that transition moment effects are responsible for an increase m the rate of process (1) by a factor of 1 7 ± 0 4 compared to an experimentally determined increase in rate of 1.9 ± 0_2_ These numbers overlap within experimental error Thus all of the observed increase in rate for the HCl V-V process, expressed m eq (1), in the liquid versus gas phase could be due to effects of the solvent on the dipole moment derivatives of the appropriate HCl transitions. This of course tacitly assumes that the number of HCl-HCl encounters which are important for V-V processes does not change versus the gas phase.   IBC models in general will predict a change in the number of collisions in a solution versus a gas scaled to the solution density This occurs because of the local "structure" present in solutions and can be described using the radial pair distribution function- In the context of the Davis and Oppenheun model [23] the relationship between the gas phase and solution phase rate constant for HCl in Xe would be    k(solutron)=k(gas)g(p,T,x,R*)/g(O,T,x;R*), (6)    where g is the pair distribution function for mixtures, p is the Xe density, T the temperature, x the HCI mole fraction, and R * is the appropnate distance for HClHCI V-V transfer In the Delalande and Gale model [24] R" is typically taken to be the hard sphere diameter Evaluating this function for reasonable sets of parameters using the formulas for the appropriate hard core pair distribution functions given in ref- [24] predicts that k(sol)/k(gas) - 1 However, it should be realized that the above treatment is an approximation for HCl due to the anisotropic nature of its potential energy surface and thus the appropriate g would have to be angle averaged as outlined in ref [25] Additionally V-V transfer in this system is not expected to be a hard core process and as discussed below the actual microscopic dynamics for V-V transfer and thus the effective R * may change in solution versus the gas phase   It should also be realized ;hat alterations in the microscopic dynamics of the V - V process in solution are expected. The change in the nature of collisions (in addition to a potential change in number of collisions) should result in a somewhat altered V-V probability even if the dipole moment matrix elements did not change Thus change in V-V probabilities is expected because near resonant V - V transfer is a long range process and the probability for this process increases with the time the donor and acceptor spend near each other- (This is a physical explanation for the 1/T dependence of near resonant V -+ V transfer [11]) Molecular motion in solution is diffusive in nature. This implies that two HCl molecules would spend more tune in the vicinity of each other during a solution encounter than during a gas phase encounter, thus increasing V -3 V transfer probabilities [26] A very simple calculation incorporating this effect predicts an increase in V -&gt; V transfer rates The fact that we can explain the observed increase in the rate constant for process (1) by rnvokrng only effects on the dipole moment matrix elements does not preclude dynamical effects It merely means that within the experimental error limits and the approximations that have been made we cannot prove dynamical effects occur. However, some dynamical effects on near resonant V-V probabilities should occur. An appropriate modification of eq (6) might be able to incorporate this expected change m dynamics into the radial distribution function    277  Volume 121, number 3 CHEMICAL PHYSICS LETTERS 8 November 1985    4 Conchrsion     The rate constant for the HCl-HCI energy shanng by V-V energy transfer, depicted in eq_ (1). has been measured in liquid xenon solution at 208 K as (2.8 ± 0.1) X 1012 cm3 mole-1 s-1. This represents an increase of •~.•1.9 over the gas phase value for the same process at the same temperature Rate constants for deactivation of HCl(u = 2) by CH2=CC12 have also been measured in liquid xenon at 208 K and in the gas phase at 208 K The rate constants are (2 6 ± 0.3) X 1012 cm3 mole-1 s-1 and (7.5 ± 0.9) X 1011 cm3 mole-1 s-1, respectively.   A simple physical picture is presented where the increase in the V-V rate constant for HCl energy sharing (eq (1)) in liquid Xe solution versus the gas phase can be accounted for by effects of the solvent on the dipole moment matrix element for the transitions involved in the V-V process Although this simple physical picture is consistent with the experimental results, it does not provide a complete answer to the complex problem at hand An inclusion of the expected effects of the solvent on dipole moment matrix elements is compatible with the observed enhancement in the rate of process (1) However, the error brackets which allow for a prediction of the expected effect of the solvent on V-V rates are not small enough to accurately determine whether the different dynamics that govern HCl-HCl encounters in solution also significantly alters V-V probabilities Until the factors which potentially affect V -V transfer can be more accurately measured or calculated the question of whether the IBC model is valid for a description of near-resonant V V transfer cannot uuly be answered for this system    Acknowledgement     We would like to thank the Army Research Office for support of this work under contract DOG-29-82K0125 We would also like to acknowledge partial support of this work by the donors of the Petroleum Research Fund administered by the American Chemical Society under grant 13336 AC6 and by the National Science Foundation under grant CHE-85-    278    06957 We thank Professor G. Schatz for a number of  very useful conversations.    References    [1] W M Madigosky and T A lrtovitz, J Chem Phys. 34   (1961) 489:   A. Laubercau and W Kaiser, Rev. Mod Phys 50 (1978)   607 _   [2] W F. Calaway and G E Ewing, Chem. Phys Letters 30  (1975) 485,1 Chem Phys 63 (1975) 2842  -  [3] D_W Oxtoby, Advan Chem Phys. 47 (1981) 487 and   references therein  [4] D W Oxtoby, Mol Phys 34 (1977) 987_  [5] J T_ Knudtson and E Weitz, Chem- Phys Letters 104 (1984) 71  [6] J.T Knudtson, Y P Vlahoyannis, H. Krueger and E Weitz, J Chem Phys 82 (1985) 4381  [7] M G Moss, M D Ensmtnger and J_D_ McDonald, J.   Chem Phys 74 (1981) 6631  [8] MJ Berry, J Chem Phys. 61 (1974) 3114.  [9] 1_ Chesnoy, Chem Phys_ Letters 114 (1985) 220.  [ 10] B Schramm and H Rapp, Ber Bunsenges. Physic   Chem 84 (1980) 850.  [11] R D Sharma and C.A Brau, J Chem. Phys 50 (1969)   924.  [121 W_S_ Benedhct, R Herman and G_E Moore, J. Chem_   Phys 26 E1957) 1671  [13] J_T Knudtson and E Weitz, J Chem- Phys, to be   pubbshed  [14] A S Pine, A Fried and J.W Elkins, J. Mol Spectry   109 (1985) 30  [15] F.A Baioccht, T.A Dixon. C H Joyner and   W_ Klemperer, J_ Chem Phys. 75 (1981) 2041, and   references therein.  [16] S. Bratoz and M L Martin, J. Chem. Phys 42 (1965)   1051.  [17] J_ Chesnoy. D Ricard and C Flytzanis, Chem. Phys 42   (1977) 35  [18] N_Q Chako, J. Chem Phys 2 (1934) 644  [19] M O Bulanin. J. Mol. Strict 19 (1973) 59.  [20] L. Onsager,1 Am Chem Soc 58 (1936) 1486  [21] E Glueckauf, Trans Faraday Soc 60 (1964) 1637  [22] A Warshel, J_ Phys Chem. 83 (1979) 1640.  [23] P K_ Davis and 1. Oppenhetm,1. Chem. Phys_ 57 (1972)   505  [24] C Delalande and G M. Gale, J Chem. Phys 71 (1979)   4804, 73 (1980) 1918  [25] 1_ Chesnoy, Chem Phys 83 (1984) 283  [26] F_ Reif, Fundamentals of statistical and thermal physics   (McGraw-Hill, New York, 1965)  ion of eq (6) might be able to incorporate this expected change m dynamics into th</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>8585524X</aid>
+            <ce:pii>0009-2614(85)85524-X</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)85524-X</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>Vibration-vibration energy transfer processes in liquid xenon: a measurement of the rate constant for Hcl(⋎ = 2) + HCl(⋎ = 0) → 2HCl(⋎ = 1)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Yannis P.</ce:given-name>
+                  <ce:surname>Vlahoyannis</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Herman</ce:given-name>
+                  <ce:surname>Krueger</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.Thomas</ce:given-name>
+                  <ce:surname>Knudtson</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Eric</ce:given-name>
+                  <ce:surname>Weitz</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, Northwestern University, Evanston, IL 60201, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Aerospace Corp., M5-753, P.O. Box 92957, Los Angeles, CA 90009, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="24" month="6" year="1985"/>
+            <ce:date-revised day="16" month="8" year="1985"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The rate constant for the deactivation of HCl(ν = 2) by HCl has been measured in liquid Xe at 208 K. Rate constants for deactivation of HCl(ν = 2) by HClCCl<ce:inf loc="post">2</ce:inf> were also measured at 208 K in the gas phase and in liquid Xe solutions. Both processes were found to be accelerated by the solution environment. The possible physical reasons for this enhancement are discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Madigosky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Litovitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>489</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Laubereau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kaiser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Mod. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>607</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Calaway</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Ewing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>485</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Calaway</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Ewing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2842</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Oxtoby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>487</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Oxtoby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>987</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Knudtson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Weitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Knudtson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Vlahoyannis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Krueger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Weitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Ensminger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>McDonald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6631</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Berry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3114</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>220</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Schramm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Rapp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ber. Bunsenges. Physik. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>850</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Brau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>924</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Benedict</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1671</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.T. Knudtson and E. Weitz, J. Chem. Phys., to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Pine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fried</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Elkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>30</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Baiocchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Dixon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Joyner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Klemperer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2041</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bratoz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1051</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ricard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Flytzanis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                                 <ce:surname>Chako</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1934</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>644</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.O.</ce:given-name>
+                                 <ce:surname>Bulanin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Struct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Onsager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1936</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1486</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Glueckauf</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trans. Faraday Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1637</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Warshel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1640</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Oppenheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>505</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4804</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Delalande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1918</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chesnoy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Reif</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Fundamentals of statistical and thermal physics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1965</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

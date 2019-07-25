@@ -1,0 +1,790 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261486805048</prism:url><dc:identifier>doi:10.1016/0009-2614(86)80504-8</dc:identifier><eid>1-s2.0-0009261486805048</eid><prism:doi>10.1016/0009-2614(86)80504-8</prism:doi><pii>0009-2614(86)80504-8</pii><dc:title>Recombination kinetics of molecules with anisotropic reactivity and interaction potential. Exact solution for a small reactive region </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>130</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>452</prism:startingPage><prism:endingPage>457</prism:endingPage><prism:pageRange>452-457</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1986-10-17</prism:coverDate><prism:coverDisplayDate>17 October 1986</prism:coverDisplayDate><prism:copyright>Copyright © 1986 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Shushin, A.I.</dc:creator><dc:description>
+               Abstract
+               
+                  The Smoluchowski equation for a pair of molecules with anisotropic reactivity and interaction potential is solved in the limit of a small reactive region (small reactive patches). In the steady-state case steric factors are calculated using this solution. The kinetics of geminate pair recombination is also obtained and analyzed in detail.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261486805048" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261486805048" rel="scidir"/></coredata><scopus-id>0001233457</scopus-id><scopus-eid>2-s2.0-0001233457</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001233457" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011105">2001-11-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011105">2001-11-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T13:59:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261486805048</xocs:eid>
+      <xocs:pii-formatted>0009-2614(86)80504-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261486805048</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(86)80504-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08366</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T22:17:12.170084-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19861017</xocs:date-search-begin>
+      <xocs:year-nav>1986</xocs:year-nav>
+      <xocs:indexeddate epoch="1004918400">2001-11-05T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>130</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>130</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 130, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>17</xocs:sort-order>
+      <xocs:first-fp>452</xocs:first-fp>
+      <xocs:last-lp>457</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>452</xocs:first-page>
+         <xocs:last-page>457</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19861017</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>17 October 1986</xocs:cover-date-text>
+      <xocs:cover-date-start>1986-10-17</xocs:cover-date-start>
+      <xocs:cover-date-year>1986</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1986 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>RECOMBINATIONKINETICSMOLECULESANISOTROPICREACTIVITYINTERACTIONPOTENTIALEXACTSOLUTIONFORASMALLREACTIVEREGION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHUSHIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>SOLC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2981</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SOLC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>733</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SHOUP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>697</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ZIENTARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>824</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>ERMAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1352</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>SCHMITZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>534</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>NORTHRUP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2894</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MCCAMMON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>DOKTOROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>498</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BURSHTEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>TEMKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1658</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>DOKTOROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>800</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>WILEMSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4009</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>DOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>DOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>HANDBOOKMATHEMATICALFUNCTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>SHUSHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHUSHINX1986X452</xocs:refkey3>
+         <xocs:refkey4lp>SHUSHINX1986X452X457</xocs:refkey4lp>
+         <xocs:refkey4ai>SHUSHINX1986X452XA</xocs:refkey4ai>
+         <xocs:refkey5>SHUSHINX1986X452X457XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(86)80504-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261486805048</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261486805048</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(86)80504-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T22:17:12.170084-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1986-10-17</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261486805048-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261486805048/MAIN/application/pdf/03e964705c81e677abc8752dd13efe04/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261486805048/MAIN/application/pdf/03e964705c81e677abc8752dd13efe04/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>540241</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261486805048-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261486805048/PREVIEW/image/png/3bcbafe57523f60563bbf8e3fc74a300/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261486805048/PREVIEW/image/png/3bcbafe57523f60563bbf8e3fc74a300/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67108</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 130, number 5 CHEMICAL PHYSICS LETTERS 17 October 1986    RECOMBINATION KINETICS OF MOLECULES    WITH ANISOTROPIC REACTIVITY AND INTERACTION POTENTIAL.    EXACT SOLUTION FOR A SMALL REACTIVE REGION    A.I. SHUSHIN    Institute of Chemical Physics, Academy of Sciences, GSP-1, 117977 Moscow, USSR  Received 3 June 1986; in final form 25 July 1986    The Smoluchowski equation for a pair of molecules with anisotropic reactivity and interaction potential is solved in the  limit of a small reactive region (small reactive patches). In the steady-state case steric factors are calculated using this solu-  tion. The kinetics of geminate pair recombination is also obtained and analyzed in detail.    1. Introduction    Recently considerable interest has been shown in  studying the reactions of molecules with an anisotropic  reactivity (AR) and interaction [1-12]. The common-  ly used theoretical approach in describing the recombi-  nation kinetics is based on the Smoluchowski equation  (SE) for the pair distribution function of recombining  molecules.    In refs. [1-8] simplified models have been utilized  to find numerically the steady-state solution of the SE.  The exact analytical solutions which have been ob-  tained [9-12] are only applicable to the steady-state  regime and are too cumbersome for both qualitative  analysis and quantitative interpretation of the experi-  mental results. Simple approximate expressions for the  recombination rate constants (RRC) have been ob-  tained [11,12] within the closure approximation [13,  14]. Unfortunately, the CA leads to a rather complex  expression for the RRC in the most interesting case  when both molecules display AR and, secondly, the  accuracy of the closure approximation is somewhat  unclear even in the steady-state case and completely  uncertain in the non-stationary case.    In this paper the analytical solution of the SE is ob-  tained in the limit of small active surface size (the di-  mensions of the patches are small). In section 3, simple  expressions for the RRCs are obtained in some limit-  ing cases. The interpolation formula for the RRC is    derived within the closure approximation. Isotropic,  as well as strongly anisotropic interactions, are taken  into account. In section 4 the SE is solved and the  geminate recombination kinetics are found. It will be  shown that this type of kinetics becomes exponential  provided there is a moderately strong and highly aniso-  tropic interaction between the molecules.    2. General backgrounds    Let q = (r, ft^ ,ftg) be the vector characterizing  relative position and orientations of the molecules A  and B (fig. 1). The pair distribution function p(q,t)  obeys the SE    (1)    Here D is the diffusion tensor describing relative trans-  lational diffusion with diffusion coefficient D = DA +  Dg and angular diffusion with diffusion coefficients  Dy. and Dro, and u(q) = U(y)lky T is the intermolecu-  lar attractive mean-force potential with fcg the  Boltzmann constant. Eq. (1) is defined outside the sur-  face S(fl) of closest approach, a small part of which  Q(g) corresponds to the relative positions of the reac-  tive molecules. For simplicity, the molecules are con-  sidered to be spherical with radii R^ and .Kg.  The boundary conditions for the SE are    ("S   A?eS-Q =   and ("Q   /") - ^(flOPWIffeQ =  .    452    Volume 130, number 5 CHEMICAL PHYSICS LETTERS 17 October 1986          Fig. 2. The shape of the reactive surface Q: (1) prolate spher-  oid, (c &gt; b); (2) oblate spheroid (c &lt; b).    Fig. 1. Coordinate system for a pair of molecules. The shaded  regions represent the reactive patches.          where ffg and HQ are the vectors normal to S and Q  respectively. We shall consider the most interesting  case k(q) -&gt;    ; however, the results can be generalized  easily. The boundary condition at r = \r\ -&gt;     depends  on the problem considered. To determine the geminate  recombination kinetics one should put \i-m^^p(q) =  0, while to calculate the RRC the condition lim^^p(q)  = 1 should be imposed.    The RRC as well as the kinetics are determined by a  reactive flux through the surface Q. In particular, the  RRC is    K=4TrRDF=-YJ, J= /(n^-fidS^,         (2)  Q    where R=R/^+RQ,Fisa steric factor and 7 relates  the concentration in the space q to that in three-dimen-  sional space (see below).    3. The RRC in the case of one molecule with AR    Suppose initially that the molecule with the Ar, for  example A, is rigidly oriented and u(q) = 0. The surface  S(q) can be approximated by a plane in the small region  near Q. As for Q itself we have no information on its  shape and assume it to be a semispheroid with semi-  axis c and b (fig. 2). Such a shape is rather flexible and  enables us to solve the SE analytically. The boundary  conditions are satisfied automatically. The solution in  spheroidal coordinates [15] is    ^c^K^-c2)1/2    X {^ - arctg[(6/c)2 - l]-1}-^)-1.      (3)    This formula reproduces the well-known limiting ex-  pressions [9] and shows that the RRC depends on the  anisotropy of the surface Q only slightly.    Rotational diffusion of the molecule A results in the  diffusion of the surface Q with diffusion coefficient  DQ =R2Dr^ in the plane S. Thus the relative diffusion  of the point and the surface Q becomes anisotropic  with diffusion coefficients D^ = D + DQ in the plane  and D perpendicular to it. The corresponding anisotrop-  ic SE can be reduced to the isotropic one by the replace-  ment z = (D/Dg)1/^', where z is the axis normal to S.  The surface Q transforms into a new semispheroidal  surface with semi-axes b' = b and c = (D^/D^^c &gt; c.  From eq. (3) we get    (4)    For c = 0 this formula coincides with that obtained in  the CA. Eq. (4) is applicable when F &lt; 1.    4. The RRC in the case of both molecules with AR    The large number of parameters in the model gives  rise to a variety of typical situations which we shall in-  vestigate separately. Recall that the reaction region size    is small i.e. OQA ' ^OB ^ 1      (1) Let u(q) = 0 and Dy^, D^ &lt; D/R2. This case  corresponds to rigidly oriented molecules. For simplicity  let 0Qg ^ ^OA   Simple geometrical analysis shows that  for most of the reactive orientations the model can be  reduced to that of an anistropic molecule A with patch  size OQ/^ and an isotropic molecule B. Taking into ac-  count that the fraction of molecules B with reactive  orientations is (sOyo)2 we get, according to eq. (3)  (c = 0), F = OQ/^ 0(5B/4ir, in agreement with the expres-  sion obtained within the closure approximation [II],  but with the exact numerical factor.    453    Volume 130, number 5 CHEMICAL PHYSICS LETTERS 17 October 1986    (2)Letu(q)=0,Dr^^Dry'^D/R2andR^' Ry.  In this case it is convenient to introduce the four-di-  mensional space^?^ = (ft^,ftg), each point of which  defines the orientation of both molecules. It is easy to  see that the relative orientational diffusion of the mol-  ecules takes place in the two-dimensional space Sl^  defined by the equations Q ^ + fig = TT and ip^ + i^g = TT.  Now add the fifth coordinate x^ = (r - R)IR. The  RRC is determined by the diffusive flux through the  reactive surface Q near the intermolecular axis in the  five-dimensional space^g = (Il^,ftg,.)i'^). We have  very limited information on the shape of Q and take Q  so as to obtain analytical solutions.    Near the surface Q the curved space 9^5 can be ap-  proximated by the flat oneW^ (JC^,XB,^^) with  the relative diffusion tensor of the point and Q in 9^  given by    D= ),.7,+  ^7,,+  ^7p+^:^,     (5)    '' C'C    "' A 'A ' ^B  ''B    where Z)^p = D^ = D/R2 and Vy is the projection  operator on the subspace Oy (0^ = x^). The D eigen-  values are Z), = ^(D^ + D^) + A-c * Wrp, - D^)2 +  A-cl1/2,; = 1-4;   5 = DN with (+) and (-) taken for  i = 1,2 and 3,4 respectively. In the same reference  frame the steady-state SE is given by    L^p =p  &gt;,V,(7,P + PV,M) = 0 (6)    with P(A-)I^Q = 0, V5? + PV5" Ixes-Q =  -    The orientation of the principal axes Xj can easily  be determined but we shall not do so, because the  shape and orientation of the surface Q are not known.  Note only that ^5 = x^. In such a case it is sufficient  to take an appropriate shape and orientation directly  as referred to the axesx-. Consider some characteristic  cases corresponding to the different relations between  the parameters of the system.    (a) Assume that D, = D and Q is a semisphere with  radius d. The isotropic solution of eq. (6) in w-dimen-  sional space is (remember that the case u = 0 is con-  sidered) p^GO = 1   (d/xY"'2, where x = \x\ is a  radial variable. The RRC in this space is    -1    S(m)=2vml^^~\(\m).                    (7)  This expression, deduced for the infinite half-space, is    also valid for the half-space 9^5 since the reactive sur-  face size is small (d &lt; 1).    To obtain the steric factor we should take into ac-  count a factor 7 = R 2/8^ relating the concentration in  the spaceW^ to that in three-dimensional space. The  result is    F=Id3.                                 (8)    (b) Let D, =  )(, Z&gt;5 = D^, i = 1-4, and Q be a cylin-  der with a spherical projection of radius (/(x^) =  d0(dff - x^) (the cylinder height is d^) on the space  9^4 (flat approximation for^). Hd^/D^ &gt;d2|D^  the molecules recombine exponentially with rate  H^N) = 2^:4/^4 = \d1 Dt 6(d^ - x^) at each dis-  tance .X-N . Here K^ and V^ are the RRC and the vol-  ume of the space ^4. Thus the SE (6) reduces to    Dr~2(9|9r)(r29|9r)p - W^p = 0                (9)    with boundary conditions 9pl9r\^^ = 0 and p(  ) =  1. Substituting W^r) into eq. (9) we get    F=\d2d^D,|D^)    X[l+kd\(D^)]-1.                (10)    Eq. (10) shows that the UR averages completely when  5rf2(/N (D^/D^) &gt; 1. In the opposite limit eq. (10) is  valid i{d^&gt;6= d(D^|D)\12. This is because in our  calculations we neglect indirect reaction by diffusion  within the reaction region in^T^ but at dy + 5 &gt; x^ &gt;  dy and then diffusion at the surface Q along the axis  x-^. The abovementioned inequality ensures only a  small contribution from such indirect reactions. How-  ever, if&lt;/^&lt;o indirect reactions dominate and we  should replace d^ by 5 in eq. (10). Expression (10) is  quite accurate and even for Z)^ = D^ differs from (8)  only by a factor of two.    The exact formula (10) is reasonably well reproduced  by the simple closure approximation (see appendix).  This approximate expression, however, enables us to  calculate F for any magnitudes of ), and different  shapes Q. In particular it confirms the legitimacy of  the replacement ofd^ by 5 for thin reaction regions.    (c) Let Z&gt;^ = Dr. = 0. This is usually the case if  /?^ &gt; /?g. Suppose that the surface Q is a semi-ellip-  soid with semi-axes ^^,JC  andx^ satisfying the rela-  tion ^A^A = -^B-^B = -^N = ^   Such a surface may be  transformed into a semisphere by scaling r^ = R/^x^,    'B = ^B-^B' ''N = ^"N   ^ ls easv t0 see tnat ^^A ^ ^B    454    Volume 130, number 5 CHEMICAL PHYSICS LETTERS 17 October 1986    the subspace Sl^ coincides with ^ a^ter tnis scaling.  Thus the problem is reduced to that previously con-  sidered but with the surface Q diffusing in the space  n^ and the point diffusing in the space '^ = (rg.r^).  If the relative diffusion of Q and the point is isotropic  (Pr^R2 = DQ = D), then previous results give    K^^l/R^D.                          (11)    This simple formula reproduces the numerical calcula-  tions [3] quite accurately.    (3) Let u(x) ^ 0. By matching the solutions in and  out of the well it is easy to obtain    K^W^+W^K^,                      (12)    with    ^=(Z)flj/^)exp( o), ^=^/^5(5)     (13)    being the cage dissociation and recombination rates  (see section 5). In eqs. (12) and (13)a^ = {/o  dxx\-m  X exp[M(x)] }-l/(w-2) is the Onsager radius in'W^,  UQ = u(x '= 0) and V^ = f^m dxx"1-1 exp[i&lt;Q - u(x)].  The RC Kc can be calculated using any of the expres-  sions derived. For example, within the CA W^ =  ^(V^/Vy), where T, is defined in eq. (Al) and V^ is  the volume of the reactive region. The capture into the  cage can be interpreted as a recombination with the  reaction radius R^ = a^. Thus, if ^ &gt; R, the capture  RC KQ is given by the formulae derived in this section.  In the opposite case a^^a^^ R (isotropic three-di-  mensional potential) K^ = 4'na^D.    (4) Similar formulae can be obtained in the jumping  reorientation model. For example in the simplest case  of large angle jumps the recombination rate W^(r) =    (WOB)2 [^A + ^B)! ^ + ^N - ' ). where WA,V  are the jump rates. Thus we return to eq. (10). In the    limit of a reaction region with small thickness dy &lt; 5 =  [Z)(W\ + W^)]l!2, when one should use S instead of   ?N in eq. (10), the formula coincides with that obtained  intheCA [11].    5. The geminate recombination kinetics    Consider the case of two molecules with AR. The  kinetics at times t &lt; TR = D^j. g is obtained by solu-  tion of the SE in the rectangular coordinates x.    The operator  5 and the boundary conditions are given  in eq. (6). We have no information on the initial distri-  bution p(x, 0) = PQ(X). Fortunately, at times t&gt;r^=  ct2|Df. g the shape of the kinetic curves does not  depend'on po(x), but only on their amplitudes.    At this stage we should prescribe whether the mole-  cules interact or not.    (1) Let u(q) = 0. Then the abovementioned ampli-  tudes are determined by the probability?^ {pg} of  escaping to infinity. In the isotropic m-dimensional  case (m &gt; 3)    00    ^m W = \ -s^ S Wxr^x^p^dx.  0    The recombination kinetics for t ^ r^ is easily ex-  pressed through the Green's function GQ(x,x',t) for a  pair of free molecules. Indeed, the flux of the recombi-  nation probability is/(r) = K^P^ {po]Go(0,0,t). The  exact analytical expression for Go(0,0,t) can be ob-  tained in the spherical molecules model; however, it is  rather complicated. Here we restrict ourselves to the  investigation of the more simple limiting expressions  for small and large times.    Using the Green's function of eq. (14) we get for  t&lt;r^(D^^D^^D/R2)    -1/2  ./^^Trr^nZ),)    t-^K^pQ].   (15)    For t &gt; TR the Green's function transforms into a three-  dimensional one and the RRC K^ is replaced by the  RRC K = 4'nRDF. Thus for t &gt; TR    .^(O = (47r)-3/2 &gt;-3/2 r^KF^].          (16)    It easy is to check that./^/) and 7^(0 match at t ^ TR.    (2) Let u(q) be an attractive potential with a well  depth such that the quasistationary state (cage) is  formed within the well [16]. Following ref. [16] we  introduce the probability T&gt; (t) of the pair being within  the well:    am    9(.t)=S(m)f pix^x"1-1^  0    JOO    =(27ri)-1 f dftl+f+S^^exp^T), (17)    (14)    455    Volume 130, number 5 CHEMICAL PHYSICS LETTERS 17 October 1986    if the pair was born within the well. In eq. (17) T = Wt,  W = W^ + W^ and W^ and W^ are the recombination  and dissociation decay rates of the cage. The rates W^  and W^ can be shown to be just the same as those ob-  tained from the steady-state solution in section 4. The  non-analytic function ' ,( ) defines the long time tail  of 9(t). Only limiting behaviour of  ( ") as E -&gt;  0 is  essential for our discussion.    At the moderately large times t &gt; TQ, where TQ    a2//) is the relaxation time ofp(x,r) within the well,  the probability '3&gt;(t) controls the recombination kinet-  ics. In particular the recombination probability flux  J(t)=W,T(t).    In eq. (17) 3&gt;(r) is normalized by the condition 9 (0)  = 1; however, in reality? (0) &lt; 1, owing to the recom-  bination at small times t ^ TQ. Accurate analysis shows  that 9(0) is equal toP^ {?(,} [17].    In the case of strong isotropic interaction, when  fl3 &gt;R,  (  ) = (W^IW) a^E1/2 + 0(aj), where 03 =  a^(W/D)^12 &lt; 1. The corresponding long time behavior  of 9(0 is 3'3(0   a^(Wt)~3/2. In the opposite case  (fl5 &lt;R), which corresponds to anisotropic weak inter-  action, the  ( ') dependence is different for the two  E domains:, (a) (Wr^)-1 &gt;E&gt; (Wr^)-1 and (b) E &lt;    (WTR)-I.    Domain (a) corresponds to the motion at times r^ &lt;  t &lt; TR described by the diffusion in^^. In reactangu-  lar coordinates x., for the isotropic w-dimensional  model, small E expansion gives [17]  ( ')  o^  X  W/2-1 (W^IW) and  (  ) ^ (-I)"1/2 a^-2^"1/2-1  X In E for m odd and even respectively, where a^ =  (Wa^lD)1/2 and therefore at T^ &lt; t &lt; TR    3'(f)^-2(^/^^')(WO-OT/2.               (18)    Eq. (18) shows that the amplitude of ?(r) decreases  sharply with increasing dimensionality m.    The E domain (b) corresponds to times t &gt; TR ,  where the diffusion is three-dimensional. Similar con-  siderations yield S( ') = (W^^W/D^FE1!2 and    ?(0 w (.W^IW^W/D^I^Wt)-312.         (19)    Expressions (18) and (19) match at t   TR (in eq. (17)  m=5).    It is easily seen that ifa^^R the long time tail  cannot be observed experimentally even for moderately  large a^("sQA). This means that the geminate recom-  bination kinetics of highly anisotropic molecules can  be considered to be exponential if the interaction po-  tential is highly anisotropic.    456    Appendix    The formulation of the closure approximation is the  following    K=V^,    T,=7;1 fdx'T(x)  Vr    00    = F;1 f^'f^ fdxGQ(x,x',t),       (Al)    V,    0    V,    where V^ is the reaction volume, Go(x,x',t) is the  Green's function of two freely diffusing molecules. For  w-dimensional space in rectangular coordinates X{, cor-  responding to diffusion tensor eigenvalues .Dp    i=\    m  Xexp^)-1?^,)).    i=l      /    Formula (Al) leads to a complicated expression for  the RRC when both molecules possess AR. It can be  simplified by noting that the main assumption in deriv-  ing (A 1) is the weak dependence of T(x') on x' in the  volume V^. Thus, with the same accuracy, we may omit  the integration over x' and put x = XQ with XQ being  any point in V^.    Consider the most interesting cases of four- and five-  dimensional spaces. Let the volume V^ be a cylinder  with projection on the planes (x^,x^) and (x^,x^)  being circles of radii r^ and /g respectively (in four-  dimensional space) and that on the axis ^5 = x^ being  2dyf (in five-dimensional space). Taking XQ to be the  center of the cylinder we obtain    ^(5) = g (TA^N^A) + ^^N/^)    - (TA + ^[TN/OA + T^ - T^'       (A2)    7-/4)=i[(TA+TB)ln(TA+TB)    -TAlnrA-^BmTB]'                   (A3)  where Ty = r^/Dy (y = A,B,N),Af(z) = arcsinhz1/2 +  z(l+z)l/2.    Volume 130, number 5 CHEMICAL PHYSICS LETTERS 17 October 1986    References    [1] K. Sole and W.H. Stockmayer, J. Chem. Phys. 54 (1971)    2981.  [ 2] K. Sole and W.H. Stockmayer, Intern. J. Chem. Kinetics    5(1973)733.  [3] D.Shoup,G. LipariandA.Szabo,Biophys.J. 36 (1981)    697.  [4] G.D. Zientara, J.A. Nagy and J.H. Freed, J. Phys. Chem.    86(1982)824.  [5] D.L. Ermak and J.A. McCammon, J. Chem. Phys. 69    (1978)1352.  [6] K.S. Schmitz and J.M. Schurr, J. Phys. Chem. 76 (1972)    534.  [7] S.H. Northrup, S.A. Allison and J.A. McCammon, J.    Chem. Phys. 85 (1985) 2894.    [8] J.A. McCammon, Rept. Progr. Phys. 47 (1984) 1.  [9] A.B. Doktorov and N.N. Lukzen, Chem, Phys. Letters  79(1981)498.    [ 10] A.I. Burshtein, l.V. Khudyakov and B.I. Yakobson, Progr.  Reaction Kinetics 13 (1984) 221.    [II] S.I. Temkin and B.I. Yakobson, Khim. Fhys. 3 (1984)  1658.    [12] A.B. Doktorov, Khim. Fiz. 4 (1985) 800.    [13] G. Wilemski and M.J. Fixman, J. Chem. Phys. 58 (1973)  4009.    [14] M. Doi, Chem. Phys. 11(1975) 107,115.    [15] M. Abramowitz and I.A. Stegun, eds.. Handbook of math-  ematical functions (Dover, New York, 1964).    [16] A.I. Shushin, Chem. Phys. Letters 118 (1985) 197.    [ 17] A.I. Shushin, Khim. Fiz., to be published.    457   that 9(0) is equal toP^ {?(,} [17].    In the case of strong isotropic interaction, when  fl3 &gt;R,  (  ) = (W^IW) a^E1/2 + 0(aj), where 03 =  a^(W/D)^12 &lt; 1. The corresponding long time behavior  of 9(0 is 3'3(0   a^(Wt)~3/2. In the opposite case  (fl5 &lt;R), which corresponds to anisotropic weak inter-  action, the  ( ') dependence is different for the two  E domains:, (a) (Wr^)-1 &gt;E&gt; (Wr^)-1 and (b) E &lt;    (WTR)-I.    Domain (a) corresponds to the motion at times r^ &lt;  t &lt; TR described by the diffusion in^^. In reactangu-  lar coordinates x., for the isotropic w-dimensional  model, small E expansion gives [17]  ( ')  o^  X  W/2-1 (W^IW) and  (  ) ^ (-I)"1/2 a^-2^"1/2-1  X In E for m odd and even respectively, </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>86805048</aid>
+            <ce:pii>0009-2614(86)80504-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(86)80504-8</ce:doi>
+            <ce:copyright type="unknown" year="1986"/>
+         </item-info>
+         <head>
+            <ce:title>Recombination kinetics of molecules with anisotropic reactivity and interaction potential. Exact solution for a small reactive region</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.I.</ce:given-name>
+                  <ce:surname>Shushin</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute of Chemical Physics, Academy of Sciences, GSP-1, 117977 Moscow, USSR</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="3" month="6" year="1986"/>
+            <ce:date-revised day="25" month="7" year="1986"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The Smoluchowski equation for a pair of molecules with anisotropic reactivity and interaction potential is solved in the limit of a small reactive region (small reactive patches). In the steady-state case steric factors are calculated using this solution. The kinetics of geminate pair recombination is also obtained and analyzed in detail.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Solc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Stockmayer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2981</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Solc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Stockmayer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Chem. Kinetics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>733</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shoup</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lipari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Szabo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>697</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Zientara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Nagy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Freed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>824</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Ermak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1352</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Schmitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Schurr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>534</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Northrup</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Allison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2894</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McCammon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rept. Progr. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Doktorov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Lukzen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>498</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Burshtein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Khudyakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.I.</ce:given-name>
+                                 <ce:surname>Yakobson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Progr. Reaction Kinetics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Temkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.I.</ce:given-name>
+                                 <ce:surname>Yakobson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Khim. Fhys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1658</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Doktorov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Khim. Fiz.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>800</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wilemski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Fixman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4009</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Doi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Doi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Abramowitz</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>I.A.</ce:given-name>
+                                    <ce:surname>Stegun</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Handbook of mathematical functions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1964</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Dover</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Shushin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.I. Shushin, Khim. Fiz., to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

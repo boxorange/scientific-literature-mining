@@ -1,0 +1,1794 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149286066Q</prism:url><dc:identifier>doi:10.1016/0009-2614(92)86066-Q</dc:identifier><eid>1-s2.0-000926149286066Q</eid><prism:doi>10.1016/0009-2614(92)86066-Q</prism:doi><pii>0009-2614(92)86066-Q</pii><dc:title>A novel semi-empirical potential for covalently bonded materials </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>194</prism:volume><prism:issueIdentifier>4-6</prism:issueIdentifier><prism:startingPage>363</prism:startingPage><prism:endingPage>369</prism:endingPage><prism:pageRange>363-369</prism:pageRange><prism:number>4-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1992-07-03</prism:coverDate><prism:coverDisplayDate>3 July 1992</prism:coverDisplayDate><prism:copyright>Copyright © 1992 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Corrales, L.René</dc:creator><dc:creator>Rossky, Peter J.</dc:creator><dc:description>
+               Abstract
+               
+                  A new format for describing the interactions among atoms capable of covalent bond formation is introduced and applied to sulfur in both molecular cluster and bulk amorphous forms. Bonding is described locally and evaluated via a semi-empirical quantum-chemical expression, while non-bonding interactions are described by conventional molecular mechanics. The new method is shown to capture the essential features of both the molecular and bulk phases in a generalizable format with few adjustable parameters, while retaining the computational efficiency required for the simulation of bulk condensed phase systems.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149286066Q" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149286066Q" rel="scidir"/></coredata><scopus-id>0012935783</scopus-id><scopus-eid>2-s2.0-0012935783</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0012935783" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020207">2002-02-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020207">2002-02-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-04-11T17:07:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149286066Q</xocs:eid>
+      <xocs:pii-formatted>0009-2614(92)86066-Q</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149286066Q</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(92)86066-Q</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X13462</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T20:14:36.156129-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19920703</xocs:date-search-begin>
+      <xocs:year-nav>1992</xocs:year-nav>
+      <xocs:indexeddate epoch="1013040000">2002-02-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>194</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>194</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 194, Issues 4–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>363</xocs:first-fp>
+      <xocs:last-lp>369</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>363</xocs:first-page>
+         <xocs:last-page>369</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19920703</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>3 July 1992</xocs:cover-date-text>
+      <xocs:cover-date-start>1992-07-03</xocs:cover-date-start>
+      <xocs:cover-date-year>1992</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1992 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANOVELSEMIEMPIRICALPOTENTIALFORCOVALENTLYBONDEDMATERIALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CORRALES</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>GALLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>988</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>STICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11092</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>DRABOLD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5135</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>SANKEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3979</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>MENON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6196</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>KHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3688</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BROUGHTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>REMLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>921</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>489</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6460</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>TERSOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>632</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>TERSOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6991</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BOLDING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10568</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>CHELIKOWSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1653</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2687</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>SOVERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2592</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>KAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>PAULING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1960</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NATURECHEMICALBOND</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>LEVINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>QUANTUMCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3526</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>HALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>935</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>DEWAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>84</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>JOANNOPOULOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2186</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>BALLHAUSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARORBITALTHEORY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>HEHRE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2769</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>KAPLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THEORYMOLECULARINTERACTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>VALLEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MODERNTHEORETICALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>ALLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5167</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>HOHL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6823</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>DIXON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5786</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ELEMENTALSULFUR</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>STEUDEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>149</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INORGANICRINGSYSTEMS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>TOPICSINCURRENTCHEMISTRY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>WINTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>WINTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8427</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>WINTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>COULSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>VALENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>CUSACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>423</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>BERKOWITZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELEMENTALSULFUR</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB37">
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SULFURDATABOOK</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>LEMBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1677</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CORRALESX1992X363</xocs:refkey3>
+         <xocs:refkey4lp>CORRALESX1992X363X369</xocs:refkey4lp>
+         <xocs:refkey4ai>CORRALESX1992X363XL</xocs:refkey4ai>
+         <xocs:refkey5>CORRALESX1992X363X369XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(92)86066-Q</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149286066Q</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149286066Q</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(92)86066-Q</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2011-04-11T17:44:13.003742-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1992-07-03</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149286066Q-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149286066Q/MAIN/application/pdf/1afa946c1370a8ec17f08a19fd7aee74/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149286066Q/MAIN/application/pdf/1afa946c1370a8ec17f08a19fd7aee74/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>490390</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149286066Q-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149286066Q/PREVIEW/image/png/0d1602fd6908adbf1441f1d5b93abdf8/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149286066Q/PREVIEW/image/png/0d1602fd6908adbf1441f1d5b93abdf8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71951</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS  3 July 1992    A novel semi-empirical potential for covalently bonded materials    L. Rene Corrales and Peter J. Rossky    Department of Chemistry and Biochemistry, University of Texas at Austin, Austin, TX 78772, USA    Received 20 March 1992    A new format for describing the interactions among atoms capable of covalent bond formation is introduced and applied to sulfur in both molecular cluster and bulk amorphous forms. Bonding is described locally and evaluated via a semi-empirical quantum-chemical expression, while non-bonding interactions are described by conventional molecular mechanics. The new method is shown to capture the essential features of both the molecular and bulk phases in a generalizable format with few adjustable parameters, while retaining the computational efficiency required for the simulation of bulk condensed phase systems.    1. Introduction     The practical significance of non-crystalline covalent materials has led to intense interest in the development of new methods for the generation of atomic level descriptions of structural organization and dynamics. However, the available routes have significant shortcomings. Methods that evaluate the electronic structure of the materials ab initio for every configuration [ 1-6 ] are practically limited in both sample size and time scale. Empirical short ranged many-body potentials [ 7-12 ] are ad hoc in nature, so that a priori generalization to new materials (in particular mixtures) or for new conditions is not possible.   In this Letter, we present a novel alternative semiempirical potential that explicitly incorporates quantitative descriptions of both quantum-chemical bonding, yielding the strong directionality and saturation of covalent bonds, and molecular mechanics, describing non-bonding interactions. It is based on a simple description of the interatomic interactions that views the structural origins through a valence electron, localized molecular orbital picture [ 13].The method is designed for an a priori evaluation of the structure of covalent materials and is gener-     Correspondence to: P.J. Rossky, Department of Chemistry and Biochemistry, University of Texas at Austin, Austin, TX 78712, USA.    0009-2614/92/$ 05.00   1992 Elsevier Science Publishers B.V. All rights reserved.    alizable to include interactions between atoms of different types, yet is highly computationally efficient. We emphasize at the outset that, as with approaches based on empirical many-body potentials, such an approach does not lead to electronic structure, but provides a relatively rapid method for configurational prediction, from which electronic structure can be evaluated in a second step [ 12 ] . The usefulness of the approach is demonstrated by applying it to molecular clusters, liquid and amorphous solid states of sulfur.   In section 2, we describe the model explicitly. Section 3 provides the aspects of an implementation in the specific case of sulfur along with the results of those applications. The conclusions are given in section 4.    2. Semi-empirical model     The interactions among atomic species consist of a possible bonding interaction between atoms that are sufficiently close to one another to have overlapping atomic orbitals, and a standard non-bonding interaction [ 14 ] for atom pairs which are determined not to be bonded. Hence, the form of the present potential is that of a sum of environmentally sensitive interatomic pair potentials, a form shared by some empirical potentials [9-11 ]. However, here, the bonding interaction is based on simple explicit    363  Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS 3 July 1992    quantum-chemical expressions while the non-bonded interactions are evaluated separately via molecular mechanics [14]. Further, the environmental sensitivity arises in the present case from the formation of bonds and is only implicit in the potential. One retains the capacity of the quantum description to directly represent bond strength and directionality. Correspondingly, relatively little empiricism is needed for implementation. This last fact is the major advantage of the present representation over empirical forms.   To implement these concepts, each atom in the present representation is associated not only with the configurational degrees of freedom of space, but also with internal electronic degrees of freedom. First, a continuous variation of the form of the atomic valence orbitals is included, allowing the formation of a hybridized valence state [ 15-17 ]. Second, the orientation of the resultant orbitals can vary. Such explicit introduction of electronic variables into interatomic interactions has some precedent [ 18 ] .   The total energy of the system of such atoms is partitioned into bonding, non-bonding, and promotional energies and is formally pairwise additive,    Etotal = ~, (Eval +E"    i&lt;j     !k  i  Enon-bond + Epromo  i&lt;k   i    The first sum is over bonded i, j pairs. The bonding interaction is evaluated between atomic pairs with (possibly hybridized) singly occupied atomic orbitals that overlap significantly, ignoring all other offdiagonal elements of the Hamiltonian matrix [ 17,19 ] , in accord with a zero-differential overlap approximation [ 16 ]. This aspect is analogous to some tight binding schemes [ 20 ] . In the present model, the set of bonding possibilities is determined by retaining only the largest orbital overlap involving a given atomic orbital, and, further, a cutoff is used, specifying the minimum orbital overlap to form a bond. The interactions between bonded neighboring atoms are then evaluated as the sum of a (spherically symmetric) nuclear/electronic "core" term E ore obtained empirically, and a bonding term Eat between valence electrons.   With the restricted list of overlaps specified above, Ev'ial can be computed by analytic (small dimen-    364    sional) diagonalization of the Hamiltonian involving only spatially local quantities [ 17 ]. This localized bond description underlies the usual description of the origin of molecular configuration [ 15 ] and is valid unless delocalized electrons play as essential role in structural determination.   The Hamiltonian matrix is evaluated as in semiempirical quantum chemistry via scaling of the orbital overlap between the neighboring valence orbitals [ 16,17,19,21 ] . The diagonal elements of the matrix Ei are determined via valence state ionization energies [ 16,21 ] and the off-diagonal elements by [ 17,21 ]    HLj - _ FSij (E1 EJ ) 1 1 2    where F is a constant and Sij is the atomic orbital overlap. The overlap is computed rapidly with standard contracted Gaussian representations of Slatertype valence orbitals [ 22 ] .   A core term analogous to those used both in extended Huckel theory [ 23 ] and some tight-binding methods [2,3], with empirical parameters, is also included,    Sil     core = acore eXp (- bcore rij )    Except for the "core" term, all of the parameters necessary for the bonding computation are, at least approximately, just those employed in quantum-chemical calculations. However, since electronic structure per se is not a goal of the model, one can allow for empirical adjustment of the few parameter, starting from a physically significant value.   The second sum in eq. (1) is over non-bonded atomic pairs. It includes all atomic pairs determined by the overlap criterion not to be bonded. The energy is computed here using a modified Buckingham potential [ 24 ] ,    E ik exp(-rik/PNB)+CNBrikb    (4)     The promotional energy Epron,o in eq. (1) accounts for the energetic cost associated with orbital hybridization [ 15 ] (see below).   The generation of the statistical thermal ensemble of structures, given the prescription for the configurational energy, can be carried out via standard Monte Carlo (MC) methods [ 25 ] . The novelty here is the addition in the MC sampling of hybridization [ 18 ] and orbital orientations. The electronic degrees  Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS 3 July 1992    of freedom can be treated classically for simplicity, or via fully quantum [ 18 ] or electronic ground state [ 1 ] approaches.    3. Implementation and results     We have implemented the method for the cases of molecular, liquid, and amorphous solid sulfur, where a set of starting parameters [ 14,19,26 ] is available, alternative routes have been employed [7,8,27,28], and experimental data are available [29-33]. Here, we have treated the internal atomic degrees of freedom classically for the liquid and by energy minimization (corresponding to the ground state) for the clusters and solid.   The model of sulfur corresponds to the bonding pictures due to Coulson [ 34 ] and Pauling [ 15 ] . Six valence electrons occupy the 3s and 3p orbitals. Here, we use orbitals of a simple form, identical to those used in previous work on sulfur and selenium [ 17 ] . The unhybridized state of the valence orbitals consists of two pairs of electrons occupying a pair of degenerate orbitals comprised of s and pz orbitals, and one electron occupying each of the p, and p,, orbitals. The orbitals can hybridize continously to an spa hybridized state. Explicitly,    V/i=aos+(I-az)"zoP.,    i/z    q/z=aWs+Cl Paz/    I-a    oPx+ ~1_azl~/z0P=&gt; (5a)    very modest exploration of the parameter space, considering the geometries of molecular clusters that result from a given value for the effective Slater exponent [ 22, 35 ] C and F ( eq. ( 2 ) ) and then selecting the parameters of Ecom empirically to reproduce the experimental values of the equilibrium ground state interatomic distance and electronic dissociation energy of SZ [ 29 ] . For the double bond of Sz, we retain in this case the four participating orbitals in the bond energy determination to retain rotational invariance. We find that an adequate choice for ~ is 2.6 au, corresponding to relatively extended orbitals [35], and the value selected for F ( 4.2 ) is somewhat greater than literature values used with a repulsive core term [ 23 ] . The corresponding core parameters ( eq. ( 3 ) ) are aco,e=2304.64 eV and b,o,-2.77220 A-`. For the non-bonded parameters of eq. (4), we use the literature values [26J: AHH=6607.4 eV; CNB-46.068 A6 eV; pNB=0.2723 A.   The resulting energetics and geometries of the molecular species S2-S8 and S,2 are listed in tables 1 and 2, along with values from experiment [ 30, 36 ] , from the empirical Stillinger-Weber model ( SW ) [ 8 ] , and from local density functional theory (DF) [27]. The structures reported are obtained by initially allowing spontaneous formation of rings from atoms, followed by annealing through a sequence of heating and cooling cycles, and finally refinement via Newton-Raphson minimization of the energy. The structures are believed to be global minima based on reproducibility of the results.    z i/z Table 1  i z ) i /z0a ,~, Cluster atomization energy  ~3.4=(2-a S-~2(I-a2)) ~Px    with energies given by    E,,2=aZEs+(I-az)EP,    Es,4=(i-az)ES+(i+az)EP    z  'J`  1 1-2a  gz   aC2(1_aa)) ~P=&gt; (5b) s,(CzJ   / Ss(D3n)    Sa  SS  S6  S,  Sa    where a varies between 0 and 1, and ES and EP are valence state ionization energies [ 16,21 ]; we use ES=-20.705 eV and EP--11.654 eV.   To select the values used for the several parameters in this initial application, we have carried out a    This work SW b) DF `) Exp.  )    2.21 1.32 1.80 2.44 2.53 2.54 2.53 2.54 2.54    2.38  2.39 2.41 2.50 2.49    2.74  2.94 2.89 3.15 3.32 3.41 3.43 3.46 3.46    2.19  2.42  2.42  2.51  2.60  2.68  2.70  2.73    Values in eV; systems larger than S2 are ring forms, except for S3 (C20, which is the open trimer. Values from ref. [ 8 ]. Values fromref. [27]. Thermodynamic values from ref. [ 36 ].    365  Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS 3 July 1992    Table 2  Cluster geometries    Bond length (A)    this work SW a) DF  ) exp. `)    Bond angle (deg)    this work SW a) DF b) exp. `)    S2 1.89 1.89 1.94 1.89 - - - -  S3(C2 ) 2.07 1.96 1.98 - 100 110 117 -  S3(D3,,) 2.06 2.03 2.12 - 60 60 60 -  S4 2.01 - 1.94, 2.56 - 90 - 90 -  SS 1.98 - 2.07-2.19 - 102-106 108 90-101 -  S6 2.05 - 2.11 2.07 109 - 102 103  S7 1.98 - 2.03-2.25 2.00-2.18 103-105 - 102-108  102-108  S8 1.98 . 2.06 2.11 2.05 103 110 108 107-109  S,2 1.98 - 2.10 2.05 103 - 106 106-107    From ref. [ 8 ] .  From ref. [ 27 ] ; for S4 the structure is rectangular.  Crystallographic values from ref. [30].     Experimental gas phase enthalpy data suggest a monotonically increasing strength per bond plateauing at S$ at about 2.73 eV [ 36 ] . The present results (table 1) are in general accord with this trend, as are those of the other methods. The absolute energies from the DF calculations are not very accurate, but the differences appear quantitatively superior to the alternatives considered here.   The only clear difficulty of the present model concern S3, where the open structure (denoted Czv) has to little stability. This species possesses partial double bond character [ 27 ] not accounted for here. It is possible that this could be accounted for by inclusion of the interaction of the terminal (unbonded) singly occupied orbital with the central atom lone pairs, but that is not considered here.   With respect to structure, for systems larger than S3, the present model somewhat underestimates bond lengths, and, not surprisingly, the DF approach provides quantitatively superior trends. However, the present model provides reasonable structures in this initial application. In particular, for S6, S8, and S,2, all sources agree on an essentially symmetric chair for S6 and crown structures for S$ and S I2. For S4, we obtain a square structure in qualitative accord with standard quantum-chemical results [28], while DF gives a rectangular interacting dimer structure [27 ], and SW yields an open chain [ 8 ] . For S5, the present approach predicts the half-chair to be most stable, slightly below the planar structure, also in accord with    366    standard quantum calculations [28]; the SW model assigns the planar structure as the global minimum. For S7, we obtain a twisted chair structure, comparable to that seen in experiment [ 30 ] and quantum calculations [ 28 ] . The present model does not reproduce the bond length alternation evident in experiment and quantum calculations (see ref. [ 30 ] and ref. [ 27 ] , fig. 8 ) .   Overall, the new model appears comparable to that of SW for the clusters. For the bulk there are considerable differences. Since the large strength of covalent bonds leads a priori to sampling problems when a simulation is carried out, as in earlier work [ 8 ] , we use the minimum energy structure obtained for the isolated molecular S8 species to form the initial bulk configuration. The bulk simulations include 1024 atoms, in periodic boundary conditions. The simulation of the liquid at a temperature of 428 K is below the polymerization temperature, and corresponds to the experimental work of ref. [ 32 ] , at a density of 1.78 g/ml [ 37 ] . For this simulation, 15000 cycles were carried out, where one cycle is defined as one pass through all the atoms such that for every nuclear position trial there were 10 hybridization trials and for every hybridization trial there were 10 orientation trials. We found that the liquid reached equilibrium after about 600 cycles.   The radial distribution function, g(r), for this equilibrated model liquid is shown as the lower curve in fig. 1 a. The position of the first nearest-neighbor  Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS 3 July 1992    4 -    4    2    0    8    2    0    2 4 6 8  10    0 2 4 6 8 10    Fig. 1. (a) Radial pair distribution function g(R) for the bulk liquid at T-428 K and density of 1.78 g/ml from simulation ( lower curve) and experiment ( upper curve); experimental data from ref, [32]. (b) Intramolecular (lower curve) and the intermolecular ( upper curve) parts of the simulated liquid g(R ) (a ).    peak (corresponding to the bonded neighbors) reflects the fact that the present model yields bonds that are somewhat shorter than seen in the experimental result [32], shown as the upper curve of fig. la. All intramolecular peaks are shifted somewhat due to this effect. Nevertheless, all of the qualitative features are present and agree rather well with experiment. Fig. lb shows g(r) divided into intra- (lower curve) and inter- (upper curve) molecular components. Intramolecular neighbors are those belonging to the same molecular cluster ( defined by the bonds formed). The intramolecular pair distribution function clearly    shows the first and second nearest neighbors, with the third and fourth neighbors smeared out.   An amorphous solid structure is obtained here via energy minimization (Newton-Raphson utilizing analytical gradients) of ten configurations of the parent liquid. The resulting g(r) is presented as the lower curve of fig. 2a, and the separate intra- and intermolecular pair distribution functions are the lower and upper curves of fig. 2b, respectively. As in the liquid, the intramolecular g(r) shows the third and fourth nearest neighbors smeared out, in contrast to a crystalline pattern. Experimentally, the amorphous solid formed from an unpolymerized liquid reverts to the crystalline state at room temperature [ 33 ] . Thus we tentatively compare our results to the experimental data from the solid formed from the polymerized state of liquid sulfur (at 503 K) [31 ]. This experimentally determined g(r) is shown as the upper curve of fig. 2a. The calculated result, shown as the lower curve of fig. 2a, reflects comparable structural differences compared to the liquid. The most notable features that change in going from the liquid to the quenched solid are the sharpening of the peaks and the resolution of peak at about 5.3 A. The only major differences between our g(r) and that of experiment is in the placement of the intramolecular peaks, already noted. In contrast, the results of SW show marked disparity with experiment in the 4 A region (see ref. [ 31 ] ). The qualitative improvement here appears to result from the fact that the present format does not rely on a single potential for both the bonding and nonbonding interactions, an aspect having relatively little impact on the structure of molecular clusters.    4. Conclusions     The new semi-empirical model described here has been shown to provide a very useful description of both molecular clusters and bulk amorphous states of sulfur. It involves few parameters and is generalizable, but allows calculations involving large number of atoms. The method is expected to be particularly useful in predicting the atomic arrangements of mixtures, which are less well characterized both experimentally and theoretically.   The generalization of this modelling scheme to    367  Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS 3 July 1992    g(R)    0 2 4 6 8 10    Fig. 2. (a) Radial pair distribution function g(R )for the amorphous solid obtained from the model liquid of fig. 1 a, at the same density ( lower curve). Experimentally determined amorphous solid g(R ) obtained from the polymerized liquid ( upper curve); data taken from ref. [ 31 ] . (b) Intramolecular ( lower curve) and the intermolecular ( upper curve) parts of the simulated amorphous solid g( R ) ( a ).    molecular dynamics should be relatively straightforward since the electronic degrees of freedom in the present method can be treated as in density functional methods [ 6 ] .   A variety of routes are available for quantitative improvement of the results obtained in this initial investigation, including alternative parametrization and the use of more flexible hybrid orbitals. Such extensions, as well as applications to semiconductor materials and molecular liquids [ 38 ] , are currently underway in this laboratory.    Acknowledgement     The research reported here has been supported by a grant from the Texas Advanced Research Program    368    (003658-341) and has been carried out with the computational support of the Center for High Performance Computing of the University of Texas System. One of us (LRC) has been supported by a National Science Foundation Postdoctoral Fellowship in Chemistry. Initial investigations were stimulated by a grant from Texas Instruments, Inc. in association with a NSF Presidential Young Investigator Award to PJR, and were carried out by C.S. Murthy and H. Rand.    References    1 ] G. Galli, R.M. Martin, R. Car and M. Parrinello, Phys. Rev. Letters 63 (1989 ) 988;  I. Stich, R. Car and M. Parrinello, Phys. Rev. B 44 (1991) 11092.  Volume 194, number 4,5,6 CHEMICAL PHYSICS LETTERS 3 July 1992    [2] D.A. Drabold, P.A. Fedders, O.F. Sankey and J.D. Dow, Phys. Rev. B 42 (1990) 5135;  O.F. Sankey and D.J. Niklewski, Phys. Rev. B 40 (1989 ) 3979.  [ 3 ] M. Menon and R.E. Allen, Phys. Rev. B 38 (1988) 6196.  [4]F.S. Khan and J.Q. Broughton, Phys. Rev. B 39 (1989) 3688.  [ 5 ] J. Broughton, M. Pederson, D. Papaconstantopoulos and D. Singh, Mater. Res. Soc. Symp. Proc. 193 (1990) 219.  [ 6 ] D.K. Remler and P.A. Madden, Mol. Phys. 70 (1990) 921.  [7] F.H. Stillinger and T.A. Weber, J. Phys. Chem. 91 (1987) 489.  [8] F.H. Stillinger, T.A. Weber and R.A. LaViollette, J. Chem. Phys. 85 (1986) 6460.  [9] J. Tersoff, Phys. Rev. Letters 56 (1986) 632; Phys. Rev. B 37 (1988) 6991.  10] B.C. Bolding and H.C. Andersen, Phys. Rev. B 41 (1990) 10568.  1 l ] J.R. Chelikowsky and J.C. Phillips, Phys. Rev. Letters 63 (1989) 1653.  12 ] K. Ding and H.C. Andersen, Phys. Rev. B 36 (1987) 2687.  131 O.J. Sovers, C.W. Kern, R.M. Pitzer and M. Karplus, J. Chem. Phys. 49 (1968) 2592.  14] J. Kao and N.L. Allinger, Inorg. Chem. 16 (1977) 35.  151 L. Pauling, The nature of the chemical bond, 3rd Ed. (Comell Univ. Press, Ithaca, NY, 1960).  16 ] I.N. Levine, Quantum chemistry, 2nd Ed. (Allyn and Bacon, Boston, 1974).  1711. Chen and T.P. Das, J. Chem. Phys. 45 (1966) 3526.  18] R.W. Hall and P.G. Wolynes, J. Stat. Phys. 43 (1986) 935.  19 ] M.J.S. Dewar and M.L. McKee, J. Comput. Chem. 4 (1983 ) 84.  20] J. D. Joannopoulos, M. Schluter and M.L. Cohen, Phys. Rev. B 11 (1975) 2186.  21 ] C.J. Ballhausen and H.J. Gray, Molecular orbital theory (Benjamin, New York, 1965).    [22] W.J. Hehre, R. Ditchfield, R.F. Stewart and J.A. Pople, J. Chem. Phys. 52 (1970) 2769.  [23 ] A.B. Anderson, J. Chem. Phys. 62 (1975) 1187.  [24] I.G. Kaplan, Theory of molecular interactions (Elsevier, Amsterdam, 1986).    J.P. Valleau and S.G. Whittington, in: Modern theoretical chemistry, Vol. 5A, ed. B.J. Berne (Plenum Press, New York, 1977 ).    [26 ] N.L. Allinger and M.J. Hickey, J. Am. Chem. Soc. 97 (1975 ) 5167.  [271 D. Hohl, R.O. Jones, R. Car and M. Parrinello, J. Chem. Phys. 89 (1988) 6823.  [28 ] D.A. Dixon and E. Wasserman, J. Phys. Chem. 94 (1990) 5786.  [29] B. Meyer, ed., Elemental sulfur (Interscience, New York, 1965 ).    [ 30 ] R. Steudel, in: Topics in current chemistry, Vol. 102. Inorganic ring systems, ed. F.L. Boschke (Springer, Berlin, 1982) p. 149.  [ 31 ] R. Winter, W: C. Pilgrim, P.A. Egelstaff, P. Chieus, S. Anlauf and F. Hensel, Europhys. Letters 11 (1990) 225.  [321 R. Winter, C. Snorzel, W.-C. Pilgrim, W.S. Howells, P.A. Egelstaff and T. Bodersteiner, J. Phys. Condens. Matter 2 (1990) 8427.  [ 33 ] R. Winter, T. Bodensteiner, C. Szornel and P.A. Egelstaff, J. Non-Cryst. Solids 106 (1988) 100.  [ 34 ] C.A. Coulson, Valence (Oxford Univ. Press, Oxford, 1961).  [35] L.C. Cusachs, B.L. Trus, D.G. Carrol and S.P. McGlyn, Intern. J. Quantum Chem. 1S (1967) 423.  [ 36 ] J. Berkowitz, in: Elemental sulfur, ed. B. Meyer (Interscience,NewYork, 1965).  [ 37 ] W.N. Turner, ed., The sulfur data book (McGraw-Hill, New York, 1954).  [ 38 ] H.L. Lemberg and F.H. Stillinger, J. Chem. Phys. 62 (1977 ) 1677.    369  tensions, as well as applications to semiconductor materials and molecular liquids [ 38 ] , are currently underway in this laboratory.    Acknowledgement     The research reported here has been supported by a grant from the Texas Advanced Research Program    368    (003658-341) and has been carried out with the computational support of the Center for High Performance Computing of the University of Texas System. One of us (LRC) has been supported by a National Science Foundation Postdoctoral Fellowship in Chemistry. Initial investigations were stimulated by a grant from Texas Instruments, Inc. in association with a NSF Presidential Young Investigator Award to</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>86066</aid>
+            <ce:pii>0009-2614(92)86066-Q</ce:pii>
+            <ce:doi>10.1016/0009-2614(92)86066-Q</ce:doi>
+            <ce:copyright type="unknown" year="1992"/>
+         </item-info>
+         <head>
+            <ce:title>A novel semi-empirical potential for covalently bonded materials</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>L.René</ce:given-name>
+                  <ce:surname>Corrales</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Peter J.</ce:given-name>
+                  <ce:surname>Rossky</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry and Biochemistry, University of Texas at Austin, Austin, TX 78712, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Correspondence to: P.J. Rossky, Department of Chemistry and Biochemistry, University of Texas at Austin, Austin, TX 78712, USA.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="3" year="1992"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="SP0005" view="all">A new format for describing the interactions among atoms capable of covalent bond formation is introduced and applied to sulfur in both molecular cluster and bulk amorphous forms. Bonding is described locally and evaluated via a semi-empirical quantum-chemical expression, while non-bonding interactions are described by conventional molecular mechanics. The new method is shown to capture the essential features of both the molecular and bulk phases in a generalizable format with few adjustable parameters, while retaining the computational efficiency required for the simulation of bulk condensed phase systems.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography id="R0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="RS0005">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Galli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Car</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Parrinello</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>988</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Stich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Car</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Parrinello</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11092</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Drabold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Fedders</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.F.</ce:given-name>
+                                 <ce:surname>Sankey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Dow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5135</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.F.</ce:given-name>
+                                 <ce:surname>Sankey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Niklewski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3979</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Menon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6196</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Broughton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3688</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Broughton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pederson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Papaconstantopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Remler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>921</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>489</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>LaViollette</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6460</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tersoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>632</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tersoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6991</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Bolding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10568</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Chelikowsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Phillips</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1653</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2687</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.J.</ce:given-name>
+                                 <ce:surname>Sovers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Kern</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Pitzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Karplus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2592</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.L.</ce:given-name>
+                                 <ce:surname>Allinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Pauling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>3rd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The nature of the chemical bond</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1960</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cornell Univ. Press</sb:name>
+                                 <sb:location>Ithaca, NY</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.N.</ce:given-name>
+                                 <ce:surname>Levine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>2nd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Quantum chemistry</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Allyn and Bacon</sb:name>
+                                 <sb:location>Boston</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3526</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Hall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Wolynes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Stat Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>935</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.S.</ce:given-name>
+                                 <ce:surname>Dewar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>McKee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>84</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Joannopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schluter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2186</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Ballhausen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Gray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular orbital theory</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1965</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Benjamin</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Hehre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ditchfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Stewart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Pople</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2769</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.G.</ce:given-name>
+                                 <ce:surname>Kaplan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Theory of molecular interactions</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Whittington</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.J.</ce:given-name>
+                                    <ce:surname>Berne</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Modern theoretical chemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5A</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.L.</ce:given-name>
+                                 <ce:surname>Allinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Hickey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5167</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hohl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Car</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Parrinello</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6823</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Dixon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wasserman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5786</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Meyer</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Elemental sulfur</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1965</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Interscience</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Steudel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Topics in current chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>F.L.</ce:given-name>
+                                    <ce:surname>Boschke</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Inorganic ring systems</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>102</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>149</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-C.</ce:given-name>
+                                 <ce:surname>Pilgrim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chieus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anlauf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hensel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Europhys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Snorzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-C.</ce:given-name>
+                                 <ce:surname>Pilgrim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Howells</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bodersteiner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8427</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bodensteiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Szornel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Coulson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Valence</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1961</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford Univ. Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Cusachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Trus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Carrol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>McGlyn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1S</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>423</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Berkowitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Meyer</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Elemental sulfur</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1965</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Interscience</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>W.N.</ce:given-name>
+                                    <ce:surname>Turner</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The sulfur data book</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1954</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Lemberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1677</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

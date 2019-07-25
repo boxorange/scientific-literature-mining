@@ -1,0 +1,480 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261481855662</prism:url><dc:identifier>doi:10.1016/0009-2614(81)85566-2</dc:identifier><eid>1-s2.0-0009261481855662</eid><prism:doi>10.1016/0009-2614(81)85566-2</prism:doi><pii>0009-2614(81)85566-2</pii><dc:title>Boundary problems in the calculation of light scattering intensities from liquids using computer simulation </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>78</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>121</prism:startingPage><prism:endingPage>124</prism:endingPage><prism:pageRange>121-124</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1981-02-15</prism:coverDate><prism:coverDisplayDate>15 February 1981</prism:coverDisplayDate><prism:copyright>Copyright © 1981 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Clarke, J.H.R.</dc:creator><dc:creator>Woodcock, L.V.</dc:creator><dc:description>
+               Abstract
+               
+                  Computer simulation of molecular dynamics in the Lennard-Jones model of liquid argon at the triple point density has been used to calculate depolarised scattering intensities based on a pairwise-additive dipole-induced-dipole mechanism. It is shown that large systematic errors arise from boundary effects as a result of the finite size of the model liquid samples. This severely limits the use of such calculations in evaluating light-scattering models.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261481855662" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261481855662" rel="scidir"/></coredata><scopus-id>30244520313</scopus-id><scopus-eid>2-s2.0-30244520313</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/30244520313" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T05:56:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261481855662</xocs:eid>
+      <xocs:pii-formatted>0009-2614(81)85566-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261481855662</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(81)85566-2</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06744</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T13:29:08.770108-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19810215</xocs:date-search-begin>
+      <xocs:year-nav>1981</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>78</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>78</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 78, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>29</xocs:sort-order>
+      <xocs:first-fp>121</xocs:first-fp>
+      <xocs:last-lp>124</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>121</xocs:first-page>
+         <xocs:last-page>124</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19810215</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 February 1981</xocs:cover-date-text>
+      <xocs:cover-date-start>1981-02-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1981</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1981 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>BOUNDARYPROBLEMSINCALCULATIONLIGHTSCATTERINGINTENSITIESLIQUIDSUSINGCOMPUTERSIMULATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CLARKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>281</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1002</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4091</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BALUCANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>177</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>LADD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1759</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KEYES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>479</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2328</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CLARKEX1981X121</xocs:refkey3>
+         <xocs:refkey4lp>CLARKEX1981X121X124</xocs:refkey4lp>
+         <xocs:refkey4ai>CLARKEX1981X121XJ</xocs:refkey4ai>
+         <xocs:refkey5>CLARKEX1981X121X124XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(81)85566-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261481855662</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261481855662</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(81)85566-2</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T13:29:08.770108-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1981-02-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261481855662-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481855662/MAIN/application/pdf/d3c84571d892db64d8da5ba353a3b229/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481855662/MAIN/application/pdf/d3c84571d892db64d8da5ba353a3b229/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>296156</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261481855662-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481855662/PREVIEW/image/png/8d0b80cdfe915a5df015137a4d839de3/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481855662/PREVIEW/image/png/8d0b80cdfe915a5df015137a4d839de3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64030</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>15 February 1981    CHEMICAL PHYSICS LETTERS    Volume 78, number 1    BOUNDARY PROBLEMS IN THE CALCULATION OF LIGHT SCATTERING INTENSITIES  FROM LIQUIDS USING COMPUTER SIMULATION    J.H R. CLARKE    Chemistry Department, Uniiersm of Manchester Institute of Science and Technology,  Manchester M60 IQD. UK    and    LV WOODCOCK    Physical Chemistry Laboratory, Omversin.' of Amsterdam. Amsterdam C, The Netherlands    Received 11 August 1980, in final form 1 November 1980    Computer simulation of molecular dynamics in the Lennaid-Jones model of hquid argon at the triple point density has  been used to calculate depolarised scattering intensities based on a pairwise-addiiive dipole—induced-dipole mechanism  It is shoun that large systematic errors arise from boundary effects as a result of the finite size of the model liquid sample.,  This severely limits the use of such calculations m evaluating light-scattering models    Several computer simulation studies of the Lennard-  Jones liquid have been reported in which the calculat-  ed absolute intensities [1] or frequency spectra [2—  4] have been compared with experimental data for  bquid inert gases, the aim being to evaluate the  mechanism of depolarised light scattering from simple  monatomic liquids. It has been pointed out [5], how-  ever, thai important systematic errors can arise in such  calculations It is the purpose of this letter to demon-  strate these simulation artifacts and to question the  feasibility of using current computer simulation tech-  niques to predict accurate absolute intensities at liquid  densities until these errors are fully evaluated    The depolarised light scattering from a monatomic  fluid (such as liquid argon or the model LJ liquid)  arises from fluctuations of the total interaction-induced  polansabihty arusotropy B. For the LJ liquid it is  convenient [1] to express the total intensity m terms  of a dunensionless tensor S,    S22 =(a6/N)^(B::::)2),    where the angle brackets indicate a time average. The  most popular model to date assumes a pairwise-ad-  dinve atomic polarizability anisotropy evaluated using    (1)    the dipole—induced-dipole model appro\imation    N    B"- = Z) T-=    0)    ',/    and    -3    T- = r, (1 - 3=,,z,,    (3)    •»/    ''/    where r,, is the separation of particles i and /. Recently  [6] it has been suggested thai at liquid densities three-  body terms may also contribute to B in which case ap-  proximation (2) would be invalid.    In the computer simulation method B22 is accumu-  lated for microscopic ensemble configurations using eq.  (2), and the mean-squared value is then evaluated. The  computed intensity was found to be an order of mag-  nitude larger than the experimental value and this led  to the conclusion that the DID model provided a poor  description of light scattering in these systems [ 1 ].    Several points should be noted concerning this cal-  culation f which we refer to as method A). Firstly the  summation ofeq. (1) can be resolved [1] into terms in-  volving respectively 2, 3 and 4 particles (S = 283 +483  + 84) and the value of S21 is the extremely small    0 009-2614/81/0000-0000/S 02.50 © North-Holland Publishing Company    121    Volume 78, number 1 CHEMICAL PH\ S1CS LETTERS IS February 1981    residual obtained b\ summing such lerms wluch are  individually large in magnitude (the ihree-particie term  is negative) As a result of the small size of the com-  puter ensemble it is necessap. 10 apply a truncation to  the calculation of T^ be\ond a te\^ atomic diameters  and it has been shown recently [5] thai the \alue ob-  tained for 5^ depends quite strongly on the value of  this truncation distance (R-y) and in an oscillatory  fashion One result of truncation is to distort the  relative numbers of 2 3- and 4-panicle terms in the  final summation In particular there is a significant  deficit of (predominantly negative) triplets relative to  4-parnJe products This may be a contributory reason  for the high computed values of S^    In order to demonstrate more clearly the uncer-  tainties introduced by truncation we first discuss the  behaviour of the pair component 5^ The calcula-  tions \^ere performed using the molecular dynamics  method with the LJ model of liquid argon (e/k =  120 K. and o = 0-3405 nrn) near the triple point ( po3  = 0 S3. kT/e = 0 85) Sample sizes \vere either 865 or  2056 panicles, the equilibrium configurational aver-  ages being performed at up to 14000 time steps For  ail the calculations described here an average was taken  o\er ihe three diagonal elements ot'S. as previously  described [5]. in order 10 improve the statistical ac-  curacv In fig 1 is sho\^n a special resolution          Fig 1 Radial resolution of ihe contribution to the lotal in-  tensity function from pan terms alone, ^. is defined in eq  (4) Note the magnitude of error introduced by truncating all  interactions beyond 2-Sa, compared with the experimental  result for the total intensity, (a) Quoted m ref [I],(b) ref  18]    ,v    (4)    X----0-)=(o&lt;VAQ&lt;S [T^O-)]2).    1,1          '    where    S^ = 2 / d/-X----(/-)                                (5)    0    ^(r) can readily be computed as a histogram of  finite width in dr. There are two points to make con-  cerning this result Firstly the most important contri-  butions to Sy arise from short-range (nearest neigh-  bour) interactions Secondly, however, the error in  S^ arising from truncation at, for instance. 2 5o (a  commonly chosen value [1]) is still many times larger  than the total experimental intensity for liquid argon  Thus unless it can be proved that. in any particular  method of calculation, the tong-range corrections t0  83 and 84 exacth cancel the error in 83 then all dis-  crepancies between experimental and computed  intensities are, at present, within the uncertainties  due to computational artifacts    Further illustrations of the errors introduced by  truncation were obtained from a different resolution  of the intensity function S (method B). The summa-  tion over pairs in eq (2) can be re-cast as a sum over  panicles, each having an induced polansability aniso-  tropy p as a result of interacting with surrounding  particles Thus  v    5----=(o6/A.-)S&lt;|3;--p--&gt;    '-/                                     (6)    N-i  =(a6/N)^(^)2)+^pf= B p;-'&gt;J    With this formulation we can define two truncation  distances The first, R-^. as before defines the limn of  interaction of particle pairs so thai    pr-'=S7-^, ^&lt;/?-r                    (?)    and    N    5---- = Spr -  &lt;    We can also study independently the range of the  cross correlations contributing to S^ by applying a    122    15 February 1981    CHEMICAL PHYSICS LETTERS    Volume 78, number 1    (8)    truncation Ry to the cross-product terms (; =^t:/ ) m  (6). Thus    ^3;-'=^;-'  ?:--?;--=0,    [n the lirnit of a macroscopic sample (for which  t^,R^ -•-°°) the two methods A and B must lead to  identical results. This mil not be the case for the small  samples of computer simulation experiments how-  ever. A difference will arise because method B im-  poses a truncation on the four-particle terms in •S'^  The simplest procedure is to set /?, = R-J- and evaluate  the truncation dependence ofS^. Results so obtain-  ed are compared with previous calculations using  method A in fig 2 for an 864-parlicle system. S^  is strongly oscillatory in both cases even at distances  where the pair distribution function has essentially  decayed to unity. As expected values ofS^ are con-  sistently smaller for the more restrictive calculation  biased against the (predominantly positive [5])  four-particle terms    There are strong indications thai most of the trun-  cation errors arise m the product sums rather than in  the approximation (7) for P, The "self-part &lt;(0," )2 )  contains all pair and some of the triplet terms in S^  and this was found to evhibii very little dependence  on either/?^- or/?. The value of 048 ±001 for  1 5o 'S/?-? ^ -4a is in good agreement with previous  calculations [7] The oscillatory behaviour of S^  arises from the cross correlations &lt;.^{3,&gt;, which con-        05    1  0-1 ^ 1   1 il  03 'r  02 4 1 - HI " t ^ ts2   —— e- » — i /x.'^e.  01 g3 iS! &gt;^      '       2 r/CT 3       4       5    Fig 1 A comparison of truncation effects on the total de-  polarised scattering intensity froni the two different methods  A and B described in the text.r is the truncation, distance  • Original result of Alder et al. (1 ], method A; o data of Ladd  ei al [5], method A, » present results using method B, de-  scribed by eqs (6)—(8), the height of the box denotes the  statistical uncertainty        02-01- ffS, J! ^t^-^  0 -01 ^  02- ''\. -i1?"''1"'-^-"^  03 04 ',\..,.sfr.r~~&lt;^^a a &lt;y-component 'i •w3-^.- yA • zz-component ff^"  05-     r/CT    rig 3 Intensity contribution from cross products of the  induced polansabilny anisotropiesp; (method B, see eq (6;    in text) as a function of truncation range r [eq. (8)] :; and  i.i indicate diagonal and off-diagonal components Oscula-  tions occur al least to 4o The evpenmental result for S^:: is  0 15 on ihe scale shown [4] ^ Computation ot'P, and the  cross products tiuncaied at r, :, • computation ot'P, truncat-  ed at 3 So    tain all four-particle products as well as the remain-  ing triplet terms in S^ This is shown m fig. 3. where  the ensemble-averaged cross product is plotted as a  function of truncation distance R^ Two sets ofdaia  are compared, one with all 0 values calculated with  R^ = 2.5(3, the other set with R-f ^ R^ Both seis show  similar oscdiations The prune cause of the errors ap-  pears nor to be the truncation of the interactions but  the way in which the cross products are taken Full  evaluation of these errors is likely to be an evtremely  difficult task    Any extrapolation of the current results to an  asymptotic limit must be highly speculative. The best  conclusion that one can draw is thai 5=:' =015  ±01. Although within the error limns this would be  in agreement with recent experimental measurements  on liquid argon [8.9], the uncertainties are much  larger than can be tolerated in any accurate evaluation  of the light-scattering rnechamsrn-    The authors acknowledge support from the North  Atlantic Treaty Organisation    References    [1] B J Alder, J J. Weiss and H L. Strauss, Phys. Rev. A7  (1973^281.    123    Volume 78. number 1                    CHEMICAL PHYSICS LETTERS                       15 February 1981    [2] BJ -Mder, H L Sirauns and J J \\eiss J Chem Ph&gt; s.         [6] T. Keyes, B M Ladanyi and P A Madden, Chem. Phys    59 (1973) 1002                                               Letters 64 (1979) 479  [31 BJ \\dei. S C Beers II, H L Strauss and J J WeiSS, J          [7] B J. Alder, H L Snauss and J J Weis, J. Chem Phys    Chem Phys 70(1979)4091                                  62(1975)2328  [4] U Balucam, V Togneiii and R Vallaun, Ph^s Rev A19      [8] J H R Clarke and J Bruiiung, submitted for publication    11979) 177                                                [9] M Zoppi, private communication.  [51 \ S C Ladd.T -^ Litovitz J H R Claike and L V    Woodcock-J Chem Ptns 72(1980)1759    124  ion on the four-particle terms in •S'^  The simplest procedure is to set /?, = R-J- and evaluate  the truncation dependence ofS^. Results so obtain-  ed are compared with previous calculations using  method A in fig 2 for an 864-parlicle system. S^  is strongly oscillatory in both cases even at distances  where the pair distribution function has essentially  decayed to unity. As expected values ofS^ are con-  sistently smaller for the more restrictive calculation  biased against the (predominantly positive [5])  four-particle terms    There are strong indications thai most of the trun-  cation errors arise m the product sums rather than in  the approximation (7) for P, The "self-part &lt;(0," )2 )  contains all pair and some of the triplet terms in S^  and this was found to evhibii very little dependence  on either/?^- or/?. The value of 048 ±001 for  1 5o 'S/?-? ^ -4a is in good agreement with previous  calculations [7] The oscillatory behaviour of S^  arises from the cross correlations &lt;.^{3,&gt;, which con-        05    1 </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>81855662</aid>
+            <ce:pii>0009-2614(81)85566-2</ce:pii>
+            <ce:doi>10.1016/0009-2614(81)85566-2</ce:doi>
+            <ce:copyright type="unknown" year="1981"/>
+         </item-info>
+         <head>
+            <ce:title>Boundary problems in the calculation of light scattering intensities from liquids using computer simulation</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.H.R.</ce:given-name>
+                  <ce:surname>Clarke</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemistry Department, University of Manchester Institute of Science and Technology, Manchester M60 IQD, UK</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>L.V.</ce:given-name>
+                  <ce:surname>Woodcock</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Physical Chemistry Laboratory, University of Amsterdam, Amsterdam C, The Netherlands</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="11" month="8" year="1980"/>
+            <ce:date-revised day="1" month="11" year="1980"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Computer simulation of molecular dynamics in the Lennard-Jones model of liquid argon at the triple point density has been used to calculate depolarised scattering intensities based on a pairwise-additive dipole-induced-dipole mechanism. It is shown that large systematic errors arise from boundary effects as a result of the finite size of the model liquid samples. This severely limits the use of such calculations in evaluating light-scattering models.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>281</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1002</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Beers</ce:surname>
+                                 <ce:suffix>II</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4091</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Balucani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Tognetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vallauri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>177</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.C.</ce:given-name>
+                                 <ce:surname>Ladd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Litovitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.R.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.V.</ce:given-name>
+                                 <ce:surname>Woodcock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1759</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Keyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Ladanyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>479</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2328</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.H.R. Clarke and J. Bruining, submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M. Zoppi, private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

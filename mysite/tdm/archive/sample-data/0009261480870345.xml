@@ -1,0 +1,580 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261480870345</prism:url><dc:identifier>doi:10.1016/0009-2614(80)87034-5</dc:identifier><eid>1-s2.0-0009261480870345</eid><prism:doi>10.1016/0009-2614(80)87034-5</prism:doi><pii>0009-2614(80)87034-5</pii><dc:title>Structure of non-uniform molecular fluids: Integrodifferential equations for the density-orientation profile </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>76</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>329</prism:startingPage><prism:endingPage>332</prism:endingPage><prism:pageRange>329-332</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1980-12-01</prism:coverDate><prism:coverDisplayDate>1 December 1980</prism:coverDisplayDate><prism:copyright>Copyright © 1980 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Gubbins, K.E.</dc:creator><dc:description>
+               Abstract
+               
+                  A family of integrodifferential equations are derived for the density -orientation profile, p(z1ω1), in a non-uniform molecular fluid. Three of these equations are generalizations of well-known results for simple (spherical molecule) fluids, while the remaining three apply only to molecular fluids. Applications to the gas-liquid interface are briefly discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261480870345" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261480870345" rel="scidir"/></coredata><scopus-id>0001669043</scopus-id><scopus-eid>2-s2.0-0001669043</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001669043" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020111">2002-01-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020111">2002-01-11</xocs:available-online-date>
+      <xocs:ew-transaction-id>2013-01-31T03:53:37</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261480870345</xocs:eid>
+      <xocs:pii-formatted>0009-2614(80)87034-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261480870345</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(80)87034-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.4</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X04083</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T20:14:36.115239-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19801201</xocs:date-search-begin>
+      <xocs:year-nav>1980</xocs:year-nav>
+      <xocs:indexeddate epoch="1010707200">2002-01-11T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>76</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>76</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 76, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>34</xocs:sort-order>
+      <xocs:first-fp>329</xocs:first-fp>
+      <xocs:last-lp>332</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>329</xocs:first-page>
+         <xocs:last-page>332</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19801201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 December 1980</xocs:cover-date-text>
+      <xocs:cover-date-start>1980-12-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1980</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1980 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>STRUCTURENONUNIFORMMOLECULARFLUIDSINTEGRODIFFERENTIALEQUATIONSFORDENSITYORIENTATIONPROFILE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GUBBINS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1A">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1B"/>
+         <xocs:ref-info refid="BIB2AI">
+            <xocs:ref-normalized-surname>ROSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>18</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELEMENTARYTHEORYANGULARMOMENTUM</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2AII">
+            <xocs:ref-normalized-surname>ROSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELEMENTARYTHEORYANGULARMOMENTUM</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2B">
+            <xocs:ref-normalized-surname>MESSIAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1960</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1068</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>QUANTUMMECHANICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2C"/>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>YVON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1958</xocs:ref-pub-year>
+            <xocs:ref-first-fp>144</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>TRIEZENBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHDTHESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>LOVETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>570</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>WERTHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2377</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>THOMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>THOMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>76</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9"/>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>THOMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4947</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GUBBINSX1980X329</xocs:refkey3>
+         <xocs:refkey4lp>GUBBINSX1980X329X332</xocs:refkey4lp>
+         <xocs:refkey4ai>GUBBINSX1980X329XK</xocs:refkey4ai>
+         <xocs:refkey5>GUBBINSX1980X329X332XK</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(80)87034-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261480870345</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261480870345</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(80)87034-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2013-01-30T23:01:02.249858-05:00</xocs:timestamp>
+         <xocs:cover-date-start>1980-12-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261480870345-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480870345/MAIN/application/pdf/82db95297747b2a1a7d891f03f846144/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480870345/MAIN/application/pdf/82db95297747b2a1a7d891f03f846144/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>330828</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261480870345-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480870345/PREVIEW/image/png/e865b4ea1cffbeb7189e8e92199b65d4/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480870345/PREVIEW/image/png/e865b4ea1cffbeb7189e8e92199b65d4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58298</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 76, number 2 CHEMICAL PHYSICS LETTERS  1 December 1980    STRUCTURE OF NON-UNIFORM MOLECULAR FLUIDS:  IITEGRODIFFERENTIAL EQUATIONS FOR THE DENSITY-ORIENTATION PROFILE    K.E. GUBBINS    Plri,sical C7ienlistrt, Laboratory. Oxford OXI 3QZ. UK    Received 3 September 1980     A family of intcgrodifferential equations are derived for the density-orientation profile, p(z IwI ). in a non-uniform molecular fluid. Three of these equations are generalizations of well-known results for simple (spherical molecule) fluids, while the remaining three apply only to molecular fluids. Applications to the gas-liquid interface are briefly discussed.    1. Introduction     We consider an equilibrium classical fluid which is inhomogeneous in the z direction, but uniform in the x and y directions; the inhomogeneity results from some external potential field c)). If the fluid is composed of simple (argon-like) molecules the quantity of greatest theoretical interest is the molecular distribution function p(rlr-, ... rtl), which is proportional to the probability density of observing a molecule with its centre of mass at rl, another at r.,, etc. The one-body distribution function or density profile, p(rl) = p(z 1), is of particular interest and has been the subject of much recent work. Several rigorous integrodifferential equations for p(z t) can be derived; they relate p(zl) to either the pair distribution function p(rlr-)) or the pair direct correlation function c(rlr?). These equations form the starting point for many approximate theories of simple non-uniform fluids. A review of this work, together with a derivation of the integrodifferential- equations for the simple fluid case, has been given by Evans [ 1 ] .   In this paper these integrodifferential equations are extended to the case of molecular fluids, in which the intermolecular potential energy depends on the molecular orientations in addition to the positions of the molecular centres. Some new integrodifferential equa-    ` Permanent address: Olin Hall, Cornell University, Ithaca, New York 14853, USA.    tions. that apply only for the molecular fluid case, are also derived. We neglect any dependence of the intermolecular forces on the vibrational states of the molecules.    ?. Theory     The density-orientation profile p(_ I w 1) = p(l) is the function of central interest, and is proportional to the probability density for finding a molecule at height zI with orientation wl (= 61 1 or  tBIYI for linear or non-linear molecules. respectively). For an open system with chemical potential tt, volume fr, and temperature Tit is given by    p(t)= 1 - ~  XIV    (N- 1)t     X Jd 3 d3 ... dN exp [-ss(c?L + c17 )] ,    where ,G = 1 /kT, di = dri dwi, cM is the intermolecular potential energy. '_:- is the grand partition function,     N o ~Nt Jdi d2  dNexp[- 3(`ll+cl7)] (2)    and X is given by    = zqqu/A3fir,    (3)    329  Volume 76, number 2 CHEMICAL PHYSICS LETTERS 1 December 1980    where _ = exp(p/kT), qqu is the quantal part of the molecular partition function (due to vibrations, etc.), .fit = (ph'-/2,rm)ll'` is the usual thermal de Brogue wavelength- and .1.r. (= ssh2/8rr2l for linear molecules) is the inverse of the rotational partition function for a single molecule. The external potential cV(12 ...1V) is written    Z r v(i),  i=1    where a(i) = v(rrco;) is the external potential acting on molecule i, which in general depends on both the position and orientation of the molecule.   Differentiation of (1) with respect to z l yields the first Vvon-Born-Creen (YBG) equation: assuming that c?1 is a sum of pair potentials this is    ap(1)- fdr~dw2P(I2 !IL(-12) ~12 -ssP(1) aV(I)  a=, a 1- ) arl2 r,,  a:    (5)    where p(I2)=p(rlr,wlw2) is the pair distribution function [the expression for this function is the same as (1), but without the integration over 3, and with (N - 1)! replaced by (N - 2)! ] , rl 2 = r, - r l , and u(12) is the intermolecular pair potential. We may also differentiate (1) with respect to the molecular orientation w I , to obtain (again assuming painvise additivity)    everywhere (e.g. a vapour-liquid surface in the presence of a very weak gravitational field) then (5) and (6) each provide useful routes to p(_ lcol). While (5) is a trivial generalization of the usual YBG result for simple atomic fluids, (6) is specific to molecular fluids and should provide valuable additional information about p(1).   Further integrodifferential equations for p(1) can be derived by noting that for a given intermolecular potential energy p(l) is a unique functional of u(l), and vice versa; the proof parallels that for the simple fluid case [1]. We first introduce the total correlation function h(12)=h(rlr,wlw2) and the direct correlation function c(12) = c(rlr7wl wZ) by the usual equations    p(12) -P(I)p(2) -p(I)p(2)h(12),    h(12) = c(12) + fd3 c(13)p(3)h(32)_    By considering the change in p(1) due to a small change in the external potential 617 one can derive [1] the first Yvan equation [3] for molecular fluids.    I 6p(I) s(rl -r2)s(wl -w2)   It(12)=-ssP(I)P(2) sa(2)  P(I)   (10) and also, from (9), its inverse (die second Yvon equation),    (8)    (9 )    o,,p(1)=-afarl2aw,P(12)vwtu(12) c(12) _a sv(1) B(rl -r,&gt;s(wl -w,)    sp(2) + P(I)'  - (3p(1; Ow t  (1)-  (6)    where VW ~ = it (where ! is the angular momentum operator) is the angular gradient operator, given for linear molecules by [2]     i a a  v. -rxv=-a +Osine aO  ae    where 8 and O are the usual unit vectors- If the field u(1) depends only on r, and not on wl (e.g. a gravitational field), the last term on the right-hand side of (6) vanishes. For a homogeneous fluid (c17 = 0) both sides of (5) and (6) vanishes; if, however, c-V can approach zero without ap(1)/az and V, t p(1) vanishing    330    where 8(x) is the Dirac delta function.     We now suppose that the external potential field is displaced by a spatial distance s_ Since p(1) is a unique functional of v(I) it must be similarly displaced, i.e. p(rlwl [a(rl +sl, wl)1)=P(rl ts&gt; wl)blalcing a functional Taylor expansion of p(rl +s, w) about s = 0 gives [1]    P(rl +s&gt;wl)=P(rlwl) +Jdr2 dw2(  sP(rlwly~    str(r2wZ) s-0    x [u(r2 +s, w2) - u(r2w2)] + ... .    Taking the limit ass --&gt; O, and using (1 O) gives    (12)  Volume 76, number 2 CHEMICAL PHYSICS LETTERS I December 1980    a In p(1)= - au(2) - 5U)   az1 ssfdrl2dca-) p(2)h(12) a=  a=1     (13) Conversely, we can consider u(1) to be a functional of p(1), so that a spatial displacements in the argument of v causes o to be similarly displaced, i.e. u(rlwl[p(rl +s,wl)])=u(rl +s.wl).Makinga functional Taylor expansion of u(rl + s, w 1) about a(rl wl ). allowing s to approach zero. and using die second Yvon equation (1 1), gives    a In p(I &gt; ap(2) 13 aU(1)  az1 =fdr12dw-&gt;C(12) a=, - az1  (14)    Eqs. (13) and (14) are straightforward generalizations of the corresponding simple fluid results [1,4-6]. The simple fluid analogues of (13) and (14) have been used to study correlation of fluctuations in interfaces by Wertheim [6].   For molecular fluids it is possible to derive similar integrodifferential equations to (13) and (I4) by considering a rotation w'. Thus from the fact that p(1) is a unique functional of u(1) we have, provided that tr is a function of molecular orientation, that p(riwi[v(ri,wl +w )])=p(rl,wi +w').Makinga functional Taylor expansion about w' = 0, taking the limit w' - 0, using the first Yvon equation (10), and the properties of the rotation operator [21, gives    0,.,,1 In p(1)=-0fdr12dw,p(2)h(I2) Vwzv(2)     -ss-wit!(l).    Clearly (15) will only apply if a depends explicitly on the molecular orientation. Conversely, by considering a(1) to be a functional of p(1), making a functional Taylor expansion of u(rl, wi +ca') about u(rlwl), and using (11), we get    OWi In p(1)=fdr12dwgc(12)OLO 2p(2) -ssVWio(1),   (16)    which will apply even in the. case where v is independent of molecular orientations.    3. Discussion    Eqs. (5). (6) and (l3)-(16) are integrodifferential  equations that may be used as the basis for theories  of the density-orientation profile in inhomogeneous  fluids: for homogeneous fluids both sides of each of  these equations vanish. Eqs. (5), (13) and (1-1) are  straightforward generalizations of well-known results  for fluids of simple spherical molecules [ 1,4-61, but  (6), (15) and (16) are new results that should prove  useful in the study of the orientational structure of  non-uniform molecular fluids. If p(l2) and c(I2) are  known exactly, and rJ.l is painvise additive. then each  of these six equations should give the same result for  p(1)_ In practice we have. at best. only approximate  theories for the pair correlation functions in a non  uniform fluid. These equations %viu therefore vary in  their usefulness in providing information about p(I ),  and calculations based on more than one of them will  provide a useful consistency test.  _   We make the following remarks in connection with these integrodifferential equations= (a) Eqs. (5) and (6) assume that the intermolecular potential energy is pairwise additive, whereas (13)-(16) apply for a general (multibody) potential. (b) Eqs. (13) and (15) should provide a starting point for studying the limiting behaviour of p(1) and possible long-range correlations as die external field becomes weak [1.61. Eqs. (5), (6), (1-k) and (16) should also provide useful information about p(1) in this limit. provided that the limit may be taken with p(1) remaining non-uniform(c) We expect (5) and (6) to provide a useful starting point for theories based on approximations for p(12) = p(1)p(2)g(12). and (14) and (16) to be die best starting point for theories based on approximations to c(12). (d) Each of the eqs. (5). (6), (l3)-(l6) are the first members of hierarchies of coupled integrodifferential equations for the distribution functions of order h, p(rJ'wl'). These equations are readily written down by the methods of section 2.     It is possible to derive similar integrodifferential equations for the one-particle direct correlation function c(r,w1)=c(1),definedby [1.6]    c(1) -ssu(1) + In [P(I)/X ] and related to c(12) by c(12) = oc(1)/8p(2),    (17)    331  Volume 76,anumber 2 CHEMICAL PHYSICS LETTERS 1 December 1980    but these equations for c(i) provide no new information.   We plan to use the equations given here to study orientational structure in the gas-liquid surface. For simple fluids the first YBG equation (5) and to a lesser extent (14), have been used as the basis for theories of the density profile p(z 1), while Wertheim [6] has also used (13) and (14) to show that longrange correlations occur in the xy plane of the interface. The additional expressions (6), (15) and (16) should provide alternative routes for molecular fluids, for both the study of p(1) and for the investigation of possible long-range orientational correlations in the plane of the surface. As an example of the possible use of (6) to calculate p(1) we briefly consider the form such a theory of p(1) might take for linear molecules. Transforming the integral over rl2 on the right of (5) to cylindrical coordinates (z12r12 12), integrating over 0l,, and then integrating both sides over zI from -- (the liquid side, where p(z 16 1) = P2/S2, with p  the bulk liquid density and 2 = 4r) to z 1, gives, in the limit of zero external field.    AZ 1 W 1) = (P2 /W     -1 r12  X exp 127-.A(3 2 f d- -'l f ar12 J d-_12-12    0  -ri =    X (P(2)g(12)au(12)/orl2U' ,    where ( ),, means un unweighted average over w. Eq. (19) can be simplified by expanding both sides in spherical harmonics. Computer simulation studies of the gas-liquid surface for fluids of linear molecules, having both anisotropic shape and electrostatic forces, show that such an expansion for p(z t cil) converges rapidly, and that the first two or three terms in the series are enough for good results to be obtained [6-9] ; (19) then yields a set of coupled integral equations that should be manageable, provided that a reasonable approximation forg(12) can be found. Previous experience [10] with perturbation    (19)    332    theory calculations of p(z lc.ul ), where a variety of approximate forms were used for g(12), suggests that the calculation may not be sensitive to this approximation. It is straight forward to write down analogous equations to (19) that involve eitherp(12) or c(12), by applying a similar procedure to (6), (14) and (16).    Acknowledgement     It is a pleasure to thank J.S. Rowlinson and the Physical Chemistry Laboratory. Oxford, for their hospitality during the period when this work was carried out, and J. Henderson, J.S. Rowlinson, C.G. Gray and R. Evans for helpful discussions. This work was supported by a grant from the Petroleum Research Fund, administered by the American Chemical Society.    References    (l j R_ Evans. Advan. Phys. 28 (1979) 143;   J.S. Rowlinson and B. Widom, Molecular theory of   capillarity (Oxford Univ. Press, London) ch. 4, to be   pubti:hed_  [2J DLE. Rose, Elementary theory- of angular momentum   (Wiley, New York, 1957) pp. 18, 48;   A. Messiah. Quantum mechanics (North-Holland.   Amsterdam, 1960) p. 1068;   C.G. Gray and K.E. Gubbins, Theory of molecular fluids   (Oxford Univ. Press, London) app. A, to be published.  (3j J. Yvon. Nuovo Cimento S9 (1958) 144.  [4] D.G. Triezenbere, Ph.D. Thesis, University of Maryland   (1970.  [5] R.A. Lovett, C.Y. hiou and F.P. Buff, J. Chem. Phys. 65  (1976) 570_  [6] M.S. Wertheim, J. Chem. Phys. 65 (1976) 2377.  [7J S.M. Thompson, Faraday Discussions Chem. Soc_ 66    (1978) 107.  [8] S.M. Thompson and K.E. Gubbins, Am. Chem. Soc. Symp. Ser. 86 (1978) 76.  [9] S.M. Thompson and K.E. Gubbins, J. Chem. Phys., submitted for publication. [10] S.M. Thompson and K.E. Gubbins, J. Chem. Phys. 70 (1979) 4947.  e eqs. (5). (6), (l3)-(l6) are the first members of hierarchies of coupled integrodifferential equations for the distribution functions of order h, p(rJ'wl'). These equations are readily written down by the methods of section 2.     It is possible to derive similar integrodifferential equations for the one-particle direct correlation function c(r,w1)=c(1),definedby [1.6]    c(1) -ssu(1) + In [P(I)/X ] and related to c(12) by c(12) = oc(1)/8p(2),    (17)    331  Volume 76,anumber 2 CHEMICAL PHYSICS LETTERS 1 December 1980    but these equations for c(i) provide no new information.   We plan to use the equations given here to study orientational structure in the gas-liquid surface. For simple fluids the first YBG equation (5) and to a lesser extent (14), have been used as the basis for theories of the density profile p(z 1), while Wertheim [6] has also used (13) and (14) to show that longrange correlations occur in the xy plane of the interface. The additional expressions (6), (15) and (16) should provide alternative routes for molecular fluids, for both the study of p(1) and for the investigation of possible long-range orientational correlations in the plane of the surface. As an example of the possible use of (6) to calculate p(1) we briefly consider the form such a theory of p(1) might take for linear molecules. Transforming the integral over rl2 on the right of (5) to cylindrical coordinates (z12r12 12), integrating over 0l,, and then integrating both sides over zI from -- (the liquid side, where p(z 16 1) = P2/S2, with p  the bulk liquid density and 2 = 4r) to z 1, gives, in the limit of zero external field.    AZ 1 W 1) = (P2 /W     -1 r12  X exp 127-.A(3 2 f d- -'l f ar12 J d-_12-12    0  -ri =    X (P(2)g(12)au(12)/orl2U' ,    where ( ),, means un unweighted average over w. Eq. (19) can be simplified by expanding both sides in spherical harmonics. Computer simulation studies of the gas-liquid surface for fluids of linear molecules, having both anisotropic shape and electrostatic forces, show that such an expansion for p(z t cil) converges rapidly, and that the first two or three terms in the series are enough for good results to be obtained [6-9] ; (19) then yields a set of coupled integral equations that should be manageable, provided that a reasonable approximation forg(12) can be found. Previous experience [10] with perturbation    (19)    332    theory calculations of p(z lc.ul ), where a variety of approximate forms were used for g(12), suggests that</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>87034</aid>
+            <ce:pii>0009-2614(80)87034-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(80)87034-5</ce:doi>
+            <ce:copyright type="unknown" year="1980"/>
+         </item-info>
+         <head>
+            <ce:title>Structure of non-uniform molecular fluids: Integrodifferential equations for the density-orientation profile</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>K.E.</ce:given-name>
+                  <ce:surname>Gubbins</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Physical Chemistry Laboratory, Oxford OX1 3QZ, UK</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Permanent address Olin Hall, Cornell University, Ithaca, New York 14853, USA.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="3" month="9" year="1980"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="SP0005" view="all">A family of integrodifferential equations are derived for the density -orientation profile, <ce:italic>p</ce:italic>(z<ce:inf loc="post">1</ce:inf>ω<ce:inf loc="post">1</ce:inf>), in a non-uniform molecular fluid. Three of these equations are generalizations of well-known results for simple (spherical molecule) fluids, while the remaining three apply only to molecular fluids. Applications to the gas-liquid interface are briefly discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography id="R0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="RS0005">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="BIB1A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref id="BIB1B">
+                        <ce:label>b</ce:label>
+                        <ce:textref>J.S. Rowlinson and B. Widom, Molecular theory of capillarity (Oxford Univ. Press, London) ch. 4, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="BIB2AI">
+                        <ce:label>ai</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Rose</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Elementary theory of angular momentum</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1957</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>18</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB2AII">
+                        <ce:label>aii</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Rose</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Elementary theory of angular momentum</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1957</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB2B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Messiah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Quantum mechanics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1960</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1068</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref id="BIB2C">
+                        <ce:label>c</ce:label>
+                        <ce:textref>C.G. Gray and K.E. Gubbins, Theory of molecular fluids, (Oxford Univ. Press, London) app. A, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yvon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nuovo Cimento</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>S9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1958</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>144</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Triezenberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Ph.D. Thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of Maryland</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Lovett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Mou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Buff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>570</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wertheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2377</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faraday Discussions Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am. Chem. Soc. Symp. Ser.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>76</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S.M. Thompson and K.E. Gubbins, J. Chem. Phys., submitted for publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4947</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

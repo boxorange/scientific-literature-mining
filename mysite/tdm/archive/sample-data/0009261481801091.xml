@@ -1,0 +1,749 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261481801091</prism:url><dc:identifier>doi:10.1016/0009-2614(81)80109-1</dc:identifier><eid>1-s2.0-0009261481801091</eid><prism:doi>10.1016/0009-2614(81)80109-1</prism:doi><pii>0009-2614(81)80109-1</pii><dc:title>Influence of the potential on the dielectric constant of inert gases </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>80</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>283</prism:startingPage><prism:endingPage>285</prism:endingPage><prism:pageRange>283-285</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1981-06-01</prism:coverDate><prism:coverDisplayDate>1 June 1981</prism:coverDisplayDate><prism:copyright>Copyright © 1981 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Vermesse, J.</dc:creator><dc:creator>Levesque, D.</dc:creator><dc:creator>Weis, J.J.</dc:creator><dc:description>
+               Abstract
+               
+                  Dielectric constants of Ar, Kr and Xe at room temperature are calculated by molecular dynamics in the constant-polarizability approximation for three potentials: the Lennard-Jones, the multiparameter pair potential of Barker et al., and the multiparameter potential with an Axilrod—Teller three-body potential. The three-body potential has negligible effect but differences are found between the Lennard-Jones and multiparameter potentials.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261481801091" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261481801091" rel="scidir"/></coredata><scopus-id>49049145720</scopus-id><scopus-eid>2-s2.0-49049145720</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49049145720" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020118">2002-01-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020118">2002-01-18</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T10:21:34</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261481801091</xocs:eid>
+      <xocs:pii-formatted>0009-2614(81)80109-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261481801091</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(81)80109-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X12821</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T17:38:46.565179-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19810601</xocs:date-search-begin>
+      <xocs:year-nav>1981</xocs:year-nav>
+      <xocs:indexeddate epoch="1011312000">2002-01-18T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>80</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>80</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 80, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>283</xocs:first-fp>
+      <xocs:last-lp>285</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>283</xocs:first-page>
+         <xocs:last-page>285</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19810601</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 June 1981</xocs:cover-date-text>
+      <xocs:cover-date-start>1981-06-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1981</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1981 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFLUENCEPOTENTIALDIELECTRICCONSTANTINERTGASES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VERMESSE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BARKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RAREGASSOLIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BARKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>657</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HAILE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COMPUTERMODELINGMATTER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>VERMESSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>641</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>EGELSTAFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1702</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>SCHOMMERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2855</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>GELBART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3098</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>ALDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2328</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BARKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3081</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>BELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>901</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>BUCKINGHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BAROCCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>901</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>VARSHNEYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VERMESSEX1981X283</xocs:refkey3>
+         <xocs:refkey4lp>VERMESSEX1981X283X285</xocs:refkey4lp>
+         <xocs:refkey4ai>VERMESSEX1981X283XJ</xocs:refkey4ai>
+         <xocs:refkey5>VERMESSEX1981X283X285XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(81)80109-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261481801091</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261481801091</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(81)80109-1</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T17:38:46.565179-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1981-06-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261481801091-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481801091/MAIN/application/pdf/47d1a186031009f5c899e1f0a5fafb07/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481801091/MAIN/application/pdf/47d1a186031009f5c899e1f0a5fafb07/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>248397</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261481801091-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261481801091/PREVIEW/image/png/974b2c6be20278845b89fe5189b377e1/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261481801091/PREVIEW/image/png/974b2c6be20278845b89fe5189b377e1/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61739</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 80, number 2 CHEMICAL PHYSICS LETTERS 1 June 1981    INFLUENCE OF THE POTENTIAL ON THE DIELECTRIC CONSTANT OF INERT GASES    J. VERMESSE    Laboratoire des Interactions Moleculaires et des Hautes Pressions. CNRS. Centre Universitaire de Paris-Nord,  93430 Villetaneuse, France    and    D. LEVESQUE and JJ. WEIS    Laboratoire de Physique Theorique et Hautes Energies*, Unwersitede Pans-Sud,  91405 Orsay Cedex, France    Received 7 February 1981; in final form 23 February 1981    Dielectric constants of Ar, Kr and Xe at room temperature are calculated by molecular dynamics in the constant-polar-  izability approximation for three potentials: the Lennard-Jones, the multiparameter pair potential of Barker et al., and the  multiparameter potential with an Axilrod—Teller three-body potential. The three-body potential has negligible effect but  differences are found between the Lennard-Jones and multiparameter potentials.    It is now well known that effective pair potentials  such as the widely used Lennard-Jones (LJ) potential  fail to give an accurate description of the inert gases.  A better description can be obtained by using a pan-  potential appropriate to the gas phase together with  an Axilrod—Teller three-body potential [1 ]. Only a  few dense-gas or liquid-state properties have been re-  ported for this class of potential [2—6] (mainly be-  cause simulations involving three-body forces consume  a relatively large amount of computer time). Exam-  ples are calculations of the equation of state of argon  [2], krypton [4] and xenon [4], the viscosity of xenon  [4] and the structure factor of krypton [5,6]. They  generally are in good agreement with experiment.    In this paper we investigate the influence of the in-  teraction potential on the dielectric constant ofAr.Kr  and Xe at room temperature. A full calculation of the  dielectric constant is, however, not intended. Besides  the interaction potential it requires knowledge of the  two-body polarizability and possibly also of higher-or-  der polarizabilities [7,8]. Since no precise information    (t Laboratoire associe au Centre National de la Recherche  Scientifique.    on these quantities is available for the heavier inert  gases we adopt a constant-polarizability model (DID  limit). Although it fails to reproduce experiment [9],  it is still of help for estimating the influence of the in-  teraction potential.    In the constant-polarizability approximation, the  Clausius—Mossotti relation can be written [9]    e-1 3    (1)    e+2 4irpOQ  with    A=io^ Z) Z? «r^r^&gt;-&lt;r^x'r^».   (2)    /^i  k^f    In eq. (2) the dipole—dipole tensor is defined by  Tf-ri,3^^.^,).                    (3)    p is the number of particles per unit volume and OQ  the isolated-atom polarizability.    As the dielectric constant will be calculated for an  isotropic sample and periodic boundary conditions,  the last term in (2) vanishes and hence    0 009-2614/81/0000-OOOO/S 02.50 © North-Holland Publishing Company 283    Volume 80, number 2 CHEMICAL PHYSICS LETTERS I June 1981    A^a^2--//-^    (4)    (5)    (6)    (7)    with    R^ =Sf +Sf.    S    ^:-.6  "3 "'m    &lt;T-  "V    In these expressions ^(r) denotes the pair distribution  function and r^ the distance at which the'pair poten-  tial is a minimum- (Note that these defmitions ofS^  and S^2 differ from those ofrefs. [8,9] by a factor  (o/r )6 where a is the distance at which the pair poten-  tial is zero.)    A is evaluated by molecular dynamics for three  types of potential: the Lennard-Jones (12.6) (LJ) po-  tential, the multiparameter pair potential (MP) of  Barker and co-workers, and the MP potential together  with the Axilrod—Teller three-body potential (MP +  DDD);    DDD = v(l + 3 cos 0 ^ cos @2 cos 0^){r3 r^r^.     (8)    Oi,6-i,Qi are the angles of the triangle formed by the  particles i,j, /.The parameters characterizing these po-  tentials are summarized in table 1. The numbers of  particles used in the molecular dynamics simulations  are 108 for the U and MP potentials, 64 when the  triple-dipole potential is added All potentials and the  sums mR^2 have been truncated at a distance r^ of    the order of 2.5 r^. To correct for this truncation a  long-range contribution assuming g(r) = 1 has been  added to the pair term Sj2. The total Rzz = 5j2 + 5j2  is rather insensitive to the truncation [8] and no cor-  rection term has been added. Results for A along the  298 K isotherm are given in table 2.    It is first noted that the influence of the triple-di-  pole potential on the deviation from the Clausius—  Mossotti expression is small. For the densities pr^ =  0.4 (Xe) and 0.6 (Kr) both the MP potential and the  MP + DDD potential give identical results within sta-  tistical error. For the higher density pr^. = 0.8 (Xe) a  difference of 5% is observed, but some of this differ-  ence may be due to the use of a rather small cut-off  distance in the evaluation ofR22 when the three-body  potential is included. On the other hand, the use of  either a LJ or a MP potential produces a non-negligible  effect on A. For argon the difference amounts to 10%.  Tlus is also the order of magnitude observed for light  scattering intensities at low density [13]. For the  heavy inert gas Xe the effect of the potential change  appears to be as large as 30%.    In view of these results it seems essential to use pre-  cise potential forms when analyzing dielectric or light-  scattering data in order to extract accurate informa-  tion on the polarizability tensor [14]. In this context  it would be useful [14] to do a molecular dynamics  calculation for the light scattering intensity of argon  near the triple point using a MP potential (from what  is found here for the dielectric constant the contribu-  tion of the triple-dipole interaction would probably  have a negligible effect). We are presently carrying out  such a calculation.    Table 1  Parameters of the potentials used in the calculation of the dielectric constant         Ar Kr Xe  LJ(12,6)     a (A) 3.405 3.685 4.070  'm(A) e/k (K) 3.822 119.5 4.136 164.4 4.568 225.3  MP     'm(A) e/&amp;(K) 3.756 [2] 147.7 [2] 4.0067 [10] 201.9 [101 4.3623 [10] 281 [101  DDD     i/dO'^ergcm9^!!! 74.6 224 749.8  0.0 (10~24 cm3) [12] 1642 2.479 4.044    284    Volume 80, number 2 CHEMICAL PHYSICS LETTERS 1 June 1981    Table 2  Variation of A with potential type along the 298 K isotherm of Ar, Kr and Xe        Type of potential 'c/'m p (g/cm3) ^m yZZ &amp;2 R27- 103 A  Ar LJ 233 0.5880 0.4950 3.41 1.78 3 85  MP 2.5 0.5880 0.4700 3.30 1.82 4.37  LJ 2.05 16129 1.3577 12.72 1.52 3.29  MP 2.15 1.6129 12900 11.68 1.51 3.63  Kr MP 2.5 0 5408 0.2500 1.76 1.25 464  MP 2.5 1.2978 0.6000 418 1.86 6.91  MP + DDD 2.3 1.2978 0.6000 4.16 1.85 6.87  MP 2.3 2.1631 1.0000 7.70 1.51 5.61  Xe LJ 223 10504 04595 317 1.67 7.52  MP 2.5 10504 0.4000 2.81 1.77 1050  MP + DDD 25 10504 04000 2.81 1.73 10.26  LJ 223 2.1009 0.9188 6.83 158 7.11  MP 2.5 2.1009 0.8000 5.72 1.66 9-85  MP + DDD 2.1 2.1009 0.8000 5.81 1.77 10.50  LJ 2.14 2 8887 12634 10.79 1.13 5.09  MP 2.3 2.8887 1.1000 8.62 1 20 7.12    References    [1] J.A. Barker, in: Rare gas solids, VoL 1, eds. M.L. KIein    and J.A. Venables (Academic Press, New York, 1976).  [2] J.A. Barker, R.A. Fisher and R.O- Watts, MoL Phys. 21    (1971)657.  [3] J.M. Haile, in: Computer modeling of matter, ed. P.    Lykos (American Chemical Society. Washington, 1978).  [4] J. Vennesse and D. Levesque, High Pressure Sci- Technol.    2 (1979) 641; to be published.  [5] P. Egelstaff, A. Teitsma and S S. Wang, Phys. Rev. A22    (1980) 1702.    (6] W. Schonuners, Phys. Rev. A22 (1980) 2855.  [7] W.M. Gelbart, Advan. Chem. Phys. 26 (1974) 1.    [8] B J. Alder, J.C Beers II, H.L. Strauss and J.J Weis, Proc.    Natl. Acad Sci. US 77 (1980) 3098.  [9] BJ. Alder, H.L. Strauss and J.J. Weis, J. Chem. Phys. 62    (1975)2328.  [10] J.A. Barker, R.O. Watts, JJK. Lee, T.P. Schafer and Y.T.    Lee, J. Chem. Phys. 61 (1974) 3081.  [11] R.J. Bell and A.E. Kingston, Proc. Phys. Soc. (London)    88 (.1966) 901.  [12] A.D. Buckingham and K.L. Clarke, Chem Phys. Letters    57 (1978) 321.  [13] F. Barocchi and M. Zoppi, J. Chem. Phys. 65 (1976)    901.  [14] D. Varshneya, S.F- Shin-on, T.A- Litovitz, M- Zoppi    and F. Barocchi, Phys. Rev. A23 (1981) 77.    285  ng-range contribution assuming g(r) = 1 has been  added to the pair term Sj2. The total Rzz = 5j2 + 5j2  is rather insensitive to the truncation [8] and no cor-  rection term has been added. Results for A along the  298 K isotherm are given in table 2.    It is first noted that the influence of the triple-di-  pole potential on the deviation from the Clausius—  Mossotti expression is small. For the densities pr^ =  0.4 (Xe) and 0.6 (Kr) both the MP potential and the  MP + DDD potential give identical results within sta-  tistical error. For the higher density pr^. = 0.8 (Xe) a  difference of 5% is observed, but some of this differ-  ence may be due to the use of a rather small cut-off  distance in the evaluation ofR22 when the three-body  potential is included. On the other hand, the use of  either a LJ or a MP potential produces a non-negligible  effect on A. For argon the difference amounts to 10%.  Tlus is also the order of magnitude observed for light  scattering intensities at low density [13]. For the  heavy inert gas Xe the effect of the potential change  appears to be as large as 30%.    In view of these results it seems essential to use pre-  cise potential forms when analyzing dielectric or light-  scattering data in order to extract accurate informa-  tion on the polarizability tensor [14]. In this context  it would be useful [14] to do a molecular dynamics  calculation for the light scattering intensity of argon  near the triple point using a MP potential (from what  is found here for the dielectric constant the contribu-  tion of the triple-dipole interaction would probably  have a negligible effect). We are presently carrying out  such a calculation.    Table 1  Parameters of the potentials used in the calculation of the dielectric constant         Ar Kr Xe  LJ(12,6)     a (A) 3.405 3.685 4.070  'm(A) e/k (K) 3.822 119.5 4.136 164.4 4.568 225.3  MP     'm(A) e/&amp;(K) 3.756 [2] 147.7 [2] 4.0067 [10] 201.9 [101 4.3623 [10] 281 [101  DDD     i/dO'^ergcm9^!!! 74.6 224 749.8  0.0 (10~24 cm3) [12] 1642 2.479 4.044    284    Volume 80, number 2 CHEMICAL PHYSICS LETTERS 1 June 1981    Table 2  Variation of A with potential type along the 298 K isotherm of Ar, Kr and Xe        Type of potential 'c/'m p (g/cm3) ^m yZZ &amp;2 R27- 103 A  Ar LJ 233 0.5880 0.4950 3.41 1.78 3 85  MP 2.5 0.5880 0.4700 3.30 1.82 4.37  LJ 2.05 16129 1.3577 12.72 1.52 3.29  MP 2.15 1.6129 12900 11.68 1.51 3.63  Kr MP 2.5 0 5408 0.2500 1.76 1.25 464  MP 2.5 1.2978 0.6000 418 1.86 6.91  MP + DDD 2.3 1.2978 0.6000 4.16 1.85 6.87  MP 2.3 2.1631 1.0000 7.70 1.51 5.61  Xe LJ 223 10504 04595 317 1.67 7.52  MP 2.5 10504 0.4000 2.81 1.77 1050  MP + DDD 25 10504 04000 2.81 1.73 10.26  LJ 223 2.1009 0.9188 6.83 158 7.11  MP 2.5 2.1009 0.8000 5.72 1.66 9-85  MP + DDD 2.1 2.1009 0.8000 5.81 1.77 10.50  LJ 2.14 2 8887 12634 10.79 1.13 5.09  MP 2.3 2.8887 1.1000 8.62 1 20 7.12    References    [1] J.A. Barker, in: Rare gas solids, VoL 1, eds. M.L. KIein    and J.A. Venables (Academic Press, New York, 1976).  [2] J.A. Barker, R.A. Fisher and R.O- Watts, MoL Phys. 21    (1971)657.  [3] J.M. Haile, in: Computer modeling of matter, ed. P.    Lykos (American Chemical Society. Washington, 1978).  [4] J. Vennesse and D. Levesque, High Pressure Sci- Technol.    2 (1979) 641; to be published.  [5] P. Egelstaff, A. Teitsma and S S. Wang, Phys. Rev. A22    (1980) 1702.    (6] W. Schonuners, Phys. Rev. A22 (1980) 2855.  [7] W.M. Gelbart, Advan. Chem. Phys. 26 (1974) 1.    [8] B J. Alder, J.C Beers II, H.L. Strauss and J.J Weis, Proc.    Natl. Acad Sci. US 77 (1980) 3098.  [9] BJ. Alder, H.L. Strauss and J.J. Weis, J. Chem. Phys. 62    (1975)2328.  [10] J.A. Barker, R.O. Watts, JJK. Lee, T.P. Schafer and Y.T.    Lee, J. Chem. Phys. 61 (1974) 3081.  [11] R.J. Bell and A.E. Kingston, Proc. Phys. Soc. (London)    88 (.1966) 901.  [12] A.D. Buckingham and K.L. Clarke, Chem Phys. Letters    57 (1978) 321.  [13] F. Barocchi and M. Zoppi, J. Chem. Phys</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>81801091</aid>
+            <ce:pii>0009-2614(81)80109-1</ce:pii>
+            <ce:doi>10.1016/0009-2614(81)80109-1</ce:doi>
+            <ce:copyright type="unknown" year="1981"/>
+         </item-info>
+         <head>
+            <ce:title>Influence of the potential on the dielectric constant of inert gases</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Vermesse</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire des Interactions Moleculaires et des Hautes Pressions, CNRS, Centre Universitaire de Paris-Nord, 93430 Villetaneuse, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Levesque</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.J.</ce:given-name>
+                  <ce:surname>Weis</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratoire de Physique Théorique et Hautes Energies<ce:cross-ref refid="FN1">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref>
+                     <ce:footnote id="FN1">
+                        <ce:label>1</ce:label>
+                        <ce:note-para>Laboratoire associé au Centre National de la Recherche Scientifique.</ce:note-para>
+                     </ce:footnote>, Université de Paris-Sud, 91405 Orsay Cedex, France</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="7" month="2" year="1981"/>
+            <ce:date-revised day="23" month="2" year="1981"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Dielectric constants of Ar, Kr and Xe at room temperature are calculated by molecular dynamics in the constant-polarizability approximation for three potentials: the Lennard-Jones, the multiparameter pair potential of Barker et al., and the multiparameter potential with an Axilrod—Teller three-body potential. The three-body potential has negligible effect but differences are found between the Lennard-Jones and multiparameter potentials.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.L.</ce:given-name>
+                                    <ce:surname>KIein</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.A.</ce:given-name>
+                                    <ce:surname>Venables</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Rare gas solids</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Fisher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>Watts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>657</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Haile</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>P.</ce:given-name>
+                                    <ce:surname>Lykos</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Computer modeling of matter</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Chemical Society</sb:name>
+                                 <sb:location>Washington</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vermesse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Levesque</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>High Pressure Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>641</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>to be published.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Egelstaff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Teitsma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1702</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schommers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2855</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Gelbart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Beers</ce:surname>
+                                 <ce:suffix>II</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. US</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3098</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Alder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2328</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>Watts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Schafer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3081</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Bell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Kingston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Phys. Soc. (London)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>901</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Buckingham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Barocchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zoppi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>901</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Varshneya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Shirron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Litovitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zoppi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Barocchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

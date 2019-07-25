@@ -1,0 +1,469 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261480802648</prism:url><dc:identifier>doi:10.1016/0009-2614(80)80264-8</dc:identifier><eid>1-s2.0-0009261480802648</eid><prism:doi>10.1016/0009-2614(80)80264-8</prism:doi><pii>0009-2614(80)80264-8</pii><dc:title>An extended X-Ray absorption fine structure (exafs) study of copper (II) sulphate pentahydrate </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>72</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>162</prism:startingPage><prism:endingPage>164</prism:endingPage><prism:pageRange>162-164</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1980-05-15</prism:coverDate><prism:coverDisplayDate>15 May 1980</prism:coverDisplayDate><prism:copyright>Copyright © 1980 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Joyner, Richard W.</dc:creator><dc:description>
+               Abstract
+               
+                  The EXAFS spectrum of copper (II) sulphate pentahydrate has been measured using synchrotron radiation. Comparison with the results of ab initio calculation gives a mean copper-oxygen distance of 1.95 Å, in reasonable agreement with the known value of 1.97 Å. The relation between the EXAFS Debye-Waller factor and thermal parameters measured by neutron diffraction is discussed. Absence in the EXAFS spectrum of evidence for the second-nearest neighbour oxygen atoms, at Cu-O ≈ 2.4 Å, is discussed.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261480802648" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261480802648" rel="scidir"/></coredata><scopus-id>4243289827</scopus-id><scopus-eid>2-s2.0-4243289827</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4243289827" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011116">2001-11-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011116">2001-11-16</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T09:59:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261480802648</xocs:eid>
+      <xocs:pii-formatted>0009-2614(80)80264-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261480802648</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(80)80264-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X03971</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T09:15:15.486997-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19800515</xocs:date-search-begin>
+      <xocs:year-nav>1980</xocs:year-nav>
+      <xocs:indexeddate epoch="1005868800">2001-11-16T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>72</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>72</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 72, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>37</xocs:sort-order>
+      <xocs:first-fp>162</xocs:first-fp>
+      <xocs:last-lp>164</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>162</xocs:first-page>
+         <xocs:last-page>164</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19800515</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 May 1980</xocs:cover-date-text>
+      <xocs:cover-date-start>1980-05-15</xocs:cover-date-start>
+      <xocs:cover-date-year>1980</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1980 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EXTENDEDXRAYABSORPTIONFINESTRUCTUREEXAFSSTUDYCOPPERIISULPHATEPENTAHYDRATE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JOYNER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2795</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>ASHLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1279</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BEEVERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1934</xocs:ref-pub-year>
+            <xocs:ref-first-fp>570</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BACON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>95</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MARTENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1481</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KINCAID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THESIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CLEMENTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>177</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BENI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1514</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JOYNERX1980X162</xocs:refkey3>
+         <xocs:refkey4lp>JOYNERX1980X162X164</xocs:refkey4lp>
+         <xocs:refkey4ai>JOYNERX1980X162XR</xocs:refkey4ai>
+         <xocs:refkey5>JOYNERX1980X162X164XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(80)80264-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261480802648</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261480802648</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(80)80264-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T09:15:15.486997-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1980-05-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261480802648-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480802648/MAIN/application/pdf/0d487d756cdefb7a1e71cf71842be9a9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480802648/MAIN/application/pdf/0d487d756cdefb7a1e71cf71842be9a9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>280610</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261480802648-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261480802648/PREVIEW/image/png/dad188a9d3a1493bfdcb4a69fad73983/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261480802648/PREVIEW/image/png/dad188a9d3a1493bfdcb4a69fad73983/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70637</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 72, number 1 CHEMICAL PHYSICS LETTERS 15 May 1980    AN EXTENDED X-RAY ABSORPTION FINE STRUCTURE (EXAFS) STUDY  OF COPPER (II) SULPHATE PENTAHYDRATE    Richard W. Joyner  School of Chemistry. Uimersily of Bradford. Bradford. West Yorkshire BD 7 1DP. UK    Received 31 December 1979, in final form 20 February 1980    The EXAFS spectrum of copper (II) sulphate pentahydrate has been measured using synchrotron radiation. Comparison  with the results of ab initio calculation gives a mean copper oxygen distance of 1 95 A, in reasonable agreement with the  known value of 1 97 A. The relation between the EXAFS Debye Waller factor and thermal parameters measured by neu-  tron diffraction is discussed Absence in the EXAFS spectrum of evidence for the second-nearest neighbour oxygen atoms,  at Cii-0 s= 2.4 A, is discussed    Extended X-ray absorption fine structure (EXAFS)  is becoming well established as a structural tool In-  terest remains, however, in the accuracy with which  structural parameters, in particular interatomic dis-  tances, can be extracted from EXAFS spectra with the  aid of ab initio calculation The EXAFS spectrum is  described by [1,2]    X(k) = T/(i^/kRf) sin (IkR^ + 25 + ^)    X l/;(7r)|exp(-^&amp;2)exp(-2^^/&amp;),        (1)    where k is the photoelectron wave vector, R. is the in-  teratomic distance and N. the coordination number of  the/th shell of atoms. \fAis)\ is the backscattermg fac-  tor of the /th atom, U~ is a Debye Waller factor and  V^ is the imaginary part of the self-energy. ^ is the  phase shift of the backscattenng atom and 5 the cen-  tral atom phase shift.    The Fourier transform of the EXAFS spectrum  yields peaks at R^ &lt; R., the displacement to lower in-  teratomic distance resulting from the phase shifts (25  + i)/,). Where unknown interatomic distances are to be  measured, common practice has been to determine the  magnitude of the energy dependent shift (28 + V&gt;.)  from a compound of known structure and to assume  chemical transferability. An alternative approach,  which has been applied m a smaller number of cases,  is to use theoretically calculated phase shifts. The in-  teratomic distance is then obtained by comparison of  the ab initio calculation with the experimental EXAFS  spectrum.    This letter gives experimental data and the results  of an ab initio calculation for the copper K shell  EXAFS of copper (II) sulphate pentahydrate. In this  compound copper is surrounded by a tetragonally dis-  torted octahedron of oxygen atoms [3,4] and the crys-  tal structure is of low symmetry, being tnchnic.  Martens et al [5] studied the EXAFS of this com-  pound using a rotating anode source.    The experimental measurement was made at 298 K  on a BDH reagent-grade sample ofCuS04   SH^O at  the DESY synchrotron, Hamburg. The EXAFS appa-  ratus, constructed by the SRC Daresbury Laboratory  and the University of Warwick, is similar to that de-  scribed by Kincaid [6], differing only in the use of  sealed ionization chambers. The spectrum was obtain-  ed m 1 h, with a circulating current ofs=4 mA at an  energy of 7 GeV. At this energy the radiation contains  a significant proportion of higher harmonics; no at-  tempt is therefore made to study coordination num-  ber. The experimental EXAFS spectrum is shown in  fig la. Fig. Ib shows the fine structure after the re-  moval of the non-oscillatory part, using standard poly-  nomial-fitting procedures^. Well-defined oscillations    : Computer programme written by R. Pettifer.    162    Volume 72, number 1 CHEMICAL PHYSICS LETTERS IS May 1980    are observed over a significantly larger energy range  than that achieved by Martens et al. [5].    Fig. Ic shows the Fourier transform of fig. Ib. The  data were multiplied by a gaussian window-function  centred at the middle of the k space data range. For  the transform and the EXAFS calculation described  below, the absorption edge was located 14 eV below  the position of the experimental edge. This position  is thought likely to correspond more accurately to the  muffin-tin zero, which is the appropriate energy zero;    calculations by Martens et al. [5], suggest a similar  position for the energy origin of the EXAFS spectrum.  In agreement with Martens et al. [5], the transform  shows only a single major peak. This peak is much nar-  rower than that observed by Martens et al., reflecting  the greater energy range and lower noise level of the  synchrotron-generated data. The peak position, at  1.57 A, is at longer Cu 0 distance than reported pre-  viously, 1.46 A. Since the energy origin and gaussian  window are similar to those used by Martens et al.,  this substantial shift reflects the use of data extending  over a greater energy range. Reasonable variation of  the energy origin and of the gaussian window function  caused shifts in the position of the Fourier transform  maximum of &lt; 0.05 A.    We now describe the calculation of the EXAFS  spectrum. The domination of the Fourier transform  by a single peak shows that only a single shell of neigh-  bouring atoms contributes substantially. We have there-  fore considered copper surrounded by four equidis-  tant oxygen atoms in a square-planar array, although  recognizing that the geometrical arrangement of the  backscattering atoms is of no importance for a poly-  crystalline sample. The phase shifts were calculated in  the local density approximation. The charge density  was constructed with overlapping atomic charges,  using Hartree Fock wavefunctions due to Clementi  [7]. Copper was octahedrally coordinated to oxygen  in the calculation of the phase shifts. In the EXAFS  calculation the Cu 0 distance and the Debye Waller  factor were treated as parameters and the imaginary  part of the self-energy was set to  4 eV. Fig. Ib shows  the best fit to the experimental spectrum, and was ob-  tained with Cu-0 = 1.95 A and U2 = 5 X I03 A2. The  best fit was that which gave a minimum in the sum of  squares    S {[^Wcalc - ^Wexpl2 "?(&amp;)}.          earn 8900  9000   9'po  S2.QQ  93oo  po ffa yam    Photon Energy /eV          Photoelectron energy lev    Magnitude/    arbitrary units    c          10 20 30    1.0        50  Interatomic Distance lH    Fig. 1. (a) EXAFS spectrum of copper (II) sulphate pentahy-  drate. Ct&gt;) Fine structure after removal of the non-oscillatory  part. (+) Experimental spectrum, (   ) calculated using the  parameters given in the text. (c) Fourier transform of the ex-  perimental spectrum shown in Kg. Ib.    163    Volume 72, number 1 CHEMICAL PHYSICS LETTERS 15 May 1980    The criterion of fit is weighted in favour of the higher-  energy region of the spectrum, where errors in the  choice of energy zero and calculated phase shifts are  of less significance. At energies below 160 eV the cal-  culation * treated the photoelectron as a curved wave  (eqs. (2 16) and (2.19) in ret. [1]) and used eight  oxygen phase shifts For this energy range the magni-  tude of the phase shifts for / &gt; 7 is &lt; lO"5 radian  Above 160 eV the photoelectron was treated as a plane  wave (eq. (2 20) m ref. [1 ]) and 15 phase shifts were  used. The amplitudes of calculated and experimental  spectra were set equal at I80eV photoelectron energy.    The most accurate determination of the mean Cu 0  distance, using neutron diffraction, is 1 97 A [4]. The  EXAFS result is in reasonable agreement with this, al-  though not as close as the  0 01 A accuracy which is  sometimes claimed for EXAFS determinations.    The Debye Waller factor, U2, receives two contri-  butions    U1 =(7f +t72.    t/f is the thermal contribution, related to o, the rms  displacement of the backscattenng atom with respect  to the central atom. by t7f = 2o2 [8] (72, defined by  (72 = N~1 S^i A/?,2, reflects any static disorder pres-  ent in the shell of/V atoms [9]. A/?^ is the static dis-  placement of the /th atom from the average shell dis-  tance. For the oxygen nearest-neighbour shell the static  disorder contribution is negligible and the observed  Debye-Waller factor yields a = 0.05  0 03 A. It is of  interest to relate this to the thermal parameters ob-  tained by Bacon and Curry in their neutron diffraction  study [4], which give the root-mean-square displace-  ments of copper and oxygen about their rest positions,  0(-y and (TO respectively. If it is assumed that copper  and oxygen each execute uncorrelated simple harmonic  motion, then it can be shown that the rms displace-  ment of oxygen with respect to copper, a, is given by    i _ ^    i  0 ~ Cu '^O-    The thermal parameters given by Bacon and Curry  yield o = 0.24 A The EXAFS result is significantly  smaller than that deduced from the neutron-diffraction  thermal parameters, indicating that the motion of cop-  per and oxygen atoms is strongly correlated. Gurman  [9] has shown that the correlation between nearest  neighbours increases with temperature for a solid  obeying the Debye model.    * Computer programme written by S J. Gurman  164    The good fit observed between the experimental re-  sult and the single shell calculation confirms the infer-  ence drawn from the Fourier transform that the spec-  trum shows little evidence of the second-nearest neigh-  bour shell of two oxygen atoms at a distance from  copper of 2.40  0 03 A. Neutron [3] and X-ray [4]  diffraction indicate that these oxygens belong to SO^"  groups, while the nearer oxygen atoms belong to water  molecules directly coordinated to copper. It therefore  seems probable that there is much less strongly corre-  lated motion between copper atoms and the more dis-  tant oxygen atoms, resulting in a substantially increased  thermal contribution to the Debye Waller factor.  There is also a static contribution to the Debye Waller  factor, since the respective copper oxygen distances  are 238 and 2.43 A. The N^RJ term [eq. (1)] is sig-  nificantly smaller for the second shell than for the  nearest neiglibours. If the motion between copper and  the more distant oxygen atoms is assumed to be un-  correlated, then the neutron-diffraction-derived ther-  mal parameters, in conjunction with the other factors,  suggest that the contribution of the second shell to  the spectrum will not exceed 7% of that of the first  shell above 50 eV photoelectron energy.    The spectra show no evidence of copper copper  interatomic distances. This is not surprising, since the  shortest Cu Cu distance is 5 8 A, with a coordination  number of only 2.    Experimental assistance from Drs. A.D. Cox and  G.N. Greaves is acknowledged. The author is also  graieful to Dr. J.B. Pendry for calculating the phase  shifts, and to Drs. R. Pettifer and SJ. Gurman for  providing computer programmes. Financial support  was received from the Science Research Council  through the Daresbury Laboratory.    References    [1] PA Lee and JB Pendry, Phys. Rev 811(1975)2795.  [2] C A. Ashley and S. Donach, Phys. Rev Bll (1975)1279.  [3] C A Beevers and H Lipson, Proc. Roy. Soc. A146 (1934)    570  [4] G E Bacon and N A. Curry, Proc. Roy. Soc. A266 (1962)    95.  [5) G Martens, P Rabe, N. Schwentner and A. Werner, Phys    Rev.B17 (1978) 1481.    [61 B M Kincaid, Thesis, Stanford University (1975)  [7] E. Clementi and C. Roetti, At. Data Nucl. Data Tables 14    (1974) 177    [8] G Bern and P M Platzman, Phys. Rev BI4 (1976) 1514.  [9) S J. Gurman, private communication.  tance, using neutron diffraction, is 1 97 A [4]. The  EXAFS result is in reasonable agreement with this, al-  though not as close as the  0 01 A accuracy which is  sometimes claimed for EXAFS determinations.    The Debye Waller factor, U2, receives two contri-  butions    U1 =(7f +t72.    t/f is the thermal contribution, related to o, the rms  displacement of the backscattenng atom with respect  to the central atom. by t7f = 2o2 [8] (72, defined by  (72 = N~1 S^i A/?,2, reflects any static disorder pres-  ent in the shell of/V atoms [9]. A/?^ is the static dis-  placement of the /th atom from the average shell dis-  tance. For the oxygen nearest-neighbour shell the static  disorder contribution is negligible and the observed  Debye-Waller factor yields a = 0.05  0 03 A. It is of  interest to relate this to the thermal parameters ob-  tained by Bacon and Curry in their neutron diff</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>80802648</aid>
+            <ce:pii>0009-2614(80)80264-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(80)80264-8</ce:doi>
+            <ce:copyright type="unknown" year="1980"/>
+         </item-info>
+         <head>
+            <ce:title>An extended X-Ray absorption fine structure (exafs) study of copper (II) sulphate pentahydrate</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Richard W.</ce:given-name>
+                  <ce:surname>Joyner</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Chemistry, University of Bradford, Bradford, West Yorkshire BD7 1DP, UK</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="31" month="12" year="1979"/>
+            <ce:date-revised day="20" month="2" year="1980"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The EXAFS spectrum of copper (II) sulphate pentahydrate has been measured using synchrotron radiation. Comparison with the results of ab initio calculation gives a mean copper-oxygen distance of 1.95 Å, in reasonable agreement with the known value of 1.97 Å. The relation between the EXAFS Debye-Waller factor and thermal parameters measured by neutron diffraction is discussed. Absence in the EXAFS spectrum of evidence for the second-nearest neighbour oxygen atoms, at Cu-O ≈ 2.4 Å, is discussed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Pendry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2795</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Ashley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Doniach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1279</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Beevers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lipson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1934</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>570</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Bacon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Curry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Roy. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A266</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>95</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Martens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Schwentner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Werner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1481</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Kincaid</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Thesis</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Stanford University</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Clementi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Roetti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>At. Data Nucl. Data Tables</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>177</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Beni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Platzman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1514</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S.J. Gurman, private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,537 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261474801363</prism:url><dc:identifier>doi:10.1016/0009-2614(74)80136-3</dc:identifier><eid>1-s2.0-0009261474801363</eid><prism:doi>10.1016/0009-2614(74)80136-3</prism:doi><pii>0009-2614(74)80136-3</pii><dc:title>The continuity dilemma and hartree-fock instabilities </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>29</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>69</prism:startingPage><prism:endingPage>72</prism:endingPage><prism:pageRange>69-72</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1974-11-01</prism:coverDate><prism:coverDisplayDate>1 November 1974</prism:coverDisplayDate><prism:copyright>Copyright © 1974 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Moiseyev, N.</dc:creator><dc:creator>Katriel, J.</dc:creator><dc:description>
+               Abstract
+               
+                  The stability criteria of the Hartree-Fock wavefunctions are implemented in the context of the Roothaan-Hartree-Fock procedure. Use is made of modified SCF equations, in which the total energy, rather than orbital energies, appears. The procedure is applied to the 23S state of helium.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261474801363" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261474801363" rel="scidir"/></coredata><scopus-id>27744564236</scopus-id><scopus-eid>2-s2.0-27744564236</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/27744564236" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020109">2002-01-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020109">2002-01-09</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-04T17:13:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261474801363</xocs:eid>
+      <xocs:pii-formatted>0009-2614(74)80136-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261474801363</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(74)80136-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X04393</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T20:24:25.120828-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19741101</xocs:date-search-begin>
+      <xocs:year-nav>1974</xocs:year-nav>
+      <xocs:indexeddate epoch="1010534400">2002-01-09T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>29</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>29</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 29, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>69</xocs:first-fp>
+      <xocs:last-lp>72</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>69</xocs:first-page>
+         <xocs:last-page>72</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19741101</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 November 1974</xocs:cover-date-text>
+      <xocs:cover-date-start>1974-11-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1974</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1974 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONTINUITYDILEMMAHARTREEFOCKINSTABILITIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MOISEYEV</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>STANTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>257</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>THOULESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1960</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ADAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1650</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>LOWDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>496</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HUZINAGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1734</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>KATRIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>541</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>KATRIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>MAYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>782</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>DONOVAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LATTICEVIBRATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MOISEYEVX1974X69</xocs:refkey3>
+         <xocs:refkey4lp>MOISEYEVX1974X69X72</xocs:refkey4lp>
+         <xocs:refkey4ai>MOISEYEVX1974X69XN</xocs:refkey4ai>
+         <xocs:refkey5>MOISEYEVX1974X69X72XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(74)80136-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261474801363</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261474801363</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(74)80136-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T20:24:25.120828-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1974-11-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261474801363-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474801363/MAIN/application/pdf/af55dfe8fc502de2fabf5b6b51656810/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474801363/MAIN/application/pdf/af55dfe8fc502de2fabf5b6b51656810/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>412501</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261474801363-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261474801363/PREVIEW/image/png/a7220b95f6e4510e116e086699edd71e/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261474801363/PREVIEW/image/png/a7220b95f6e4510e116e086699edd71e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>78292</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 29, number I  CHEMICAL PHYSICS LETTERS  L November 1974  THE CONTINUITY bIIn1~1A AND.HARTREE-FOCK INSTABILITIES*  N. MOISEYEV and J. KATRIEL  Department of Ci ein istry, Tee/zn (on-Israel Institute of Tech nolo~y, Haifa, Israel  Received 3 May 1974  Revised manuscript received 4 July 1974   The stability criteria of the Hartrec Fock wavefunctions are implemented in the context of the Roothaan   Hartrec Fock procedure. Use is made of modified SCF equations, in which the total ener~t, rather than orbital  energies, appears. The procedure is applied to the 2 3g state of helium.  I. Introduction     The complications associated with the Hartree   Fock equations are essentially due to the possible  existence of more than one set of orbitais by which  they are satisfied [1]. Furthermore, the Hartree   Fock equations constitute an extremum condition,  and only a further investigation of the solutions en-  ables the identification of those that correspond to a  local minimum [2, 3] . An even more acute problem  is associated with the search of the absolute mini-  mum. This lias been very well known in particular  in the context of the symmetry dilemma [4]. The  instability associated with the removal of the equiv-  alence restriction [5] is essentially related to the  symmetry dilemma situation.   The above mention d complications give rise to a  set of irregular phenomena associated with the de-  pendence of the lowest lying Hartree Fock solution  on parameters appearing in the- hamiltonian (such as  the nuclear charge). Discontinuities in the solution  as a function of such physical parameters have been  studied in the context of the symmetry dilemma  [6, 7]. They may appear also without an associated  symmetry breakdown [8], in which case thth charac-  terizing feature is the discontinuity itself. The phys  ical and intuitive requirement of having a nnooth de-  pendence of the solution on the physical parameters  can only be satisfied if one does not insist on follow-  ing the lowest energy solution. The dilemma here is  between the continuity requirement and the absolute  minimum requirement. This situation wilt be referred  to as the continuity dilemma.   The possible conversion of a stable solution of  the Hartree Fock equations to art unstable one, and  the associated emergence of a different stable solu-  tion is presently investigated. The stab ility criteria,  implemented in the context of the Roothaan   Hartree Fock procedure, are straightforwardly ap-  plied. The relev~n  to some aspects of correlation is  briefly discussed.      2. Self-consistent field equations and the stability    criterion     For a two electron system with ahamiltonian      the open-shell Roothaan Hartree---Fo dc prob len  can be formulated as follows [91- Let      the plus and minus signs referring to the singlet and  triplet respectively. Here  tBased ona part of a thesis to be submitted by N.M. to the  senate cf the Technion - Israel Institute of Technology, in  partial fulfilment of the requirements for the D.Sc. de~ee.  69  -Volume 29, numberl       ~c        d    ~=E /*1 and  -1=1     j=1    From the energy expression      :E=L E C~H~J~IDkD1    1/ kl  CHEMICAL PHYSICS LETIERS                 1 November 1974    where Gis the interelectronic repulsion term.   The solution of the Roothaan Hartree Fock  equ tiois corresporids to a local minimum of the en-  ergy provided that the matrix of the second deriva-  lives of the energy with respect to the variational  parame:ems Cand D is positive definite.      This matrix c hbe constructed outolthe three    submatrices     - -   -    x[E EC!C/SIIkIDkDl]T~        if ki        where    11ifkl = (x(l) flk(2)IH![XJ(1) i~~(2)   n~(1) xj(2)]&gt;  and    = (x~(1) flk(2)l[XJ(1) n~(2)   i7j(l) x,(2)]),   32E - =~H~ _ff5c~  ac~ a 1 extranum N PQ pt7    un   _~j11d ESd1  0D, aD~ extrunum   NL pq       02E ~c~d  act, OD1 extremum =~ ~R E Ci D1Wp iqi ESpjqj),  the two sets of pseudo secular equations  (i.Ic_Esc)c=o, (Hd_EjSd)D=0    are obtained via the variation principle.  Here  with  N= E ECiC/Sjm,DkDI.  if H  The second derivatives matrix is thus readily available,  using terms which have already bean constructed in    the Roc thaan Hartree Fock procedure.  H,~= EH1/klLlk D1, -~ = E Sjj~D kDI -    Analogous relations hold for Hd and Sd - The two sets  of pseudo secular equations are solved iteratively for the  total energy E and the coefficients C and D. A some-  what similar derivation of the Hartree Focic equa   lions has recently been discussed by Mayer [10].   The connection with the conventional Roothaan    HF equations follows by observing that  3. The continuity dilemma   Some unusual correlation effe ts were recently ob-  served in the lowest 3S states of He [11, 12]. Their  essential feature is that correlation appears to pull the  electrons closer together rather than push them apart.  This is exhibited by the behaviour of the correlation  contribution to ~?2 ~ i.e., (T?2)ex~   (r?2)HF, plotted  in fig. 1. This behaviour is in agreement with the re-  sults of Boyd and Katriel [12] concerningthe shape  of the Coulomb hole. However, a direct observation  of the E:artree Fock values of (r?2) versus Z, also  plotted in fig. 1, as well as of the Hartree Fock pair  distribution functions, is unable to detect any unusual  features whatsoever. A similar observation was made  with resp ct to the indetectability of a second order  transitic n from a plot of the energy versus the physical  parameler [7] The availability of the correlatedval-  ues of the pair distribution functions and of (r?2&gt;  made the niagnifl ation of the Hartree Fock me- -  Hc=Fc+(c~d!hNI~d)sc,  where  where F ~ is the Fock matrix for the orbital ~c- Thus      (Hc_Esc)C=o=(F~_  sc)C      Q ~    is the conventional orbital energy for the orbital 4c-   Similarly   -      ~d =E.(4)cIht(l c), -  so that    cc IE~J 2E_ ~cJhhI c) +(rIidJhIcZQ E +C       70 -                 -  Volume 29, number 1  CHEMICAL PHYSICS LEITERS  I November 1974  gularity possible. In general, however, such a smooth  background is not readily available.   A direct way of detecting the irregular features  within the Hartree Fock computation would, no  doubt, be highly desirable. This is just the kind of re-  suit furnished by the behaviour of the second deriva-  tives matrix. The approach of a second or higher order  transition in the HF solution is indicated by one of the  eigenvalues of this matrix diminishing very rapidly.  One does not obtain negative eigenvalues for the sirn-  pie reason that beyond the critical value o~ the phys-  ical parameter for which the instability occurs, a dif-  ferent solution is obtained. In a first order transition  one jumps from one local minimum to another. This  results in a discontinuous change of curvature at the  energy minimum, which is reflected by a discontinuity  in at least one of the eigenvalues of the second deriva-  tives matrix. -      4. Computations and results     The Roothaan Hartree Fock computations for  the 3S state of the helium isoelectronic sequence  were carried out with basis sets of primitive STO~s.  The exponential parameters were determined by op.  timization for a certain nuclear charge and then kept  constant while the linear coefficients were iterated to  self consistency for varying n clear charges. This was  necessary in order to avoid the need of considering  possible instabilitIes induced by the variations of the  Fig. 3. The discontinuous elgenvalues for Ni5 =N25 = 3  ~(dashed line) and N~ =N25 = 4 (full lines). The non-linear  parameteTs were optimized atZ0 = 3.      exponential parameters. A series of such computa-  tions with various basis sizes was carried out, and  the second derivatives matrix of the energy with res-  pect to the linear parameters was constructed and diag-  onalized. Th ~ existence cf a critical point is very clear-  ly indicated by the Z dependence of at least one of the  eigenvalues of the second derivatives matrix The dis-  continuous elgenvalue is plotted in figs. 2 and 3 as  a function  f the nuclear charge. The dependence of  the location of the discontinuity upon the choice of  the nuclear charge for which the optimization of the    7-1  2C    5     C    -5    -Ic    -15  2345678   I z    corr.   C  Fig. 1. The Haitree Fock and correlation contributions to  (r?~) for the 2 3S state of the He sequence.  z  Fig. 2. The discontinuous eigenvaluc ( soft mode ) for  N15 N25 = 2. Z0 is the value of the nuctear charge for  which the non-linear parameters were optimized.                  -C  z  1November 1974  CHEMICAL PHYSICS LEITERS      Special thanks are due to R.EJC D~many for his  rnany.useful suggestions durin~ the course 6f this  work.   most stimulating discussion with Professor  Hans Primas is gratefully acknowle~ged.  Volume 29, ilumber 1      exponential parameters was carned out, is studied in  fig 2 Although this dependence is not entirely rieg  Iigthle, it does appear to b~ of secondary significance  even for the very restricted basis St used ~Ni~ N25  2;N~   id N25 being the number of primitive STO s  per orbltalh The dependence on the basis size is stu  died in fig. 3  again thowirig a consistent and essenti    - ally convergent picture. These sets of results clearly  thow that   discontinuityof second or perhaps higher  order occurs some*here between Z = 2 and Z = 3,  probably at about Z 2.4:   The analogies between the presently discussed dis-  continuities and physical phase transitions have already  been pointed out [71. They are further enhanced by  the similarity of the behaviour of the discontinuous  eigenvalue to that of the  soft mode  characterizing  second order phase transitions [13].      Acknowledgement      This work is part of a research project supported  by the U.S.   Israel Binational Science Foundation.  References      [1] R2. Stanton, J. Cham. Phys. 48 (1968) 257.  [2] D.J. Thou!es.s, Nucl. Phys. 21 (1960) 225.  [3] WJI. Adams, Phys. Rev. 127 (1962) 1650.  [4] P.&lt;). L wdin, Rev. Mod. Phys. 35 (1963) 496.  [~l S. ~Iuzina~ and A. Hart-Davis, Phys. Rev. AS (1973)  1734, arid references therein.  [6] J. l:atriei, Intent J. Quantum Chem. 6(1972)541.  [7] .7. I~atrie1 and E. Dornany, intern. J. Quantum Cham.,  to be published.  [8] N. Moisey v and J. Katriel, to be published.  [9] J. 1atri l, D.Sc. Thesis, Techsiion (1972).    [10] 1. Mayer, Acta Phys. Hung. 34 (1973) 83.  [11] RJ. Boyd and CA. Coujson, J. Phys. B6 (1973) 782.  [12] R.!. Boyd and I. Katriel, Intern. J. Quantum diem.,  to t e published.  [13] B. l)onovan and S.F Angress, Lattice vibrations  (Chspman and Hall, London. 1971) pp. 107 112.   72 : -.  e o~ the phys-  ical parameter for which the instability occurs, a dif-  ferent solution is obtained. In a first order transition  one jumps from one local minimum to another. This  results in a discontinuous change of curvature at the  energy minimum, which is reflected by a discontinuity  in at least one of the eigenvalues of the second deriva-  tives matrix. -      4. Computations and results     The Roothaan Hartree Fock computations for  the 3S state of the helium isoelectronic sequence  were carried out with basis sets of primitive STO~s.  The exponential parameters were determined by op.  timization for a certain nuclear charge and then kept  constant while the linear coefficients were iterated to  self consistency for varying n clear charges. This was  necessary in order to avoid the need of considering  possible instabilitIes induced by the variations of the  Fig. 3. The discontinuous elgenvalues for Ni5 =N25 = 3  ~(dashed line) and N~ =N25 = 4 (full lines). The non-linear  parameteTs were optimized atZ0 = 3.      exponential parameters. A series of such computa-  tions with various basis sizes was carried out, and  the second derivatives matrix of the energy with res-  pect to the linear parameters was constructed and diag-  onalized. Th ~ existence cf a critical point is very clear-  ly indicated by the Z dependence of at least one of the  eigenvalues of the second derivatives matrix The dis-  continuous elgenvalue is plotted in figs. 2 and 3 as  a function  f the nuclear charge. The dependence of  the location of the discontinuity upon the choice of  t</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>74801363</aid>
+            <ce:pii>0009-2614(74)80136-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(74)80136-3</ce:doi>
+            <ce:copyright type="unknown" year="1974"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Based on a part of a thesis to be submitted by N.M. to the senate of the Technion - Israel Institute of Technology, in partial fulfilment of the requirement for the D.Sc. degree.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title>The continuity dilemma and hartree-fock instabilities</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Moiseyev</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Katriel</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, Technion-Israel Institute of Technology, Haifa, Israel</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="3" month="5" year="1974"/>
+            <ce:date-revised day="4" month="7" year="1974"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The stability criteria of the Hartree-Fock wavefunctions are implemented in the context of the Roothaan-Hartree-Fock procedure. Use is made of modified SCF equations, in which the total energy, rather than orbital energies, appears. The procedure is applied to the 2<ce:sup loc="post">3</ce:sup>S state of helium.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Stanton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>257</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Thouless</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1960</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Adams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1650</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.-O.</ce:given-name>
+                                 <ce:surname>Löwdin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Mod. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>496</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huzinaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hart-Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1734</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Katriel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intern. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>541</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Katriel and E. Domany, Intern. J. Quantum Chem., to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>N. Moiseyev and J. Katriel, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Katriel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>D.Sc. Thesis</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>Technion</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Mayer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Phys. Hung</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Coulson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>782</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.J. Boyd and J. Katriel, Intern. J. Quantum Chem., to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Donovan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Angress</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Lattice vibrations</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1971</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Chapman and Hall</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

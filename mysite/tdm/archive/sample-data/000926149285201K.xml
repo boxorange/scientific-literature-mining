@@ -1,0 +1,1192 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/000926149285201K</prism:url><dc:identifier>doi:10.1016/0009-2614(92)85201-K</dc:identifier><eid>1-s2.0-000926149285201K</eid><prism:doi>10.1016/0009-2614(92)85201-K</prism:doi><pii>0009-2614(92)85201-K</pii><dc:title>A dielectrically consistent interaction site theory for solvent—electrolyte mixtures </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>190</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>626</prism:startingPage><prism:endingPage>630</prism:endingPage><prism:pageRange>626-630</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1992-03-20</prism:coverDate><prism:coverDisplayDate>20 March 1992</prism:coverDisplayDate><prism:copyright>Copyright © 1992 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Perkyns, J.S.</dc:creator><dc:creator>Montgomery Pettitt, B.</dc:creator><dc:description>
+               Abstract
+               
+                  A reformulation of reference interaction site model theory is proposed. The approach makes use of the formally correct asymptotic form of the correlations obtained from the one-center angular expansion technique. A modified closure, or equivalently, a modified propagation equation for site—site correlations is shown to incorporate the necessary information to allow dielectric consistency in finite-concentration salt solutions. Examples of the correlations and thermodynamics are given.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/000926149285201K" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/000926149285201K" rel="scidir"/></coredata><scopus-id>0001072525</scopus-id><scopus-eid>2-s2.0-0001072525</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001072525" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020207">2002-02-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020207">2002-02-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-03-18T21:22:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-000926149285201K</xocs:eid>
+      <xocs:pii-formatted>0009-2614(92)85201-K</xocs:pii-formatted>
+      <xocs:pii-unformatted>000926149285201K</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(92)85201-K</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X13553</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T20:14:36.156129-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19920320</xocs:date-search-begin>
+      <xocs:year-nav>1992</xocs:year-nav>
+      <xocs:indexeddate epoch="1013040000">2002-02-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>190</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>190</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 190, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>17</xocs:sort-order>
+      <xocs:first-fp>626</xocs:first-fp>
+      <xocs:last-lp>630</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>626</xocs:first-page>
+         <xocs:last-page>630</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19920320</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>20 March 1992</xocs:cover-date-text>
+      <xocs:cover-date-start>1992-03-20</xocs:cover-date-start>
+      <xocs:cover-date-year>1992</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1992 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ADIELECTRICALLYCONSISTENTINTERACTIONSITETHEORYFORSOLVENTELECTROLYTEMIXTURES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PERKYNS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>301</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>PETTITT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>156</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6232</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6029</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>KUSALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7715</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>KUSALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5843</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>KUSALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7478</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>CHANDLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1335</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>HOYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>18</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>CHANDLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>HIRATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>329</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HIRATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>509</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>CHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>691</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BEHRET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>CHANDLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1930</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>ROSSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2457</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>LEVESQUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1887</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>BERENDSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>JERUSALEMSYMPOSIUMQUANTUMCHEMISTRYBIOCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>PETTITT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5836</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>TOSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>FUMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>KIRKWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1951</xocs:ref-pub-year>
+            <xocs:ref-first-fp>774</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>KUSALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5110</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>HAMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1047</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>RASAIAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3965</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>RAMANATHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1086</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PERKYNSX1992X626</xocs:refkey3>
+         <xocs:refkey4lp>PERKYNSX1992X626X630</xocs:refkey4lp>
+         <xocs:refkey4ai>PERKYNSX1992X626XJ</xocs:refkey4ai>
+         <xocs:refkey5>PERKYNSX1992X626X630XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(92)85201-K</xocs:pii-formatted>
+         <xocs:pii-unformatted>000926149285201K</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-000926149285201K</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(92)85201-K</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2011-03-24T13:23:31.49598-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1992-03-20</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-000926149285201K-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149285201K/MAIN/application/pdf/00c3eab18c7be17cedbf26d01b8831aa/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149285201K/MAIN/application/pdf/00c3eab18c7be17cedbf26d01b8831aa/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>295073</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-000926149285201K-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:000926149285201K/PREVIEW/image/png/40ba00a6d0c85c56656d8ec39383579b/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:000926149285201K/PREVIEW/image/png/40ba00a6d0c85c56656d8ec39383579b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73812</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 190, number 6 CHEMICAL PHYSICS LETTERS 20 March 1992    A dielectrically consistent interaction site theory for solvent-electrolyte mixtures    J.S. Perkyns and B. Montgomery Pettitt    Chemistry Department, University of Houston, Houston, TX 77074-5641, USA    Received 28 November 1991    A reformulation of reference interaction site model theory is proposed. The approach makes use of the formally correct asymptotic form of the correlations obtained from the one-center angular expansion technique. A modified closure, or equivalently, a modified propagation equation for site-site correlations is shown to incorporate the necessary information to allow dielectric consistency in finite-concentration salt solutions. Examples of the correlations and thermodynamics are given.    1. Introduction     The physical properties of salt solutions at finite concentration have proven challenging for theoretical methods. Formal and practical difficulties are associated with both screening and short-ranged correlations. Neither integral equation theories based on one-center angular expansion methods nor those based on multi-center atomic (site-site) potentials have proven completely satisfactory in dealing with these difficulties using simple closures. In principle both site-site and angular expansion methods can be embedded in exact theory. A wide variety of physical problems could make use of a computationally tractable theory which accurately models the effects of salt in solution.   The accurate modelling of biological molecules in realistic aqueous electrolyte solutions is a problem which has recently received much attention but still remains largely unsolved [1,2]. The inherent difficulties imposed by the simulation of electrolyte solutions necessitate enormous computing resources, and even when such are available many thermodynamic quantities are subject to approximations caused by finite sample size, and the slow convergence of fluctuations [ 3-5 ] . Integral equation techniques have proven to be valuable tools in the study of liquids of small molecules and of water-electrolyte solutions, with much more modest computing    626    0009-2614/92/$ 0:    requirements [2,6]. However, the practical treatment of polar solute molecules in aqueous electrolytes (three-component mixtures) using integral equations has proven formally difficult. The extension and application of angularly dependent distribution function theories to complicated biological molecular solutes would no longer have the advantage of modest computing requirements. Proper interaction site theories [ 7 ] are not trivial to renormalize. Reference interaction site theories, while still tractable computationally, have inherent problems which manifest themselves in dielectric behavior [8,9], and ion-dependent thermodynamic quantities, which are incorrect, inconsistent or both.   The renormalized or extended RISM theory (XRISM) [ 10 ] devised for short-ranged correlations was found to yield a trivial dielectric constant for polar solvents [ 8,9 ]. While this formally incorrect long-ranged behavior only weakly affects the short-ranged molecular correlations of a neat solvent, interionic correlations at infinite dilution would be overestimated without including a correction to give the ions the phenomenological dielectric constant. This arises practically as a simple scaling of the Coulomb interactions in the closure [ 11 ]. Unfortunately, such a scaling is not extendable to finite concentrations of ions. In this case, the dielectric constant derived from the solvent-solvent distribution functions is not corrected by scaling the sol-    i.00   1992 Elsevier Science Publishers B.V. All rights reserved.  Volume 190, number 6 CHEMICAL PHYSICS LETTERS 20 March 1992    vent-solvent interactions; this route to the dielectric constant gives a-1 +3y (y is the usual dipole density [ 8 ] ), whether or not these interactions are scaled. In addition, the dielectric constant predicted by the ionic distributions via the Stillinger-Lovett condition [ 12 ] is also incorrect and furthermore is, in general, inconsistent with the solvent correlation route. This arises from qualitatively incorrect screening and correlations.   We present here an interaction site theory which is dielectrically consistent and is based on the judicious choice of a bridge-like function, or equivalently a set of extended site-site correlations based on known asymptotic results. The resulting ion-ion correlations are both dielectrically correct and consistent with the solvent behavior, and this effect arises simply as a coupling to the correlations with solvent molecules, as is the case in real salt solutions; the ionsolvent and ion-ion interaction potentials are not altered a priori. The theory presented is not predictive of the dielectric constant of pure solvent, enabling us to choose the appropriate value for the solvent of interest, but the correct scaling of all correlation functions with mole fraction as salt is added into solution causes a determinate decrement in the resulting predicted constant which is remarkably close to experiment [ 13 ] .   In section 2 we outline the key differences between the present theory and the XRISM theory [ 2,14 ] , and in section 3 we present a few key results for a test model. Conclusions are given in section 4.    2. Theory     The class of theories with which we are concerned is defined by a closed set of two equations which are used to find the pair distribution functions g;;(r) between site i on one species of molecule and site j on another molecule of the same or a different species, with r being the intersite distance. These distribution functions are found by solving for the pair correlation functions h;; (r) =g;; (r) -1, and the direct correlation functions c;;(r), which can be thought of as defined by a relationship such as the RISM (matrix) equation [ 14], given in Fourier space by    PEP =coca+cocpgp ,    where @ is the intramolecular correlation function and p is a diagonal matrix of site densities.   We wish to find a way to improve the dielectric constant given by the XRISM/HNC theory in such a way that the same correction can be used whether or not we have a system of pure polar molecules or mixtures involving ionic species. We also want such a correction to be applied to the functions representing correlations between molecular species only, so corrections to ion-ion correlations occur only by the indirect coupling to the corrected solvent-solvent correlations. We will show that such a correction can be realized by adding an additional term bj(r), similar in form to the contributions from a bridge function. Therefore, we write    c;;(r)=exp[-ssu;j(r)+tj(r)]-1-tj(r)+b,;(r)    =CH:ri(r)+bii(r) ,    (2)    which defines cH;;; as the solution to the usual HNC equation, and t;;(r)=h;;(r)-cH;;;(r). Assuming all the functions b,;(r) can be Hankel transformed, we can build matrices F and cH out of the b,J(k) and cH;;;(k), respectively, and rewrite eq. (1) as    php=6(cH+b')6+65(cH +b)php ,    (3)    or, in the chain-sum notation of Rossky and Dale [15],    PgP=v [cH+b1(D] ,    which can be factored as    (4)    php=w[b1c7i]+%'[c,i,~)+v[b1co]],  (5)    or    php=X+ `6' [EH I Cu+X]    (6)    which defines the matrix x. This form will allow us to include only that part of F which affects the dielectric constant.   To find an expression for X we simply insist that the new form will result in functions h;; (k) which are consistent in their low-k behavior for both routes to the dielectric constant. To write such an expression in the required form we define diagonal matrices D,   with elements    Di;mv=Jm(kdiv) ,    (7)    where v can be either x or y when m=0, and v=z     627  Volume 190, number 6 CHEMICAL PHYSICS LETTERS 20 March 1992    when m=1. The quantity d;, is the v component of  the position vector of site i in any multi-site species, 5.  measured with respect to the molecular center of  charge, and z is chosen as the direction of the mo-  4.  lecular dipole. In terms of the D,n, we have  X=pDoXDoYDiZh~DiZDoYDox&gt; (8) 3.  '  where _hc is a matrix with every element equal to the  function 9c (k) = F(0) exp (- ak2). The functional 2  ', ,'  form chosen for kjk) only slightly affects the qual- ~~'       _ _  itatively correct short-range structure of the solvent- 1.  ; - '  solvent correlation functions obtained using the    ,'  XRISM/HNC theory, and results obtained using this o.  '  form are insensitive to a wide range for the value of  2.  4.  6. 8.  the (positive) constant a. The dielectric constant     r(A)    Obtained by simultaneously solving eqs. (2) and (6) Fig. 1. Radial distribution functions of oppositely charged ions.  (from either route) is  The result from the present theory is given by the solid line, the   _ dashed line represents the continuum result for E=78.0, and the  E =1 + 3y[ 1 + ;prxs h~ ( 0 ) ] , (9) dot-dashed line represents the XRISM/HNC result. The miss    ing peak in the XRISM/HNC result has a maximum value of    27.9 at r=2.64 A. All calculations are for an Na Cl- concentra-  x, is the mole fraction of solvent. Eq. (9) has the tion of 1.0 M.  same form as the well-known fluctuation formula  [ 8, 9,16 ] . density maximum into contact pairs between 2. 8 and    3.5 A and solvent and ion-separated pairs in the 3.5    to 6.0 A range. The XRISM/HNC result also shows  3. Results and discussion this splitting effect but the peak representing contact    pairs is very large, with a maximum of 27.9 caused   As representative examples of the results obtain- by the reduction of solvation effects in a lower di  able using eqs. (2) and (6) we present some ion-ion electric constant solvent. The effect of the XRISM/  distribution functions and mean molar activity coef- HNC trivial dielectric constant of 17.9 is also evi  ficients calculated for a model of NaCI in water over dent in the long-ranged correlations. We may un  a wide range of finite concentrations. The model for derstand the rapid decay in g  (r) as resulting in part  water used is the simple point charge (SPC) model from a larger Debye kappa due to this lower dielec  [ 17 ] , and the model for NaCl is that used previously tric constant. The long-range results for the contin  [ 18,19 ] . The total particle number density of the so- uum HNC and the correct theory are in accord.  lution was held constant for all concentrations to that  The distance of closest approach of oppositely  of the experimental value of pure water pT=0.03334 charged ions is considerably different between the  A-3 with a temperature T-298 K and a dielectric types of models. This effect is due to the balance be  constant of 78.0. Similar calculations were per- tween Coulombic attraction and short-ranged repul  formed for comparison purposes using a continuum sion contributions in the ion-ion potentials with the  solvent. indirect effects of the solvent. The Coulombic inter   Fig. 1 shows the Na+Cl- distribution functions for action between ions in the molecular solvent, when  a 1.0 M NaCI solution using the present theory as there are no intervening solvent molecules or other  well as the continuum model. A calculation using the ions to moderate the effect, is far stronger than that  XRISM/HNC theory was done for this concentra- for the continuum solvent model. This shows an  tion and is also shown for comparison. The most im- other drawback to the short-range structure pre  portant difference between the continuum case and dicted by continuum-type models for ions with soft  the present work is the clear splitting of the simple cores: the distance of closest approach for contact    628  Volume 190, number 6 CHEMICAL PHYSICS LETTERS 20 March 1992    pairs can be significantly overestimated due to a lack of molecular effects such as dielectric saturation.   The application of Kirkwood-Buff [ 20 ] (KB) statistical thermodynamics to models of mixtures of ions and interaction-site solvents is a straightforward extension of the work of Kusalik and Patey [ 21 ] . As an example we give the natural logarithm of the mean molar activity coefficients, In (y  ), for a range of concentrations, in fig. 2. Unfortunately, solutions to the XRISM/HNC theory were unobtainable below a salt concentration of about 0.5 M making it impossible to calculate ln(y ) using KB theory. (As salt concentration is reduced the Na+Clcontact peak grows enormously and the numerical solution apparently diverges.) Since our molecular solvent theory has a naturally arising dielectric decrement, the continuum model was also solved using the decremented dielectric constant predicted by the molecular theory, so the differences which arise from purely short-ranged molecular effects can be observed. This result, as well as the Debye-Hiickel limiting law (DHLL), are also shown in fig. 2. All results are indistinguishable from the DHLL in the region below a salt concentration of 0.01 M (note the square root units of the horizontal axis) and are    0.0    -0.2    ln(Yt)    -0.4    -0.6    -0.8    essentially indistinguishable from each other in the concentration region below 0.25 M. When the concentration of salt becomes higher than this, however, it can be seen that the short-ranged effects of molecular solvent on the activity coefficient are significantly greater than the effect of a saline dielectric decrement. The results from all three theories are qualitatively similar in their upwards concavity to experimental results [ 22 ] , but it should be noted that the exact values for activity coefficients depend significantly on the choice of model [ 18,23,24].    4. Conclusions     A dielectrically consistent site-site interaction integral equation theory makes it possible to calculate qualitatively reasonable site-site distribution functions for electrolytes in molecular solvents. The application of Kirkwood-Buff [20] theory provides a convenient route to calculate mean molar activity coefficients. We have shown the short-range effects due to a molecular solvent are non-trivial for salt concentrations greater than 0.25 M. The current study has made no attempt to adjust any features of the underlying potential surfaces. Due to the extreme sensitivity of thermodynamic properties, such as osmotic pressure and activity coefficients, to small changes in the interionic correlations [ 18,23,24 ] it would be straightforward to re-evaluate various other potential surfaces. The method presented here offers a simple route to calculate the effects of a saline environment on non-trivial solutes. This should be useful for investigation of a variety of problems including salt-induced conformational changes in biopolymers.    0.0 0.5 1.0 1.5 2.0       Acknowledgement    Fig. 2. The mean molar activity coefficient for calculations representing Na+Cl- in water at 298 K, versus square-root molar concentration. The dotted line represents the Debye-Huckel limiting law, the solid line represents results from the present theory, the dashed line represents continuum results for a fixed dielectric constant of E=78.0, the dot-dashed line represents the continuum result including a dielectric saline decrement (see text).     The authors thank the Robert A. Welch Foundation, the N.LH. and the Texas coordinating board for partial support of this work. BMP acknowledges the Alfred P. Sloan foundation for support.    629  Volume 190, number 6 CHEMICAL PHYSICS LETTERS 20 March 1992    References    [ l ] C.F. Anderson and T. Record, Ann. Rev. Biophys. Biophys. Chem. 19 (1990) 301.  [ 2 ] B.M. Pettitt and P.J. Rossky, Israel J. Chem. 27 (1986) 156.  [ 3 ] D.N. Card and J.P. Valleau, J. Chem. Phys. 52 (1970) 6232.  [ 41 P.E. Smith and B.M. Pettitt, J. Am. Chem. Soc. 113 (1991) 6029.  [5] P.E. Smith and B.M. Pettitt, J. Chem. Phys. 95 (1991), in press.  [ 6 ] P.G. Kusalik and G.N. Patey, J. Chem. Phys. 88 (1988 ) 7715; 89 (1988) 5843, 7478.  [ 7 ] D. Chandler, R. Silbey and B.M. Landanyi, Mol. Phys. 46 (1982) 1335.  [ 8 ] J.S. Hoye and G. Stell, J. Chem. Phys. 65 (1976) 18.  [9] D. Chandler, J. Chem. Phys. 67 (1977) 1113.  10 ] F. Hirata and P.J. Rossky, Chem. Phys. Letters 83 (1981) 329.  1 l ] F. Hirata, B. M. Pettitt and P.J. Rossky, J. Chem. Phys. 77 (1982) 509.  l2] D.Y.C. Chan, D.J. Mitchell, B.W. Ninham and B.A. Pailthorpe, J. Chem. Phys. 69 (1978) 691.  13 ] H. Behret, F. Schmithals and J. Barthel, Z. Physik. Chem. NF 96 (1975) 73.    630    [ 14 ] D. Chandler and H.C. Andersen, J. Chem. Phys. 57 (1972 ) 1930.  [ 151 P.J. Rossky and W.D.T. Dale, J. Chem. Phys. 73 (1980 ) 2457.  [ 16 ] D. Levesque, J.J. Weis and G.N. Patey, J. Chem. Phys. 72 (1980) 1887.  [ 17 ] H.J.C. Berendsen, J.P.M. Postma, W.F. van Gunsteren and J. Hermans, Jerusalem Symposium on Quantum Chemistry and Biochemistry, ed. B. Pullman (Reidel, Dordrecht, 1981).  [ 18 ] B.M. Pettitt and P.J. Rossky, J. Chem. Phys. 84 (1986 ) 5836.  [ 19 ] M.P. Tosi and F.G. Fumi, J. Phys. Chem. Solids 25 (1964 ) 45;  F.G. Fumi and M.P. Tosi, J. Phys. Chem. Solids 25 (1964 ) 31.  [20] J.G. Kirkwood and F.P. Buff, J. Chem. Phys. 19 (1951) 774.  [ 21 ] P.G. Kusalik and G.N. Patey, J. Chem. Phys. 86 (1987 ) 5110.  [221 W.J. Hamer and Y.-C. Wu, J. Phys. Chem. Ref. Data 1 (1972) 1047.  [ 231 J.C. Rasaiah and H.L. Friedman, J. Chem. Phys. 50 (1969 ) 3965.  [24] P.S. Ramanathan and H.L. Friedman, J. Chem. Phys. 54 (1971) 1086.  ty coefficient are significantly greater than the effect of a saline dielectric decrement. The results from all three theories are qualitatively similar in their upwards concavity to experimental results [ 22 ] , but it should be noted that the exact values for activity coefficients depend significantly on the choice of model [ 18,23,24].    4. Conclusions     A dielectrically consistent site-site interaction integral equation theory makes it possible to calculate qualitatively reasonable site-site distribution functions for electrolytes in molecular solvents. The application of Kirkwood-Buff [20] theory provides a convenient route to calculate mean molar activity coefficients. We have shown the short-range effects due to a molecular solvent are non-trivial for salt concentrations greater than 0.25 M. The current study has made no attempt to adjust any features of the underlying potential surfaces. Due to the extreme sensitivity of thermodynamic properties, such as osmotic pressure and activity coefficients, to small changes in the interionic correlations [ 18,23,24 ] it would be straightforward to re-evaluate various other potential surfaces. The method presented here offers a simple route to calculate the effects of a saline environment on non-trivial solutes. This should be useful for investigation of a variety of problems including salt-induced conformational changes in biopolymers.    0.0 0.5 1.0 1.5 2.0       Acknowledgement    Fig. 2. The mean molar activity coefficient for calculations representing Na+Cl- in water at 298 K, versus square-root molar concentration. The dotted line represents the Debye-Huckel limiting law, the solid line represents results from the present theory, the dashed line represents continuum results for a fixed dielectric constant of E=78.0, the dot-dashed line represents the continuum result including a dielectric saline decrement (see text).     The authors thank the Robert A. Welch Foundation, the N.LH. and the Texas coordinating board for partial support of this work. BMP acknowledges the Alfred P. Sloan foundation for support.    629  Volume 190, number 6 CHEMICAL PHYSICS LETTERS 20 March 1992    References    [ l ] C.F. Anderson and T. Record, Ann. Rev. Biophys. Biophys. Chem. 19 (1990) 301.  [ 2 ] B.M. Pettitt and P.J. Rossky, Israel J. Chem. 27 (1986) 156.  [ 3 ] D.N. Card and J.P. Valleau, J. Chem. Phys. 52 (1970) 6232.  [ 41 P.E. Smith and B.M. Pettitt, J. Am. Chem. Soc. 113 (1991) 6029.  [5] P.E. Smith and B.M. Pettitt, J. Chem. Phys. 95 (1991), in press.  [ 6 ] P.G. Kusalik and G.N. Patey, J. Chem. Phys. 88 (1988 ) 7715; 89 (1988) 5843, 7478.  [ 7 ] D. Chandler, R. Silbey and B.M. Landanyi, Mol. Phys. 46 (1982) 1335.  [ 8 ] J.S. Hoye and G. Stell, J. Chem. Phys. 65 (1976) 18.  [9] D. Chandler, J. Chem. Phys. 67 (1977) 1113.  10 ] F. Hirata and P.J. Rossky, Chem. Phys. Letters 83 (1981) 329.  1 l ] F. Hirata, B. M. Pettitt and P.J. Rossky, J. Chem. Phys. 77 (1982) 509.  l2] D.Y.C. Chan, D.J. Mitchell, B.W. Ninham and B.A. Pailthorpe, J. Chem. Phys. 69</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85201</aid>
+            <ce:pii>0009-2614(92)85201-K</ce:pii>
+            <ce:doi>10.1016/0009-2614(92)85201-K</ce:doi>
+            <ce:copyright type="unknown" year="1992"/>
+         </item-info>
+         <head>
+            <ce:title>A dielectrically consistent interaction site theory for solvent—electrolyte mixtures</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.S.</ce:given-name>
+                  <ce:surname>Perkyns</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Montgomery Pettitt</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemistry Department, University of Houston, Houston, TX 77074-5641, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="28" month="11" year="1991"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="SP0005" view="all">A reformulation of reference interaction site model theory is proposed. The approach makes use of the formally correct asymptotic form of the correlations obtained from the one-center angular expansion technique. A modified closure, or equivalently, a modified propagation equation for site—site correlations is shown to incorporate the necessary information to allow dielectric consistency in finite-concentration salt solutions. Examples of the correlations and thermodynamics are given.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography id="R0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="RS0005">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Record</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Rev. Biophys. Biophys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>301</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Pettitt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Israel J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>156</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Card</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6232</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.E.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Pettitt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6029</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.E.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Pettitt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>in press</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Kusalik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Patey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7715</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Kusalik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Patey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5843</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Kusalik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Patey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7478</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Silbey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Landanyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1335</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Høye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>18</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hirata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>329</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hirata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Pettitt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>509</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.Y.C.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ninham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Pailthorpe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>691</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Behret</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Schmithals</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Barthel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Physik. Chem. NF</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chandler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1930</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.T.</ce:given-name>
+                                 <ce:surname>Dale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2457</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Levesque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Weis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Patey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1887</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.C.</ce:given-name>
+                                 <ce:surname>Berendsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.M.</ce:given-name>
+                                 <ce:surname>Postma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>van Gunsteren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hermans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Pullman</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Jerusalem Symposium on Quantum Chemistry and Biochemistry</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Reidel</sb:name>
+                                 <sb:location>Dordrecht</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Pettitt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5836</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Tosi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.G.</ce:given-name>
+                                 <ce:surname>Fumi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.G.</ce:given-name>
+                                 <ce:surname>Fumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Tosi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Kirkwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Buff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1951</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>774</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Kusalik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Patey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5110</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Hamer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Ref. Data</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1047</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Rasaiah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3965</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1086</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

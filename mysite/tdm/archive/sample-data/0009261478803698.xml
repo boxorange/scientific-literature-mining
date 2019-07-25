@@ -1,0 +1,508 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261478803698</prism:url><dc:identifier>doi:10.1016/0009-2614(78)80369-8</dc:identifier><eid>1-s2.0-0009261478803698</eid><prism:doi>10.1016/0009-2614(78)80369-8</prism:doi><pii>0009-2614(78)80369-8</pii><dc:title>Point charge versus multipole fields in induced absorption </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>57</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>139</prism:startingPage><prism:endingPage>141</prism:endingPage><prism:pageRange>139-141</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1978-07-01</prism:coverDate><prism:coverDisplayDate>1 July 1978</prism:coverDisplayDate><prism:copyright>Copyright © 1978 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Cole, Robert H.</dc:creator><dc:description>
+               Abstract
+               
+                  It is shown that the differences between effects induced by the fields of point charge distributions and by multipole moment approximations to the fields are much less than has sometimes been supposed, the reason being that induced absorption is determined by averages over orientations of the squared field intensities. This provides a stronger basis for multipole moment descriptions, but does not justify neglect of orientation dependent energies and fluctuations.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261478803698" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261478803698" rel="scidir"/></coredata><scopus-id>84914485003</scopus-id><scopus-eid>2-s2.0-84914485003</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84914485003" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011120">2001-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011120">2001-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T10:17:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261478803698</xocs:eid>
+      <xocs:pii-formatted>0009-2614(78)80369-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261478803698</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(78)80369-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X06689</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151007">2015-10-07T07:28:10.973805-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19780701</xocs:date-search-begin>
+      <xocs:year-nav>1978</xocs:year-nav>
+      <xocs:indexeddate epoch="1006214400">2001-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>57</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>57</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 57, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>31</xocs:sort-order>
+      <xocs:first-fp>139</xocs:first-fp>
+      <xocs:last-lp>141</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>139</xocs:first-page>
+         <xocs:last-page>141</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19780701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 July 1978</xocs:cover-date-text>
+      <xocs:cover-date-start>1978-07-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1978</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1978 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>POINTCHARGEVERSUSMULTIPOLEFIELDSININDUCEDABSORPTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>COLE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BIRNBAUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>BIRNBAUM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3807</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>WEISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>644</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BOSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>140</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5A">
+            <xocs:ref-normalized-surname>COPELAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1741</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5B">
+            <xocs:ref-normalized-surname>COPELAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1747</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>DAVIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1223</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>DAVIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>615</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARMOTIONSINLIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>GARG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2551</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>COLEX1978X139</xocs:refkey3>
+         <xocs:refkey4lp>COLEX1978X139X141</xocs:refkey4lp>
+         <xocs:refkey4ai>COLEX1978X139XR</xocs:refkey4ai>
+         <xocs:refkey5>COLEX1978X139X141XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(78)80369-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261478803698</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261478803698</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(78)80369-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-07T07:28:10.973805-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1978-07-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261478803698-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478803698/MAIN/application/pdf/6df01f27b4cf52a931314eb32dcd8a57/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478803698/MAIN/application/pdf/6df01f27b4cf52a931314eb32dcd8a57/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>352006</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261478803698-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261478803698/PREVIEW/image/png/ed8a917c419d360d67b8870e1cd1f211/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261478803698/PREVIEW/image/png/ed8a917c419d360d67b8870e1cd1f211/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71125</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 57, number 1 CHEMICAL PHYSICS LETTERS 1 July 1978    POINT CHARGE VERSUS MULTIPOLE FIELDS IN INDUCED ABSORPTION    Robert H. COLE  Chemistry Department, Brown University. Providence, Rhode Island 02912, USA    Received 4 March 1978    It is shown that the differences between effects induced by the fields of point charge distributions and by multipole  moment approximations to the fields are much less than has sometimes been supposed, the reason being thai induced ab-  sorption is determined by averages over orientations of the squared field intensities. This provides a stronger basis for mul-  tipole moment descriptions, but does not justify neglect of orientation dependent energies and fluctuations.    Dipole moments induced by electric fields of a  molecule in its neighbors are important sources of far  infrared absorption [1—3] and dielectric polarization  [4,5] in non-dipolar as well as dipolar gases and liq-  uids. Analyses based on point multipole moments as  a description of the charge distribution and external  electric field of the inducing molecule have g^ven  seemingly very satisfactory interpretations of results  for a number of gases, but Davies et al. [6,7] have  questioned the propriety of using multipole expan-  sions to describe fields at distances of a few  Angstroms. They have shown that presumably more  realistic point charge models g^ve fields at small dis-  tances which are very different from those of leading  terms in the multipole expansions, and have inferred  that such representations give results which are seri-  ously in error, especially for liquids. The pupose of  this note is to show that the effects of even large orien-  tation dependent differences in field intensities are  cancelled to a considerable extent by averaging over  orientations- but that other complicating factors need  to be considered, especially at higher densities.    The observed polarization and absorption effects  are determined by the mean suqare moments induced  by a molecule in its neighbors, hence for a neighbor  with isotropic polarizability by the square of the mo-  lecular field E at the position of the neighbor. For the  axial quadrupole shown in fig. 1, the ratio ofSUR.,9')  for the point charges to that for their quadrupole mo-  ment 9 = —2 a/2 is plotted as a function of reduced          B/d    Fig. 1. Ratios of squared point charge and quadrupole fields  for different orientations and after averaging over orienta-  tions. R is distance to the field point, d the finite charge sep-  aration.    distance R/d, where R is the distance from the center  of charge and d is the charge separation. For polar  angle 6 = 0 or IT, the ratio is larger than one and for  9 = v/2 less than one, with appreciable differences  even fotR/d as large as four, but the ratio after aver-  aging over 8 with the geometric factor dci} =  2ir sin 9 d8 differs from unity only by 11% for R/d =  1. As one hardly expects reasonable distances d in  such a point charge model to be more than half the  smallest distances between molecules for the model to  be valid, the result implies that the multipole field is  a good approximation down to the smallest distances    139    Volume 57, number 1 CHEMICAL PHYSICS LETTERS 1 July 1978          •J3     -         °  R/d    Fig. 2- Ratios of squared point charge and dipole plus qua-  drupote fields of an off-center dipole for different orienta-  tions and after averaging over orientations. R is distance to  the field point, d the finite charge separation.    for which an electrostatic model can be used at all.    A second example is the "off-center dipole" shown  in fig. 2- Approximating its external field by that of  the point dipole p. = 2 ed gives very poor results and  the differences are still large and orientation depen-  dent after adding the field of the point quadrupole  Q = —2 ed1, as shown by the ratios plotted in fig. 2.  Again, however, the ratios after averaging over 0 differ  much less from one, by less than 13% for Rfd &gt; 2-    The reason for the much smaller average effects of  these and other point charge models is obvious from  the fact that an arbitrary field can be expanded in  spherical harmonics, with cross terms after squaring  vanishing when the angle average is taken because of  the orthogonality of spherical harmonics. For an axial-  ly symmetric distribution of charges e; with coordi-  nates r,-, 6{, &lt;^&gt;{, the potential &lt;&amp; at R, 0, 0 is given by    &lt;S&gt; = IQR-^^P^cos 9yf^ ,  n    where Pn(cos 0) is the nth Legendre polynomial and  M^ = 2,-e^Pn(cos Q{\ is the nth multipole moment  referred to the symmetry axis 6^ = 0. Averaging f2 =  (—V^V over orientations 0, &lt;^ gives    ^^ = Z^-R-2^2^ + t)M^.    The angle dependent differences between squared  point charge and mulapole fields in the examples  above thus result largely from cross terms between    m    the multipoles considered and ones of higher order.  On averaging over angles these vanish, leaving only  much smaller effects of higher order squared terms.    These conclusions about consequences of averaging  over orientations apply both to expressions for the in-  tegrated intensity or dielectric second virial coeffi-  cient and to calculations of theoretical spectra from  matrix elements of the multipole field operators for  allowed rotational transitions. The latter can give val-  uable information about multipole moments of higher  order than the first nonvanishing one, as the differ-  ences in selection rules lead to peak intensities at high-  er frequencies for multipole fields of higher order-  Thus Bimbaum and Cohen [2] have found that high  frequency absorption oftetrahedral molecules in ex-  cess of octupole induced absorption profiles [1] can  be accounted for by hexadecapolar absorption; simi-  larly Weiss and Cole [3] found excess absorptions of  mixtures of HC1 and HBr in SFg on the high frequency  side of dipole-induced absorption which were satisfac-  torily accounted for by quadrupole field induction.  The point made here is that in these and other exam-  ples one does not see effects attributable to cross  terms for the reason just explained.    Considerations of this kind justify use of multipole  moment descriptions at much shorter distances than  would be supposed acceptable on the basis of fluctua-  tions before averaging, but one still needs to consider  effects of orientation-dependent interaction energies  between molecules. It has been shown, for example,  that the mean square moments of CO^ pairs in the  gas phase are 30% larger than calculated from eq- (1)  as a result of quadrupole—quadrupole interaction en-  ergy, but that when this is included in the weighting  factor, derived values of quadrupole moments are in  good agreement with values from birefringence in-  duced by an external field gradient and from moments  induced in argon atoms by CO^ molecules (for which  there is no quadrupole—quadrupole energy). At or  near closest distances of approach, anisotropy or re-  pulsive forces should also be considered in carrying  out the averaging and can have large effects for polar  molecules, hut crude descriptions using an empirical  shape factor in averaging multipole fields have given  surprisingly good descriptions of interactions ofCH3F  and CHFg pairs. Overlap effects also become impor-  tant at short distances, but these are in a range not  adequately described by any electrostatic field model,    140    Volume 57, number 1 CHEMICAL PHYSICS LETTERS 1 July 1978    and resulting errors should not be attributed to failure  of a multipole description at larger distances.    The considerations above apply .0 pair interaction  effects dominant in gases at relatively low densities.  At high densities and in condensed phases, there are  often large deviations from predictions based on mul-  tipole approximations to pair interactions multiplied  by the square of the average number density, and it  has been argued that a fortiori "the point quadrupole  (or point multipole) representation is quantitatively  seriously in error" and that "the energies can only be  adequately approximated if the point multipole field  is expanded to include many terms" [7].    It is obviously important 10 consider the effects of  orientation dependent short range forces carefully at  liquid densities, but is it also essential that the many  body character of the molecular distribution func-  tions be taken adequately into account in averaging.  The relevant quantity for resultant absorption is the  mean square moment (M2) =CZm: • S»n,-&gt; of the sys-  tem, including all significant moments n», induced by  each of the inducing molecules. The approximation of  replacing the proper averages by a sum of pair interac-  tions weighted by a pair distribution function, which  has been used in discussing absorption in liquids [7,8],  megelcts the many body character and the fact that    one is dealing with fluctuation effects- The fluctuation  aspect of the problem is evident in considering a dis-  tribution of nearest neighbors arranged with spherical  or cubic symmetry, as the sum SCT, of moments in-  duced by a multipole moment of any order greater  than zero vanishes by symmetry [4], and there is no  absorption at all- This suggests that far infrared ab-  sorption in liquids may be more useful as a probe of  fluctuation effects and test of relevant theory than  as a basis for deducing multipole moments or other  descriptions or molecular fields.    References    [I], G. Bimbaum, J. Chem. Phys. 62 (1975) 59.  [2] G. Birnbaum and E.R. Cohen, J. Chem. Phys. 62 (1975)    3807.    [3] S. Weiss and R.H. Cole, J. Chem. Phys. 46 (1967) 644.  (4] T.K. Bose and R.H. Cole, J. Chem. Phys. 52 (1970) 140.  [5] T.G. Copeland and R.H. Cole, J. Chem. Phys. 64 (1976)    1741,1747.  [6] G.J. Davies, J. Chamberlain and M. Davies, J. Chem. Soc.    Faraday Trans. 1169 (1973) 1223.  [7] M- Davies, in: Molecular motions in liquids, ed. J.    Lascombe (Reidel, Dordrecht, 1974) p. 615.  [8] SX.. Gaig, J.E. Bertie, H. Kflp and C.P. Smyth. J. Chem.    Phys. 49 (1968) 2551.    141  here is that in these and other exam-  ples one does not see effects attributable to cross  terms for the reason just explained.    Considerations of this kind justify use of multipole  moment descriptions at much shorter distances than  would be supposed acceptable on the basis of fluctua-  tions before averaging, but one still needs to consider  effects of orientation-dependent interaction energies  between molecules. It has been shown, for example,  that the mean square moments of CO^ pairs in the  gas phase are 30% larger than calculated from eq- (1)  as a result of quadrupole—quadrupole interaction en-  ergy, but that when this is included in the weighting  factor, derived values of quadrupole moments are in  good agreement with values from birefringence in-  duced by an external field gradient and from moments  induced in argon atoms by CO^ molecules (for which  there is no quadrupole—quadrupole energy). At or  near closest distances of approach, anisotropy or re-  pulsive forces should also be considered in carrying  out the averaging and can have large effects for polar  molecules, hut crude descriptions using an empirical  shape factor in averaging multipole fields have given  surprisingly good descriptions of interactions ofCH3F  and CHFg pairs. Overlap effects also become impor-  tant at short distances, but these are in a range not  adequately described by any electrostatic field model,    140    Volume 57, number 1 CHEMICAL PHYSICS LETTERS 1 July 1978    and resulting errors should not be attributed to failure  of a multipole description at larger distances.    The considerations above apply .0 pair interaction  effects dominant in gases at relatively low densities.  At high densities and in condensed phases, there are  often large deviations from predictions based on mul-  tipole approximations to pair interactions multiplied  by the square of the average number density, and it  has been argued that a fortiori "the point quadrupole  (or point multipole) representation is quantitatively  seriously in error" and that "the energies can only be  adequately approximated if the point multipole field</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>78803698</aid>
+            <ce:pii>0009-2614(78)80369-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(78)80369-8</ce:doi>
+            <ce:copyright type="unknown" year="1978"/>
+         </item-info>
+         <head>
+            <ce:title>Point charge versus multipole fields in induced absorption</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Robert H.</ce:given-name>
+                  <ce:surname>Cole</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Chemistry Department, Brown University, Providence, Rhode Island 02912, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="4" month="3" year="1978"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">It is shown that the differences between effects induced by the fields of point charge distributions and by multipole moment approximations to the fields are much less than has sometimes been supposed, the reason being that induced absorption is determined by averages over orientations of the squared field intensities. This provides a stronger basis for multipole moment descriptions, but does not justify neglect of orientation dependent energies and fluctuations.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Birnbaum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3807</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>644</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Bose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>140</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="BIB5A">
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Copeland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1741</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="BIB5B">
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Copeland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1747</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chamberlain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Trans. II</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1223</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>J.</ce:given-name>
+                                       <ce:surname>Lascombe</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular motions in liquids</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Reidel</sb:name>
+                                 <sb:location>Dordrecht</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>615</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Garg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Bertie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kilp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Smyth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2551</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

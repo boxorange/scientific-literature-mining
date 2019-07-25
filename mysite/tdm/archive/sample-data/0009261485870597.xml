@@ -1,0 +1,1636 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261485870597</prism:url><dc:identifier>doi:10.1016/0009-2614(85)87059-7</dc:identifier><eid>1-s2.0-0009261485870597</eid><prism:doi>10.1016/0009-2614(85)87059-7</prism:doi><pii>0009-2614(85)87059-7</pii><dc:title>Observation of novel intermediates from CH3SH decomposition on Pt(111) with HREELS and NEXAFS </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>120</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>285</prism:startingPage><prism:endingPage>291</prism:endingPage><prism:pageRange>285-291</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-10-11</prism:coverDate><prism:coverDisplayDate>11 October 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Koestner, R.J.</dc:creator><dc:creator>Stöhr, J.</dc:creator><dc:creator>Gland, J.L.</dc:creator><dc:creator>Kollin, E.B.</dc:creator><dc:creator>Sette, F.</dc:creator><dc:description>
+               Abstract
+               
+                  Temperature-induced decomposition of methanethiol (CH3SH) on the Pt(111) surface causes the formation of two new surface intermediates, thiomethoxy (SCH3) and thioformaldehyde (SCH2). Both the adsorbed thiomethoxy (SCH3) and thioformaldehyde (SCH2) intermediates exhibit novel tilted geometries. The partial decomposition of SCH3 to form a stable SCH2 species contrasts with the behavior of adsorbed methoxy (OCH3) which decomposes completely with increasing temperature to form CO and H2 on the Pt(111) surface.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261485870597" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261485870597" rel="scidir"/></coredata><scopus-id>0001652310</scopus-id><scopus-eid>2-s2.0-0001652310</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001652310" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011126">2001-11-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011126">2001-11-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-03T20:21:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261485870597</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)87059-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261485870597</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)87059-7</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05775</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151005">2015-10-05T04:49:29.664986-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19851011</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1006732800">2001-11-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>120</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>120</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 120, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>285</xocs:first-fp>
+      <xocs:last-lp>291</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>285</xocs:first-page>
+         <xocs:last-page>291</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19851011</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>11 October 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-10-11</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>OBSERVATIONNOVELINTERMEDIATESCH3SHDECOMPOSITIONPT111HREELSNEXAFS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KOESTNER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MITCHELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>223</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CATALYSIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MITCHELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CATALYSIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SEXTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>WACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>208</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>WACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>531</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>SEXTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>VANDEVONDEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>MAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1605</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>TORRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DEHMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11"/>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2161</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2414</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>BIANCONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1907</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>HERZBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1945</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARSPECTRAMOLECULARSTRUCTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>DEMUTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>395</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>MILES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1626</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>HRBEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1222</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>CHRISTMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6308</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>CHRISTMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6318</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20"/>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>BRADLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>METALALKOXIDES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>WRIGHT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>CAUGHTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2131</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>SWENSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1932</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>BOORMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1333</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>DAHL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>228</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>HARRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>112</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>BAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3021</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>COLLINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>STEININGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>685</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>HITCHCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3927</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>KOESTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>332</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>STOHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1684</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>QUICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1674</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KOESTNERX1985X285</xocs:refkey3>
+         <xocs:refkey4lp>KOESTNERX1985X285X291</xocs:refkey4lp>
+         <xocs:refkey4ai>KOESTNERX1985X285XR</xocs:refkey4ai>
+         <xocs:refkey5>KOESTNERX1985X285X291XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)87059-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261485870597</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261485870597</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)87059-7</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-05T04:49:29.664986-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-10-11</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261485870597-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485870597/MAIN/application/pdf/72ee7791469ab35db5a2c3d962fe8529/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485870597/MAIN/application/pdf/72ee7791469ab35db5a2c3d962fe8529/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>455567</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261485870597-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485870597/PREVIEW/image/png/0bb66382aec389531c40c54654208011/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485870597/PREVIEW/image/png/0bb66382aec389531c40c54654208011/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65699</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 120; number 3 CHEMICAL PHYSICS LETTERS  11 Óctober 1985    OBSERVATION OF NOVEL INTERMEDIATES FROM CH3SH DECOMPOSITION  ON Pt(111) WITH.HREELS AND NEXAFS    RJ_ KOESTNER'    Department of Chemistry. University of Califorñia, Berkeley. CA 94720, USA    J. STÖHR'-, J_L. GLAND, E_B_ KOLLIN    Corporate Research Science lnborarories, Exxon Research and Engineering Company, Annandale, NJ 08801. USA    and    F. SETTE 3    National Synchrotron Light Source, Brookhaven National Laboratory, Upton. NY 11973. USA    Received 14 February 1985; in final form 24 June 1985     Temperature-induced decomposition of methanethiol (CH3SH) on the Pt(III) surface causes the formation of two new surface intermediates, thiomethoxy (SCH3) and Vtioformaldehyde (SCH=)_ Both the adsorbed thiomethoxy (SCH3) and thioformaldehyde (SCH=) intermediates exhibit novel tilted geometries. The partial decomposition of SCH3 to form a stable SCH= species contrasts with the behavior of adsorbed methoxy (OCH3) which decomposes completely with increasing temperature to form CO and H= on the Pí(111) Surface.     The decomposition mechanisms and adsorbed intermediates for sulfur containing hydrocarbons on metal and metal sulfide surfaces have become a key issue because of the importanca of selective C-S bond activation in catalytic hydrodesulfurization (HDS) processes [1]. In this paper, we demonstrate the effectiveness of combining high-resolution electron energy loss (HREELS) and near-edge X-ray absorption fine structure (NEXAFS) spectroscopy tõ characterize the molecular bonding and structure of adsorbed surface intermediates. The sequential dehydrogenation of methanethiol (GH3SH) adsorbed on a Pt(111) surface results in the formation of two new adsorbed surface species, thiomethoxy (SCH3) and thiofonnaldehyde (SCH2).    '. Present address: Texas Instruments, Central Research   Laboratories, Dallas, TX 75265, USA.   Present address; IBM Rep.,-h Laboratory, 5600 Cottle   Road, San Jose, CA 95193, USA-.   Present address= AT&amp;T .Bell Laboratories, Murray. Hill,   NJ 07974, USA-    0 009-2614/85/S.0330 © Elsevier Science Publishers B.V_ (North-Holland Physics Publishing Division)     The thiomethoxy formed during the first dehydrogenation step adsorbs with a highly tilted S-C bond. In contrast, an HREELS study [2] of the methoxy (OCH3) species on Pt(111) suggests an O-C bond normal or nearly normal to the surface. In inorganic thiomethoxy and methoxy complexes, similar bonding differences are attributed to the larger size of the sulfur atom. The thioformaldehyde formed in the second dehydrogenation step bonds to the surface with both the sulfur lone-pair and the molecular 7r orbitals. This bonding scheme results in the S-C bond being almost parallel with the surface. On the other hand, the corresponding adsorbed formaldehyde (OCH,) species is not sufficiently stable to be isolated during OCH3 decomposition on the Pt(111) surface [2]. Adsorbed OCH2 has only been observed during OCH3 decomposition by its decomposition-limited desorption on the less reactive Cu and Ag surfaces $_    $ Cu(110): ref_ [31; Ag(110): ref- [41; Cu(100): ref. [5]_    285  Volume 120, number 3 CHEMICAL PHYSICS LETTERS _ 11. October 1985     The carbon K-edge NEXAFS [6] spectra were measured at the Stanford Synchrotron Radiation Laboratory (SSRL) with the use of the Grasshopper monochromator (1200 lines/mm grating) on beam line I-1. The spectra were recorded at grazing (E vector 20° from surface normal) and normal (E vector in surface plane) X-ray incidence using partial electron yield detection (200 eV retardation). The HREELS and thermal desorption (TDS) spectra were obtained in a separate surface science system; a more detailed account of these experiments will be published separately [7]. The base pressure of both vacuum chambers was &lt; 1 X 10-10 Torr and the CH3 SH adsorption was carried out near 110 K. The NEXAFS and HREELS spectra were obtained from a surface which was cooled to ---110 K after heating to the indicated temperatures at 10 K/s. TDS spectra were acquired with a 10 K/s heating rate. The Pt(111) sample was cleaned with 02 heat treatments and characterized by LEED and Auger electron spectroscopy.   HREELS and TDS spectra illustrated in fig. 1 indicate that a layer of SCH3 forms after heating a multilayer of methanethiol on Pt(I 11) to 255 K. TDS spectra show the multilayer of CH3SH desorbing at 135 K and the hydrogen from sulfhydryl desorbing at 200 K. Similar spectra with deuterium labelled rnethanethiol (CH3SD) confirm that this low-temperature hydrogen peak contains all the sulfhydryl and-no methyl hydrogem. The resulting HREELS spectrum corresponds closely to the vibrational spectrum of the thiomethoxy ligand in (CH3)3 Sn(SCH3) [8] as shown in table 1. The S-H bond cleavage is also clearly indicated by the disappearance of the S-H stretching (2570 cm 1) and bending (820 cm-1) modes.   NEXAFS spectra for SCH3 are shown in fig. 2a; they were taken after heating to 230 K. For both incidence angles the spectra are dominated.by a single resonance (peak B) near 288.0 eV. Peak B is assigned to a transition of a C is electron to an antibonding carbon-sulfur orbital of or symmetry (Q~s)_ Peak B can equivalently be described as a multiple scattering resonance of the photoelectron between the excited carbon atom and the nearest neighboring sulfur atom [11] _ A similar C-S a` resonance at 287.5 eV has been observed for multilayer and monolayer thiophene (C4H4S) on Pt(111) [12]. In addition, the C and O K-edge NEXAFS spectra of the analogous methoxy (OCH3) species on Cu(100) also contain a single a-    286    shape resonance associated with the O-C bond [13].   The tilt angle of the S-C bond relative to the surface normal can be obtained from the variation of the Is- a¿S transition intensity at grazing (20°) and normal (90°) X-ray incidence [6]. However, the o resonance intensities must be normalized for a proper comparison. This can be accomplished by referencing the a resonance intensity to the carbon K-edge jump for the angle-independent continuum background. This . intensity jump in the background (shown by the dashed line) is similar to the atomic photoionization as illustrated in fig. 3 of ref. [14]; the general downward slope of our NEXAFS spectra is also observed for the clean Pt(111) surface. Theoretically, the intensity of the o resonance follows a simple cos2a relation where a is the angle between the E vector and the S-C bond axis [6] . The measured intensity of the 1 s - aL transition in fig. 2a is about two times larger at grazing than at normal incidence. This allows us to estimate a tilt angle of 45 ± 10° from the surface normal for the S-C bond of adsorbed SCH3.   The tilting of the S-C bond is qualitatively confirmed by the HREELS spectrum for SCH3 in fig. 1, although a tilt angle cannot be determined. A tilted S-C bond orientation causes the symmetry of adsorbed SCH3 to decrease from C3v to CS or Cl_ This lower symmetry causes the appearance of two methyl rocking modes at 945 and 1015 cm-1. A similar splitting in vibrational frequencies between symmetric and antisymmetric methyl rocking modes occurs in the gas phase as the symmetry is lowered from acetonitrile (CH3CN, C3 v) to methanol (CH30H, CS) [15]. In C3v symmetry, only one methyl rocking mode should exist which is dipole forbidden. In addition, the appearance of a shoulder at lower frequency from the main methyl deformation mode at 1410 cm-1 in fig. l cannot be explained by a C3v symmetric SCH3 species since the dipole-forbidden antisymmetric deformation mode should occur at higher frequency.   The HREELS spectrum for adsorbed OCH3 on the Pt(111) surface [2] shows only a single methyl deformation mode at 1430 cm -1 indicating that the O-C bond is not sufficiently tilted to give a measurable splitting in the deformation modes. Unfortunately, no splitting in the CH3 rocking mode near 1200 cm-1 can be observed because it is too close tó the intense vC0 mode at 1000 cm 1. The OCH3 group has also been studied with HREELS on the Ni(111) [16],  Volume 120, number 3 CHEMICAL PHYSICS LETTERS 11 October 1985    Pl(1 1 1) i- CH3SH(sat) TA =11 OK     Electron Energy Loss Temperature Programmed Desorption   Ee=3 to 4eV p=10 K/see    x 330    320    x 1000   2910    530 ,015 1370 2985  670 1     400K  ,410     ,290  945    11015 255K    1 11  3010  x 33  H2_ r. 1    975 1345   1460  á 620 1060  U    " 725  1 N  110K CH,, x 2.5  .    Ai     2570  40cm   CH~SH, x 10   1 1 1  0 1000 2000 3000 - 5_0 0 5_0 10_0 15.0    Type K Thermocouple Voltage (mV)    Energy LOSS (em-1)    Fig- 1. HREELS spectra measured after heating a methanethiol (CH3SH) multilayer on Pt (111) to the indicated temperatures and cooling to 110 K_ Thiometholy (SCH3) arid thioformaldehyde (SCHz) species are identified at 255 and 400 K, respectively-    Mo(100) [17], Ru(100) [18], Pd(100) [19] and the Cu (100) [S]surfaces; however, only on the Ru(100) surface does the measured methyl deformation mode have sufficient intensity to confidently indicate that the mode splitting is again much smaller than observed for our SCH3 group. On the Cu (100) surface, a recent NEXAFSand surface extended absorption fine structure (SEXAFS) spectroscopy study [20]    indicates that the OCH3 species is tilted by 32 ± 10° from the normal, however, this species probably binds at an asymmetric site between the two-fold bridge and four-fold hollow positions-   A systematic reorientation of SCH3 compared to OCH3 is also found in inorganic clusters due to the larger size of the sulfur atom. Terminal OCH3 groups [21-23] have much larger M-O-C bond angles (125-    287  00  00 0    rv    N O    7 C C  N  Table 1  Summary of HREELS frequencies and assignments o)    Tz u(S-C) 6(S-11) ps(CH3) pa(CH3) 6+(CH3) 8a(CH3) s-(C113) v(SH) v (CH)  HSCH3 gas phase b) -    710 800 955 1070 1330 1445 1455 2605 2950,3015  multilayer 300 725 820 975 1060 1345 too weak 1460 2570 3010  (Cs)  (d1.06) (p1,38)  (d1.41)   (1.40) (1.39) (1,35)   v(Pt-SC113) v(S-C) 8(S-H) ps(CHg) pa(CH3) 6+(CH3) 6a(CH3) 6-(Cl13) u(SH) u (CH) n    -SCH3 absorbed 320 670 - 945 1015 1290 too weak 1410 - 2910, 2985   (Cs) (1,05) (1,06)      (1.39)  (1,36), (1.34)  . Me3Sn(SCH3) 0) 340 700 - 960 - e) 1320(x) - e) 1435(os) - 2845, 2920, 2980 b   (C9v)           K    v(Pt-SCHZ) 6(pt-S-C) v(S-C) ps(CHZ) pMCHZ) a(CH2) P (CH)    En              r  S=CH2 matrix  isolated d) - - 1050 980 990 1445 2965, 3015     (1,13) (1,27) (1.27) (1.24) (1.38) v,  adsorbed 320 530 670 1015 1015(?) 1370 2910, 2985  (Cs or CI) (1.00) (1.05) (1,03) (1,32) (1.32) (1,36) (1.36), (1.34)    a) Deuterium shifts are given in parentheses. b) Ref. [9]. c) Ref. [8], d) Ref. [10]. °) Due to strong dn-pn bonding, this molecule nearly IIOS C3v symmetry and these modes are very weak.    O  0    H  Volume 120, number 3 CHEMICAL PHYSICS LETTERS - 11 October 1995    CN,SN1Pl(111)  T~- 120K  .. C K-Edge NEXAFS    a)     CH,  ~as-,9•    -`  i 2301(    r_14»- l     299 °  xPS    2815    °) _ _    C71~    3eUx    zeo  zsõ    Plnlon E.erçp (eV)      il  3D0 31°    Fig. 2. Carbon Iï-edge NEXAFS spectra recorded at grazing (20°) and normal X-ray incidence for a SCH3 (230 K) and SCH2 (380 K) layer absorbed on the Pt (111) surface. The dashed line indicates a smooth C K-edge absorption background which arises from transitions to states formed by hybridization of conduction band states of the metal and molecular states-    160") than SCH3 [24] (110-120°) due to stronger repulsion between the larger lone pair orbitals.of sulfur.Bridging OCH3 complexes [223] leave the carbon atom in the M-O-M plane, while SCH3 [25,26] clusters have the carbon atom tilted by about 55° from the M-S-M plane. This difference is caused by the larger covalent radius of sulfur which leads to smaller M-S-M bond angles and the need for a tetrahedrally bonded sulfur atom that minimizes the M-S "bent" bond energy. Both OCH3 [22,27] and SCH3 [28], how-    ever,.are oriented perpendicular to the M3 plane.in triply bridging complexes that correspond to hollow sites on the Pt(111) surface. These inorganic analogues suggest that the adsorbed SCH3 bonds in an atop or. bridging site rather than a hollow site on Pt(111).   The nearly equal size of the HZ desorption peaks _ at 200 and 305 K shown in fig. 1 indicates that adsorbed SCH3 loses a second hydrogen with further heating to 400 K. This indicates that the stable surface intermediate formed at 400 K has an average SCH2 stoichiometry. The H2 desorption rate in the 305. K peak. parallels the dehydrogenation rate of SCH3 since coadsorbed hydrogen desorbs at 200 K. A small fraction (--10%) of the SCH3 also decomposes as indicated by the CH4 desorption measured near 340 K_   The HREEIS spectrum in fig. 1 taken after heating to 400 K corresponds to a perturbed SCHz species. The agreement between matrix-isolated [10] and adsorbed SCH2 illustrated in table 1 is reasonable for all of the vibrational modes except the C-S stretching mode. The S-C stretching frequency decreases from 1050 for the matrix-isolated species [10] to 670 cm-1 for adsorbed thiofonnaldehyde. The assignment of the 670 cm-1 mode to the v(C-S) vibration follows from the low CH character of this mode (with a deuterium shift of 1 _03) and by. the even greater shift (to 560 cm-1) in v(C-S) observed for an inorganic cluster Os(&gt;72-CH2S)(CO)Z(PPh3)2 [29] with a a-bonded thioformaldehyde ligand_ The 400 cm-1 shift in v(C-S) implies a strong interaction between the thioformaldehyde ir orbital and the metal surface. A similar interaction for ethylene adsorbed on Pt(111) has been extensively studied [30] and a shift from 1625 to 1050 cm-1 was measured for the v(C-C) mode.   Even though the low v(C-S) frequency implies strong a-orbital bonding to the metal which is typically observed for parallel bonded molecules, e.g., C2H4 on Pt(111) [30], NEXAFS spectra for the SCH2 layer show a significant tilt of the S-C bond from the surface- The spectra shown in fig- 2b were measured after heating the sample to 380 K_ The two resonances that appear at 284_5 and 288.0 eV are assigned to excitation of a C is electron into the true and a~ç orbitals of adsorbed thioformaldehyde, respectively. Similar x" transitions have been observed near 284 eV for a number of unsaturated hydrocarbons in the gas phase [31] and chemisorbed on Pt(111) [32] _ The a¿.ç transition energy is the same as that for the thiomethoxy (288.0 eV).    289  Volume 120, number 3 CHEMICAL PHYSICS LETTERS 11 October 1985    The appearance of the 7r* transition and its reversed polarization dependence relative to the a resonance confirm our HREELS assignment that a SCHZ species forms.  The 7r* and a~ç transition intensities above the  -   dashed background do not vanish at either incidence   angle demonstrating that the S-C bond is tilted. Since   the rr*S (ac ç) intensity at grazing (normal) incidence   is three to four times that at normal (grazing) inci   dence, we estimate the C-S bond of SCH2 to be   oriented 20 ± 10° from the surface plane. Since the   assigned v(Pt-SCH2) and v(Pt-SCH3) stretching fre   quencies are identical, we believe the sulfur atom of   adsorbed SCH2 is closer to the surface than the carbon   atom. An inclined S-C bond of 20 ± 10° allows the   sulfur lone pair orbitals to interact with the metal at   the expense of 7r overlap with metal d orbitals. The   unexpected inclination of adsorbed SCH2 can then be   explained as a tradeoff between sulfur lone pair bond   ing and a-orbital bonding to the metal. In fact, the   sulfur lone pair bonding may play a major role in sta   bilizing the adsorbed SCH2 species. This view is sup   ported by the observation that the analogous OCH2   species has not been isolated on any metal surface dur   ing OCH3 decomposition. Inorgwiic analogies for lone   pair bonding further support the view that lone pair   bonding from sulfur may be significantly larger than   from oxygen. For example, the thiocarbonyl cluster   (CSHS)2Fe1(CO)3CS forms sulfur lone pair bonds   with weak Lewis acids, while similar bonding does not   occur for the analogous carbonyl cluster   (CSHS)2Fe2(CO)4 [33].   In conclusion, adsorbed methanethiol (CH3SH) undergoes sequential dehydrogenation on the Pt(111) surface with increasing temperature. Adsorbed thiomethoxy (SCH3) and thioforrnaldehyde (SCH2) intermediates have not been previously observed on a metal surface. NEXAFS spectra indicate that the S-C bond is tilted 45 ± 10° from the surface plane for adsorbed SCH3 and tilted up from the surface plane by 20 i- 10° for SCH2. The partial decomposition of the SCH3 species to a stable SCH2 group contrasts with OCH3 decomposition on the same surface. The tilted geometry of the adsorlhád çCH3 group is attributed to the large size of the sulfur atom as found in inorganic analoguesThe nearly parallel adsorption geometry favored by adsorbed SCFI2 occurs because of a tradeoff between sulfur lone pair- and 7r-orbital bonding to the metal. -    290     We would like to thank A.L. Johnson for help with  the NEXAFS measurements ás well as JA. Ho rsley  and M. Sahneron for many valuable discussions. The  reported work was partly done at SSRL, which is sup  ported by the Office of Basic Energy Sciences of the  US Depártment of Energy and the Division of Materials  Research of the National Science Foundation.    References    [1 ] P.C_H. Mitchell, in: Catalysis, ed. C_ Kemball (The Chemical Society, London, 1977) Vol. 1, p. 223; Vol- 4, p. 203.  [2] B.A Sexton, Surface Sd_ 102 (1981) 271_  [3] I.E. Wachs and R_J_ Madix, J_ Catal. 53 (1978) 208.  [4] LE. Wachs and R_J_ Madix, Surface Sci. 76 (1978) 531.  [5] B_A Sexton, Surface Sci. BB (1979) 299_  [6] J. St5hr and R. Jaeger, Phys. Rev- B26 (1982) 4111.  [7] RJ_ Koestner, M_ Saln:erón, E.B_ Kollin and 1.L. Gland,   to be published-  [ 81 D_F. van de Vondel, E.V. van den Berghe and G_P_ van der Kelen, J. Organomet_ Chem. 23 (1970) 105.  [9] I_W_ May and E.L. Pace, Spectrochim. Actor 24A (1968)   1605.  -  [10] M_ Torres, I_ Safarik, A_ Clement and O.P_ Strausz, CanJ. Chem. 60 (1982) 1187.  [11 ] J_L_ Dehmer and D_ Dill, J. Chem- Phys. 65 (1976) 5327; J. Horsley, J. $tOhr and R.J_ Koestner, J_ Chem. Phys_, submitted for publication-  [12] J. Stöhr, J.L_ Gland, E_B_ Kollin, R_J. Koestner, A_L Johnson, E.L. Muetterties and F_ Sette, Phys. Rev. Letters 53 (1984) 2161.  [13] J_ Sttshr, J.L_ Gland, W. Eberhardt, D_ Outka, R.1_   Madix, F_ Sette, R.J. Koestner and U. Doebler, Phys_   Rev. Letters 51 (1983) 2414_  [14] A_ Bianconí, H_ Petersen, F.C_ Brown and R_Z_ Bachrach.   Phys. Rev. A17 (1978) 1907_  [15] G. Herzberg, Molecular spectra and molecular structure, Vol. 2 (Van Nostrand, Princeton, 1945) p. 334.  [16] J_E. Demuth and H. Ibach, Chem. Phys_ Letters 60 (1979) 395.  [17] S.L. Miles, S.L. Bernasek and J.L_ Gland, J. Phys_ Çhem.   87 (1983) 1626.  [18] J_ Hrbek, R_A_ dePaola and F_M. Hoffmann, J. Vac. Sã.   Tech. A1 (1983) 1222_  [19] K. Christmann and J.E_ Demuth, 1. Chem- Phys. 76 (1982) 6308, 6318.  [20] D_A. Outka, RJ_ Madix and 1. Stöhr, Surface Sci., submitted for publication.  [21] D.C. Bradley et al., Metal alkoxides (Academic Press.   New York, 1978) p. 94.  [22] D_A. Wright and D.A. Yftlliartts, Actor Cryst_ B24 (1968)   1107.  Volume 120; number 3 CHEMICAL PHYSICS LETTERS 11 October 1985    [23] C.N. Caughton, H.M_ Smith and K Watenpaugh, Inorg.   Chein- 5 (1966) 2131_  [24] D. Swenson, N_C. Baenziger and D- Coucouvanis, J. Am   Chem- Soc. 100 (1978)1932.  [25] P_M. Doorman, P_W. Codding, K-A_ Kerr, K.J. Moynihan and V_D. Patel, Can- 1_ Chem- 60 (1982) 1333.  [26] L_F. Dahl and C_H_ Wei, Inorg..Chem. 2 (1963) 228_  [27] P.G. Harrison, BJ. Haylett and T.J. King, J_ Chem. Soc.   Chem. Commun. (1978) 112.  [28] R. Bau, B. Don, R. Greatex, R_J. Haines, R.Ã_ Love and   R_D_ Wilson, Inorg_ Chem- 14 (1975) 3021_  [29] T_1_ Collins and W.R. Roper, J_ Organomet. Chem- 159   (1978) 73.    [30] H_ Steininger. H. rbach and S_ Lehwald, Surface Sci. 117 (1982) 685_  [31 ] A_P_ Hitchcock, C.E_ Beaulieu, T. Steel, J. Stõhr and F.   Sette, J_ Chem- Phys_ 80 (1984) 3927, and references   therein.  -  [32] R_J_ Koestner, J_ Stöhr, J.L_ Gland and J. Horsley, Chem.   Phys_ Letters 105 (1984) 332;   J. St6hr, F_ Sette and A.L. Johnson, Phys. Rev. Letters   53 (1984) 1684_  [33] M.H_ Quick and RJ_ Angelici, Inorg_ Chem. 21 (1982)   1674_    291   thiomethoxy (SCH3) and thio</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85870597</aid>
+            <ce:pii>0009-2614(85)87059-7</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)87059-7</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>Observation of novel intermediates from CH<ce:inf loc="post">3</ce:inf>SH decomposition on Pt(111) with HREELS and NEXAFS</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.J.</ce:given-name>
+                  <ce:surname>Koestner</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, University of California, Berkeley, CA 94720, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Texas Instruments, Central Research Laboratories, Dallas, TX 75265, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Stöhr</ce:surname>
+                  <ce:cross-ref refid="FN2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.L.</ce:given-name>
+                  <ce:surname>Gland</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.B.</ce:given-name>
+                  <ce:surname>Kollin</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Corporate Research Science Laboratories, Exxon Research and Engineering Company, Annandale, NJ 08801, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN2">
+                  <ce:label>2</ce:label>
+                  <ce:note-para>Present address: IBM Research Laboratory, 5600 Cottle Road, San Jose, CA 95193, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Sette</ce:surname>
+                  <ce:cross-ref refid="FN3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>National Synchrotron Light Source, Brookhaven National Laboratory, Upton, NY 11973, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN3">
+                  <ce:label>3</ce:label>
+                  <ce:note-para>Present address: AT&amp;T Bell Laboratories, Murray Hill, NJ 07974, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="14" month="2" year="1985"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Temperature-induced decomposition of methanethiol (CH<ce:inf loc="post">3</ce:inf>SH) on the Pt(111) surface causes the formation of two new surface intermediates, thiomethoxy (SCH<ce:inf loc="post">3</ce:inf>) and thioformaldehyde (SCH<ce:inf loc="post">2</ce:inf>). Both the adsorbed thiomethoxy (SCH<ce:inf loc="post">3</ce:inf>) and thioformaldehyde (SCH<ce:inf loc="post">2</ce:inf>) intermediates exhibit novel tilted geometries. The partial decomposition of SCH<ce:inf loc="post">3</ce:inf> to form a stable SCH<ce:inf loc="post">2</ce:inf> species contrasts with the behavior of adsorbed methoxy (OCH<ce:inf loc="post">3</ce:inf>) which decomposes completely with increasing temperature to form CO and H<ce:inf loc="post">2</ce:inf> on the Pt(111) surface.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.C.H.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Kemball</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Catalysis</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Chemical Society</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>223</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.C.H.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Kemball</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Catalysis</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>4</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Chemical Society</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Sexton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.E.</ce:given-name>
+                                 <ce:surname>Wachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>208</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.E.</ce:given-name>
+                                 <ce:surname>Wachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>531</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Sexton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jaeger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.J. Koestner, M. Salmerón, E.B. Kollin and J.L. Gland, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>van de Vondel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>van den Berghe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>van der Kelen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Organomet. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>May</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.L.</ce:given-name>
+                                 <ce:surname>Pace</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1605</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Safarik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Clement</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.P.</ce:given-name>
+                                 <ce:surname>Strausz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Dehmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:other-ref>
+                        <ce:textref>b J. Horsley, J. Stöhr and R.J. Koestner, J. Chem. Phys., submitted for publication</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Kollin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.L.</ce:given-name>
+                                 <ce:surname>Muetterties</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2161</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Eberhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Outka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Doebler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2414</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Petersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Z.</ce:given-name>
+                                 <ce:surname>Bachrach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1907</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Herzberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molecular spectra and molecular structure</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>2</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1945</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Van Nostrand</sb:name>
+                                 <sb:location>Princeton</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Demuth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>395</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Miles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Bernasek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1626</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hrbek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>dePaola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Hoffmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1222</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Christmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Demuth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6308</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Christmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Demuth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6318</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>D.A. Outka, R.J. Madix and J. Stöhr, Surface Sci., submitted for publication</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Bradley</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Metal alkoxides</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Wright</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Caughton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Watenpaugh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2131</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Swenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Baenziger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Coucouvanis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1932</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Boorman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Codding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Kerr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Moynihan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.D.</ce:given-name>
+                                 <ce:surname>Patel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1333</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Dahl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>228</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Haylett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>112</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Don</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Greatex</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Haines</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Love</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3021</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Collins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Roper</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Organomet. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Steininger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lehwald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>685</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Hitchcock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Beaulieu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Steel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3927</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Horsley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>332</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stöhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1684</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Quick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Angelici</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1674</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

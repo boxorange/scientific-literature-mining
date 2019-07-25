@@ -1,0 +1,1531 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261485850107</prism:url><dc:identifier>doi:10.1016/0009-2614(85)85010-7</dc:identifier><eid>1-s2.0-0009261485850107</eid><prism:doi>10.1016/0009-2614(85)85010-7</prism:doi><pii>0009-2614(85)85010-7</pii><dc:title>The adsorption of oxygen on Ag(110): a new view of structure and bonding </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>113</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>56</prism:startingPage><prism:endingPage>62</prism:endingPage><prism:pageRange>56-62</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1985-01-04</prism:coverDate><prism:coverDisplayDate>4 January 1985</prism:coverDisplayDate><prism:copyright>Copyright © 1985 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Bange, K.</dc:creator><dc:creator>Madey, T.E.</dc:creator><dc:creator>Sass, J.K.</dc:creator><dc:description>
+               Abstract
+               
+                  We have used ESDIAD (electron stimulated desorption ion angular distributions) to characterize the structure and bonding of O2 on Ag(110). The data indicate that both atomic oxygen (T
+                     ads &gt; 300 K) and molecular oxygen (T
+                     ads ⋍ 80 K) are bonded in configurations which cause ion desorption in directions along [001] azimuths. Possible structures are discussed which are at variance with existing models of the oxygen-Ag(110) system.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261485850107" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261485850107" rel="scidir"/></coredata><scopus-id>84914318843</scopus-id><scopus-eid>2-s2.0-84914318843</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84914318843" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011126">2001-11-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011126">2001-11-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-10T14:11:53</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261485850107</xocs:eid>
+      <xocs:pii-formatted>0009-2614(85)85010-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261485850107</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(85)85010-7</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X05933</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160610">2016-06-10T22:06:53.810176-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19850104</xocs:date-search-begin>
+      <xocs:year-nav>1985</xocs:year-nav>
+      <xocs:indexeddate epoch="1006732800">2001-11-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>113</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>113</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 113, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>56</xocs:first-fp>
+      <xocs:last-lp>62</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>56</xocs:first-page>
+         <xocs:last-page>62</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19850104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>4 January 1985</xocs:cover-date-text>
+      <xocs:cover-date-start>1985-01-04</xocs:cover-date-start>
+      <xocs:cover-date-year>1985</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1985 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ADSORPTIONOXYGENAG110ANEWVIEWSTRUCTUREBONDING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BANGE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2904</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SEXTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>294</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BACKX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BARTEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>AU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1779</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>PRINCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ENGELHARDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>591</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ENGELHARDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>410</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HEILAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>383</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HEILAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>282</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ZANAZZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>ZANAZZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2447</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGS7THINTERNATIONALVACUUMCONGRESS3RDINTERNATIONALCONFERENCESOLIDSURFACES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>MADEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>120</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SPRINGERSERIESINCHEMICALPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>MADEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>MADEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>483</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>ENGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>237</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>NETZER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>710</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>HANSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5513</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SURNEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>VASKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>175</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>JONES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>139</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>BOCA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21"/>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>KNOTEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>964</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>KNOTEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>NIEHUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>344</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>GERRITSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>FEIBELMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SPRINGERSERIESINCHEMICALPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>RAMAKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>748</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>RAMAKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>211</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>DEMUTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1373</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28"/>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>CLINTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L791</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>MISKOVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>285</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BANGEX1985X56</xocs:refkey3>
+         <xocs:refkey4lp>BANGEX1985X56X62</xocs:refkey4lp>
+         <xocs:refkey4ai>BANGEX1985X56XK</xocs:refkey4ai>
+         <xocs:refkey5>BANGEX1985X56X62XK</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(85)85010-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261485850107</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261485850107</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(85)85010-7</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2016-06-10T22:06:53.810176-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1985-01-04</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261485850107-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485850107/MAIN/application/pdf/2db0ba4ef1590dee8cfac7fe0e347b05/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485850107/MAIN/application/pdf/2db0ba4ef1590dee8cfac7fe0e347b05/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>587112</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261485850107-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261485850107/PREVIEW/image/png/e9a62be9dc58a393233e496975ac4dd8/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261485850107/PREVIEW/image/png/e9a62be9dc58a393233e496975ac4dd8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74007</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 113, number 1 CHEMICAL PHYSICS LETTERS 4 January 1985    THE ADSORPTION OF OXYGEN ON Ag(l 10)- A NEW VIEW OF STRUCTURE AND BONDING    K BANGE * -2 , TJE. MADEY and J X. SASS *  Surface Science Division, National Bureau of Standards, Gaithersburg. Maryland 20899, USA    Received 17 September 1984; in final form 8 October 1984    We have used ESDIAD (electron stimulated desorption ion angular distributions) to characterize the structure and bond-  ing of 0; on Ag(l 10). The data indicate that both atomic oxygen (Fads &gt; 300 K) and molecular oxygen (7'ads  3 8  K)are  bonded in configurations which cause ion desorption in directions: ulong [001] azimuths- Possible structures are discussed  which are at variance with existing models of the oxygen Ag(l 10) system-    1. Introduction    There has been a great deal of interest, from both  experimental and theoretical points of view, in the ad-  sorption of oxygen on Ag(llO) [Ij-Much of the recent  work focuses on the structures of both molecular 0^  and atomic 0 on Ag(l 10). The present study indicates  that there are serious unresolved problems in determin-  ing these structures, and points the directions for future  work.    Adsorption studies of oxygen onto Ag(l 10) at 80 K  provide clear evidence for the presence of molecular 0-y  on the surface, this has been verified using EELS (high-  resolution electron energy loss spectroscopy) [2,3] ,  thermal desorption spectroscopy isotope mixing [4] ,  XPS (X-ray photoelectron spectroscopy) [5], and UPS  (ultraviolet photoemission spectroscopy) [6] Backx  [3] proposed that the molecular 0^ is adsorbed "lying  down" in the Ag(l 10) troughs, with the molecular axis  along the [110] azimuth. A similar structural assign-  ment has been made based on recent surface EXAFS  and NEXAFS (surface extended X-ray absorption fine  structure, and near edge XAFS) measurements [7] .  Upon heating, the molecular state is seen to dissociate    * NBS Visiting Scientists. Permanent address: Fritz-Haber-ln-  stitut der Max-Planck-Gesellschaft, Faradayweg 4 6, D-1000  Berlin 33/Dahlem. Federal Republic of Germany.    2 Present address: Siemens AG, WRS ESR B, Postfach 120, D-  1000 Berlin 33, Federal Republic of Germany.    above "=150 K, leaving atomic oxygen on the surface  [2,3,5].    Adsorption at 300 K results in the direct formation  of adsorbed atomic oxygen. Whereas the molecular 0^  at 80 K is characterized by a (1 X 1) LEED (low energy  electron diffraction) pattern with increased background  intensity, the atomic oxygen exhibits fascinating long-  range order. A series of(n X 1) overlayer structures are  seen, with n = 7 to n = 2, indicating a coverage range  from 0 as 1/7 to 0 "s 1/2 [8]. Ion scattering experiments  (ISS) on the (2 X 1) structure indicate that the oxygen  atoms are situated in the troughs between rows of first-  layer Ag atoms [9] . Quantitative LEED intensity anal-  yses of the (2X1) structure have been performed using  thirteen different structural models [10] , all of which  assume 0 or 0^ adsorbed in high-symmetry sites. The  authors conclude that the n, idel of oxygen atoms in  the bridge sites -within the troughs of the substrate sur-  faces is better than the others in approaching agreement  with experiment, but that none of the models tested  was satisfactory [10]. The authors suggest that motion  of the substrate atoms as a result of adsorption of oxy-  gen (i.e., reconstruction) may be responsible for the  lack of agreement between theory and experiment.    In the present work, we have used a combination of  ESDIAD (electron stimulated desorption ion angular  distribution) and LEED to study the structures of both  molecular and atomic oxygen on Ag(l 10). Because the  ion desorption angles in ESDIAD are related to the ini-  tial bond angles on the surface [II], direct structural    56    Volume 113, number 1    CHEMICAL PHYSICS LETTERS    4 January 1985    information is attainable using this method. In con-  trast to the previously reported models for 0/Ag(l 10)  [1,3,7 10], we find evidence that both molecular and  atomic oxygen are not bound in high-symmetry sites  within the troughs: The dominant bonding characteris-  tic is the fact that the Ag 0 bond has an azimuthal  component perpendicular to the rows of atoms, in  [001] directions- We are unable to deduce the precise  identity of the bonding sites, but we can eliminate an  entire class of high-symmetry sites on experimental  grounds. The systematics of the data suggest also that  there may be reconstruction and/or diffusion of 0 be-  neath the substrate as the surface is heated.    2. Experimental procedures    The ultrahigh-vacuum apparatus used for these studies  has been described in detail previously [11]- The sample  was a single-crystal disk whose preparation has been  discussed [12]. The crystal could be cooled to 80 K,  and heated resistively to T&gt; 800 K. The sample was  cleaned by 500 eV aron ion bombardment, followed by  brief anneals at 800 K; sample cleanliness was verified  by Auger electron spectroscopy (AES). 0^ was dosed  onto the sample using a small-bore tube directed at the  sample, providing a direct flux roughly 100X the ran-  dom background 0-t flux. Oxygen coverages were esti-  mated using AES intensities (2 keV, 2 fiA), with cali-  bration points provided by the characteristic (n X 1)  oxygen-induced LEED patterns.    The ESDIAD/LEED detector contained hemispheri-  cal grids, a double microchannel plate image intensifier,  and a fluorescent screen for viewing the patterns [11].  The ion mass and kinetic energy were measured using a  quadrupole mass spectrometer (QMS); typical electron  energies were 160 300 eV, at a beam current ^ 5 X  10-8 A. To view and photograph the ESDIAD patterns,  a bias voltage of l 60 V was applied to the sample (in  order to compress the patterns). Measurements of polar  ion desorption angles were made under zero-bias condi-  tions, using both the ESDIAD detector and the QMS;    the peak in the angular distribution was determined  within  2 .    3. Results    The LEED data obtained in this work are in good  agreement with previous measurements [8,10] For ad-  sorption at r^ 250 K, streaks appear in the LEED pat-  tern; upon heating to ^ 300 K, a series of(n X 1) pat-  terns is seen to develop as coverage increases. Adsorp-  tion at 80 K produces a (1 X 1) pattern at all oxygen  coverages; the (n X I) patterns develop upon heating  to ^ 300 K- The sharpest LEED patterns appear after  heating to  450 K [10].    Upon dosing the clean Ag(l 10) surface with oxygen  at 80 or 300 K, an O"1' ESD signal is observed using the  QMS. Fig. 1 illustrates the dependence of the ESD O'1"  signal and of the oxygen (KW) AES signal on the  oxygen exposure, at both 300 and 80 K. The shape of  the 300 K AES curve agrees well with the work func-  tion curve ofEngelhardt and Menzel [8]. Although the  exposure is given in arbitrary units, a rough calibration  as well as comparison with the data of Engelhardt and  Menzel [8] indicate that 1 arbitrary unit  =1 langmuir.  Also shown in fig-1 are the exposure regimes where  (n X 1) LEED patterns are seen at T~^ 300 K- The  saturated (2 X 1) layer is assumed to correspond to fig  =0-5 monolayers [1,7 9].          Fig. 1. Adsorption of oxygen on Ag(llO): growth of 0(KW)  peak-to-peak Auger signal and ESD O* ion yield as a function  of exposure to molecular 0;; adsorption temperature of 300  K (top panel) and 80 K (bottom panel). 1 arbitrary exposure  unit "1 langmuir (1 X 10~6 Ton s).    57    Volume 113, number 1 CHEMICAL PHYSICS LETTERS 4 January 1985    Note that the 0+ ion yield rises monotonically with  oxygen exposure at low exposures (&lt;500 L, for 'S0.3  ML) at both 80 and 300 K. To within the experimental  uncertainty the CY^ yield parallels the AES signal at  low exposures at both adsorption temperatures, indicat-  ing a proportionality between 0^ and oxygen coverage.  Only for coverages    0.3 ML, where both sets of 0^  yield data pass through maxima, is there a significant  departure from the proportionality Note that the maxi-  mum ion yields are different at 80 and 300 K; also the  saturation AES 0(KW) signal is ' ! 0% greater at 80  K than at 300 K.    A key problem in ESD measurements concerns the  question of "minority" or "'majority" sites- does the  ESD signal arise solely from adsorption at steps or de-  fects (minority sites) [13,14], or is the signal charac-  teristic of a majority of the adsorbed monolayer? The  functional forms of both the C^ versus exposure  curves of fig. 1 are characteristic of adsorption proces-  ses in which ESD is believed to be sampling the majority  of surface species- For example, when CO adsorbs on  many metals, the results are similar to the data of fig-  1. the 0"*" ESD yield increases in proportion to the CO  coverage for low exposures, and passes through a maxi-  mum at high coverages due to molecule molecule inter-  actions [15] . In contrast, when ESD is believed to in-  volve minority states, there is (characteristically) an in-  duction period at low coverages, where the ESD ion  yield is very small [13,14]. At higher coverages, when  steps and defects are populated and surface reaction  products (e.g., oxides) are formed, a high ESO ion  yield appears: such behavior has been seen for many  systems, including oxygen on tungsten surfaces [13,  14] and 0/Ti(0001) [16]. Only in a recent study of  oxygen on Pd(l 11) has it been suggested that a high  ESD 0''" yield can arise from minority species at low  oxygen coverages [17] The adsorption behavior is dif-  ferent from the present case, however.    CiTo]                Fig- 2. LEED and CT  (c) O* ESDIAD for     all ESDIAD patterns,    ESDIAD patterns for oxygen on Afi(llO), Ca) clean LEED pattern, (b) O* ESDIAD for "20 L Oy, at 80 K,  500 L Oa at 80 K, (d)-(f) effect of heating on an &lt;al00 L Oz exposure, (d) 80 K, (c) 160 K, (f) 350 K. For  the total electron energy was 300 eV, with a bia5 potential of 160 eV.    58    Volume 113. number CHEMICAL PHYSICS LETTERS 4 January 1985    Based on the data of fig 1, we suggest that the O"1"    ESD signals arising from adsorption of both molecular  0^ (adsorption at 80 K.) [1 5] and atomic oxygen  (adsorption at 300 K) [1 3,5] anse from a majority  of the adsorbed species at low oxygen doses. This is an  important point which bears on the utility ofESDIAD  for determining the structures of adsorbed molecular  and atomic oxygen on Ag(l 10). Note also that the  maximum in the O'1' ESD signal is believed to arise  from increased neutralization processes due to ad-  sorbate adsorbate interactions [15].    The O* ESDIAD characteristics for oxygen on  Ag(l 10) are illustrated in fig. 2. Fig 2a, the clean  LEED pattern, is included to provide an orientational  reference. As shown in fig. 2b, adsorption of0-  at 80  K produces an ESDIAD pattern dominated by two  beams symmetric about the surface normal, oriented  along [001] azimuths. The beams increase in intensity  as the coverage increases, as shown in fig. 2c. At higher  coverages at 80 K there is an increase in background  intensity, but no new beams are seen. ESDIAD pro-  vides a direct view of surface structure in real space  [11,12], and it is clear that O4' desorbas along an azi-  muth perpendicular to the atom rows.    As the surface is heated, there are dramatic changes  in the ESDIAD patterns, as illustrated in the sequence  of fig. 2d-2f- The two beams at 80 K (fig. 2d) "col-  lapse" to a small angular separation at 155 K (fig. 2e);    further heating causes two smaller beams to diverge  and become clearly resolved (fig. 2f). In all cases, the  only ion detected is O^ and the beams are directed  along equivalent [001] azimuths.    Fig 3 is a plot of the polar desorption angle 0 of  the O'1" beam center, measured with respect to the sur-  face normal along the [001] azimuth. In each case,  the surface was heated to the indicated T for 1 s and  cooled to 80 K for the angle measurements, which were  made under field-free conditions. The value ofOp is  constant at 20   2  up to 150 K, at which temperature  0p drops precipitously to 6   2 . Upon further heating,  0p increases and reaches a constant value of 12   2   for r&gt; 250 K, until the 0^ signal disappears following  oxygen desorption at T&gt; 700 K. The functional form  of the O4" desorption angle 0- versus temperature curve  is essentially independent of the initial oxygen coverage.  The only significant difference is that the temperature  at which 0p decreases from 20  increases with increas-  ing oxygen coverage, from 125 to 175 K.          100        200        300        i-OO        500  Tempeiolure T (K)    Fig-3. Polar angle of 0"''desorption along [001] azimuth as a  function of temperature to which crystal was heated for  1 s  following adsorption of' 0.33 monolaycrs of O-i on Ag(llO).  Angular measurements made under tie'd-frce conditions (bias  potential = 0 V).    We caii correlate the data of figs- 2 and 3 with t-.e  wealth of previous measurements of oxygen on Ag(llO)  [1-10] - The 0^ state which forms ai 80 K and which  produces the two-beam ESDIAD patterns stable to r=s  150 K (figs. 2b-2d) is clearly molecular. Part of the  molecular 0^ layer desorbs without isotopic mixing at  *$ 175 K [4], and the remainder dissociates to form an  atomic layer [2,3,5]. The layer apparently becomes  mobile above as250 K, when ordered LEED patterns  are first observed-    Thus, we suggest tliat the 0+ beam at 9 = 20   arises from molecular 0^ stable over the range 80 to  ^150 K, the 0"*" beam at 0-12  is due to atomic 0  which is ordered into long-range arrays for T&gt; 250 K,  and the "collapsed" O'1" beams in the range 150 250  K are characteristic of the transition region from dis-  ordered atomic and molecular oxygen to ordered atom-  ic oxygen.    4. Discussion    In order to formulate models for the bonding of  molecular 0^ to metal surfaces, it is instructive to ex-  amine the coordination chemistry ofdioxygen-metal  complexes. Vaska [18] has indicated th^i nearly all  currently known O^ metal compounds can convenient-  ly be divided into two types according to the charac-    59    Volume 113, number 1 CHEMICAL FHYSIC5 LETTLR5 4 January 1985    teristics of the dioxygen ligand Superoxo (I) complexes  are those containg covalently bonded dioxygen re-  sembling O^; they have structures of the type M 0^   or M O-^O""^, and are characterized by dioxygen  vibrational frequencies in the range 1075 1195 cm~1.  Peroxo (II) complexes contain covalently bonded  oxygen resembling-M^- and M'O-Q-M^ with dioxygen  vibrational frequencies in the range 740 932 cm"1  [19,20]    The low frequency of the dioxygen stretch (640  cm-1) on Ag(l 10) [3,4] has led to the suggestion of a  peroxo (II) structure with an electron transfer from Ag  to 0^ of 1.7 e~; the 0^ species was presumed to lie in  and parallel to the Ag(l 10) troughs, with the 0 0  bond along the [110] azimuths. This model is hard to  reconcile with the ESDIAD results (fig. 3) in which 0+  is seen to desorb along [001] azimuths. The ESDIAD  data could be consistent with either a peroxo or super-  oxo model ofO^ adsorption, but it appears to be es-  sential that the 0 0 bond have a component along the  [001] azimuths. The simplest bonding picture would  involve On bonded end-on to single Ag atoms, slightly  inclined away from the surface normal along the [001]  azimuths:    0-      Ag Ag Ag     Evidence for adsorption of molecular oxygen with the  0 0 axis nearly perpendicular to the surface of  Cu(l 10) has been found in the angle resolved UPS mea-  surements ofDiDio et al. [21] ,so this structure is not  unprecedented.    Other simple pictures of molecular 0^ adsorbing in  atop or bridging positions across the trough of the un-  reconstructed surface also can be envisioned: in fact,  slightly distorted versions of some of the molecular 0^  models proposed by Zanazzi et al. (figs. 3h and 3i of  ref. [10]) are possible candidates. They clearly did not  Fit the LEED (2 X 1) structural data because the LEED  experiments were made on what we now know to be  an atomic 0 layer produced by heating to 450 K.    We turn now to the structure of atomic oxygen on  Ag(110) and begin with a discussion of the ESD data  and their implications. At first it appears unusual that  a significant ESD 0'1" signal is obtained from oxygen  on silver, since intense 0'1' signals are associated most  often with oxygen on metals known to form maximal    valency oxides (e g., W03, Mo03, TiO^) [13,14,16]:    in these cases, desorption of0"'' can be initiated by an  interatomic Auger decay process [22]. However, 0'1"  ESD is seen also from metals (Ni [23,24], Fe [23], Ag,  present work) which do not form maximal valency  oxides. A necessary condition for desorption of0'*' is  simply that the electronic excitation in the repulsive  Ag 0"1" state must have a long enough lifetime (10~14   10~15 s) so that ionic desorption will occur. A detailed  discussion of ESD mechanisms is beyond the scope of  this paper, and the interested reader is referred to refs  [25,26]. It is sufficient to observe here that an ESD 0+  signal from Ag(l 10) is not surprising.    Now, we consider the bonding information attain-  able from ESD and ESDIAD measurements. In a study  of the adsorption of atomic oxygen on planar and  stepped tungsten surfaces [13], it became cleat that  oxygen adsorbed in high-symmetry, high-coordination  sites (i.e. bonded to ==3 substrate atoms) did not pro-  duce a measureable O4" ESD signal. However, oxygen  atoms adsorbed at step edges in sites of reduced coor-  dination (bonded to one or perhaps two substrate  atoms) were responsible for a high ESD O'1' yield. It  now appears on both experimental and theoretical  grounds that the ion neutralization rate due to electron  transfer from substrate to the electronically-excited ad-  sorbate is related to the adsorbate substrate coordina-  tion, and that the desorption of singly-coordinated (i.e.  singly-bonded) species generally is favored over multi-  ply-bonded ones. Feibelman [25] has discussed the  reasons for this, which are related to the timescales for  localization of the excitation. For the present case, we  suggest that the desorption of 0'1' from atomic oxygen  on Ag(l 10) is most likely to occur from a aite of re-  duced coordination in which an 0 atom is bonded to  a single surface Ag atom, or at most, to two Ag atoms.  For agreement with the ESDIAD results, it is necessary  that the Ag 0 bond have an azinnuthal component  along the [001] azimuth. This also means that the 0  cannot be in a high-symmetry site such as directly atop  a substrate atom, or in a two-fold bridge, Rather, the  0 atom is in a non-high-symmetry position off to the  sied of the atom rows, e.g., displaced from the high-  symmetry "long bridge" configuration in the [001]  direction. A site like the asymmetric pseudo bridge  bonding site for 0/Ni(001) proposed by Demuth et al.  [27] is another possible example. The recent angle  resolved UPS measurements ofPnnce et al. [28] using    60    Volume 113, number 1 CHEMICAL PHYSICS LETTERS 4JanuaJy 1985    polarized light further indicates that the 0 atoms a7e  located in mirror planes oriented along the [001] direc-  tion.    In the above discussion, a tacit assumption has been  that the Ag(l 10) surface is not reconstructed dunng  oxygen adsorption In fact, the binding energy of atom-  ic oxygen is 3.3 eV/atom [1] and the heat of sublima-  tion ofAg is 3.4 eV/atom; because these energies are  comparable, it is likely that the surface Ag atoms can  be displaced from their "bulk" positions during oxygen  adsorption. Zanazzi et al [10] have also suggested that  the poor fit of LEED theory to their structural models  was probably due to motion of substrate atoms as a  consequence of the adsorption of oxygen. If such re-  construction does occur, the ESDIAD data impose the  previously stated condition on possible models- the  Ag 0 bond must have an azimuthal component along  the [001] direction. Evidence that reconstruction may  occur dunng 0 atom adsorption is given in figs. 2 and  3, where motion of the 0^ beams occurs as a function  of temperature during dissociation of molecular 0^-  The "collapse" and subsequent separation of the two  beams is consistent with substrate and/or adsorbate  motion    At high temperatures (S 600 K) there may be dif-  fusion ofO into the bulk, as suggested also in ref. [10].  At these temperatures, there may also be a minority  state contribution to the O"1' ESD signal: there is a  measureable O* yield even when AES indicates little  0 remaining on the surface [17] .    Finally, we address the relation between the mea-  sured ESDIAD polar angle 6 and the angle between  the adsorbed 0 atom and the Ag substrate. It is known  that ion trajectories can be distorted strongly by the  interaction between ion and surface image force, so  that the measured polar angle is usually different from  the initial polar angle [11,29,30]; the azimuthal angles  are expected to suffer little or no distortion- Miskovic  et al. [30] have derived analytical expressions for the  trajectories of ESD ions desorbing from a perfectly  smooth conducting surface. It is somewhat difficult to  apply these expressions in the case of oxygen on  Ag(l 10) because of the uncertainty in locating the  image plane on this atomically rough surface, and the  uncertainty in locating the 0 atom with respect to the  image plane. In general, however, the calculations dem-  onstrate that perturbations of the ion trajectories are  minimal for polar angles close to the surface normal,    so that the measured (Y^ angles (12 , 20 ) are probably  not significantly different from the Ag 0 surface an-  gles. Under the influence of the image force alone,  the ion trajectories are bent away from the normal, to  larger polar angles; the final measurement will be in-  fluenced by ion neutralization effects also.    In summary, we have found that the structures of  both molecular and atomic oxygen on Ag(l 10), as de-  tected using ESDIAD, are characterized by adsorption  in non-high-symmetry sites with Ag 0 bond compo-  nents along [001] azimuths. To help determine wheth-  er or not the ESDIAD, L ED, EXAFS and NEXAFS  methods are all measuring the same species, i e. to see  if there are different states of oxygen to which each is  sensitive, we suggest that the LEED [10] and SEXAFS  [7] data be tested with new structural models ofoxy-  gen/Ag(l 10) bonding consistent with the present mea-  surements.    Acknowledgement    Valuable discussions with E.W. Plummcr, K.C.  Prince, A. Puschmann, I Haase. A. Bradshaw, BJ-  Garrison, M. Wax and N. Shinn are gratefully acknowl-  edged. Tilis work was supported in part by the  Deutsche Forschungsgemeinschaft through Sonder-  forschungsbereich 6, and in part by the Division of  Basic Energy Sciences of the U-S Department of En-  ergy-      References    [1] J--H. Lm and BJ- Garrison, J. Chcm. Phys. 80 (1984)    2904, and references therein.  [2] B-A. Sexton and RJ- Madix, CT""n- Phys. Letters 76    (1980)294.  [3] C. Backx, C P.M de Grool and F Biloen, 5urfacc 5ci.    104(1981)300.    [4] M.A. Barteau and RJ. Madix, Surface Sci. 97 (1980) 101.  [5] C.T-Au,S Sineh-Boparai and M-W-Roberts, J-Chem.    Soc. Faraday Trans. I 79 (1983) 1779.  [6] K.C. Prince and A.M. Bradshaw, Surface Sci. 126 (1983)    49.  [7] A. Puschmann, I. Haase and A. Bradshaw, Surface Sci.,    to be published; in preparation.  [8] H -A-Engelhardt and D. Mcnzel. Surface Sci 57 (1976)    591;    H-A- EnBelhardt, A.M. Bradshaw and D. Menzcl, Surface    Sci. 40 (1973) 410.    61    Volume 113, number 1 CHEMICAL PHYSICS LETTERS 4 Jnnuary 1985    [9] W. Heiland, F. Iberi and E. Taglauer. Surface Sci. 53         117]  {1975)383;    W- Heilaad, Appl. Surface Sci. 13 (1982) 282.              |1B)    [10] E. Zaiuuad, M. Magliettfl, U. Bardi. F. Jona and P.M-         fl9]  Marcus, J. Vacuum Sci. Tcchnol. Al (1983) 7;    E. Zannrzi. M. Maelietta. U- Bardi, F. Jona. D.W- Jepsen      |20]  and P.M. Marcus, in: Proceedings of the 7th International     [21 ]  Vacuum Congress and 3rd International Conference on       [22]  Solid Surfaces, ed. R. Dobrozemslcy (Vienna, 1977) p.  2447.                                                   [23]    [11] I-E. Madey, r-P-Nctzer, J.E. Houston, 'DM. Hanson and      [24]  R. Stockbauer, in: Springer series in chemical physics,  Vol. 24, eds. N. ToDc, M. Traum, J. Tully and T.E. Madey     (25 ]  (Springe*. Berlin, 1983) p. 120;    T-E. Madey and J.T. Yales Jr., Surface Sci. 63 (1977)  203.                                                   [26]    [12] K. Bange. TJE. Maney and JJC. Sass, Surface Sci., to he  published.    [13] T.E. Madey, Surface Sci. 94 (1980) 483.                   [27]    [14] T. Engel. H. Niehus and E. Bauer. Surface Sd. 52 (1975)    237.                                               [28]    (15] F. Neizer and T.E. Madey, J Chem. Phys. 76 (1982) 710.    [16] DAt. Hanson, R. Stockbauer and T-E Madey, Phys. Rev.     [29]  B24 (1981)5513.                                     [30]    L. Sumev, G. Bliznakov and M. Kiskinova, Surface Sci.    140(1984) 249.    L. Vnska. Accounts Chem. Res. 9 (1976) 175.    R.D. Jones, D-A. Sumnaerville and F. Basolo, Chem. Rev.    79 (1979)139.    R. Boca.Coord-Chem. Rev. 50 (19B3) 1.    R-A. DiDio.D. Zehncr and E.W- Plummer, to be published.    M-I  Knotek and PJ- Feibelman, Phys Rev. letters 40    (1979) 964; Surface Sd. 90 (1979) 78.    H-Niehus and W.Loseh, Surface Sci. Ill (1981)344.    H.C. Gerritscn, M-P- Biiiijn, J. Verhoeven and M-J. van    der Wiel, Surface Sci. 139 (1984) 16.    P-I. Feibelman, R. Gomer and D. Raniaker, in: Springer    series in chemical phyrics. Vol. 24, eds. N. Tolk, M.    Traum. J. TuUy and T- Madey (Springer, Berlin, 1983).    D.E. Ramakcr, C-T. White and J.S- Muraay, J. Vacuum    Sci.Technol. 18 (1981) 748; Phys. Letters 89A (1982)    211-    J.E. Etemuth, NJ. DiNa-cdo and C.S. CargiU III, Phys. Rev.    Letters 50 (1983) 1373.    K.C- Prince, G. Paolucei and AM. Biadshaw, Surface Sci..    to be published.    W.L. Clinton, Surface Sci-112 (1981) L791.    Z. Miskovic, J- Vulcanic and T-E- Madey, Surface Sci. 142    (1984)285-    62    nents along [001] azimuths. To help determine wheth-  er or not the ESDIAD, L ED, EXAFS and NEXAFS  methods are all measuring the same species, i e. to see  if there are different states of oxygen to which each is  sensitive, we suggest that the LEED [10] and SEXAFS  [7] data be tested with new structural models ofoxy-  gen/Ag(l 10) bonding consistent with the present mea-  surements.    Acknowledgement    Valuable discussions with E.W. Plummcr, K.C.  Prince, A. Puschmann, I Haase. A. Bradshaw, BJ-  Garrison, M. Wax and N. Shinn are gratefully acknowl-  edged. Tilis work was supported in part by the  Deutsche Forschungsgemeinschaft through Sonder-  forschungsbereich 6, and in part by the Division of  Basic Energy Sciences of the U-S Department of En-  ergy-      References    [1] J--H. Lm and BJ- Garrison, J. Chcm. Phys. 80 (1984)    2904, and references therein.  [2] B-A. Sexton and RJ- Madix, CT""n- Phys. Letters 76    (1980)294.  [3] C. Backx, C P.M de Grool and F Biloen, 5urfacc 5ci.    104(1981)300.    [4] M.A. Barteau and RJ. Madix, Surface Sci. 97 (1980) 101.  [5] C.T-Au,S Sineh-Boparai and M-W-Roberts, J-Chem.    Soc. Faraday Trans. I 79 (1983) 1779.  [6] K.C. Prince and A.M. Bradshaw, Surface Sci. 126 (1983)    49.  [7] A. Puschmann, I. Haase and A. Bradshaw, Surface Sci.,    to be published; in preparation.  [8] H -A-Engelhardt and D. Mcnzel. Surface Sci 57 (1976)    591;    H-A- EnBelhardt, A.M. Bradshaw and D. Menzcl, Surface    Sci. 40 (1973) 410.    61    Volume 113, number 1 CHEMICAL PHYSICS LETTERS 4 Jnnuary 1985    [9] W. Heiland, F. Iberi and E. Taglauer. Surface Sci. 53         117]  {1975)383;    W- Heilaad, Appl. Surface Sci. 13 (1982) 282.              |1B)    [10] E. Zaiuuad, M. Magliettfl, U. Bardi. F. Jona and P.M-         fl9]  Marcus, J. Vacuum Sci. Tcchnol. Al (1983) 7;    E. Zannrzi. M. Maelietta. U- Bardi, F. Jona. D.W- Jepsen      |20]  and P.M. Marcus, in: Proceedings of the 7th International     [21 ]  Vacuum Congress and 3rd International Conference on       [22]  Solid Surfaces, ed. R. Dobrozemslcy (Vienna, 1977) p.  2447.                                                   [23]    [11] I-E. Madey, r-P-Nctzer, J.E. Houston, 'DM. Hanson and      [24]  R. Stockbauer, in: Springer series in chemical physics</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>85850107</aid>
+            <ce:pii>0009-2614(85)85010-7</ce:pii>
+            <ce:doi>10.1016/0009-2614(85)85010-7</ce:doi>
+            <ce:copyright type="unknown" year="1985"/>
+         </item-info>
+         <head>
+            <ce:title>The adsorption of oxygen on Ag(110): a new view of structure and bonding</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Bange</ce:surname>
+                  <ce:cross-ref refid="FN2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>T.E.</ce:given-name>
+                  <ce:surname>Madey</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.K.</ce:given-name>
+                  <ce:surname>Sass</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Surface Science Division, National Bureau of Standards, Goithersburg, Maryland 20899, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="FN2">
+                  <ce:label>2</ce:label>
+                  <ce:note-para>Present address: Siemens AG, WRS ESR B, Postfach 120, D-1000 Berlin 33, Federal Republic of Germany.</ce:note-para>
+               </ce:footnote>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>NBS Visiting Scientists. Permanent address: Fritz-Haber-Institut der Max-Planck-Gesellschaft, Faradayweg 4–6, D-1000 Berlin 33/Dahlem, Federal Republic of Germany.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="17" month="9" year="1984"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">We have used ESDIAD (electron stimulated desorption ion angular distributions) to characterize the structure and bonding of O<ce:inf loc="post">2</ce:inf> on Ag(110). The data indicate that both atomic oxygen (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf> &gt; 300 K) and molecular oxygen (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf> ⋍ 80 K) are bonded in configurations which cause ion desorption in directions along [001] azimuths. Possible structures are discussed which are at variance with existing models of the oxygen-Ag(110) system.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Garrison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2904</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Sexton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>294</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Backx</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.M.</ce:given-name>
+                                 <ce:surname>de Groot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Biloen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Barteau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Madix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Au</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Singh-Boparai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1779</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Faraday Trans. I</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Prince</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bradshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Puschmann, I. Haase and A. Bradshaw, Surface Sci., to be published; in preparation</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Engelhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Menzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>591</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Engelhardt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bradshaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Menzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>410</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Heiland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Iberl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Taglauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>383</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Heiland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>282</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Zanazzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maglietta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Bardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Jona</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Marcus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vacuum Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Zanazzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maglietta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Bardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Jona</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Jepsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Marcus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Dobrozemsky</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Proceedings of the 7th International Vacuum Congress and 3rd International Conference on Solid Surfaces</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>2447</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Vienna</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Netzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Houston</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Hanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Stockbauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Tolk</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Traum</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Tully</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.E.</ce:given-name>
+                                    <ce:surname>Madey</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Springer series in chemical physics</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>24</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>120</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Bange, T.E. Madey and J.K. Sass, Surface Sci., to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>483</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Engel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Niehus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>237</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Netzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>710</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Hanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Stockbauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>B24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5513</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Surnev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bliznakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kiskinova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Vaska</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Accounts Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>175</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Summerville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Basolo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>139</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boca</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Coord. Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.A. DiDio, D. Zehner and E.W. Plummer, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Knotek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Feibelman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>964</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Knotek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Feibelman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Niehus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Losch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>344</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Gerritsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Bruijn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Verhoeven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>van der Wiel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Feibelman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gomer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ramaker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Tolk</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Traum</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Tully</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Madey</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Springer series in chemical physics</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>24</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Ramaker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Murday</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vacuum Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>748</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Ramaker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Murday</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>211</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Demuth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>DiNardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Cargill</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1373</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K.C. Prince, G. Paolucci and A.M. Bradshaw, Surface Sci., to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Clinton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L791</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Miskovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vukanic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Madey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>142</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>285</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

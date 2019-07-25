@@ -1,0 +1,722 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261486803049</prism:url><dc:identifier>doi:10.1016/0009-2614(86)80304-9</dc:identifier><eid>1-s2.0-0009261486803049</eid><prism:doi>10.1016/0009-2614(86)80304-9</prism:doi><pii>0009-2614(86)80304-9</pii><dc:title>Interaction of charged surfaces in electrolyte solutions </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>127</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>402</prism:startingPage><prism:endingPage>407</prism:endingPage><prism:pageRange>402-407</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1986-06-20</prism:coverDate><prism:coverDisplayDate>20 June 1986</prism:coverDisplayDate><prism:copyright>Copyright © 1986 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Kjellander, Roland</dc:creator><dc:creator>Marčelja, Stjepan</dc:creator><dc:description>
+               Abstract
+               
+                  We report a restricted primitive model calculation of the double-layer interaction between two uniformly charged surfaces immersed in an electrolyte solution, where the anisotropic hypernetted chain approximation is utilized for the pair correlations. The strong, attractive pressure contribution resulting from ion-ion correlations is very similar to that found earlier for double layers with only counterions present. Consequently, the Poisson-Boltzmann equation, which neglects ion-ion correlations, significantly overestimates the double-layer repulsion in most situations. Some ion concentration profiles are presented, and for large separations between the surfaces the profiles close to each surface agree with grand canonical simulation results for a single wall.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261486803049" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261486803049" rel="scidir"/></coredata><scopus-id>0001633072</scopus-id><scopus-eid>2-s2.0-0001633072</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0001633072" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011105">2001-11-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011105">2001-11-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-24T10:53:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261486803049</xocs:eid>
+      <xocs:pii-formatted>0009-2614(86)80304-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261486803049</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(86)80304-9</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X08317</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150925">2015-09-25T23:04:08.326478-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19860620</xocs:date-search-begin>
+      <xocs:year-nav>1986</xocs:year-nav>
+      <xocs:indexeddate epoch="1004918400">2001-11-05T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>127</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>127</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 127, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>402</xocs:first-fp>
+      <xocs:last-lp>407</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>402</xocs:first-page>
+         <xocs:last-page>407</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19860620</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>20 June 1986</xocs:cover-date-text>
+      <xocs:cover-date-start>1986-06-20</xocs:cover-date-start>
+      <xocs:cover-date-year>1986</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1986 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INTERACTIONCHARGEDSURFACESINELECTROLYTESOLUTIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KJELLANDER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>GULDBRAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2221</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124E</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3"/>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ROSSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3372</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KJELLANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2122</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>RASAIAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>248</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>VALLEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5942</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>RASAIAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2742</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2153</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>TORRIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5807</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>CARNIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>141</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>NIELABA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>46</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>CACCAMO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>JONSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KJELLANDERX1986X402</xocs:refkey3>
+         <xocs:refkey4lp>KJELLANDERX1986X402X407</xocs:refkey4lp>
+         <xocs:refkey4ai>KJELLANDERX1986X402XR</xocs:refkey4ai>
+         <xocs:refkey5>KJELLANDERX1986X402X407XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(86)80304-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261486803049</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261486803049</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(86)80304-9</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-25T23:04:08.326478-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1986-06-20</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261486803049-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261486803049/MAIN/application/pdf/d8852b72afe9d0a0578f7ee238d3a551/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261486803049/MAIN/application/pdf/d8852b72afe9d0a0578f7ee238d3a551/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>452431</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261486803049-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261486803049/PREVIEW/image/png/b6dec279660097ebc7d5d2f93f32bebc/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261486803049/PREVIEW/image/png/b6dec279660097ebc7d5d2f93f32bebc/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68592</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 127, number 4 CHEMICAL PHYSICS LETTERS 20 June 1986    INTERACTION OF CHARGED SURFACES IN ELECTROLYTE SOLUTIONS    Roland KJELLANDER and Stjepan MARCELJA    Department of Applied Mathematics, Research School a/Physical Sciences, Australian National University,  Canberra, ACT 2 601. Australia    Received 11 February 1986; in final form 2 April 1986    We report a restricted primitive model calculation of the double-layer interaction between two uniformly charged surfaces  immersed in an electrolyte solution, where the anisotropic hypernetted chain approximation is utilized for the pair correlations.  The strong, attractive pressure contribution resulting from ion-ion correlations is very similar to that found earlier for double  layers with only counterions present. Consequently, the Poisson-Boltzmann equation, which neglects ion-ion correlations,  significantly overestimates the double-layer repulsion in most situations. Some ion concentration profiles are presented, and for  large separations between the surfaces the profiles close to each surface agree with grand canonical simulation results for a  single wall.    1. Introduction    The commonly accepted description of electric  double layers is still the classical picture based on the  non-linear Poisson Boltzmann (PB) equation. The  equation is derived for a model where the solvent is  a dielectric continuum and the ions are point charges,  and it entirely neglects the ion-ion correlations. How-  ever, it has recently been shown via Monte Carlo sim-  ulations [1] and the anisotropic hypernetted chain  (HNC) approximation [2] that, for the same model,  the solutions of the PB equation are quantitatively,  and sometimes even qualitatively, incorrect in describ-  ing the interaction between charged surfaces. The ion-  ion correlations give rise to a large, attractive pressure  contribution of electrostatic origin, which, for some  conditions, may even dominate in the total pressure.    The work in refs. [1,2] has been restricted to mod-  el systems where point-charge counterions are the on-  ly ionic species present in the solvent. Since the ions  repel each other electrostatically, the point-charge de-  scription is quite accurate provided the real ionic radi-  us is not too large. For fairly large ions, a repulsive  pressure contribution due to the core core interac-  tions becomes important [3]. This contribution com-  pensates to some extent the attractive, electrostatic  pressure term. For large ion radii it eventually dom-    402    inates over the attractive term.    In the presence of an electrolyte, it is essential to  have a finite ionic size. The ionic core repulsion pre-  vents the positive and negative ions from collapsing on  each other. We have chosen to describe the core po-  tential as a hard-sphere interaction, and our system  corresponds to a restricted primitive model electrolyte  between uniformly charged surfaces. (For bulk solu-  tions, hard-core interactions and short-range, soft-core  interactions have been shown to lead to very similar  results [4].)    The results reported below are, to our knowledge,  the first calculations of the interaction between charged  surfaces in a primitive model electrolyte solution,  where the level of approximation is sufficiently high  to describe accurately the inhomogeneous phase be-  tween the surfaces. We find that most of the impor-  tant features observed in the counterion-only systems  are retained in the presence of the electrolyte, and  that the interaction calculated via the PB equation in  general does not agree with the accurate solutions for  the same model system.    2. Method    Our calculation is based on a strict equivalence of    0 009-2614/86/S 03 JO   Elsevier Science Publishers B.V.  (Norht-Holland Physics Publishing Division)    Volume 127, number 4 CHEMICAL PHYSICS LETTERS 20 June 1986    an inhomogeneous fluid between two planar walls with  a multispecies two-dimensional homogeneous fluid [5].  In case of ionic fluids, we use the anisotropic HNC ap-  proximation to close the integral equations for the pair-  correlation functions. The HNC approximation is very  accurate in treating pair correlations due to Coulomb  interactions. It is less accurate for the hard-core inter-  actions, but results for bulk electrolyte solutions [6]  show that the accuracy is nevertheless still very good  at densities typical of electric double layers.    Note that the anisotropic HNC approximation is  formulated on the two-particle distribution level. It  is a more sophisticated theory than the various dou-  ble-layer theories that utilize bulk ion ion correlation  functions (usually the direct correlation function) to  calculate the one-particle distributions in the inhomo-  geneous phase. In our approach we explicitly calculate  both the anisotropic ion ion correlation functions  (in presence of the walls) and the concentration pro-  files [5].    In order to equilibrate the inhomogeneous ionic  fluid between the surfaces with a bulk electrolyte and  to evaluate the net pressure between the surfaces, we  need bulk values of the chemical potential and the  osmotic coefficient. The values for typical primitive  model electrolytes in the NHC approximation are avail-  able in the literature [7]. Once the bulk chemical po-  tential is set, our method very easily adjusts the ion  concentrations between the surfaces until the chem-  ical potential at each position is equal to that of the  bulk [5].    The ionic number density between the surfaces  equals    exp(flu,)    (1)    v'v    where the coordinate z is counted perpendicularly to  the surfaces and where JU^, is the chemical potential for  species v (index v here assumes the values + or  ), (3  = \lkyT, k^ is Boltzmann's constant, 7'the tempera-  ture, \ the thermal wavelength and 'Yy(z) the activity  coefficient at location z. A very great advantage with  the HNC approximation is that the local activity coef-  ficient can be explicitly evaluated from the correlation  functions without performing any numerical coupling  constant integration [5,8]. Therefore, eq. (1) can easily  be used to obtain a self-consistent density profile once  p.y is known [5]. In the present case, the bulk chemi-  cal potential ^bulk is given, and we accordingly know  ^G"+ + ^-) = jU^'"11' (a symmetric electrolyte is as-  sumed). This gives JU+ = IJI^ + ^ and ii_ = JU^"11' -  ^ with an undetermined constant 4/, and we obtain    expO^"^)    expO^^)  p.(z)=expW)  .-   ^v  ,-   . (2)    where X = expO?^) is as yet unknown and A = A+ =  A_.    The electroneutrality condition for the system be-  tween the surfaces gives the following simple, quadratic  ic equation for X:    -6    (3)    where q^. and q_ are the ionic charges, a is the surface  charge and 25 is the surface separation. (For an asym-  metric electrolyte, we would obtain a similar, higher-  order equation.) Eqs. (2) and (3) together with the  HNC equations for the anisotropic pair correlation  functions form a complete set of equations that can  be solved self-consistently [5].    A technical point, worth mentioning, is that the  long-range tails of the various kinds of pair-correlation  functions in the real space and in Fourier space, as in-  duced by the Coulomb and the hard-core interactions,  are subtracted and then treated analytically in our  computer implementation of the scheme. This is im-  portant in order to achieve a sufficient numerical ac-  curacy.    The results in this paper were obtained on a VAX  11/750. Up to 122 discrete layers between the surfaces  and 100 to 150 mesh points in the lateral direction  were used.    3. Results and discussion    We have tested the performance of the anisotropic  HNC scheme and the accuracy of our computer pro-  gram by comparing our results for two surfaces at a  fairly large separation with the grand canonical Monte  Carlo data for a single surface as calculated by Torrie  and Valleau [9]. Fig. 1A shows the ion density pro-  files when the bulk phase is a 1.0 M 1:1 electrolyte    403    Volume 127, number 4 CHEMICAL PHYSICS LETTERS 20 June 1986          -20       -15        -10       -5         0    DISTANCE (A)    Fig. 1. (A) Comparison between ion density profiles as obtained by the grand canonical Monte Carlo technique (  counterions, *  colons; taken from ref. [9]) and by the anisotropic HNC approximation (full curves). The MC results are for a single charged wall  (or = 0.620 C/m2) immersed in a 1.0 M 1:1 electrolyte solution, while the HNC results are for two such walls at fairly large separa-  tion (40 A), where the intervening solution is in equilibrium with a bulk solution of the same composition as in the MC calculations.  The ionic diameters are 4.25 A. Only the left halves of the profiles are shown in the two-wall case; the coordinate 0 then shows  the midpoint between the walls. For one wall, the electrolyte solution continues to the right and turns into a bulk phase. (The dis-  tance scale is chosen to suit two walls.) The point of closest approach by the ions to the left surface is located at the coordinate  -20 A in both cases. (B) The results given by the anisotropic HNC approximation for the same two-wall system as in (A), but for  a separation of 15 A. The upper curve shows the counterion profile while the lower shows the coion profile. For all cases in this  figure the temperature is 298 K and the dielectric constant of the solvent is 78.5. The bulk chemical potential is taken from the  MC calculations.    solution and the surface charge is 0.620 C/m2. Al-  though such high surface charges are seldom encoun-  tered in practice, we have chosen that example because  its theoretical description is difficult. Our method has  successfully reproduced the second density peak at  about 4 A from the surface. The peak is a consequence  of the crowding of the ions close to the surface and it  indicates an ion layering (cf. refs. [9,10]). Fig. 1B  shows the profile for the two-surface case at a smaller          Fig. 2. The counterion (A) and the coion (B) density profiles  for the system between two charged surfaces (o = 0.224  C/m2) in equilibrium with a 0.5 M 1:1 electrolyte solution.  The full curves show the HNC results, while the dotted curves  show the predictions from the non-linear Poisson-Boltzmann  theory. The surface separation is 15 A, and the ionic radii are  2.3 A. The temperature is chosen 298.15 K and the dielectric  constant of the solvent is 78.358. Note that the ordinate  scales of the two figures are very different.    DISTANCE (Al    404    Volume 127, number 4 CHEMICAL PHYSICS LETTERS 20 June 1986    separation, where the two double layers overlap sub-  stantially. The structure of the profile is then increased.    The density profiles at a lower surface charge den-  sity and lower electrolyte concentration are shown in  fig. 2. The counterion profile is very similar to the cor-  responding PB profile, but one can seen that the ion-  ion correlations make the counterions come closer to  each surface. This is similar to the situation for the  case with only counterions present [11]. On the other  hand, the coion profile deviates considerably from the  corresponding PB profile, as shown in fig. 2B. These  ions tend strongly to avoid the surfaces.    Perhaps the most interesting of our new results are  those for the interaction between two charged surfaces  immersed in an electrolyte solution. The surface sur-  face interaction (the perpendicular component of the  pressure tensor) is calculated as a sum of distinct phys-  ical contributions:    "^kin "^el "''^core "^bulk '    tot  where    Pkin=kQT^P^O),    v    s          o  P,l=-^fdzp,(z) fdz'p,,(z)    v'" 0            -6    9u^(r,z,z)    ^ dr   9z   hvv (' 'z'z")'    6                   0    P^, = k^T S 27r / dz p,(z) f dz' p,,(z')    v.v'                   -    X(^-z')^,([/)2-(z-2')2]l/2,z,^'),    ^bulk -W'1111' S P^ .  v    u^0"1 is the normal Coulomb interaction, hyy, =gw'    1 ,g^. is the pair distribution function, r = (x,y),  D is the hard-core ion diameter and 0bulk is the bulk  osmotic coefficient (taken from ref. [7]). The integrals  in PgQ^g are only to be taken for the values ofz and z  where the argument of the square root is positive.    An example for a 0.5 M 1:1 electrolyte and a sur-  face charge of 0.224 C/m2 is shown in fig. 3, where it  is compared with results for the similar system with  only counterions between the surfaces. The correspond-  ing PB pressures are also shown. With our current    (4)          20       30  SEPARARATION (A)    Fig. 3. The net pressure between two charged walls (o = 0.224  C/m2) immersed in a 0.5 M 1:1 electrolyte solution as a func-  tion of surface separation (lower curves). As a comparison,  the pressure between the walls when only counterions are  present is also shown (upper curves). The full curves show the  HNC results, and the dotted curves show the PB predictions  (log scale). The surface separation is defined as the distance  between the points of closest approach of the ions to the sur-  faces. (The remaining parameter values are given in the cap-  tion of fig. 2.) For surface separations below about 2.7 A the  HNC pressure (cf. fig. 4) becomes smaller than the PB result.    numerical accuracy, in this example we could only  compute the HNC pressure for relatively small surface  separations in presence of electrolyte. In the asymp-  totic regime at larger separations, the different terms  in eq. (4) (each of which is relatively large) will almost  completely cancel each other. However, when the elec-  trolyte concentration is decreased, the pressure can  be accurately calculated for larger surface separations  because it does not decay as rapidly.    The computed results show that at small surface-  surface separations the interactions obtained when  counterions are the only species in the solution do  not become substantially changed by the addition of  the electrolyte. This is not unexpected, because under  such conditions the total number of colons in the dou-  ble layer is small. The decrease in the net force when    405    Volume 127, number 4 CHEMICAL PHYSICS LETTERS 20 June 1986          1    2   3   4   5.   6  SEPARATION (A)    5        10    . 15  SEPARATION (A)    Fig. 4. The different physical components (defined in eq. (4)) of the net pressure as calculated by the HNC method for the same  case as shown in figs. 2 and 3. The regions of small or larger surface separations are shown in (A) and (B) respectively. The bulk  pressure to be subtracted is ^bulk/^ T=\ .026 M.    the electrolyte concentration is raised, is mainly due    to the increase inP^ulk-    It is particularly interesting that the addition of  the electrolyte has a relatively small effect on the elec-  trostatic attraction term. For example, at the surface  separation of 15 A,?ei increases (in absolute value)  by about 5% upon addition of electrolyte, while at  the same time the total repulsive pressure is decreased  by a factor of four. The contributions to Pgi from the  coion counterion interactions are to some extent  compensated by the coion coion and counterion   counterion interactions. On the other hand, the added  electrolyte changes P^g substantially, mainly through  the coion counterion interactions (no compensation  is possible because all contributions are positive). At  the surface separation 15 A, the increase inPg^g is  70%. The corresponding numbers at the separation 20  A are 40% forPgi and more than a factor of 4 forPg^g.    The different contributions to the pressure between  the surfaces for the example discussed above are shown  in fig. 4. It is remarkable that in the regime where elec-  trostatic and core contributions are as large as the ki-  netic term, the PB result, which only considers a ki-  netic pressure, is reasonably good. However, in the  case of a divalent electrolyte, our preliminary results  indicate that the electrostatic attraction becomes  dominant, and just as in the case where only counter-  ions are present [1 3] the double-layer repulsion  turns into an attraction.    Acknowledgement    As in our previous numerical work we have been  kindly supported by David Sandilands and David  Smith from the Computer Unit at the Research  School of Biological Sciences, ANU. We also thank  Phil Attard for programming the PB equation routines.    References    [1 ] L. Guldbrand, B. Jonsson, H. Wennerstrom and P. Linse,    J. Chem. Phys. 80 (1984) 2221.  [2] R. Kjellander and S. Marcelja, Chem. Phys. Letters 112    (1984)49; 114 (1985) 124E.  [3] R. Kjellander and S. Marcelja, J. Phys. Chem., to be    published.    406    Volume 127, number 4                 CHEMICAL PHYSICS LETTERS                        20 June 1986    [4] P.J. Rossky, J.B. Dudowicz, B.L. Tembe and H.L.            [9] G.M. Tome and J.P. Valleau, J. Chem. Phys. 73 (1980)    Friedman, J. Chem. Phys. 73 (1980) 3372.                    5807;    [5] R. KjeUander and S. Marffelja, J. Chem. Phys. 82 (1985)          S.L. Carnie and G.M. Tome, Advan. Chem. Phys. 56    2122.                                                      (1984) 141.  [6] J.C. Rasaiah, D.N. Card and J.P. Valleau, J. Chem.           [10] P. Nielaba and F. Forstman, Chem. Phys. Letters 117    Phys. 56 (1972) 248;                                       (1985) 46;    J.P. Valleau, L.K. Cohen and D.N. Card, J. Chem. Phys.          C. Caccamo, G. Pizzimenti and L. Blum, Phys. Chem.    72 (1980) 5942.                                            Liquids 14 (1985) 311.  [7 ] J.C. Rasaiah and H.L. Friedman, J. Chem. Phys. 48          (11 ] B. Jonsson, H. Wennerstrom and B. Halle, J. Phys.    (1968) 2742.                                                Chem. 84 (1980) 2179.  [8] J.P. Hansen, G.M. Torrie and P. Viellefosse, Phys. Rev.    A16 (1977) 2153.    407  results show that at small surface-  surface separations the interactions obtained when  counterions are the only species in the solution do  not become substantially changed by the addition of  the electrolyte. This is not unexpected, because under  such conditions the total number of colons in the dou-  ble layer is small. The decrease in the net force when    405    Volume 127, number 4 CHEMICAL PHYSICS LETTERS 20 June 1986          1    2   3   4   5.   6  SEPARATION (A)    5        10    . 15  SEPARATION (A)    Fig. 4. The different physical components (defined in eq. (4)) of the net pressure as calculated by the HNC method for the same  case as shown in figs. 2 and 3. The regions of small or larger surface separations are shown in (A) and (B) respectively. The bulk  pressure to be subtracted is ^bulk/^ T=\ .026 M.    the electrolyte concentration is raised, is mainly due    to the increase inP^ulk-    It is particularly interesting that the addition of  the electrolyte has a relatively small effect on the elec-  trostatic attraction term. For example, at the surface  separation of 15 A,?ei increases (in absolute value)  by about 5% upon addition of electrolyte, while at  the same time the total repulsive pressure is decreased  by a factor of four. The contributions to Pgi from the  coion counterion interactions are to some extent  compensated by the coion coion and counterion   counterion interactions. On the other hand, the added  electrolyte changes P^g substantially, mainly through  the coion counterion interactions (no compensation  is possible because all contributions are positive). At  the surface separation 15 A, the increase inPg^g is  70%. The corresponding numbers at the separation 20  A are 40% forPgi and more than a factor of 4 forPg^g.    The different contributions to the pressure between  the surfaces for the example discussed above are shown  in fig. 4. It is remarkable that in the regime where elec-  trostatic and core contributions are as large as the ki-  netic term, the PB result, which only considers a ki-  netic pressure, is reasonably good. However, in the  case of a divalent electrolyte, our preliminary results  indicate that the electrostatic attraction becomes  dominant, and just as in the case where only counter-  ions are present [1 3] the double-layer repulsion  turns into an attraction.    Acknowledgement    As in our previous numerical work we have been  kindly supported by David Sandilands and David  Smith from the Computer Unit at the Research  School of Biological Sciences, </xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>86803049</aid>
+            <ce:pii>0009-2614(86)80304-9</ce:pii>
+            <ce:doi>10.1016/0009-2614(86)80304-9</ce:doi>
+            <ce:copyright type="unknown" year="1986"/>
+         </item-info>
+         <head>
+            <ce:title>Interaction of charged surfaces in electrolyte solutions</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Roland</ce:given-name>
+                  <ce:surname>Kjellander</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Stjepan</ce:given-name>
+                  <ce:surname>Marčelja</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Applied Mathematics, Research School of Physical Sciences, Australian National University, Canberra, ACT 2 601, Australia</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="11" month="2" year="1986"/>
+            <ce:date-revised day="2" month="4" year="1986"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">We report a restricted primitive model calculation of the double-layer interaction between two uniformly charged surfaces immersed in an electrolyte solution, where the anisotropic hypernetted chain approximation is utilized for the pair correlations. The strong, attractive pressure contribution resulting from ion-ion correlations is very similar to that found earlier for double layers with only counterions present. Consequently, the Poisson-Boltzmann equation, which neglects ion-ion correlations, significantly overestimates the double-layer repulsion in most situations. Some ion concentration profiles are presented, and for large separations between the surfaces the profiles close to each surface agree with grand canonical simulation results for a single wall.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Guldbrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Jönsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wennerström</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Linse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2221</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marčelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marčelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124E</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Kjellander and S. Marčelja, J. Phys. Chem., to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Rossky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Dudowicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Tembe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3372</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kjellander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marčelja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2122</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Rasaiah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Card</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>248</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Cohen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Card</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5942</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Rasaiah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2742</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Torrie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Viellefosse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2153</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Torrie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5807</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Carnie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Torrie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advan. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>141</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nielaba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Forstman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>46</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Caccamo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pizzimenti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Blum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Liquids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Jönsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wennerström</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Halle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

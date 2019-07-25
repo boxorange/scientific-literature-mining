@@ -1,0 +1,931 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261489871428</prism:url><dc:identifier>doi:10.1016/0009-2614(89)87142-8</dc:identifier><eid>1-s2.0-0009261489871428</eid><prism:doi>10.1016/0009-2614(89)87142-8</prism:doi><pii>0009-2614(89)87142-8</pii><dc:title>Kinetics of ethylidyne formation on Pt(111) From time-dependent infrared spectroscopy </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>154</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>511</prism:startingPage><prism:endingPage>515</prism:endingPage><prism:pageRange>511-515</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1989-02-10</prism:coverDate><prism:coverDisplayDate>10 February 1989</prism:coverDisplayDate><prism:copyright>Copyright © 1989 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Mohsin, Sheher B.</dc:creator><dc:creator>Trenary, Michael</dc:creator><dc:creator>Robota, Heinz J.</dc:creator><dc:description>
+               Abstract
+               
+                  We have measured the rate of formation of ethylidyne on Pt(111) by monitoring the intensity increase of the symmetric CH3 bend at 1339 cm−1 as a function of time between 230 and 250 K. We obtain a first-order rate constant with an activation energy of 14±1 kcal/mol for a 0.3 L ethylene exposure at 100 K.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261489871428" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261489871428" rel="scidir"/></coredata><scopus-id>0006941968</scopus-id><scopus-eid>2-s2.0-0006941968</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0006941968" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011107">2001-11-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011107">2001-11-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-25T08:06:19</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261489871428</xocs:eid>
+      <xocs:pii-formatted>0009-2614(89)87142-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261489871428</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(89)87142-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X10251</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150927">2015-09-27T08:34:09.407609-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19890210</xocs:date-search-begin>
+      <xocs:year-nav>1989</xocs:year-nav>
+      <xocs:indexeddate epoch="1005091200">2001-11-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>154</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>154</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 154, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>511</xocs:first-fp>
+      <xocs:last-lp>515</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>511</xocs:first-page>
+         <xocs:last-page>515</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19890210</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>10 February 1989</xocs:cover-date-text>
+      <xocs:cover-date-start>1989-02-10</xocs:cover-date-start>
+      <xocs:cover-date-year>1989</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1989 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>KINETICSETHYLIDYNEFORMATIONPT111TIMEDEPENDENTINFRAREDSPECTROSCOPY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MOHSIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>766</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CHABAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>211</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>CHENERY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BURROWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>303</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BURROWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BURROWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>110</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>HOFFMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>421</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SCHARPF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5531</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MOHSIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5229</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>MALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5554</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>STEININGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>685</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>OGLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>246</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>GLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>BRUBAKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6100</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>MALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3861</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>639</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16"/>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>WINDHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>TRONCONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>CHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>360</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MOHSINX1989X511</xocs:refkey3>
+         <xocs:refkey4lp>MOHSINX1989X511X515</xocs:refkey4lp>
+         <xocs:refkey4ai>MOHSINX1989X511XS</xocs:refkey4ai>
+         <xocs:refkey5>MOHSINX1989X511X515XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(89)87142-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261489871428</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261489871428</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(89)87142-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-27T08:34:09.407609-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1989-02-10</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261489871428-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489871428/MAIN/application/pdf/088759c8f753f4be45fb99a5aaf3ec6a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489871428/MAIN/application/pdf/088759c8f753f4be45fb99a5aaf3ec6a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>449315</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261489871428-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489871428/PREVIEW/image/png/bed63ed0b78f91d5e320ddac6ddcaf53/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489871428/PREVIEW/image/png/bed63ed0b78f91d5e320ddac6ddcaf53/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70964</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>CHEMICAL PHYSICS LETTERS  tO February 1989  Volume 154, number 6  KINETICS OF ETHYLIDYNE FORMATION ON Pt(lI1)  FROM TIME-DEPENDENT INFRARED SPECTROSCOPY    Sheher B, MOHSIN, Michael TRENARY  Department of Chemistry. University of Illinois at Chicago, Chicago, IL 60680. USA      and    Heinz J. ROBOTA  Allied-Signal Engineered Materials Research Center, 50 EastAlgonquin Road, Box 5016, Des Flames. IL 60017. USA      Received 19 September 1988; in final form 18 November 1988         We have measured the rate of formation of ethylidyne on Pt (lit) by monitoring she intensity increase of she symmetric Cit3  bend at 1339 em~  as a function of time between 230 and 250 K. We obtain a first-order rate constant with an activation energy  of 14   1 keal/mol for a 0.3 L ethylene exposure at 100 K.   The mechanism of chemical reactions at the gas   solid interface involve three basic steps: (1) adsorp-  tion of reactants from the gas phase; (2) molecular  transformations on the surface; (3) desorption of the  products. Most surface chemical kinetics studies have  focused on steps (1) and (3). Yet step (2), which  includes reactions between adsofbed species as well  as unimolecular reactions, is often the key step of the  overall surface chemical reaction. Studies of molec-  ular transformations on surfaces require a technique  which can readily distinguish between different spe-  cies while they are adsorbed and which can monitor  their coverages as a function of time. Techniques  which have been used for this purpose include sec-  ondary ion mass spectrometry (SIMS) and time-re-  solved electron energy loss spectroscopy (TREELS).  With SIMS, one monitors the ion fragments pro-  duced by bombarding the adsorbate-covered surface  with noble gas ions. From the identity of the ion  fragments one can infer the identity of adsorbed spe-  cies. The variation of SIMS intensity with time is  presumably due to the variation in surface concen-  tration with time, The disadvantages of this tech-  nique are that it is destructive and that the relation-  ship between the ion fragments observed and the  coverage of a particular surface species is often am-  biguous. Vibrational spectroseopy has the advantage  that it is nondestructive and that a given vibrational  band is very specific to a particular surface species.  The two most widely used techniques for surface vi-  brational spectroscopy are infrared reflection ab-  sorption spectroscopy (IRAS) and electron energy  loss spectroscopy (EELS). Time-resolved EELS has  been successfully used in a number of recent surface  studies [1]. More recently FT-IRAS has been shown  to yield spectra of the C 0 stretch fast enough to fol-  low changes in CO coverage as a function of time  [2 6]. In a dispersive JR study of the kinetics of  CH3COOH decomposition on Ni( 100), Scharpf and  Benziger [71 followed the IR peaks associated with  the symmetric and asymmetric O C O stretches as  a function of time. In this paper we demonstrate that  surface kinetic studies with Ff-IRAS are not limited  to the intense vibrational bands associated with car-  bon oxygen bonds, but can also be used to follow the  kinetics of a surface reaction involving only carbon  and hydrogen atoms. The technique should therefore  be applicable to a large variety of surface reactions  relevant to heterogeneous catalysis.   The adsorption of ethylene on metal surfaces has  been studied extensively [81. It is well known that  ethylene is molecularly adsorbed in a di-a-bonded  0 009-2614/89/S 03.50   Elsevier Science Publishers B,V  (North-Holland Physics Publishing Division)  511  Volume 154, nttmber6  CHEMICAL PHYSICS LETTERS  10 February 1989  configuration on Pt (ill) at temperatures below 200  K and that upon heating to ~ 280 K, it rearranges  with loss of a hydrogen atom, to a stable species which  has been characterized as ethylidyne (~ CCI-13). This  species is known to have a C5~ structure with the  C C axis perpendicular to the surface [9]. The vi-  brational spectrum for this species has been well  studied [9,10]. Ethylidyne is characterized by bands  at 1118, 1339 and 2884 cm  which are due to the  C C stretch, CH3 symmetric bend, and C H stretch  respectively. The band at 1339 cm~, which is due  to the symmetric CH3 bending mode, is the most in-  tense band in the spectrum. This band is much more  intense than any of the bands of di-a-bonded eth-  ylene. It is also spectrally isolated and thus provides  a convenient monitor of the surface concentration of  ethylidyne. The kinetics of this surface reaction has  been previously studied with SIMS and 1-12 TDP [11  and very recently with transient near edge X-ray ab-  sorption fine structure (T-NEXAFS) [12].   The apparatus consists of a stainless steel ultra-  high vacuum chamber with a base pressure of  8&gt;&lt; lO~ Torr (based on an ion gauge calibrated for  N2) coupled to a dedicated commercial VFJR spec-  trometer (Cygnus 25, Mattson Instruments). The p-  polarized IR beam enters and exits the UHV cham-  ber through differentially pumped viton 0-ring sealed  KBr windows. Other techniques included in our ap-  paratus are Auger electron spectroscopy (AES), low  energy electron diffraction (LEED) and mass spec-  trometry with a quadrupole analyzer. A more com-  plete description of the apparatus is contained in an  earlier publication [13].   The preparation of the Pt( 111) crystal has been  described earlier [9]. The crystal is a 1 mm thick, 14  mm diameter disk attached to a liquid nitrogen res-  ervoir by two 0.75 mm diameter tungsten Wires spot-  welded to the sides of the crystal. The crystal was  heated resistively by passing current through the  tungsten wires. The crystal temperature was mea-  sured with a chromel alumel thermocouple. A LEED  pattern characteristic of a clean, wefl ordered Pt( 111)  surface has been observed repeatedly. The crystal was  judged to be clean if no impurities were detected with  Auger spectroscopy. The most frequently observed  contaminant was carbon. The procedure for carbon  removal consisted of exposing the crystal at 700 K  to 2x l0-~ Ton of 02 from a gas doser for 1 h. The  crystal was briefly annealed to 1000 K before and  after each 02 treatment. The procedure for kinetic  studies was as follows: The clean crystal was exposed  to ethylene by backfilling the chamber while the  crystal temperature was held at 100 K. It was rapidly  heated to the temperature at which the rate of ethy-  lidyne formation was to be measured (230 250 K)  The total time taken to reach this temperature was  usually about 2 mm. The crystal was held at this tem-  perature while a series of lR spectra were recorded  as a function of time. The crystal temperature could  be held constant to within  0.2 K.   Fig. I shows the increase in intensity of the 1339  cm1 band as a function of time at several temper-  atures following a 3 L exposure. The spectra were ob-  tained with 2 cm  resolution and represent an av-  erage of 256 scans (74 s scanning time). Although  a resolution lower than 2 cm~ could have been used  for these studies, the small intrinsic full width of 1.8  cm  for this band at these temperatures [9] leads  to a greater peak height at higher resolutions. Ethyl-  idyne formation rates at several temperatures were  obtained by monitoring the intensity, in absorbance  units, of this peak with time (fig. 2). We assume that  the intensity is proportional to ethylidyne coverage.  If we denote the absorbance of the ethylidyne peak  at time t by A (I) and its value when the reaction is  complete by A(oo), then A(co) A(t) is propor-  tional to the ethylene coverage since each ethylene  molecule is converted to an ethylidyne molecule. This              J4fl~A J\~                    1320 t340 1361) 1320 1340 1304 1320 *340 1360    Wavenumber (un~)    Fig. 1. The symmetric CH3 bend at 1339 em  as a function of  time after first exposing the crystal to 3 L of ethylene at 100 K  then rapidly heating the crystal to the indicated temperatures.  Temp (K) 233  2  U  41  Cl) ~  512  volume 154, number 6  CHEMICAL PHYSICS LETTERS  10 February 1989  assumes that there is no desorption of excess ethyl-  ene, which is not the case at higher coverages as dis-  cussed below. One method of obtaining values for k  and A (on) was through a nonlinear least-squares fit  ofthe experimentalA(t) to A(co)[l exp( kt)].  The value of k obtained was in good agreement with  that obtained from the slopes in fig. 2, which shows  plots of ln[l  A(t)/A(oo)] as a function of time.  The value of A(cc) was in good agreement with the  value of A (cc) determined from spectra obtained  after warming the crystal to room temperature. The  linearity of the plots in fig. 2 is an indication that the  reaction is first order in ethylene coverage. Note that  this analysis is invalid for long times where  A(l) cA(oo). For this reason we include only points  for short enough times so that the rate constant de-  termined is characteristic of the initial rate. Thus the  range of times used for fig. 2 is less than in fig. 1.  Results similar to those of figs. 1 and 2 were also ob-  tained for the 0.3 L exposure although with a cor-  responding reduction in signal level.   We assumed IR peak heights were proportional to  ethylidyne coverage. It is known that dipole dipole  coupling between adsorbate vibrations can give non-  linear intensity versus coverage [2]. However in a  separate publication, we have shown that there are  only small shifts in frequency with coverage indi-  cating very little coupling between cthylidyne mol-  ecules [14]. Also, the peak height would not be pro-  portional to coverage if the peak width depended on  coverage. However, we [14] have found that for  ethylidyne on Pt( 111) the width is not sensitive to  coverage. With the assumption of a linear depen-  dence of peak height on coverage, we conclude that  for exposures at 100 K, 0.3 L yields 60% of the ethyl-  idyne coverage obtained with the 3 L exposure of  ethylene. The 3 L exposure at 100 K in turn results  in a coverage that is only 70% of the saturation cov-  erage obtained by a 3 L exposure at 350 K. The sat-  uration coverage of ethylidyne on Pt (111) has not  been definitively established; it is either 0.25 or 0.5  monolayer (see ref. [9], and references therein). In  an earlier publication [8] we have found that the in-  trinsic width of the 1339 cm_t does depend on tem-  perature; however, since the present measurements  were made with 2 cm - instrumental resolution, the  observed bandwidth here is only slightly tempera-  ture dependent as is dominated by the instrumental  linewidth.   Fig. 3 shows the Arrhenius plot of In k versus  1/T for the rate constants of fig. 2. The slope gives  an activation barrier of 18   1 kcal/mol and a pre-  exponential of 10 ~  s~ for the 3 L exposure. The  0.3 L exposure yields an activation energy of 14  1  kcal/mol and a pre-exponential of lOb0TnI s~. A 0.1  L exposure yields an activation energy of 13 2 kcal/  mol and a pre-exponential of 108 2 s . The value  of A (cc) for the 0.1 L exposure was 35% of the value  obtained after a 0.3 L exposure. These values are close  to those obtained with other techniques [11,12].   A number of elementary steps are involved in the  conversion of di-a-bonded ethylene to ethylidyne. A  hydrogen atom is transferred from one carbon atom    .5   Ic  C  o 230 K    235 K  + 241 K    245 K  a 250 K  o 1000 2000 3000  Time (Sceunds)  Fig. 2. Plots of In [1 A (t)/A (x) I of the infrared peak heights  (in absorbance units, A) as a function of time at various temper-  atures. The linearity of the plots indicates that the reaction is first  order in ethylene. The lines were obtained from a least-squares  fit using only the data points shown.  I   0  -6  .7  -8    -9,  Qa~t~~tKcamoIe    t8  1 Kcallmole  no.3 L    3L   3.9) 4.0) 4.11 4.2) 4.31 4.4t  I000IT    Fig. 3. Plot of the In of the rate constants versus l/T for both the  3 and 0.3 L exposures. The slopes give activation energies of 18  (3 L) and 14 keal/mol (0.3 L) while the intercepts give pre-ex-  ponentialsoflO3t  (3L) and t0  ~ s  (0.3L).  513  Volume 154, number 6  CHEMICAL PHYSICS LEYITERS  10 February 1989  to the other, either directly or by way of the surface.  A second hydrogen atom must be transferred from  the carbon atom closest to the surface and a surface   hydrogen bond must be formed. The carbon carbon  bond must reorient from parallel to perpendicular to  the surface. Whether these steps occur sequentially  or in a single concerted step is, of course, quite dif-  ficult to determine experimentally. However, molec-  ular orbital calculations of ethylene on small plati-  num clusters have been carried out which can provide  insights into the energetics of various possible spe-  cies. For example, the calculations of Kang and  Anderson [15] indicate that vinylidene, CCH2, is an  intermediate in the formation of ethylidyne from  ethylene. Zaera [16] has recently proposed the vinyl  species,  CH=CH2, as the intermediate in etbylidyne  formation.   It is possible that the ethylidyne formation rate is  related to the desorption rate of excess ethylene from  the surface. Our thermal desorption results show that  a 3 L exposure of ethylene at 100 K leads to molec-  ular desorption of ethylene with a peak maximum at  275 K, in addition to the formation of ethylidyne.  The coverage of the resulting ethylidyne, as indi-  cated by the infrared intensities, is 30% less than the  saturation coverage obtained by exposure at tem-  peratures from 300 to 350 K. It is thus clear that  the ethylene does not simply desorb because all  available sites for ethylidyne formation are occu-  pied. We have analyzed our ethylene thermal de-  sorption results in various ways. From the heating  rate of 2 K/s and an assumption of a pre-exponential  of ~ s-  we obtain an activation energy of de-  sorption of 18 kcal/mol, which is in good agreement  with Windham et al, [17], who obtained a value of  17 kcal/mol with the assumption of lO   r  for the  pre-exponential. Various schemes for obtaining both  the pre-exponential and activation energy from a  single desorption trace have been proposed [18,19].  From the method of Tronconi and Lietti [18] we  obtain v=5x lOtt s   and Ed=lS.7 keal/mol while  from the method of Chan et al. [19] we obtain  v=8x 10  s  and E~= 14.7 kcal/mol. The fact that  a saturation coverage of ethylidyne is not obtained  by the 3 L exposure at 100 K even though there is  excess ethylene on the surface as indicated by the de-  sorption of ethylene, indicates that the presence of  ethylene on the surface can actually inhibit the for-  mation of ethylidyne. Since the rate constant for  ethylidyne formation is so close to the rate constant  for ethylene desorption, this suggests that the rate  limiting step for ethylidyne formation after a 3 L ex-  posure at 100 K is the desorption of excess ethylene.  This is supported by the fact that a lower exposure  of 0.3 L at 100 K yields an activation energy of 14  kcal/mol and a pre-exponential of 1010  t s  while  a 0.1 L exposure yields values which are the same,  within the experimental uncertainty, to the 0.3 L ex-  posure. For the 0.3 and 0.1 L exposures we do not  observe an ethylene desorption peak. Because heat-  ing the crystal which has been exposed to 3 L of eth-  ylene results in the desorption of ethylene as well as  the formation of ethylidyne, our assumption that the  IR signal from ethylidyne, in the form of  A(oc) A(t), is proportional to the ethylene cov-  erage may not be valid. Our results for the 0.3 and  0.1 L exposures do not suffer from this possible com-  plication. Further insight into the coverage depen-  dence of the kinetics of ethylidyne formation will re-  quire further experiments at lower coverages. The use  of FT-IRAS for this purpose will require improve-  ments in sensitivity as we found that coverages lower  than those corresponding to a 0.1 L exposure gave  inadequate signal levels. Until such improvements  occur, a more sensitive technique such as SIMS could  be used to investigate the very low coverage kinetics.  Such studies will be necessary to separate the intrin-  sic formation rate for an isolated ethylidyne from the  influence of lateral interactions.     This work was supported in part by a gift from the  Allied-Signal Engineered Materials Research Center  and by a grant from the National Science Founda-  tion. The authors thank Professor C.T. Campbell of  Indiana University for valuable comments concem-  ing the data.      References    [l]W.Ho,J.Phys.Chem.91 (1987) 766.    [2] Y.J. Chabal, Surface Sci. Rept. 8 (t988) 211.  [3] D.H. Chenery, MA. Chesters and EM. McCash, Surface  Sei. 198 (1988) 1.  [4] V.A. Burrows, J. Electron Spectry. 45 (1987) 303.  [5] V.A. Burrows, S. Sundaresan and Y.J. Christinan. Surface  Sci. 160 (1985) 122; tSO (1987) 110.  514  CHEMICAL PHYSICS LETTERS  10 February 1989  Volume 154, number 6  [13] ME. Brubakcr and M. Trcnary, 3. Chem. Phys. 85(1986)  6100.  [141 I.J. Malik, V.K. Agrawal and M. Trenary, J. Chem. Phys.  89(1988)386).  [151 D.B. Kang and A.B. Anderson, Surface Sci. 155 (1985) 639.  [161 F. Zaera, to be published.  [17] R.G. Windham, M.E. Bartram and B.E. Koel, J. Phys. Chem.  92(1988)57.  [IS] E. Tronconi and L. Lietti, Surface Sei. 188 (1988) 43.  [19] C.M. Cban, R. Arias and W.H. Weinberg, Appi. Surface SD.  1(1978) 360.                                                                                                515  [6] F.M. HofTmann and iL. Robins, J. Electron Speetry. 45  (1987) 421.  [7] E.W. Seharpf and 3.8. Benziger, 3. Phys. Chem. 91(1987)  5531.  [8] 5.8. Mohsin, M. Trenary and H.J. Robota, J. Phys. Chem.  92 (1988) 5229, and references therein.  [9)1,3. Malik, M.E. Brubaker, S.n, Mobsin and M. Trenary, 3.  Chcm. Phys. 87 (1987) 5554.  [10) H. Steininger, H. Ibaeh and S. Lehwald, Surface Sci. 117  (1982) 685.  [it] K.M. Ogle, JR. Creigbton, S. Akhter and J.M. White,  Surface Sd. 169 (1986) 246.  [12]J.L. Gland, F. Zaera, D.A. Fischer, R.G. Car and E.B.  Kollin, Chem. Phys. Letters 151 (1988) 227.   the  pre-exponential. Various schemes for obtaining both  the pre-exponential and activation energy from a  single desorption trace have been proposed [18,19].  From the method of Tronconi and Lietti [18] we  obtain v=5x lOtt s   and Ed=lS.7 keal/mol while  from the method of Chan et al. [19] we obtain  v=8x 10  s  and E~= 14.7 kcal/mol. The fact that  a saturation coverage of ethylidyne is not obtained  by the 3 L exposure at 100 K even though there is  excess ethylene on the surface as indicated by the de-  sorption of ethylene, indicates that the presence of  ethylene on the surface can actually inhibit the for-  mation of ethylidyne. Since the rate constant for  ethylidyne formation is so close to the rate constant  for ethylene desorption, this suggests that the rate  limiting step for ethylidyne formation after a 3 L ex-  posure at 100 K is the desorption of excess ethylene.  This is supported by the fact that a lower exposure  of 0.3 L at 100 K yields an activation energy of 14  kcal/mol and a pre-exponential of 1010  t s  while  a 0.1 L exposure yields values which are the same,  within the experimental uncertainty, to the 0.3 L ex-  posure. For the 0.3 and 0.1 L exposures we do not  observe an ethylene desorption peak. Because heat-  ing the crystal which has been exposed to 3 L of eth-  ylene results in the desorption of ethylene as well as  the formation of ethylidyne, our assumption that the  IR signal from ethylidyne, in the form of  A(oc) A(t), is proportional to the ethylene cov-  erage may not be valid. Our results for the 0.3 and  0.1 L exposures do not suffer from this possible com-  plication. Further insight into the coverage depen-  dence of the kinetics of ethylidyne formation will re-  quire further experiments at lower coverages. The use  of FT-IRAS for this purpose will require improve-  ments in sensitivity as we found that coverages lower  than those corresponding to a 0.1 L exposure gave  inadequate signal levels. Until such improvements  occur, a more sensitive technique such as SIMS could  be used to investigate the very low coverage kinetics.  Such studies will be necessary to separate the intrin-  sic formation rate for an isolated ethylidyne from the  influence of lateral interactions.     This work w</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>89871428</aid>
+            <ce:pii>0009-2614(89)87142-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(89)87142-8</ce:doi>
+            <ce:copyright type="unknown" year="1989"/>
+         </item-info>
+         <head>
+            <ce:title>Kinetics of ethylidyne formation on Pt(111) From time-dependent infrared spectroscopy</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Sheher B.</ce:given-name>
+                  <ce:surname>Mohsin</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Michael</ce:given-name>
+                  <ce:surname>Trenary</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemistry, University of Illinois at Chicago, Chicago, IL 60680, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Heinz J.</ce:given-name>
+                  <ce:surname>Robota</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Allied-Signal Engineered Materials Research Center, 50 East Algonquin Road, Box 5016, Des Plaines, IL 60017, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="19" month="9" year="1988"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">We have measured the rate of formation of ethylidyne on Pt(111) by monitoring the intensity increase of the symmetric CH<ce:inf loc="post">3</ce:inf> bend at 1339 cm<ce:sup loc="post">−1</ce:sup> as a function of time between 230 and 250 K. We obtain a first-order rate constant with an activation energy of 14±1 kcal/mol for a 0.3 L ethylene exposure at 100 K.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Ho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>766</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Chabal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci. Rept.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>211</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Chenery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Chesters</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>McCash</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>198</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Burrows</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>303</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Burrows</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sundaresan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Christman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Burrows</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sundaresan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Christman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>110</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Hoffmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Robins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectry.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>421</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Scharpf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Benziger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5531</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Mohsin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trenary</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Robota</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5229</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>and references therein</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.J.</ce:given-name>
+                                 <ce:surname>Malik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Brubaker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Mohsin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trenary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5554</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Steininger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ibach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lehwald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>685</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Ogle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Creighton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Akhter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>169</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>246</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Gland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zaera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Carr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Kollin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Brubaker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trenary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6100</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.J.</ce:given-name>
+                                 <ce:surname>Malik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Agrawal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trenary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3861</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>639</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>F. Zaera, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Windham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Bartram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Koel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tronconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lietti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Arias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Weinberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>360</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,905 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261483871188</prism:url><dc:identifier>doi:10.1016/0009-2614(83)87118-8</dc:identifier><eid>1-s2.0-0009261483871188</eid><prism:doi>10.1016/0009-2614(83)87118-8</prism:doi><pii>0009-2614(83)87118-8</pii><dc:title>OH(A2Σ+ → X2∏) yield from photodissociation of H2O2 at 106–193 nm </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>98</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>152</prism:startingPage><prism:endingPage>156</prism:endingPage><prism:pageRange>152-156</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1983-06-17</prism:coverDate><prism:coverDisplayDate>17 June 1983</prism:coverDisplayDate><prism:copyright>Copyright © 1993 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Suto, Masako</dc:creator><dc:creator>Lee, L.C.</dc:creator><dc:description>
+               Abstract
+               
+                  The absorption cross section of H2O2 and the (A2Σ+ → X2∏) fluorescence cross section of the resulting OH photofragments were measured in the 106–193 nm region using synchrotron radiation. The OH(A → X) emission has a significant cross section at excitation wavelengths shorter than 172.2 nm. Absorption structure observed in the 137–165 nm region is tentatively assigned.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261483871188" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261483871188" rel="scidir"/></coredata><scopus-id>0041470131</scopus-id><scopus-eid>2-s2.0-0041470131</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0041470131" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011126">2001-11-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011126">2001-11-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-05T06:27:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261483871188</xocs:eid>
+      <xocs:pii-formatted>0009-2614(83)87118-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261483871188</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(83)87118-8</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X12249</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151008">2015-10-08T07:11:57.986866-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19830617</xocs:date-search-begin>
+      <xocs:year-nav>1983</xocs:year-nav>
+      <xocs:indexeddate epoch="1006732800">2001-11-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>98</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>98</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 98, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>14</xocs:sort-order>
+      <xocs:first-fp>152</xocs:first-fp>
+      <xocs:last-lp>156</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>152</xocs:first-page>
+         <xocs:last-page>156</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19830617</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>17 June 1983</xocs:cover-date-text>
+      <xocs:cover-date-start>1983-06-17</xocs:cover-date-start>
+      <xocs:cover-date-year>1983</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1993 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>OHA2X2YIELDPHOTODISSOCIATIONH2O2106193NM</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SUTO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>PENKETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DASGUPTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>272</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DASGUPTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>620</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MARTIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1615</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CRUTZEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>KLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>691</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>OKABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHOTOCHEMISTRYSMALLMOLECULES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HOLT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1948</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>MOLINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>580</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>SCHURGERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1508</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>WELGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1424</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>BECKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>748</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>STULL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>JANAFTHERMOCHEMICALTABLES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>HUBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CONSTANTSDIATOMICMOLECULES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4334</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>HUDSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>305</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>GIGUERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1950</xocs:ref-pub-year>
+            <xocs:ref-first-fp>88</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>BAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-first-fp>527</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>OKABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6642</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SUTOX1983X152</xocs:refkey3>
+         <xocs:refkey4lp>SUTOX1983X152X156</xocs:refkey4lp>
+         <xocs:refkey4ai>SUTOX1983X152XM</xocs:refkey4ai>
+         <xocs:refkey5>SUTOX1983X152X156XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(83)87118-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261483871188</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261483871188</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(83)87118-8</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-08T07:11:57.986866-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1983-06-17</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261483871188-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261483871188/MAIN/application/pdf/172b1cf032ea2c98cba123043a7aa7a3/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261483871188/MAIN/application/pdf/172b1cf032ea2c98cba123043a7aa7a3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>511316</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261483871188-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261483871188/PREVIEW/image/png/cc7a9ac9a28d468155b42cafd7b2a184/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261483871188/PREVIEW/image/png/cc7a9ac9a28d468155b42cafd7b2a184/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65152</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 9S. number 2    CHEMICAL PHYSICS LETTERS    17 June 1983    Volume 98. numbe    OH(A ^ - X 30) YIELD FROM PHOTODISSOCIATION OF H^O^ AT 106-193 nm    Masako SUTO and L.C. LEE    Department OJ Electrical anil Computer Engineering. San Diego State University,  San Diego. California V2JS2. USA    Received 20 December 1982    The absorption cross section of H;0:&gt; Jnd the (A 2^ -&gt; X2!!) fluorescence cross section of the resulting OH photofrag-  inents '\ ere measured in the 106 193 nm region using synchrotron radiation. The OH(A -&gt; X) emission has a significant  cross section at c\ciUtion wavelengths shorter than 172.2 nm. Absorption structure observed in the 137 165 nm region is  tenutivciv a.ssianed.    1. Introduction    H\ drogen peroxide is an important atmospheric  minor species which is related to tlie formation of acid  rJin.The oxidation ofSO;&gt; by H^07 eitherin gas phase  or in a water droplet may be the main process for  HiS04 formation [1]. i-hOi also contributes to the  formation of HOy in tlie troposphere and in the strato-  spliere [2]. In order to understand acid rain formation  and atmospheric HO^. concentration, tlie information  ofI^^O^ concentration is needed. The Ol-^A2^ -&gt;  X 2 II) emission from H-)O-&gt; photodissociation can be  used to develop techniques for H-)0^ detection, simi-  lar to those used for H^O [3].    Studies ofH-&gt;Oi photodissociation processes are  relatively few [4]. Tlie absorption cross section in the  U V region ( 190-400 nm) lias been measured by sever-  al auiliors [5-7] .but only one measurement has been  made in tlie VUV region (X&lt; 190 nm) [8]. Moreover,  the U V and VUV data in the overlap region (185-  200 um) dre not consistent. The need for additional  measurement in the VUV region was suggested by a  previous investigator [9].    The OH(A 2 S-*- -^ X 211) emission was observed  [10] from photodissociation ofH- 0-&gt; with Kr (123.6  um) and Xe (147 nm) resonance lamps, but no emis-  sion was observed at the mercury resonance line (184.9  nm). This contradicts thermochemical data [11,12]  which suggest that the threshold wavelength for the    H^O^ +hv-&gt; OH (A) + OH(X) process should be  200 nm.    Here we report the absorption cross section of  H^O^ and tlie OH(A -&gt;  X) fluorescence cross section  from H^O^ photodissociation using synclirotron radi-  ation in the 106 193 nm region as light source.    2. Experiment    The experimental apparatus has been described in  detail in a previous paper [13]. Synchrotron radiation  provided from the electron storage ring of the Univer-  sity of Wisconsin was used as light source- It was dis-  persed by a 1 m monochromator, and allowed to pass  through a gas absorption cell. The synchrotron radia-  tion flux was measured by a combination of a photo-  multiplier tube (PMT) and sodium salicylate freshly  coated on a window. The fluorescence intensities were  measured in the direction perpendicular to the photon  beam using a PMT (EMI 9558QB).    The H^O^ sample of 90% purity supplied by FMC  Corporation was kept m a teflon bottle placed inside  a stainless container. Fresh vapor in the container was  introduced into the gas cell through teflon valve and  tubing since H^O-  reacts with metal surfaces to form  H^O and O^.The gas was continuously pumped by a  Sorption pump to keep the gas pressure m the absorp-  tion cell constant. The stainless container was contin-  uously pumped  the O^ concentr  at22 Cwasmea  manometer.    3. Results and d    3.1 Absorption i    The absorptii  tenuation of ph'  38.6 cm. It was  tion of 0.2 nrn.    The H^O^ sa  water as the prii  turc (22 C), the  higher than thai  during passage t  acts on surfaces  gas in the gas ce  a small trace of  0-&gt; can be subti  trum using thei;    The H20 am  from their abso  cross section of  been well studi   0^ has discrete  Schumann Ru  gion. The absor  190nm region  of strong band  [13] and a con    In the 106-  section for the  tic band struct!  absorption con  included in the  this absorption  H^O and 0, ni  conditions. In 1  concentrations  of total gas pri    The absorpt  given by    152    0 009-2614/83/0000-0000/S 03.00   1983 North-Holland    Volume 98. number 2    CHEMICAL PHYSICS LETTERS    17 June 1983    uously pumped by a mechanical pump to minimize  the Of concentration in the gas cell. The gas pressure  at 22 C was measured by an MKS Baratron capacitance  manometer.    3. Results and discussion    3.1 Absorption cross section    The absorption cross section was measured by at-  tenuation of photon flux in an optical path length of  38.6 cm. It was measured at a monochromator resolu-  tion of 0.2 nm.    The tl-,0-, sample liquid (90% purity) contains  water as the principal impurity. At the room tempera-  ture (22 C), the vapor pressure of H^O (=18 Torr) is  higher than that of H^O^ (=1.4 Torr). In addition  during passage through the apparatus, some H-&gt;0-&gt; re-  acts on surfaces to produce H^O and 0^. So the sample  gas in the gas cell includes a large amount of H-&gt;0 and  a small trace of 0-&gt;. However, the effects of H^O and  0-&gt; can be subtracted out from the absorption spec-  trum using their measured concentrations.    The H^O and 0-&gt; concentrations were measured  from their absorption cross sections- The absorption  cross section ofO-, in the 106 190 nm region has  been well studied [4,14]. The absorption spectrum of  0^ has discrete structure in the 106 135 region, and a  Schumann Runge continuum in the 135 180 nm re-  gion. The absorption cross section ofH^Oin the 106   190 nm region is also well known [4,14]. It consists  of strong band structure in the 106 140 nm region  [13] and a continuum in the 140 190 nm region.    In the 106 137 nm region, the absorption cross  section for the total gas in the cell shows characteris-  tic band structures of H-^O and Oi superimposed on  absorption continuum. The H^O and 02 concentrations  included in the sample gas are determined by comparing  this absorption with the absorption strengths of pure  H^O and 0, measured under the same experimental  conditions. In the 0 100 mTorr pressure range the  concentrations of H2 0 and C&gt;2 are 59  1% and 3  0.5%  of total gas pressure, respectively.    The absorption cross section of H-^O-,, o^ o., 'ls  given by     ^0^    = ^-"H.O^OW-^W^H.O.   oe    where a(X), a^ Q (A) and OQ^ (A) are the absorption  cross sections of sample gas, H-, 0 and O-, at wavelength  X, respectively ;o.z.i o ,aii o and OQ are tlie frac-  tions ofH-&gt; 0-&gt;, H-&gt; 0 and O^ concentrations in the gas  ceU.    The H^O^ absorption cross section obtained is  slwwn in fig. 1. The experimental uncertainty is esti-  mated to be within  15% of the given value, which  includes 10% from absolute experimental uncertainty  and 5% from the uncertainty in the H-&gt;0 and O-, con-  centrations. The H3 O-, absorption cross section shows  several small vibrational structures superimposed on  the continuum in the 135 165 nm region. These  structures belong solely to H-)O-}. because ti-,0 and  0-&gt; do not show sucli features in this wavelength re-  gion. At shorter wavelengths, the absorption is domi-  nated by sharp H^O features so it is difficult to deter-  mine whether or not the small H-&gt; 0-  vibrational struc-  ture persists.    The absorption cross section ofH-&gt;0-&gt; in the VU V  region has been measured bv Schurgers and Welge [8] -  Their results differ significantly from our results- In  the 160 170 nm region, their cross sections are about  three times larger than those obtained here. In this re-  gion, H^ 0 has a strong absorption continuum. It is like-  ly that tile previous measurement was affected by H-&gt; 0-  In the UV region (X &gt; 190 nm), the absorption cross    P^OTQ^ E'-.'S^Y i eV )  954_______S.27_______729          133    1-0    IM    '50  WAVELENGT" t nm '    Fig. l. Absorption and fluorescence c'oss sections of HaO;.  The absorption cross section measured by Holt et al- [5 ] and    Lin et al. [7] are indicated by dotted line and triangle, res-  pectively. Fluorescence starts to appear at 172.2 nm.    153    Volume 98. number 3    CHEMICAL PHYSICS LETTERS    17 June 1983    Volume 98, numt    section has been measured by several groups [5 7].  Some ofllie previous results [5,7] are shown in ssg-  1 for comparison. The present result agrees well with  the previous data.    3.2 Vibrational progressions    The structures in the 137 170 nm are shown m  more detail in fig. 2. The band structures are classi-  fied into vibrational progressions as shown m fig. 2  and as listed in table 1. In the 155 167 nm region,  t\vo progressions separated by 660 cm~1 are observed.  Each progression has a vibrational frequency of 1350  cm~1. In the 143 153 nm region, an intense progres-  sion of vibrational frequency Ar = 1140 cm~1 is also  observed- Each member has two subbands with vibra-  tional frequencies of 770 and 260 cm"1. The vibra-  tional frequencies observed are tentatively assigned to  various vibrational modes described below.    H-&gt;0-  lias a Ci symmetry and six fundamental vi-  brations. The vibraiional frequencies ofH^O-; ground  electronic state has been determined by infrared ab-  sorption measurements [15]. According to these mea-  surements. the vibraiional frequencies of VA (torsional  oscillation). 2/3 (0 0 stretching), v^ (0 H asymmet-  ric bending'), v^ (0 H symmetric bending), and 1/5  (0 H asymmetrical oscillation) are 465, 890,1266,    T-ible l  \\Jvenuinbers for H;0; .ibsorption spectrum          153              i60  ViA'tE-ENuti tnrr&gt;)    Fig. 2. Absorption spectrum ofHaOa in the 136-170 nm re-  gion. Band structures are tentatively assigned.    2647, and 3610 cm"1, respectively. The vibrational  frequencies of the excited electronic states are expected  to be similar to the ground state. Thus, the observed  frequencies of 260 and 770 cm-1 are tentatively as-  signed to 1/4 and 1/3, respectively, and both the 1140  and 1350 cm"1 are assigned to different electronic  states of VQ - These assignments are shown in fig. 2  and listed in table 1. The vibrational level at the longest  wavelength is numbered as v = 0 for each progression-  in the infrared absorption, the i/g progression is more  intense than that ofvy and i'4. In the present measure-        I irst series    PQ + II Vf, "6 "0 + '"'6 + ^'3 "6 "3  U 59890 1320 60510 1370 620  1 6121U 1280 61880 1320 670  2 62490 1420 63200 1360 710  3 63910  64560  650   iver.igc 1340  1350 660  Second series      It VO + 11 Vf, "6 Uo + llVf, + v^ "s KO + ""6 + "3 "6 "4 "3  0 65600 1110 65830 1170 66350 1130 230 750  1 66710 1110 66970 1150 67480 1140 260 770  2 67820 1190 68120 1130 68620 1130 300 800  3 69010  69250  69750 240 740  Jverage 1140  1140 1130 260 770    ment, the vg prc  progressions.    3.3 Fluorescent    The emission  ation ofH-)0-) i  -&gt; X2^)syste^   trum produced  Kr and Xe reso)  tern [10].    The emissior  a response in tri  intensity from i    ^=CFA/o^    where C is a ge(  tion efficiency,  tical path lengtl  PMT view regio  cross section, r  species, and k i'  cited species b&gt;    The pressure  were studied at  H^ 0 absorptiol  lengths longer 1  H^O photodiss  tensities at ail e  pressure depen&lt;  in this experim  system only.    The emissioJ  sample gas at e;    fluorescence cr  theOH(A-*X;    whose cross sec  section for the  todissociation,  from    ^Oz^11    CTfHaoC^18111  HfO photodiss    m this experim  previous work    The ssuoresi  The emission ci    154    Volume 98, number 2    CHEMICAL PHYSICS LETTERS    17 June 1983    ment, the Vg progression is also more intense than other  progressions.    3.3 Fluorescence cross section    The emission produced from the VUV photodissoci-  ation ofH^O-&gt; is expected only from the OHCA2^  -&gt; X2!!) system. The previous dispersed emission spec-  trum produced from photodissociation ofH^O^ by  Kr and Xe resonance lamps shows this emission sys-  tem [10].    The emission intensity was measured by a PMT with  a response in the 190 800 nm region. The emission  intensity from the excited photofragment is given by    /,. = CFA/o^/p exp(-noZ)T;-1 /(T;-1 + kn),       (2)    where Cis a geometrical constant, F is the PMT detec-  tion efficiency, / (7.4 cm) and A/ (2 cm) are the op-  tical path length from the LiF window to PMT and  PMT view region, respectively. Of is the fluorescence  cross section, r,. is the radiative lifetime of excited  species, and k is the quenching rate constant of ex-  cited species by gas in the cell.    The pressure dependences of emission intensities  were studied at several excitation wavelengths of the  H^O absorption peaks and minima and also at wave-  lengths longer than 137 nm where no emission from  H^O photodissociation is possible. The emission in-  tensities at all excitation wavelengths show the same  pressure dependence. Therefore, the emission observed  in this experiment is obviously from the OH(A -&gt; X)  system only.    The emission intensity from photodissociation of  sample gas at each wavelength, X, ia put into absolute  fluorescence cross sections, UfW, by comparing it with  the OH(A -*- X) emission from H^O photodissociation  whose cross section is well determined [13]. The cross  section for the production of fluorescence H^0-&gt; pho-  todissociation, Of H Oi W at wavelength X is calculated  from    ^H^W = ^ - ^O^O00^^ - (3)    ^fHioMls ^le cross section for fluorescence from  Hi O photodissociation at A. Ofri Q was measured again  in this experiment, and found to agree very well with  previous work [13].    The fluorescence cross section is shown in ssg. l.  The emission cross section becomes significant at 172.2    nm. The fluorescence has been observed at the longer  excitation wavelengths, but the cross sections are too  small to be measured accurately. The fluorescence  cross sections increase with decreasing wavelengths,  reaching a maximum at 115 nm, and decreasing at  shorter wavelengths. In the 137 150 nm region, weak  vibrarional structures of frequencies ^1000 cm"1 are  observed. They are somewhat correlated to the adsorp-  tion structures observed m the same wavelength region-  The experimental uncertainties are estimated to be  within  30% of given values.    3.4 Quantum yield    The quantum yield is calculated as a ratio of flu-  orescence cross section to absorption cross section at  each wavelength shown in fig-1 - The quantum yields  for the absorption continua are shown in fig. 3. The  weak structures in the absorption and fluorescence  cross sections are not included in the quantum yield  calculation. The wavelength thresholds for the disso-  ciation processes that are energetically possible for  the OH(A) production are also indicated in fig. 3.    The OH(A -&gt; X) emission has small quantum yield  at wavelengths longer than 172.2 nm, so the threshold  energy for production of the OH(A -&gt; X) emission is  not well determined. The small quantum yield at the  threshold wavelength may suggest that the OH(A) is  produced by a single repulsive state. This suggestion  is corroborated by the fact that at wavelengths longer  than 170 nm the absorption spectrum of H-,0-, is a          130   KO   150  WAVELENGTH ( nm )    Fig. 3. Quantum yield for production of the OH(A -&gt;  X) emis-  sion from HaOa photodissociation. The thresholds for the dis-  sociation processes that produce OH(A) are indicated.    155    Volume 9S. number 2    CHEMICAL PHYSICS LETTERS    17 June 1983    Volume 98, numbi    continuum. In the threshold wavelength region, the  Franck Condon overlap between the repulsive state  and ilic ground state may be small, so the quantum  \ ields are small. At the wavelengths shorter than 170  nin. structures appear in both absorption and fluores-  cence cross sections- This indicates that bound states  exist in this region. The increase of the OH(A -&gt; X)  fluorescence yield may arise partly from bound states.    Since H^O-) is a non-linear molecule, both photo-  I'rdgnients OH (A) and OH(X) are expected to be  highly rotatioridlly excited in the fragmentation process  f 1 (-1]. The excess energy could be shared by both frag-  ments mainly as rotational energy. In the photolysis of  11 -lO-, ai 193 nm (ArF laser), highly rotationally ex-  cited OH(X) photofragments were observed [17]. The  highly rotational excitation ofOH(A) fragment was  also observed when H-&gt;0;? was photolyzed by Xe and  Kr resonance lamps [10].    4. Conclusion    Tlie photoJbsorption cross section ofH-&gt;0-) is mea-  sured in the 106 193 um region. The current results  arc different from the previous results in the VUV re-  gion [8] but show good agreement with results ob-  tained JI wavelengths longer than 190nin [5.7]. Struc-  tures observed in the 137 170 nm region are classified  into vibrdtiondl modes in accord with the vibrational  modes of the ground state [15]. The cross section for  tlie production ofOH(A -   X) fluorescence is also  measured in this experiment.    Acknowledgement    The authors are grateful totliestaff of the Synchro-  Iron RJdiJiiun Center of the Universite of Wisconsin  for providing the VUV light source. The facility is    supported by the National Science Foundation under  Grant No. DMR-t4-21888. We thank Drs. R.A. Tilton,  F. Li, and R.L- Day of San Diego State University for  helpful discussion. We also appreciate the assistance  received from Mr. Jay S. Lai for analyzing part of the  data- This material is based on the work supported by  the National Science Foundation under Grant No.  ATM-8205849.    References    [1 ] S.A. Penkett, B.M.R- Jones, K-A- Brice and A.EJ.  Egaleton, Atmospheric Environment 13 (1979) 123;    P-K-Dasgupta,Atmospheric Environment 14 (1980) 272.  620; L.R. Martin and D.E. Danischen, Atmospheric En-  viroment 15 (1981) 1615.  [2] P-J. Crutzen and J. Fishman, Geophys. Res. Letters4    (1977)321.    [3] D. Kley and E.J. Stone, Rev. Sei. Instr. 49 (1978) 691.  [4] H. Okabe, Photochemistry of small molecules fWiley,    Neu, York. 1978).  [5] R B. Holt, C.K. McLane and 0. Oldenburg, J. Chem.    Phys. 16 (1948)225.  [6 ] L.T. Molind, S.D. Schinke and M.J. Molina, Geophys.    Res. Letters 4 (1977) 580.  [7] C-L. Lin, N.K. Rohalgi and W.B. DeMore, Geophys. Res.    Leiters 5 (1978) 113.  [8] M. Schurgers and K.H. Welge, Z. Naturforsch. 23a    (1968)1508.    [9] K.H. Welge, Can. J. Chem. 52 (1974) 1424.  [10] K.H. Becker, W. Groth and D. Kley, Z. Naturforscli. 20a    (1965)748.    [11] D.R. Stull and H. Prophet, JANAF Thermochemical  Tables, 2nd Ed., Natl. Stand. Ref. Data Ser. (National  Bureau of Standards, Washington, 1971).  [12] K.P. Huber and G- Herzberg, Constants of diatomic    molecules (Van Nostrand, Princeton, 1979).  [13] L.C. Lee, J. Chem-Phys. 72 (1980) 4334.  [14] R.D. Hudson, Rev. Geophys. Space Phys. 9 (1971) 305.  [15] P.A. Giguere, J. Chem. Phys. 18 (1950) 88;    0. Bain and P.A. Giguere, Can J. Chem. 33 (1955) 527.  [16] H. Okabe, J. Chem. phys. 72 (1980) 6642.  [17] M. Kawasaki, Private communication-    X-RAY Ir  IN A COr     G.PASCF    Istititto di l    and    M. MAGII  Divisione C    Received I'.    Aconce  scattering d,  close to 6 a  result to the  EXAFS me,    1. Introduction    It is well knov  appreciable fron  exchangers whilf  order to underst  started a study a  the species oceui  lutions. Stoichio  solutions of CoC  gated by X-ray d  presence of a coi  species Me(H^O^  aquo ions Men-  tion was slightly  [2] in which Ni3  only considered  In any case, in thi  and Ni24" ions hai  Cl~ complexatic    Later three cc  amined [3] by X  of 4 and 5, obtai  HCl to the stoicl-    156    0 009-2614/83/C  gion, the  Franck Condon overlap between the repulsive state  and ilic ground state may be small, so the quantum  \ ields are small. At the wavelengths shorter than 170  nin. structures appear in both absorption and fluores-  cence cross sections- This indicates that bound states  exist in this region. The increase of the OH(A -&gt; X)  fluorescence yield may arise partly from bound states.    Since H^O-) is a non-linear molecule, both photo-  I'rdgnients OH (A) and OH(X) are expected to be  highly rotatioridlly excited in the fragmentation process  f 1 (-1]. The excess energy could be shared by both frag-  ments mainly as rotational energy. In the photolysis of  11 -lO-, ai 193 nm (ArF laser), highly rotationally ex-  cited OH(X) photofragments were observed [17]. The  highly rotational excitation ofOH(A) fragment was  also observed when H-&gt;0;? was photolyzed by Xe and  Kr resona</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>83871188</aid>
+            <ce:pii>0009-2614(83)87118-8</ce:pii>
+            <ce:doi>10.1016/0009-2614(83)87118-8</ce:doi>
+            <ce:copyright type="unknown" year="1993"/>
+         </item-info>
+         <head>
+            <ce:title>OH(A<ce:sup loc="post">2</ce:sup>Σ<ce:sup loc="post">+</ce:sup> → X<ce:sup loc="post">2</ce:sup>∏) yield from photodissociation of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> at 106–193 nm</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Masako</ce:given-name>
+                  <ce:surname>Suto</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>L.C.</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Electrical and Computer Engineering, San Diego State University, San Diego, California 92182, USA</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="20" month="12" year="1982"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">The absorption cross section of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> and the (A<ce:sup loc="post">2</ce:sup>Σ<ce:sup loc="post">+</ce:sup> → X<ce:sup loc="post">2</ce:sup>∏) fluorescence cross section of the resulting OH photofragments were measured in the 106–193 nm region using synchrotron radiation. The OH(A → X) emission has a significant cross section at excitation wavelengths shorter than 172.2 nm. Absorption structure observed in the 137–165 nm region is tentatively assigned.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Penkett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.R.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Brice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.J.</ce:given-name>
+                                 <ce:surname>?ggieton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>ba</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Dasgupta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>272</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>bb</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Dasgupta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>620</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Damschen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1615</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Crutzen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fishman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophys. Res. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Stone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Sci. Instr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>691</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Okabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Photochemistry of small molecules</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>WiIey</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Holt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>McLane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Oldenburg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1948</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.T.</ce:given-name>
+                                 <ce:surname>Molina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Schinke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Molina</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophys. Res. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>580</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.K.</ce:given-name>
+                                 <ce:surname>Rohatgi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>DeMore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophys. Res. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schurgers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Welge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1508</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Welge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1424</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Becker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Groth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20a</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>748</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Stull</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Prophet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>2nd Ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>JANAF Thermochemical Tables</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1971</sb:date>
+                              <sb:publisher>
+                                 <sb:name>National Bureau of Standard</sb:name>
+                                 <sb:location>Washington</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>Natl. Stand. Ref. Data Ser.</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.P.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Herzberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Constants of diatomic molecules</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Van Nostrand</sb:name>
+                                 <sb:location>Princeton</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4334</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Hudson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Geophys. Space Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>305</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Giguere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1950</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>88</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Bain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Giguere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1955</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>527</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Okabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6642</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M. Kawasaki, Private communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

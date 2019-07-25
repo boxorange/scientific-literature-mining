@@ -1,0 +1,1090 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261489800223</prism:url><dc:identifier>doi:10.1016/0009-2614(89)80022-3</dc:identifier><eid>1-s2.0-0009261489800223</eid><prism:doi>10.1016/0009-2614(89)80022-3</prism:doi><pii>0009-2614(89)80022-3</pii><dc:title>An in situ study of reconstructed gold electrode surfaces by second harmonic generation </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>163</prism:volume><prism:issueIdentifier>2-3</prism:issueIdentifier><prism:startingPage>123</prism:startingPage><prism:endingPage>128</prism:endingPage><prism:pageRange>123-128</prism:pageRange><prism:number>2-3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1989-11-10</prism:coverDate><prism:coverDisplayDate>10 November 1989</prism:coverDisplayDate><prism:copyright>Copyright © 1989 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Friedrich, A.</dc:creator><dc:creator>Pettinger, B.</dc:creator><dc:creator>Kolb, D.M.</dc:creator><dc:creator>Lüpke, G.</dc:creator><dc:creator>Steinhoff, R.</dc:creator><dc:creator>Marowsky, G.</dc:creator><dc:description>
+               Abstract
+               
+                  Second harmonic generation (SHG) was employed to monitor in situ the potential-induced reconstruction of Au(111) and Au(100) electrodes. Rotating the sample by 360° about the surface normal yields for the unreconstructed Au(111)-(1×1) surface the well-known threefold symmetry pattern in the SHG intensity, while Au(100)-(1×1) shows no rotational anisotropy, as expected for C4v symmetry. For the reconstructed Au(111)-(1×23) surface, however, an additional onefold symmetry pattern is observed, which allows in situ monitoring of the structural transition between (1×1) and (1×23). For the reconstructed Au(100)-(5×20) surface, a threefold symmetry pattern was found.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261489800223" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261489800223" rel="scidir"/></coredata><scopus-id>0000747813</scopus-id><scopus-eid>2-s2.0-0000747813</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000747813" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020115">2002-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020115">2002-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-25T15:41:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261489800223</xocs:eid>
+      <xocs:pii-formatted>0009-2614(89)80022-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261489800223</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(89)80022-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X09050</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150927">2015-09-27T16:43:04.205333-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19891110</xocs:date-search-begin>
+      <xocs:year-nav>1989</xocs:year-nav>
+      <xocs:indexeddate epoch="1011052800">2002-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>163</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>163</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 163, Issues 2–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>123</xocs:first-fp>
+      <xocs:last-lp>128</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>123</xocs:first-page>
+         <xocs:last-page>128</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19891110</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>10 November 1989</xocs:cover-date-text>
+      <xocs:cover-date-start>1989-11-10</xocs:cover-date-start>
+      <xocs:cover-date-year>1989</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1989 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INSITUSTUDYRECONSTRUCTEDGOLDELECTRODESURFACESBYSECONDHARMONICGENERATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FRIEDRICH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>KOLB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1175</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KOLB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SPECTROELECTROCHEMISTRYTHEORYPRACTICE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>MELROY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>728</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>SAMANT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>220</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>GEWIRTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5563</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>WIECHERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>451</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>SHANNON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1440</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>RICHMOND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>FURTAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>KOLB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>C10</xocs:ref-first-fp>
+            <xocs:ref-last-lp>137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>KOLB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>929</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>SCHNEIDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>579</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>ZEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>SHANNON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3579</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>CLAVILIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PRINCIPLESNONLINEAROPTICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>GUYOTSIONNEST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8254</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>SIPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18"/>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>HEINZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>VANHOVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>189</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>VANHOVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>218</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FRIEDRICHX1989X123</xocs:refkey3>
+         <xocs:refkey4lp>FRIEDRICHX1989X123X128</xocs:refkey4lp>
+         <xocs:refkey4ai>FRIEDRICHX1989X123XA</xocs:refkey4ai>
+         <xocs:refkey5>FRIEDRICHX1989X123X128XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(89)80022-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261489800223</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261489800223</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(89)80022-3</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-09-27T16:43:04.205333-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1989-11-10</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261489800223-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489800223/MAIN/application/pdf/a85d6e12e3c13b208f582f21d0dca177/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489800223/MAIN/application/pdf/a85d6e12e3c13b208f582f21d0dca177/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>525362</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261489800223-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261489800223/PREVIEW/image/png/1910f35843730930bfed11e00d2f3ddc/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261489800223/PREVIEW/image/png/1910f35843730930bfed11e00d2f3ddc/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71494</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 163, number 2,3  CHEMICAL PHYSICS LETTERS  10 November 1989  AN IN SITU STUDY OF RECONSTRUCTED GOLD ELECTRODE SURFACES  BY SECOND HARMONIC GENERATION    A. FRIEDRICH, B. PETTINGER, D.M. KOLB  Frftz-Haber-Instirut der Max-Planck-Gesellschafl, Faradayweg 4 6, 11-1000 Berlin 33, Germany      G. LUPKE, R. STEENHOFF and G. MAROWSKY  Max-Planck-!nsciiut fib- Biophysikalische Cheraie, Am Fassberg. D-3400 GOttingen, Federal Republic of Germany      Received 20 July 1989: in final form 30 August 1989         Second harmonic generation (SHO) was employed to monitor in situ the potential-induced reconstruction of Au( Ill) and  Au( tOO) electrodes. Rotating the sample by 360  about the surface normal yields for the unreconstructed Au (111) -(I)&lt; I) sur-  face the well-Imown threefold symmetry pattem in the SHG intensily, while Au (100)- (1 x I) shows no rotational anisotropy, as  expected for C4, symmetry. For the reconstructed Au (lIt)- (1 x 23) surface, however, an additional onefold symmetry pattern  is observed, which allows in situ monitoring of the structural transition between (lx I) and (1 x23). For the reconstructed  Au( 100)- (5 x 20) surface, a threefold symmetry pattern was found.  1 Introduction     Structure determinations for electrode surfaces,  preferably in situ and on a microscopic level, are still  one of the most important challenges in physical  electrochemistry [11. A number of techniques are  now available for the study of surfaces in an elec-  trochemical cell, including electroreflectance spec-  troscopy in the VIS near UV range [2], EXAFS [3]  or grazing incidence X-ray diffraction [4] and scan-  ning tunneling microscopy [5,6], all of which have  advanced our knowledge on electrode-surface struc-  tures and their change with electrochemical manip-  ulation. For the study of surface symmetries, which  becomes increasingly important with the use of sin-  gle-crystal material in electrochemistry and which  plays a crucial role in surface-reconstruction effects,  a truly structure-sensitive method for routine use, like  for example LEED in UHV studies, is not yet avail-  able, because ordinary (linear) optical spectrosco-  pies such as electroreflectance lack structure sensi-  tivity, while the more structure-specific X-ray  techniques are still prohibitively elaborate for ordi-  nary applications, as they require synchrotron ra-  diation. In this respect, second harmonic generation  (SHG) shows promise for the in situ investigation  of single-crystal surface structures. In a pioneering  study, Richmond et al. have demonstrated that the  threefold symmetry of a Ag (111) surface can be  clearly detected in situ by measuring the rotational  anisotropy of its SHG signal [7]. This is done by re-  cording the SHG intensity as a function of aaimuthal  angle as the sample is rotated about its surface nor-  mal. For a (111) surface of an fcc metal and for p-  polarization three peaks, each 1200 apart, are found  [7,8]. Analogous studies using linear optics revealed  the twofold symmetry of a Ag( 110) surface [91 but  not the threefold symmetry of Ag( 111), as linear  spectroscopy can only detect rotational symmetries  of C1 or C2. The apparently higher structure sensi-  tivity of nonlinear optical effects could make SHG  a powerful tool for in situ studies, especially in the  case of surface reconstruction, where the surface at-  oms of a solid rearrange themselves in a structure  different from that expected from a mere termina-  tion of the bulk.   Recently we have focused our attention on the re-  construction of the three low-index faces of gold sin-  gle crystals [10 12], which are known to reconstruct  in UHY when they are clean. By applying a wide va  0009-2614/89/$ 0150   Elsevier Science Publishers B.V.  (North-Holland Physics Publishing Division)  123  10 November 1989  Volume 163, number 2,3  CHEMICAL PHYSICS LETTERS  tators and polarizers determined the experimental  polarization conditions (pIp, s/s or p/s) for inci-  dent (w) and reflected (2w) beams. In order to im-  prove the signal-to-noise ratio, a gated integrator with  a time constant of 8 s was used. The Nd YAG laser  producing 10 ns pulses with an energy of 20 mJ at  a repetition rate of tO Hz was slightly focused onto  the probe at an angle of incidence of 45  leading to  an illuminated area of about 1 mm2. The rotational  anisotropy of the SHG intensity was monitored by  rotating the gold electrode about its surface normal  in the electrochemical cell for fixed polarization con-  ditions for the incident fundamental (1064 nm) and  generated second harmonic (532 nm) beam.  riety of techniques ranging from classical electro-  chemical methods, such as cyclic voltammetry. to  electroreflectance spectroscopy and ex situ electron  diffraction (LEED and RHEED), we have estab-  lished that reconstructed gold surfaces are stable in  contact with an aqueous solution, if certain potential  requirements are met [10-12]. Furthermore, for  Au (100) and Au (111) a potential-induced recon-  struction was observed, i.e. after the reconstruction  was lifted by the adsorption of anions, the recon-  structed surface could be regenerated simply by ap-  plying appropriate electrode potentials [11,121.   These surfaces are, therefore, ideally suited to test  the structure sensitivity of SHG. In the following, we  present an in situ SHG investigation of gold elec-  trodes, which shows the influence of surface recon-  struction on the rotational anisotropy and demon-  strates the power of SHG in assessing the stability  range of reconstructed surfaces and the kinetics of  structural transitions.      2. Experimental     The experimental apparatus used in this study  consisted of a standard SHG arrangement [131 and  conventional electrochemical equipment. The two  gold electrodes, single-crystal discs 8 mm in diam-  eter and 2 mm thick with surface orientations of  (ill) and (100), were initially prepared by me-  chanical polishing and electropolishing and then re-  peatedly subjected to flame treatment [14], where  the electrode is held in a Bunsen flame at 800 C for  about 3 s and subsequently quenched in triply dis-  tilled water. This flame treatment, which was carried  out on the gold electrode before each SHG mea-  surement, has been shown to yield reconstructed sur-  facesofhighqualityforAu(lll)andAu(l00) [10].  In order to maintain surface reconstruction in the  electrochemical cell, the electrode had to be im-  mersed under potentiostatic control with a fairly  negative potential applied (e.g.  0.4 V versus SCE  for Au (100)- (5 x 20)). The electrolytes, aqueous  solutions of 0.01 M H2S04 and 0,01 M HC1O4 made  from Merck suprapure chemicals and triply distilled  water, were deaerated with purified nitrogen. All po-  tentials are quoted with respect to the saturated cal-  omel electrode (SCE). High quality polarization ro  3. Results  3.1. The Au(11l) surface   In fig. I, the rotational anisotropy of Au( 111) at  two different electrode potentials is shown. Curve (a)  corresponds to a freshly prepared (flame-treated)  surface which was immersed at  0.4 V versus SCE,  and the SHG measurement performed at  0.1 V  versus SCE. Under such conditions, the Au (111)  surface is reconstructed into the (1 x23) structure,  where the surface atoms show a 4% compression in  the [110] direction. Curve (b), on the other hand,  has been recorded after the potential was scanned to  (1= +0.7 V versus SCE, where anion adsorption has  lifted the reconstruction [101. While in the latter case  the threefold symmetry of the unreconstructed  Au( ill )-( I x 1) surface is clearly reflected in its ro-  tational anisotropy exhibiting six intensity maxima  of about equal height, the corresponding pattern for  the Au(llI)-(lx23) surface (curve (a)) is dis-  tinctly different. A pronounced onefold symmetry  pattern is superimposed onto the threefold one, with  two dominant peaks at 90  and 270  and the other  four peaks markedly reduced in intensity (note that  the SHG pattern of fig. Ia represents a mixture of  onefold and threefold symmetry elements:  5MG  (acosO+bcos3O)2). Comparison of curves (a)    and (b) in fig. 1 demonstrates that the surface struc-  tural transition between (1)&lt; 1) and (1 X 23) is  clearly seen in the rotational anisotropy of the SHG  signal, although there is only a 4% compression of  124  Volume 163, number 2,3  CHEMICAL PHYSICS LETTERS  10 November 1989  Fig. 1. Second harmonic intensity as a function of angle of rota-  tionforAu(lll)in0.OlMFI2SO4at (a)  0.1 Vand(b) +0.7  V versus SCE. s-polarized excitation and s-polarized SHG detec-  tion in both cases. For illustration purposes the calculated polar  plots of the rotational anisotropies for s/s-polarization ofathree-  fold-symmetry surface (a) with and (b) without a onefold sym-  metry superimposed are also shown.    the top layer in the latter case. This enables us to  monitor in situ the structural transition by recording  the SHG intensity at either 900 or 270  azimuthal  angle as a function of electrode potential. The po-  tential dependence of the SHG signal at 90  (fig. 2)  reveals that in 0.01 M HC1O4 the onefolcl symmetry  pattern rapidly decreases for potentials more posi-  tive than +OA V, indicating that the (I x23) re-  construction is stable only up to that value, whereas  no cathodic limit for the stability range of the  (1 x23) structure was found. For U&gt; +0.7 V, the  (Ix 23) .-~ (1 x I) transition is completed and the  Au (111) surface is now unreconstructed. Scanning  the electrode potential back in the reverse direction  shows that this structural transition is fully reversi-  ble, as the reappearance of the onefold symmetry in-  dicates restoring of the (1 x 23) structure at negative  surface charges (note that the potential of zero charge  USCE /V      Fig. 2. Second harmonic intensity for Au( Ill) in 0.01 M HCIO4  as a function of electrode potential, showing the structural tran.  sition between (lx 23) and (lx 1). The azimuthal angle of ro-  tation is 900 (see fig. I). s/s.polarization. Scan rate: 1 mV s  Insert: time dependence of the normalized SHG intensity after a  potential step from  0.2 to +0.8 V versus SCE (open circles)  and from + 0.8 to  0.2 V versus SCE (full circles).      for Au(l1l) is around +0.3 V versus SCE [10]).  In order to gain some insight into the transition ki-  netics, potential steps between  0.2 and + 0.8 V  versus SCE were employed, and the change in SHG  intensity at an azimuthal angle of 90  followed as a  function of time. The transient response shows first-  order kinetics for both cathodic and anodic potential  steps (see insert in fig. 2). While for the lifting of the  (1 x 23) reconstruction (anodic step) a decay time  t112=22.7 s was derived, the subsequent (lxi)   ~ (1 x 23) transition (cathodic step) was found to  be even slightly faster with r112= 15.3 s.    3.2. The Au(100) surface     Previous studies of Au( 100) electrodes with LEED  and RHEED have shown that the reconstructed  Au(l00)-(5X20) surface is stable only in a poten-  tial range where no anion adsorption takes place  [10]. The latter removes reconstruction, i.e. in the  presence of adsorbed anions the Au (1 00) surface is  transformed into the (1 x 1) structure. However, at  negative potentials (e.g. at  0.4 V versus SCE), the  (5 x 20) structure is regenerated at room tempera-  ture due to a potential-induced reconstruction [11].  In order to test the structure sensitivity of SHG in  (5  C      -Q    0    &gt;,    a  C  a.  C        I  (I)  Au (111): ~1 x23l (1 xl)  0.01 M HCIO4  I . I . I I . I . I I  0~.    a  C  C                        .06  .0,1. -0.2 0 0.2 0.4 0.6 0.8 1.0 1.2   60 120  Angle of Rotation  125  Volume 163, number 2,3  CHEMICAL PHYSICS LETFERS  10 November 1989  reappear, which strongly suggests that the Au (100)  surface is reconstructed again under such conditions,  in full agreement with earlier observations [11,12].      4. Discussion     The above results for Au demonstrate the great  sensitivity of SHG to the structure of the topmost  layer. Thus, surface reconstruction effects are readily  seen in the rotational anisotropy. For a centrosym-  metric solid such as Au, SHG from the bulk vanishes  in the dipole approximation [15], whereas for its  surface, significant isotropic and anisotropic SHG  intensities may be obtained [8,16], which are de-  scribed by a susceptibility tensor of third rank:    P(r, 1) xt2&gt;:E(r, t) E(r, t)    The symmetry of a surface is reflected by the anal-  ogous symmetry of the corresponding ~t2~ tensor, and  an analysis of this tensor upon azimuthal rotation  reveals that at most a threefold symmetry can be re-  solved using SHG [17]. The six maxima in the SHG  intensity as a function of angle of rotation for s/s po-  larization conditions, which are found for the un-  reconstructed Au( 111) surface (fig. Ib), reflect the  well-known C3~ symmetry of this surface. The ob-  servation of a threefold symmetry in the SHG ex-  periment for a hexagonal close packed layer implies  that   similar to LEED   the second layer has to be  involved in the symmetry considerations for the sur-  face [17]. Reconstruction of the Au (111) surface  into (1 x23), which represents a hexagonal close  packed structure with an uniaxial compression of  about 4% in the [1101 direction, leads to a C~ sym-  metry superimposed onto the C3.,. symmetry. The  (1 x 23) superstructure alone is expected to have C2~  symmetry, but taking the second layer of Au (Ill)  into account reduces the symmetry for the recon-  structed surface to C5. Strong support for the C, sym-  metry ofAu( 111 )-( 1 x 23) is also obtained from the  observation of a combination of one-, two- and three-  fold symmetry patterns, which are found under p/s  polarization conditions. A more detailed discussion  of the SHG tensor in the case of (1 x 23) reconstruc-  tiOn will be given elsewhere [18].   The very pronounced onefold symmetry of the  (1 x23) structure is a striking observation, in view  the case of Au (100), the rotational anisotropy was  measured for reconstructed and unreconstructed  Au(100) electrodes in 0.01 M HCIO4. In fig. 3a a  rotational anisotropy of a freshly prepared Au (100)-  (5x20) surface at U= 0.l V is shown for p-po-  larized excitation and p-polarized SHG detection.  Three intensity maxima, about 120  apart, are clearly  seen for the reconstructed surface. Scanning the po-  tential up to + 09 V causes the reconstruction to dis-  appear du~ to the specific adsorption of sulfate ions,  and indeed, the three peaks ascribed to the (5 x 20)  structure are no longer visible (curve (b)). (The in-  tensity variation which is still seen in curve (b) is  due to an imperfect alignment of the gold sample  causing the surface to wobble during rotation. For  the elimination of such effects in the measurement  of the reconstructed surface, curve (b) was sub-  tracted from curve (a); see insert in fig. 3.) Stepping  the potential back to  0.2 V and waiting for several  minutes causes the threefold intensity pattern to    1  a~b   (5x20)~l1x1) I \ ~.    ., \. ,. /   ~27C 360   (a)  ( I    C      .0    0    &gt;     (5  C  a.  C      0  I  A  0   90 180 270 360  Angle of Rotation  Fig. 3. Second harmonic intensity as a function of angle of rota-  tion for Au(lOO) in 0.01 M HCIO4 at (a)  0.1 V (the surface is  reconstructed), (b) +0.9 V (reconstruction is lifted), and (c)   0.2 V (the surface is reconstructed again), p/p-polarization.  The insert shows the difference between curves (a) and (b),  which corresponds to curve (a) corrected for effects due to wob-  bling of the surface during rotation.  126  Volume 163, number 2,3  CHEMICAL PHYSICS LETTERS  10 November 1989  of the fact that the reconstructed surface consists of  domains which should be equally distributed in all  three [1121 directions. Hence, one would expect the  SHG contributions for the onefold symmetry to van-  ish by interference. From our experimental results  we are led to the conclusion that the various (1 X 23)  domains are not equally distributed, but have a pref-  erential orientation which could be introduced by,  e.g. atomic steps. A second point concerning the  marked intensity of the C, symmetry may be worth  mentioning. As stated above, the unreconstructed top  layer of Au (111) exhibits C6~ symmetry, which can-  not be resolved by SHG. Only when taking the first  two atomic layers into account does a C3~ symmetry  emerge; however, such a surface layer possesses some  elements of an inversion symmetry and, hence, the  SHG intensity for the Au (Ill)- (lxi) surface may  be reduced significantly. On the other hand, SHG is  fully allowed for the reconstructed top layer, and  consequently, the (1 x 23) structure with its low ro-  tational symmetry can give rise to a comparatively  large SHG signal. Similarly, Heinz et at. [19] have  clearly seen in SHG the (2 x 1) reconstruction of  Si (Ill) and they were able to monitor the ther-  mally-induced (2 x 1) s (7 x 7) transition under  UHV conditions. Since the (2x 1) surface consists   likethe (1x23) surfaceofAu(lll)   ofdomains  distributed among the three [211] directions, we  conclude that it is indeed possible to detect sym-  metry changes by SHG because of unequal distri-  bution of domains.   Similar to Au (Ill), the surface reconstruction of  Au( 100) can also be seen in SHG experiments. In  the latter case, the reconstructed surface consists of  a slightly buckled hexagonal close packed top layer,  which gives rise to a rather complicated (5x20)-  LEED pattern [20]. While for the unreconstructed  Au(l00) surface with its C4.,, symmetry the SHG in-  tensity should not show any variation with sample  rotation (if a variation of the SHG signal with angle  of rotation is observed, it is caused by sample mis-  alignment, see fig. 3b), a threefold symmetry pattern  is clearly observed for the reconstructed Au (100)  surface under p/p-polarization conditions. We ten-  tatively suggest that this complicated superstructure  contains elements of a threefold symmetry, in ad-  dition to others which are not readily discernible in  this type of measurement. Further experiments are  in progress to firmly establish the symmetry prop-  erties of the ~t2~ tensor in the case of Au(lOO)-  (5 x 20).      5. Conclusions     Surface reconstruction of Au was used to dem-  onstrate the power of SHG for in situ structural stud-  ies and for monitoring electrochemically induced  changes in surface structures. For the reconstructed  Au(lll)-(1X23) surface, a pronounced onefold  symmetry pattern was observed in the SHG intensity  as a function of angle of rotation which allows one  to investigate in great detail surface-structural tran-  sitions. In 0.01 M HCIO4 the (1 x 23) structure was  found to be stable up to +0.4 V versus SCE, while  at more positive potentials anion adsorption causes  the reconstruction to disappear. Negative charging  of the gold surface fully restores the (1 x 23) struc-  ture. Both transitions, adsorbate-induced lifting and  potential-induced restoration of the (I x 23) struc-  ture, follow first-order kinetics with decay times on  the order of 15 to 20 s. In similar experiments, the  anion-induced lifting of the Au (100)- (5 x 20) struc-  ture and the potential-induced reconstruction of  Au(lOO)-( lxi) were studied by SHG, confirming  earlier results obtained by electroreflectance and  LEED measurements [10 121.      References    Ill D.M. Koib, Ber. Bunsenges. Physik. Chem. 92 (1988)1 175.  [2] D.M. KoIb, in: Spectroelectrochemistiy, theory and practice,  ed. R.J. ~iate (Plenum Press, New York, 1988) ch. 4.  [3] O.R. Meiroy, MG. Samant, G.L. Borges. J.G. Gordon, L.  Blum, J.H. White, M.J. Albarelli, M. McMillan and H.D.  Albru~a,Langmuir4 (1988) 728.  14] M.G. Samant, M.F. Toney, G.L. Borges, L. Blum and OR.  Melroy, 3. Phys. Chem. 92(1988)220.  15] A.A. Gewirth and A.J. Bard, J. Phys. Chem. 92 (1988)5563.  [61 J. Wiechers, T. Twomey, D.M. KoIb and R.J. Behm, J.  Electroanal. Chem. 248 (1988) 451.  [7] V.L. Shannon, D.A. Koos and G.L. Richmond, 3. Chem.  Phys. 87 (1987) 1440.  [8] G.L. Richmond, J.M. Robinson and V.L, Shannon, Progr.  Surface Sci. 28 (1988)1.  19] T.E. Furtak and D.W. Lynch, J. Etectroanal. Chem. 79  (1977) 1;  D.M. KoIb, J. Phys. (Paris) 44 (1983) ClO-137.  127  volume 163, number 2,3    [10] D.M. KoIb and J. Schneider, Electroehim. ArIa 31(1986)  929.  [II] 3. Schneider and G.M. KoIb, Surface Sri. 193 (1988) 579.  [12] MS. Zei, 0. Lebnipguhl and G.M. KoIb, Surface Sri. 221  (1989) 23.  [13] V.L. Shannon, D.A. Koos and G.L. Richmond, AppI. Opt.  26(1987)3579.  [14] J. Clavilier, R. Faure, 0. Guinet and R. Durand, J.  Eleetroanal. Chcm. 107 (1980) 205.  [IS] YR. Shen, The principles of nonlinear optics (Wiley, New  York, 1984).   CHEMICAL PHYSICS LETTERS 10 November 1989      [16] P. Guyot-Sionnest, W. Chen and YR. Shen, Phys. Rev. B  33(1986)8254.  [171 J.E. Sipe, D.J. Moss and H.M. van Driel, Phys. Rev. B 35   (1987) 1129.  [18] 0. Mzrowtky, G. Lhpke. R. Steinhoff, A. Friedrieh, B.  Pettinger and G.M. KoIb, to be published.  [l9]T.F. Heinz, MT. Loy and WA. Thompson, Phys. Rev.  Letters 54 (1985) 63.  [20] MA. Van Hove, R.J. Koestner, P.C. Stair, J,P. Biberian,  L.L. Kesmodel, I. Bartos and GA. Somorjai, Surface Sci.  103 (1981) 189,218.  128  use of unequal distri-  bution of domains.   Similar to Au (Ill), the surface reconstruction of  Au( 100) can also be seen in SHG experiments. In  the latter case, the reconstructed surface consists of  a slightly buckled hexagonal close packed top layer,  which gives rise to a rather complicated (5x20)-  LEED pattern [20]. While for the unreconstructed  Au(l00) surface with its C4.,, symmetry the SHG in-  tensity should not show any variation with sample  rotation (if a variation of the SHG signal with angle  of rotation is observed, it is caused by sample mis-  alignment, see fig. 3b), a threefold symmetry pattern  is clearly observed for the reconstructed Au (100)  surface under p/p-polarization conditions. We ten-  tatively suggest that this complicated superstructure  contains elements of a threefold symmetry, in ad-  dition to others which are not readily discernible in  this type of measurement. Further experiments are  in progress to firmly establish the symmetry prop-  erties of the ~t2~ tensor in the case of Au(lOO)-  (5 x 20).      5. Conclusions     Surface reconstruction of Au was used to dem-  onstrate the power of SHG for in situ structural stud-  ies and for monitoring electrochemically induced  changes in surface structures. For the reconstructed  Au(lll)-(1X23) surface, a pronounced onefold  symmetry pattern was observed in the SHG intensity  as a function of angle of rotation which allows one  to investigate in great detail surface-structural tran-  sitions. In 0.01 M HCIO4 the (1 x 23) structure was  found to be stable up to +0.4 V versus SCE, while  at more positive potentials anion adsorption causes  the reconstruction to disappear. Negative charging  of the gold surface fully restores the (1 x 23) struc-  ture. Both transitions, adsorbate-induced lifting and  potential-induced restoration of the (I x 23) struc-  ture, follow first-order kinetics with decay times on  the order of 15 to 20 s. In similar experiments, the  anion-induced lifting of the Au (100)- (5 x 20) struc-  ture and the potential-induced reconstruction of  Au(lOO)-( lxi) were studied by SHG, confirming  earlier results obtained by electroreflectance and  LEED measurements [10 121.      References    Ill D.M. Koib, Ber. Bunsenges. Physik. Chem. 92 (1988)1 175.  [2] D.M. KoIb, in: Spectroelectrochemistiy, theory and practice,  ed. R.J. ~iate (Plenum Press, New York, 1988) ch. 4.  [3] O.R. Meiroy, MG. Samant, G.L. Borges. J.G. Gordon, L.  Blum, J.H. White, M.J. Albarelli, M. McMillan and H.D.  Albru~a,Langmuir4 (1988) 728.  14] M.G. Samant, M.F. Toney, G.L. Borges, L. Blum and OR.  Melroy, 3. Phys. Chem. 92(1988)220.  15] A.A. Gewirth and A.J. Bard, J. Phys. Chem. 92 (1988)5563.  [61 J. Wiechers, T. Twomey, D.M. KoIb and R.J. Behm, J.  Electroanal. Chem. 248 (1988) 451.  [7] V.L. Shannon, D.A. Koos and G.L. Richmond, 3. Chem.  Phys. 87 (1987) 1440.  [8] G.L. Richmond, J.M. Robinson and V.L, Shannon, Progr.  Surface Sci. 28 (1988)1.  19] T.E. Furtak and D.W. Lynch, J. Etectroanal. Chem. 79  (1977) 1;  D.M. KoIb, J. Phys. (Paris) 44 (1983) ClO-137.  127  volume 163, number 2,3    [10] D.M. KoIb an</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>89800223</aid>
+            <ce:pii>0009-2614(89)80022-3</ce:pii>
+            <ce:doi>10.1016/0009-2614(89)80022-3</ce:doi>
+            <ce:copyright type="unknown" year="1989"/>
+         </item-info>
+         <head>
+            <ce:title>An in situ study of reconstructed gold electrode surfaces by second harmonic generation</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Friedrich</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Pettinger</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.M.</ce:given-name>
+                  <ce:surname>Kolb</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Fritz-Haber-Institut der Max-Planck-Gesellschaft, Faradayweg 4–6, D-1000 Berlin 33, Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Lüpke</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Steinhoff</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Marowsky</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Max-Planck-Institut für Biophysikalische Chemie, Am Fassberg, D-3400 Göttingen, Federal Republic of Germany</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="20" month="7" year="1989"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">Second harmonic generation (SHG) was employed to monitor in situ the potential-induced reconstruction of Au(111) and Au(100) electrodes. Rotating the sample by 360° about the surface normal yields for the unreconstructed Au(111)-(1×1) surface the well-known threefold symmetry pattern in the SHG intensity, while Au(100)-(1×1) shows no rotational anisotropy, as expected for C<ce:inf loc="post">4v</ce:inf> symmetry. For the reconstructed Au(111)-(1×23) surface, however, an additional onefold symmetry pattern is observed, which allows in situ monitoring of the structural transition between (1×1) and (1×23). For the reconstructed Au(100)-(5×20) surface, a threefold symmetry pattern was found.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ber. Bunsenges. Physik. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1175</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>R.J.</ce:given-name>
+                                       <ce:surname>Gale</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Spectroelectrochemistry, theory and practice</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ch. 4</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.R.</ce:given-name>
+                                 <ce:surname>Melroy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Samant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Borges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Blum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Albarelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>McMillan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Albruña</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>728</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Samant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Toney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Borges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Blum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.R.</ce:given-name>
+                                 <ce:surname>Melroy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>220</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Gewirth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Bard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5563</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wiechers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Twomey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Behm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>248</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>451</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.L.</ce:given-name>
+                                 <ce:surname>Shannon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Koos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Richmond</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1440</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Richmond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.L.</ce:given-name>
+                                 <ce:surname>Shannon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Progr. Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Furtak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Lynch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. (Paris)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>C10</sb:first-page>
+                              <sb:last-page>137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>929</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>579</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Zei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lehmpguhl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kolb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>221</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.L.</ce:given-name>
+                                 <ce:surname>Shannon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Koos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Richmond</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Opt.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3579</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Clavilier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Faure</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Guinet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Durand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.R.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The principles of nonlinear optics</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Guyot-Sionnest</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.R.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8254</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Sipe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>van Driel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G. Marowsky, G. Lüpke, R. Steinhoff, A. Friedrich, B. Pettinger and D.M. Kolb, to be published</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.F.</ce:given-name>
+                                 <ce:surname>Heinz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Loy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Van Hove</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Stair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Biberian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Kesmodel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bartos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>189</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Van Hove</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Koestner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Stair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Biberian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Kesmodel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bartos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Somorjai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>218</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

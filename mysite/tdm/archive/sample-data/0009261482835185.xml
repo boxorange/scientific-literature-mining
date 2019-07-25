@@ -1,0 +1,807 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0009261482835185</prism:url><dc:identifier>doi:10.1016/0009-2614(82)83518-5</dc:identifier><eid>1-s2.0-0009261482835185</eid><prism:doi>10.1016/0009-2614(82)83518-5</prism:doi><pii>0009-2614(82)83518-5</pii><dc:title>The computation of the chemical potential of a fluid </dc:title><prism:publicationName>Chemical Physics Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00092614</prism:issn><prism:volume>86</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>335</prism:startingPage><prism:endingPage>339</prism:endingPage><prism:pageRange>335-339</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1982-02-26</prism:coverDate><prism:coverDisplayDate>26 February 1982</prism:coverDisplayDate><prism:copyright>Copyright © 1982 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Powles, J.G.</dc:creator><dc:description>
+               Abstract
+               
+                  “Non-destructive” computer simulation techniques for evaluating the chemical potential of a fluid are discussed. A simple case is used to obtain explicit analytical expressions for the functions involved. This illustrates the physical content of the statistical-mechanical analysis and is useful in explaining puzzling behaviour and in evaluating data on more realistic models of fluids obtained in this way.
+               
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/0009261482835185" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0009261482835185" rel="scidir"/></coredata><scopus-id>0000216453</scopus-id><scopus-eid>2-s2.0-0000216453</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000216453" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271350</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20011107">2001-11-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20011107">2001-11-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-10-02T05:56:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0009261482835185</xocs:eid>
+      <xocs:pii-formatted>0009-2614(82)83518-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>0009261482835185</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0009-2614(82)83518-5</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0009261400X0348X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T13:34:11.375181-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19820226</xocs:date-search-begin>
+      <xocs:year-nav>1982</xocs:year-nav>
+      <xocs:indexeddate epoch="1005091200">2001-11-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0009-2614</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00092614</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>86</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>86</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 86, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>335</xocs:first-fp>
+      <xocs:last-lp>339</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>335</xocs:first-page>
+         <xocs:last-page>339</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19820226</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>26 February 1982</xocs:cover-date-text>
+      <xocs:cover-date-start>1982-02-26</xocs:cover-date-start>
+      <xocs:cover-date-year>1982</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1982 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>COMPUTATIONCHEMICALPOTENTIALAFLUID</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>POWLES</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HOOVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3609</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ROWLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>401</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ADAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>647</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ADAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>211</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>ADAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1241</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>WIDOM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2808</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>ROMANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1765</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>POWLES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>715</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>NICOLAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1429</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10"/>
+         <xocs:ref-info refid="BIB11"/>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>JONAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>MCDONALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>40</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>MCDONALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4766</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>MCDONALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2308</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>JACUCCI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1005</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>VALLEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MODERNTHEORETICALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>TORRIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>POWLESX1982X335</xocs:refkey3>
+         <xocs:refkey4lp>POWLESX1982X335X339</xocs:refkey4lp>
+         <xocs:refkey4ai>POWLESX1982X335XJ</xocs:refkey4ai>
+         <xocs:refkey5>POWLESX1982X335X339XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0009-2614(82)83518-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>0009261482835185</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0009261482835185</xocs:eid>
+         <xocs:doi>10.1016/0009-2614(82)83518-5</xocs:doi>
+         <xocs:cid>271350</xocs:cid>
+         <xocs:timestamp>2015-10-03T13:34:11.375181-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1982-02-26</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0009261482835185-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482835185/MAIN/application/pdf/0ff0f0aab07f9aaf545ce41c8f881fc0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482835185/MAIN/application/pdf/0ff0f0aab07f9aaf545ce41c8f881fc0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>423961</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0009261482835185-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0009261482835185/PREVIEW/image/png/4987dd5737cb7f340e8f56a68e004901/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0009261482835185/PREVIEW/image/png/4987dd5737cb7f340e8f56a68e004901/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58347</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Volume 86, number 4    CHEMICAL PHYSICS LETTERS    26 February 1982    THE COMPUTATION OF THE CHEMICAL POTENTIAL OF A FLUID    J.G. POWLES    Tlie Physics Laboratories. University of Kent, Canterbury. UK    Received 5 December 1981    "Non-destructive" computer simulation leclimqucs for evaluating the chemical potential or J fluid are discussed. A  simple case is used to obtain c\plicit analytical expressions for the functions involved. This diuslr.itcs the physical content  of the statistical-mechanical analysis and is useful in c\plaining puzzling behaviour and in evaluating data on more rcali-itic  models of fluids obtained in this way.    I. Introduction    The evaluation of the chemical potential for J  fluid by computer simulation methods is more diffi-  cult than for mechanical or other thermal properties.  This has been attempted by essentially integrating  the equation of state at constant temperature, which  has many disadvantages [1,2], or by using the grand  canonical ensemble (GCE) Monte Carlo (MC) method  [3], which requires a special programme. Adams [4]  has used the Widom [5] method, described below,  see eq. (1), for Iiard spheres, for MC. The Widom  method has also been used for molecules to calculate  the entropy and vapour pressure by MC by Romano  and Singer [6]. The same method, and data, was  used by Powles [7] to calculate the coexistence line  for liquids resembling chlorine and bromine. Romano  and Singer presented some evidence that this method  is also valid for molecular dynamics (MD). Powles et  al. [8] have shown that the Widom method is valid  in MDfora L-J 12-6 potential and fora L-J 12-6  shifted-force potential [9]. Recently, De Oliviera  [10] and Srung and Gubbins [11] show that there is  a complementary method to Widom's, see eq. (2),  which has considerable advantages, especially for the  study of solutions [ 12]. Shuig and Gubbins also show  that it is advantageous to study the energy distribu-  tion functions introduced into computer simulations  by McDonald and Singer [13] and extensively used  by Jacucci and Quirke [14] (see also ref. [15] and    references tlierem).    The object of this letter is to explain some rather  puzzling properties of these panicle-energy methods  and the corresponding distribution functions. We call  them non-destructive methods because they can be  simply added to any existing MC or MD programme.    2. Discussion of the formulae    According to Widom [5], if we calculate the energy  to add a fictitious particle, whicli does not interact  with the other particles, to a canonical ensemble then  tlic residual chemical potential (i.e. the difference be-  tween (lie chemical potential and (hat for an ideal gas  at the same temperature and density) is given by    fti = -ln&lt;exp(-pi&lt;c)) ,    (1)    where H{ is tlie interaction energy of the dddcd par-  ticle and 15 is the inverse absolute temperature. (N.B.  we use reduced units throughout, so as to avoid the  ubiquitous*: tlius (3 stands for elkT, wliere e is a char-  acteristic energy, etc.).    The average &lt; } is a canonical average in MC and  is a time average in MD [8].    Shing shows thdt if My is the interaction energy of  a real particle of the fluid llien    fti=+In&lt;exp(pM )) ,    (2)    where ",. is the energy of interaction of any one of tlic    0 009-2614/82/0000-0000/S 02.75   1982 North-Holland    335    Volume 86, number 4    CHEMICAL PHYSICS LETTERS    26 February 1982    real particles. Thus  &lt;exp(-(?Kr)XexpO^)} = 1 .                     (3)    If the normalised energy distribution function is  f[ii) for tlie fictitious particle and g(u) for the real par-  ticle, then [ll,12j    exp(-(3H) / ( ) = exp(-flu) ^(M) .                 (4)  Integrating (4) over H gives (1). Rearranging (4) to  exp(P )gO&lt;) = exp(fti)/( ) ,                   (4')    and integrating gives (2).    Slung and Gubbins [11] evaluate /2, using MC, from    /( )exp(-^)k( )]-1 ,                    (5)    where tlie average is over u. Powles et al. [8], using  MD, write    ln[A")te(")I=P"-PP.                   (6)    They plot the Ihs of (6) versus u and obtain fi from  the slope and -{Sfi from tlie intercept atu = 0. This  has some advantage in MD since in a microcanonical  ensemble fS is a fluctuating quantity. It is also rather  easier to judge inequality ofthedala.//oiveiwboth  (l)and (2) are difficult to use (1) because the ficti-  tious particle is unhkely to find "holes" (where iif is  large and negative); (2) because the real particle is  unlikely to be in a dense region (where u is large and  positive). This is especially true for high densities.  There are similar problems in the GCE method. It is  observed empirically in the simulation however that    (1) liolds up much better than (2) and that the prod-  uct on the Ihs of (3) is smaller than unity (see fig. 1).  On the other hand, (5) and (6) both give almost the  same value offi as that obtained from (1) rather than    (2). We would expect that, if/(") and g(u) overlap  sufficiently, then (5) or (6) would be better than (1)  or (2) because the latter are extremely sensitive to  the appropriate "tail" of/(M), or^(u), where the  statistics are poor. On tlie other hand for (5) or (6)  we onJy have to be sure tliat the normalisation and  statistical uncertainty are acceptable in the overlap  region.    3. Analysis of some special cases    The asymmetry between (1) and (2) is puzzling    and we seek to explain it by a special case. This also  serves a pedagogical purpose in clarifying the physical  significance of/(M) and g(u).    Consider the low-density case and the square-well  potential with a finite core (see inset to fig. 1). It is  clear that, in this limit, in obtaining/(u), one can as-  sume that the atoms are distributed at random and  that the fictitious particle can only have the energies  M,   1 and 0. /( ) degenerates to three 6 functions.  Tlie intensity of each is proportional to the volume  occupied by the cores, the wells, and the rest, respec-  tively, and so    /(;&lt;)= (1 -^)8(ii)+R^ -1)5((/+1)    +R8(u-Hf)+0(p2),                  (7)    where R = ^vp. (Henceforward we usually omit 0 (p2)  in the formulae.) Hence        M    }l(r)    0--1  aU r          Fig. 1. The variation of(exp(-puf)&gt;&lt;c\p(pur)),onalogscale,  as a function of reduced density for an atomic fluid with a  L-J 12-6 shiftcd-forcc potential cut at r = 3 (data from the  simulation in ref, (81), The points a are fora reduced inverse  temperature 0 ra 1.3 and o for p " 0.8. f.c.c. is the density for  iacc&lt;entied cubic packing with nearest neighbours at the po-  tential minimum. The straight line is the approximate relation,  (20'), of this paper. The points + and X are for &lt;exp(-(tof)  X (cxpd-P",.)), see eq. (22). The inset shows &lt;S&gt;{r) for the soft-  core square-well potential.    336    Volume 86, number 4    CHEMICAL PHYSICS LETTERS    &lt;exp(-pK)&gt; = f exp(-(to)/(M) dw    (8)    = 1 +/?{[exp(p)- 1](73 - 1)- 1 +exp(-( f)}  But  fti=2(| r)B2p+0(p2),                    (9)    where B^ is (lie conventionally reduced second virial  coefficient, i.e.    (10)    and ^(r) is the reduced pair-interaction potential. Here,    fi, = 1 - [exp(  - 1 ](T3 - 1) - exp(-W.    Thus    expW)= 1  /?{[exp(f3)- 1](73 - 1)    -l+exp(-jMf)}.                      (11)    For the upper signs (11) is the same as (8)and thus  explicitly confirms (I) for the low-density limn and for  tins potential.    Similarly g(ti) is the sum oftliree 5 functions. How-  ever here we are sitting on a real particle and the prob-  ability of finding another panicle at distance r is pro-  portional to the pair-distribution function, g^(r). But    ^(r)=exp(-l30(r)]+0(p),                (12)  consequently,    00    &lt; ,&gt; = 4irp f &lt;f&gt; expC-P^dr,                (13)  0    so that here    &lt;u,) = R [M exp(-JSW) - Cy3 - 1) exp &lt;3] .      (14)    Writing    g(tt) = v&amp;(u) +^i5(u + 1) + eS(u - M)    (r+/i+e=l)                      (15)    we find  (u}=eAf-ii,                         (16)    1) cxp(P)5 (u +1) + R exp(-^/)5 (u - M).  (17)    26 FcbtUdty 1982  and similarly for (ii^), so that  g(u) = [1 - R{^ - l)cxptf) - R exp(-W] S(u)    +.R(73-  Thus  (e\p(Q!pn)&gt; = 1 -/?{{cxp(-|SWy)-exp[-^/(I -a)]}    + {exptfj-expW -a)l}(73 -1)} .       (18)    where a is any number.    Clearly (18) agrees with (11), with the lower signs,  iftt = 1. This explicitly confirms (2) for this particular  case.    We call the Ihs of (6) L(u). Using (7) and (17) we  see that a plot ofL(u) versus u degenerates to three  points,    Z.(-1)=-P,    L(0)=R[(-Y3 - I)[exp(P)- 1] - 1 +exp(-^W}    and    L(flf)=W.    which confirms tliat the slope island, in view of (11),  that the intercept is  fti.    Taking an even more special c.ise, we can let M  -&gt;    and we have the conventional square-well poten-  tial. Foif(u) the third 6 function retreats to infinity  and    W")= (1 -^-Y3 - l)cxptf)}5( )    +/;(r'-l)c?4)(p)5 ( +!).              (19)    Thus L^(u) degenerates to two points with (lie  appropriate properties.    Removing the well by putting "y = 1, we get the  hard-sphere ease and L(u) degenerates to a point,  Z,ns(0) = -/?, which is -flu for this case [see (11)|.  The fact that a line of any slope can be drawn through  one point reflects the fact that, for a hard-sphere fluid,  no residual thermodynamic property can depend on  temperature.    Of course, for a perfect gas, f(u) = g(fi) =6(11).    We now turn to the apparent asymmetry, in simula-  tion, between (1) and (2) expressed by the fact tlut  the Ills of (3) is found to be less than one, even for  low densities.    337    Volume 86, number 4    CHEMICAL PHYSICS LETTERS    26 Febroary 1982    Of course for/(u) and g(u) given in (7) and (17),  eq. (3) is satisfied, to 0 (p). However if our runs are  loo short and/or the finite energy available in the sim-  ulation is too small,we shall Find for^(M),not (17)  but (19), wincli is properly normalised, as it would be  in a numerical experiment, but is now erroneous be-  cause it does not correspond to the soft-core potential.  We call this ,?g _ ( ). However /(")&gt; which we now call  /^_-( ), is still given by (7) because there is no reason  to exclude tlie term 5 (i&lt; - HI) for a fictitious particle  inserted at random. Hence, at least in this case, eq. (1),  using .fapp(u)&gt; B'^s the correct result. But eq. (2), us-  ing f?a (u) gives a false result. More explicitly we  find using (7) and (19) in (I) and (2) that    &lt;exp(-(3u,))&lt;cxp(+pt&lt;t)&gt; = 1 - |irp + 0 (p2),    (20)  for (SAf 5&gt; 1 ,    ; exp(- girp).    (20')    Tlus is a remarkable result in that it docs not de-  pend on either the temperature or the potential.  Clearly tins property will not persist unchanged for  higher densities or other potentials, but it may well  be true in first approximation.    We have tested eq. (20') against actual simulation  data as shown in fig. 1. The relation holds remarkably  well even up to quite large densities. In particular the  weak dependence on temperature is verified. For  higher densities there is a precipitous fall as the den-  sity approaches the usual limit of f.c.c. packing. At  high densities eq. (1) surely also becomes defective  but this is more explicitly a many-body effect. It be-  comes increasingly unlikely that tliere are suitable  "holes" surrounded by a large number of atoms at a  suitable distance since this requires a large local con-  centration of energy which is in inadequate supply in  the simulation   but is, at least in principle, available  in a macroscopic thermodynamic system. Thus we  have some understanding of the aforementioned asym-  metry.    We note that if we usegy (u) in (5) or (6) there is  still an error in (lie predicted value offi. For example    I" 1/appWSappWl    =/?{(73_l)[exp(0)-lj-l},           (21)    whereas it sliould (see (11)] liave a term exp(-&lt;2flf).  However, this may again be expected to be a less seri-  ous error than arises from the use ofeq. (2), as illus-  trated by (20).    4. A salutary example    We now give an example of the perils of numerical  "experiments". The author at one stage had a theory,  since found to be defective, in which it appeared that  eq. (2) should have a factor i/2 inside the exponential.  This seemed to be confirmed by the simulation in that  one then obtained much better agreement between  (1) and (2), as shown in fig. 1. Our simple example  also goes some way to explaining this misleading ob-  servation. Suppose we use (18) for the square-well po-  tential (M-*  ) and determine the value of a by as-  suming that, instead of (2),    exp(SO=&lt;exp(a^)&gt;.                     (22)  We find that    a^l-r^hW-OL T^l.      (23)    For a realistic potential, say f3 = 3, and for the usual  liquid range, say 0.7 &lt;j? &lt; 1.3, we find    0.42 &lt; a &lt; 0.69.    Thus we have a plausible explanation of the false nu-  merical result that a "a 1/2, until one gets to very high  densities.    5. Conclusion    If these results cany over even approximately for  higher densities and are not unduly sensitive to the  form of the potential, we conclude as follows: For the  evaluation of the chemical potential by computer sim-  ulation by non-destructive methods, (2) is very poor,  (1) is good except at high densities and either (5) or  (6) is the most reliable method. However, even (5) and  (6) give trouble at high densities and low tempera-  tures where /(u) and g(u) only overlap on their "tails".  This can be overcome in some measure by "umbrella"  sampling [16] m MC II 1,12] and appears to be a less  serious problem in MD [8]. This does not at all ex-  clude the use of (2) in analytical work, although it  might be worth bearing in mind in some approxima-  tions.    338    Volume 86, number 4    Acknowledgement    CHEMICAL PHYSICS LETTERS    26 February 1982    Acknowledgement is made of many helpful discus-  sions with Dr. W.A.B. Evans, Dr. N. Quirke, Mrs. K.  Shing and Professor K.E. Gubbins, and for information  about their work prior to publication.    References    (11 W.G. Hoover and F.H. Rce, J. Chem. Phys. 49 (1968)    3609.    |2) J.-P. Hansenand L. Veriet, Phys. Rev. 184 (1969) 151.  (3) L.A. Rowley, D. Nicholson and N.G. Parsonage, J.    Comp. Phys. 17 (1975) 401;    D.J. Adams, Moj. Phys. 32 (1976) 647; 37 (1979) 211.  [4] D.J. Adams, Mol. Phys. 28 (1974) 1241.  [5] B. Widom, J. Cliem. Phys. 39 (1963) 2808.  [6] S. Romanoand K. Singer, Mol. Phys. 37 (1979) 1765.    [7j J.G. Powles.Mol. Phys. 41 (1980) 715.    (8| l.G. Powlcs, W.A.B. Evans and N. Quirke, lo be published.    (9j J.J. Nicolas, K E. Gubbms, W.B. Strcctt and D.J.    Tiidesley, Mol. 1-hys. 37 (1979) 1429.  [ 10] M.J. DC Olincra, private communication to K.C. Gubbins,    (1981).    (111 K.S. Shmg and K.L. Gubbins, to be published.  [12j R.A. Jonah, K.S. Shing md K.C. Gubbins. Proceedings    or the 8lh Symposium on Thcrmopliysical Properties    (1981), to be published.  [ 131 l.R. Me Donald and K. Singer, Discussions t-'anday    Soc. 43 (1967) 40,1. Chcm. Phys. 47 (1967) 4766,    50(1969)2308.  [141 G.Jacucci and N.Quukc, Mol. Phys. 40 (1980) 1005.    to be published.  [15| J.P. Valleau and G.M. Tonic, in Modem theoretical    chemistry, Vol.5, ed. B.J. Seme, (Plenum Press, New    York,1977)ch.5.  [16) G.M. Tome wd J.P. VallcJu.J, Comp. Phys. 23 (1977)    187.    339  dy effect. It be-  comes increasingly unlikely that tliere are suitable  "holes" surrounded by a large number of atoms at a  suitable distance since this requires a large local con-  centration of energy which is in inadequate supply in  the simulation   but is, at least in principle, available  in a macroscopic thermodynamic system. Thus we  have some understanding of the aforementioned asym-  metry.    We note that if we usegy (u) in (5) or (6) there is  still an error in (lie predicted value offi. For example    I" 1/appWSappWl    =/?{(73_l)[exp(0)-lj-l},           (21)    whereas it sliould (see (11)] liave a term exp(-&lt;2flf).  However, this may again be expected to be a less seri-  ous error than arises from the use ofeq. (2), as illus-  trated by (20).    4. A salutary example    We now give an example of the perils of numerical  "experiments". The author at one stage had a theory,  since found to be defective, in which it appeared that  eq. (2) should have a factor i/2 inside the exponential.  This seemed to be confirmed by the simul</xocs:rawtext>
+   <xocs:serial-item>
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CPLETT</jid>
+            <aid>82835185</aid>
+            <ce:pii>0009-2614(82)83518-5</ce:pii>
+            <ce:doi>10.1016/0009-2614(82)83518-5</ce:doi>
+            <ce:copyright type="unknown" year="1982"/>
+         </item-info>
+         <head>
+            <ce:title>The computation of the chemical potential of a fluid</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.G.</ce:given-name>
+                  <ce:surname>Powles</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>The Physics Laboratories, University of Kent, Canterbury, UK</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="5" month="12" year="1981"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0010">“Non-destructive” computer simulation techniques for evaluating the chemical potential of a fluid are discussed. A simple case is used to obtain explicit analytical expressions for the functions involved. This illustrates the physical content of the statistical-mechanical analysis and is useful in explaining puzzling behaviour and in evaluating data on more realistic models of fluids obtained in this way.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail>
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Hoover</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Ree</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3609</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Verlet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>184</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Rowley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Nicholson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.G.</ce:given-name>
+                                 <ce:surname>Parsonage</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comp. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>401</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Adams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>647</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Adams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>211</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Adams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1241</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Widom</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2808</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Romano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1765</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Powles</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>715</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.G. Powles, W.A.B. Evans and N. Quirke, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Nicolas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Streett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tildesley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1429</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M.J. De Oliviera, private communication to K.E. Gubbins, (1981).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K.S. Shing and K.E. Gubbins, to be published.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Jonah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Shing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Gubbins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proceedings of the 8th Symposium on Thermophysical Properties</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>to be published</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <ce:label>a</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>Mc Donald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Discussions Faraday Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>40</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>b</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>Mc Donald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4766</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>c</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>Mc Donald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2308</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jacucci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Quirke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1005</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>to be published</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Torrie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>B.J.</ce:given-name>
+                                    <ce:surname>Berne</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Modern theoretical chemistry</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>5</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>ch. 5</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Torrie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Valleau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comp. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>
