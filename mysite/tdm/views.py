@@ -48,23 +48,38 @@ def index_folder(path, index='index1'):
                 }
 
 def es_search(searchstr, index_name='index1'):
-    """
-    searches for word in database with specified index
-    """
-    res = es.search(index=index_name, body={"query": {"multi_match": {"query": searchstr, "fields": ["uid", "publisher", "type", "title", "year", "author", "keywords", "abstract"]}}, "highlight":{"fields":{"content":{}}}})
-    results = []
+	"""
+	searches for word in database with specified index
+	highlights terms and returns a 2D array
+	format ) results = [[title, abstract, relevant field 1, relevant field 2, ...]]
+	"""
+	res = es.search(index=index_name, body={"query": {"multi_match": {"query": searchstr, "fields": ["uid", "publisher", "type", "title", "year", "author", "keywords", "abstract"]}}, "highlight":{"fields":{"*":{}}}, "size": 1000})
+	results = []
 
-    print("%d documents found: " % res['hits']['total']['value'])
+	print("%d documents found: " % res['hits']['total']['value'])
 
-    for doc in res['hits']['hits']:
-        # print('%s) %s' % (doc['_id'], doc['_source']['title']))
-        # print(doc)
-        elem = []
-        elem.append(doc['_source']['title'])
-        elem.append(doc['_source']['abstract'])
-        results.append(elem)
+	for doc in res['hits']['hits']:
+		elem = []
+		for field in doc['highlight']:
+			temp_elem = append_fields(doc, 'title', results, elem)
+			temp_elem.append(doc['_source']['uid'])
+			temp_elem2 = append_fields(doc, 'abstract', results, temp_elem)
 
-    return results
+			if field != 'title' or field != 'abstract': # add other lines
+				for line in doc['highlight'][field]:
+					temp_elem2.append(line)
+		results.append(temp_elem2)
+
+	return results
+
+def append_fields(doc, field, result, elem):
+	if field in doc['highlight']:
+		for line in doc['highlight'][field]:
+			elem.append(line)
+	else:
+		elem.append(doc['_source'][field])
+
+	return elem
 
 # ------------------------------------------------------------------------------
 
@@ -136,6 +151,7 @@ def search(request):
 		#results = es_search(' '.join(query_tokens))
 		results = es_search(query)
 
+
 		'''
 		dirs = []
 		#dirs.append("/home/gpark/corpus_web/tdm/archive/PMC/")
@@ -178,8 +194,7 @@ def search(request):
 	else:
 		message = ''
 
-	print(results)
-
+	print(len(results))
 	context = {
 		'message': message,
 		'results': json.dumps(results)
