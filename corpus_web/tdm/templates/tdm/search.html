@@ -1,0 +1,250 @@
+{% load static %}
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Search</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{% static 'django_static/assets/css/main.css' %}" />
+		<noscript><link rel="stylesheet" href="{% static 'django_static/assets/css/noscript.css' %}"/></noscript>
+		
+		<style>
+		.collapsible {
+			background-color: white;
+			color: black;
+			cursor: pointer;
+			padding: 10px;
+			width: 100%;
+			border: none;
+			text-align: left;
+			outline: none;
+			font-size: 16px;
+		}
+
+		.active, .collapsible:hover {
+			background-color: white;
+			color: black;
+			font-weight: bold;
+		}
+
+		.content {
+			padding: 0 18px;
+			display: none;
+			overflow: hidden;
+			background-color: #f1f1f1;
+			color: black;
+		}
+
+		.topnav {
+		  overflow: hidden;
+		  background-color: #e9e9e9;
+		}
+
+		.topnav a {
+		  float: left;
+		  display: block;
+		  color: black;
+		  text-align: center;
+		  padding: 14px 16px;
+		  text-decoration: none;
+		  font-size: 17px;
+		}
+
+		.topnav a:hover {
+		  background-color: #ddd;
+		  color: black;
+		}
+
+		.topnav a.active {
+		  background-color: #2196F3;
+		  color: white;
+		}
+
+		.topnav .search-container {
+		  width: 100%;
+		  float: left;
+		  margin:8px auto;
+		}
+
+		.topnav input[type=text] {
+		  padding: 6px;
+		  margin-left: 8px;
+		  font-size: 17px;
+		  border: none;
+		}
+		
+		.topnav .search-container button {
+		  float: right;
+		  padding: 8px 40px;
+		  margin-left: 8px;
+		  margin-right: 8px;
+		  font-size: 17px;
+		  border: none;
+		  cursor: pointer;
+		}
+
+		.topnav .search-container button:hover {
+		  background: #ccc;
+		}
+		
+		/* unvisited link */
+		a:link {
+		  color: #0000FF;
+		}
+
+		/* visited link */
+		a:visited {
+		  color: #800080;
+		}
+
+		/* mouse over link */
+		a:hover {
+		  color: #FF0000;
+		}
+
+		/* selected link */
+		a:active {
+		  color: blue;
+		}
+
+		div.a {
+			font-size: 30px;
+			font-weight: bold;
+		}
+		
+		div.b {
+			font-family: Verdana;
+			font-size: 16px;
+			color: black;
+		}
+		</style>
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<div id="header">
+					<!-- Inner -->
+					<!--
+						<div class="inner">
+							<header>
+								<h1><a href="{% url 'tdm:index' %}" id="logo">Scientific Literature Mining</a></h1>
+							</header>
+						</div>
+					-->
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="{% url 'tdm:index' %}">Home</a></li>
+								<li><a href="{% url 'tdm:index' %}#main1">Overview</a></li>
+								<li><a href="{% url 'tdm:index' %}#main2">Data Stat</a></li>
+								<li>
+									<a href="{% url 'tdm:index' %}#">Application</a>
+									<ul>
+										<li><a href="{% url 'tdm:search' %}">Article Search</a></li>
+										<li><a href="{% url 'tdm:xas_classification' %}">XAS Classification</a></li>
+									</ul>
+								</li>
+								<li><a href="{% url 'tdm:index' %}#contact">Contact</a></li>
+							</ul>
+						</nav>
+				</div>
+
+			<!-- Main -->
+				<!-- <div class="wrapper style2"> -->
+
+					<div class="container" >
+						<!--
+						<b>Type keyword(s).</b>
+						<form action="{% url 'tdm:search' %}" method="get" accept-charset="utf-8">
+							<input type="text" name="q" placeholder="Type keyword(s).">
+							<input type="submit" value="Search">
+						</form>
+						-->
+						<div class="a" style = "margin: 25px 20px 0 20px;">Article search</div>
+						<p style = "margin: 0 20px 0 20px;"> The search engine displays sentences for each article.
+							The basic search operation is 'OR', which looks for documents having any of search terms regardless of order. 
+							Use 'AND' between terms if you look for documents where all terms must be present regardless of order. (e.g., transition and metal).
+							If you'd like to search for a phrase (i.e. words in the exact order), enclose search terms with double quotation marks. (e.g., "transition metal").
+							The search is case-insensitive.</p>
+						<div class="topnav" style = "margin: 5px 20px 0 20px;">
+							<!--
+							<a class="active" href="#home">Home</a>
+							<a href="#about">About</a>
+							<a href="#contact">Contact</a>
+							-->
+							<div class="search-container">
+								<form action="{% url 'tdm:search' %}" method="get" accept-charset="utf-8">
+									<!-- ref: https://stackoverflow.com/questions/12858979/put-input-submit-on-same-line-as-input-box -->
+									<button type="submit"><i class="fa fa-search"></i></button>
+									<div style="overflow: hidden; padding-right: .5em;">
+										<input type="text" name="q" placeholder="Search.." name="search">
+									</div>
+								</form>
+							</div>
+						</div>
+						<br>
+						<font size="4">{{ message }}</font>
+						<br>
+						<p id="search_results"></p>
+						
+						<script>
+						// Ref: https://stackoverflow.com/questions/25599775/uncaught-syntaxerror-unexpected-token-while-rendering-a-django-template	
+						var results = {{ results|safe }};
+						var text = "";
+
+						for (i = 0; i < results.length; i++) 
+						{ 
+							sents = "";
+							for (j = 2; j < results[i].length; j++)
+							{
+								//sents += "(" + j + ") " + results[i][j] + "<br />";
+								sents += "<li>" + results[i][j] + "</li>";
+							}
+							text += "<button class='collapsible'>" + results[i][0].join("") + "</button><div class='content'>" + 
+									"<p><a href=\"https://doi.org/" + results[i][1] + "\" target=\"_blank\"'>View original article</a><ol>" + sents + "</ol></p></div>";
+						}
+
+						document.getElementById("search_results").innerHTML = text;
+
+						var coll = document.getElementsByClassName("collapsible");
+						var i;
+						
+						// Ref: https://www.w3schools.com/howto/howto_js_collapsible.asp
+						for (i = 0; i < coll.length; i++) 
+						{
+							coll[i].addEventListener("click", function() {
+								this.classList.toggle("active");
+								var content = this.nextElementSibling;
+								if (content.style.display === "block") 
+								{
+									content.style.display = "none";
+								} 
+								else
+								{
+									content.style.display = "block";
+								}
+							});
+						}
+						</script>
+					</div>
+
+				<!-- </div> -->
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

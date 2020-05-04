@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  margin-left: 30px;
+}
+</style>
+</head>
+<body>
+
+<p class="ex1"><a href={{ article_link }} >View original article</a></p>		
+
+{% for item in fig_data %}
+	<p class="ex1"><strong>{{ item.fig_label }}</strong></p>
+	<p class="ex1"><img src="{% static item.fig_file %}" alt="No image"></p>
+	<p class="ex1">{{ item.fig_caption }}</p>
+	<hr>
+{% endfor %}
+
+
+</body>
+</html>

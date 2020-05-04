@@ -1,0 +1,288 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jstree/3.3.8/themes/default/style.min.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jstree/3.3.8/jstree.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-slimScroll/1.3.8/jquery.slimscroll.min.js"></script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="{% static 'django_static/assets/css/main.css' %}" />
+	<noscript><link rel="stylesheet" href="{% static 'django_static/assets/css/noscript.css' %}"/></noscript>
+	
+	
+	<title>XAS Tree</title>
+	
+	<script type="text/javascript">
+		// reference: https://everyething.com/Example-of-simple-jsTree-with-static-JSON-data
+		// reference: https://www.npmjs.com/package/jstree
+		/*
+		var data = {{ data|safe }};
+		
+        $(function () {
+			createJSTree(data);
+        });
+
+        function createJSTree(data) {
+            $('#XASJSTree').jstree({
+                'core': {
+                    'data': data
+					}
+            });
+        }
+		*/
+    </script>
+	
+	<style>
+	div.a {
+		margin-top: 25px;
+		font-size: 30px;
+		font-weight: bold;
+	}
+	
+	div.b {
+		font-family: Verdana;
+		font-size: 16px;
+		color: black;
+	}
+	
+	/* wrap node text 
+	   ref: https://stackoverflow.com/questions/15070859/wrapping-leaf-text-in-jstree
+			https://stackoverflow.com/questions/24746781/how-do-i-get-a-jstree-node-to-display-long-possibly-multiline-content
+	*/
+	.jstree-anchor {
+		/*enable wrapping*/
+		white-space : normal !important;
+		/*ensure lower nodes move down*/
+		height : auto !important;
+		/*offset icon width*/
+		padding-right : 24px;
+	}
+	</style>
+</head>
+<body class="no-sidebar is-preload">
+	<!-- Header -->
+		<div id="header">
+
+			<!-- Inner -->
+			<!--
+				<div class="inner">
+					<header>
+						<h1><a href="{% url 'tdm:index' %}" id="logo">Scientific Literature Mining</a></h1>
+					</header>
+				</div>
+			-->
+			<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li><a href="{% url 'tdm:index' %}">Home</a></li>
+						<li><a href="{% url 'tdm:index' %}#main1">Overview</a></li>
+						<li><a href="{% url 'tdm:index' %}#main2">Data Stat</a></li>
+						<li>
+							<a href="{% url 'tdm:index' %}#">Application</a>
+							<ul>
+								<li><a href="{% url 'tdm:search' %}">Article Search</a></li>
+								<li><a href="{% url 'tdm:xas_classification' %}">XAS Classification</a></li>
+							</ul>
+						</li>
+						<li><a href="{% url 'tdm:index' %}#contact">Contact</a></li>
+					</ul>
+				</nav>
+		</div>
+
+	<div class="container" style="width: 80vw; padding:10px 10px;">
+		<div class="a">Article classification by X-ray absorption spectroscopy (XAS)</div>
+		<p>A tree view represents a hierarchical view of scientific papers classified by XAS spectral regions (EXAFS, XANES) and XAS edges (K/L/M) for 30 transition metals (3/4/5d).<br>
+		Click on the title to see the figure information if available and view the original published paper. Number in parentheses () indicates the number of papers belonging to the category.
+		</p>
+		<!--<div id="header"></div>-->
+		<div class="well clearfix">
+			<div class="col-md-12">
+				<!--panel-->
+				<div class="panel panel-default">
+				<div class="panel-heading">
+					<div class="input-group">
+					<input type="text" class="form-control" placeholder="Search paper..." id="search">
+					<span class="input-group-btn" id="click-btn">
+						<button class="btn btn-default" type="button" id="btn-search">Search</button>
+					</span>
+					</div><!-- /input-group -->
+				</div>
+				<div class="panel-body">
+					<div class="row b">
+						<div class="col-md-12" id="treeview_json"></div>
+					</div>
+				</div>
+				</div>
+			</div>
+			<!--
+			<div class="col-md-8">
+			-->
+				<!--panel-->
+				<!--
+				<div class="panel panel-default">
+				<div class="panel-heading">
+				Select Node - 
+				</div>
+				<div class="panel-body">
+					<div class="">
+						Content
+					</div>
+				</div>
+				</div>
+			</div>
+			-->
+		</div>
+		<!--<div id="footer"></div>-->
+	</div>
+	<!--<div id="XASJSTree"></div>-->
+	
+	<!-- 
+	In any template that uses a POST form, use the csrf_token tag inside the <form> element if the form is for an internal URL  
+	Ref: https://stackoverflow.com/questions/20895526/forbidden-403-csrf-verification-failed-request-aborted-even-using-the-csr
+		 https://docs.djangoproject.com/en/2.2/ref/csrf/
+	-->
+	<form id="form" method="post" action="{% url 'tdm:xas_page' %}" target="window">{% csrf_token %}
+		<!--
+		<input type="hidden" name="fig_label" value="" />
+		<input type="hidden" name="fig_caption" value="" />
+		<input type="hidden" name="fig_file" value="" />
+		<input type="hidden" name="data" value="" />
+		-->
+		<input type="hidden" name="article_link" value="" />
+	</form>
+</body>
+</html>
+
+<script type="text/javascript">
+/**
+ * reference: https://www.js-tutorials.com/jquery-tutorials/jstree-example-href-jstree-search-node-scrollbar/
+ * In the reference, look at the demo link at the bottom.
+ */
+	var jsonTreeData = {{ data|safe }};
+	
+	$(document).ready(function(){
+		//$('#header').load('../header-ads.html');
+		//$('#footer').load('../footer-ads.html');
+		
+		// "icon" : "jstree-file",
+
+		$('#treeview_json').jstree({
+			'core' : {
+				'data' : jsonTreeData
+			},
+			"search": {
+				"case_insensitive": true,
+				"show_only_matches": true,
+				"search_leaves_only": true
+			},
+			'types' : {
+				'paper' : {
+					'icon': 'jstree-file'
+				}
+			},
+			plugins: ["search", "types"]
+		}).bind("select_node.jstree", function (e, data) {
+			var href = data.node.a_attr.href;
+
+			//var parentId = data.node.a_attr.parent_id;
+			
+			if (href == '#')
+				return '';
+				
+			//window.open(href);
+			
+			//var fig_label = data.node.data.fig_label;
+			//var fig_caption = data.node.data.fig_caption;
+			//var fig_file = data.node.data.fig_file;
+			
+			var fig_data = data.node.data;
+
+			//var f = document.getElementById('form');
+			//f.article_link.value = href;
+			//f.fig_label.value = fig_label;
+			//f.fig_caption.value = fig_caption;
+			//f.fig_file.value = fig_file;
+			
+			$( "input[name='article_link']" ).val(href);
+			
+			var i;
+			for (i = 0; i < fig_data.length; i++) 
+			{
+				var fig_label = 'fig_label_' + i;
+				var fig_caption = 'fig_caption_' + i;
+				var fig_file = 'fig_file_' + i;
+				
+				$( "#form" ).append("<input type='hidden' name=" + fig_label + " value='' />");
+				$( "input[name=" + fig_label + "]" ).val(fig_data[i].fig_label);
+				$( "#form" ).append("<input type='hidden' name=" + fig_caption + " value='' />");
+				$( "input[name=" + fig_caption + "]" ).val(fig_data[i].fig_caption);
+				$( "#form" ).append("<input type='hidden' name=" + fig_file + " value='' />");
+				$( "input[name=" + fig_file + "]" ).val(fig_data[i].fig_file);
+				
+				/* the following ways doesn't pass the text properly.
+				$("#form").append("<input type='hidden' name='fig_caption' value=" + fig_data[i].fig_caption + "/>");
+				$("#form").append(
+					$('<input>', {
+						type: 'hidden',
+						name: 'fig_caption'
+						val: fig_data[i].fig_caption 
+					})
+				);
+				*/	
+			}
+			
+			window.open('', 'window');
+			$( "#form" ).submit();
+			
+			/*
+			 * inputs must be removed. if they are alive, then the values are accumulated every time a link is selected.
+			 */
+			for (i = i-1; i >= 0; i--)
+			{
+				$('#myid').remove();
+				
+				var fig_label = 'fig_label_' + i;
+				var fig_caption = 'fig_caption_' + i;
+				var fig_file = 'fig_file_' + i;
+				
+				$( "input[name=" + fig_label + "]" ).remove();
+				$( "input[name=" + fig_caption + "]" ).remove();
+				$( "input[name=" + fig_file + "]" ).remove();
+			}
+			
+
+			/* This is just reference. Remove it later.
+			   Another way to pass parameters by adding them in URL.
+			   When a string contains a semicolon(;), the GET only receives the fraction of string before the semicolon.
+			   
+			var fig_label = data.node.text.fig_label;
+			var fig_caption = data.node.text.fig_caption;
+			var fig_file = data.node.text.fig_file;
+			
+			window.open("{% url 'tdm:xas_page' %}?fig_caption=" + fig_caption + "&fig_label=" + fig_label + "&fig_file=" + fig_file + "&href=" + href);
+			*/
+			
+		});
+		//$('#treeview_json').slimScroll({	// Scrolling dosen't work when a mouse cursor is off the node names.
+		//	height: '600px'
+		//});
+		//$('#search').keyup(function(){	// the event is called when a keyboard key is released. 
+		//	$('#treeview_json').jstree('search', $(this).val());
+		//});
+		$("#click-btn").click(function(e) {
+			e.preventDefault();
+			$("#treeview_json").jstree(true).search($("#search").val());
+		});
+		$('#search').keypress(function(e) {		// when Enter is pressed instead of Search button,
+			if (e.which == 13)	// Enter key pressed
+			{
+				$('#click-btn').click();	// Trigger search button click event
+			}
+		});
+	});
+</script>
