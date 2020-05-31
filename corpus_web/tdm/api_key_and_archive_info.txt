@@ -1,0 +1,31 @@
+##########################################################
+# !! Before use, define the following information. !!
+#
+# 1. API keys
+# 2. Publication paths
+# 3. Error file list (e.g., download error, parsing error)
+#
+##########################################################
+
+API_key/Elsevier = YOUR_ELSEVIER_API_KEY
+API_key/PMC = YOUR_NCBI_API_KEY
+API_key/Springer = YOUR_SPRINGER_API_KEY
+API_key/Crossref = YOUR_CR-Clickthrough-Client-Token
+
+Path/AAAS = path/to/AAAS
+Path/APS = path/to/APS
+Path/Elsevier = path/to/Elsevier
+Path/PMC = path/to/PMC
+Path/RSC = path/to/RSC
+Path/Springer = path/to/Springer
+
+UID_list = path/to/UID_list_file
+
+# download error
+Error_list/Elsevier = ERROR_FILES
+
+# parsing error
+Error_list/Elsevier = ERROR_FILES
+Error_list/Springer = ERROR_FILES
+Error_list/PMC = ERROR_FILES
+Error_list/RSC = ERROR_FILES
