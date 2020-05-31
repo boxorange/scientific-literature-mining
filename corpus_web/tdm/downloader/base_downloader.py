@@ -11,7 +11,7 @@ class BaseDownloader:
 	
 	def __init__(self, publisher):
 		# get key, destination path, uid list, and error list.
-		with open('/home/gpark/corpus_web/tdm/api_key_and_archive_info.txt', 'r') as f:
+		with open('../api_key_and_archive_info.txt', 'r') as f:
 			self.error_list = set()
 			for line in f.readlines():
 				if line.startswith('API_key'):
@@ -33,7 +33,6 @@ class BaseDownloader:
 						self.error_list.update([x.strip() for x in val.split(',')])
 		
 		self.existing_uids = set([line.strip().lower() for line in open(self.uid_list)])
-		#to_be_saved_uids = set()	# update the uid_list file at a time to reduce File I/O
 	
 
 	def remove_duplicates(self, new_uids):
@@ -41,16 +40,6 @@ class BaseDownloader:
 
 		ret_uids = set([x.lower() for x in ret_uids])
 		ret_uids.difference_update(self.existing_uids)   # remove any duplicates
-		
-		#self.existing_uids.update(ret_uids)
-		#self.to_be_saved_uids.update(ret_uids)
-		
-		# debugging
-		if len(ret_uids) != len(new_uids):	
-			tmp = new_uids.copy()
-			tmp = set([x.lower() for x in tmp])
-			for duplicate_uid in tmp.intersection(self.existing_uids):
-				logger.debug(f'>> Existing id: {duplicate_uid}')
 
 		return ret_uids
 	
@@ -61,14 +50,6 @@ class BaseDownloader:
 		
 		self.existing_uids.add(uid)
 
-	''' deprecated - changed to save uids right after write_to_file() since errors frequently occur between articles. - 02-12-2020
-	def save_uid(self):
-		with open(self.uid_list, 'a') as file:
-			for uid in self.to_be_saved_uids:
-				file.write("%s\n" % uid)
-		
-		self.to_be_saved_uids.clear()
-	'''
 
 	def write_to_file(self, response, destination, filename, extension):
 		with open(destination + filename + extension, 'wb') as file:

@@ -185,7 +185,7 @@ def main():
 	start_time = time.time()
 	
 	# set queries based on project: 'Provenance', 'GENESIS', 'COVID-19'
-	keywords, query = set_query('GENESIS')
+	keywords, query = set_query('COVID-19')
 	year = 2020
 	
 	# instantiate downloaders
@@ -198,11 +198,9 @@ def main():
 	# download PMC articles last since it contains other publishers' articles.
 	
 	# TODO: change it to sending the whole query once. query above syntax doesn't work, and OR doesn't work in search. 
-	doi_title = aaasd.retrieve_articles(keywords, year=None, enable_sleep=False)
-	#doi_title = aaasd.retrieve_articles(keywords, year, enable_sleep=False)
-	#update_download_result(doi_title, publisher='AAAS/Science', project='COVID-19')
-	#aaasd.parse_html('aaas_6434_search_test.html')	# debugging. 'aaas_search_test_2.html'
-	'''
+	doi_title = aaasd.retrieve_articles(keywords, year, enable_sleep=False)
+	update_download_result(doi_title, publisher='AAAS/Science', project='COVID-19')
+
 	doi_title = ed.retrieve_articles(query, year)
 	update_download_result(doi_title, publisher='Elsevier', project='COVID-19')
 	
@@ -214,7 +212,6 @@ def main():
 
 	doi_title = pd.retrieve_articles(query, year)
 	update_download_result(doi_title, publisher='PMC', project='COVID-19')
-	'''
 
 	'''
 	download_APS(query)
