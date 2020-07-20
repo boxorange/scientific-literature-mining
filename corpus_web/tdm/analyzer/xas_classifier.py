@@ -523,19 +523,18 @@ def iterate_dir(dirs):
 						if len(results) > 0:
 							print(results)
 							#input("Press Enter to continue...")
-						
 
-						# reference: https://stackoverflow.com/questions/9427163/remove-duplicate-dict-in-list-in-python
-						data['xas_info'] = [dict(t) for t in {tuple(d.items()) for d in results}]	# remove duplicates
-						
-						# reference: https://stackoverflow.com/questions/21035762/python-read-json-file-and-modify
-						f.seek(0)        # <--- should reset file position to the beginning.
-						json.dump(data, f)
-						f.truncate()     # remove remaining part
+							# reference: https://stackoverflow.com/questions/9427163/remove-duplicate-dict-in-list-in-python
+							data['xas_info'] = [dict(t) for t in {tuple(d.items()) for d in results}]	# remove duplicates
+							
+							# reference: https://stackoverflow.com/questions/21035762/python-read-json-file-and-modify
+							f.seek(0)        # <--- should reset file position to the beginning.
+							json.dump(data, f)
+							f.truncate()     # remove remaining part
 
-						#input("Press Enter to continue...")
-						
-						#print("http://doi.org/" + uid)
+							#input("Press Enter to continue...")
+							
+							#print("http://doi.org/" + uid)
 
 
 
@@ -585,7 +584,7 @@ def create_debug_files_for_sample_selection(dirs):
 			outfile.write(el + '\n')
 
 
-def create_xas_tree_json(dirs):
+def create_xas_tree_json(dirs, output_file):
 	xas_tree = [{ "id": "xas", "parent": "#", "text": "XAS", "count": 0 },
 				{ "id": "exafs", "parent": "xas", "text": "EXAFS", "count": 0 },
 				{ "id": "xanes", "parent": "xas", "text": "XANES", "count": 0 }]
@@ -618,74 +617,74 @@ def create_xas_tree_json(dirs):
 
 					with open(os.path.join(root, file), "r") as f:
 						data = json.load(f)
-						
-						uid = data['uid']
-						year = data['year']
-						title = data['title']
-						
-						xas_info = data['xas_info']
-						
-						if uid is None:
-							print(file)
-							sys.exit()
 
-						num = 0
-						for xi in xas_info:
-							fig_id = xi['fig_id']
-							label = ''
-							caption = ''
-							fig_file = ''
+						if 'xas_info' in data:
+							uid = data['uid']
+							year = data['year']
+							title = data['title']
+							xas_info = data['xas_info']
 							
-							for fig in data['figures']:
-								if fig_id == fig['fig_id']:
-									label = fig['label']
-									caption = [x['sent'] for x in fig['caption']]
-									fig_file = fig['fig_file']
-									break
-							
-							region = xi['region']
-							element = xi['element']
-							edge = xi['edge']
+							if uid is None:
+								print(file)
+								sys.exit()
 
-							if region is not None and element is not None and edge is not None:					
-								xas_class = region.lower() + '_' + element + '_' + edge.lower()
+							num = 0
+							for xi in xas_info:
+								fig_id = xi['fig_id']
+								label = ''
+								caption = ''
+								fig_file = ''
 								
-								# TODO: find a better way. this is a very naive way. - 11/08/2019
-								existing_class = False
-								for node in xas_tree:
-									if node['id'].rsplit('_', 1)[0] == uid and node['parent'] == xas_class:
-										node['data'].append({'fig_label': label,
-															 'fig_caption': caption,
-															 'fig_file': fig_file})
-										existing_class = True				 
+								for fig in data['figures']:
+									if fig_id == fig['fig_id']:
+										label = fig['label']
+										caption = [x['sent'] for x in fig['caption']]
+										fig_file = fig['fig_file']
 										break
 								
-								if existing_class == False:
-									xas_tree.append({"id": uid + '_' + str(num), 
-													 "parent": xas_class, 
-													 "text": '[' + year + '] ' + title,
-													 "a_attr": {'href': 'http://doi.org/' + uid},
-													 "type": "paper",
-													 "data": [{'fig_label': label,
-															  'fig_caption': caption,
-															  'fig_file': fig_file}]
-													}) 
-									num += 1
+								region = xi['region']
+								element = xi['element']
+								edge = xi['edge']
 
-									'''
-									TODO: use the jsTree funciton. - 11/08/2019
-										 https://github.com/vakata/jstree/blob/master/src/misc.js#L181
-										 https://github.com/vakata/jstree/issues/2104
-									'''
+								if region is not None and element is not None and edge is not None:					
+									xas_class = region.lower() + '_' + element + '_' + edge.lower()
+									
+									# TODO: find a better way. this is a very naive way. - 11/08/2019
+									existing_class = False
 									for node in xas_tree:
-										if node['id'] == region.lower() + '_' + element + '_' + edge.lower():
-											node['count'] += 1
-										if node['id'] == region.lower() + '_' + element:
-											node['count'] += 1	
-										if node['id'] == region.lower():
-											node['count'] += 1
-										if node['id'] == "xas":
-											node['count'] += 1
+										if node['id'].rsplit('_', 1)[0] == uid and node['parent'] == xas_class:
+											node['data'].append({'fig_label': label,
+																 'fig_caption': caption,
+																 'fig_file': fig_file})
+											existing_class = True				 
+											break
+									
+									if existing_class == False:
+										xas_tree.append({"id": uid + '_' + str(num), 
+														 "parent": xas_class, 
+														 "text": '[' + year + '] ' + title,
+														 "a_attr": {'href': 'http://doi.org/' + uid},
+														 "type": "paper",
+														 "data": [{'fig_label': label,
+																  'fig_caption': caption,
+																  'fig_file': fig_file}]
+														}) 
+										num += 1
+
+										'''
+										TODO: use the jsTree funciton. - 11/08/2019
+											 https://github.com/vakata/jstree/blob/master/src/misc.js#L181
+											 https://github.com/vakata/jstree/issues/2104
+										'''
+										for node in xas_tree:
+											if node['id'] == region.lower() + '_' + element + '_' + edge.lower():
+												node['count'] += 1
+											if node['id'] == region.lower() + '_' + element:
+												node['count'] += 1	
+											if node['id'] == region.lower():
+												node['count'] += 1
+											if node['id'] == "xas":
+												node['count'] += 1
 
 	xas_tree = [x for x in xas_tree if 'count' not in node or node['count'] > 0]
 	
@@ -700,7 +699,7 @@ def create_xas_tree_json(dirs):
 		if 'count' in node:
 			node['text'] = node['text'] + " (" + str(node['count']) + ")"
 
-	with open('data/xas_classifier_data/xas_tree_new.json', 'w') as outfile:
+	with open(output_file, 'w') as outfile:
 		json.dump(filtered_xas_tree, outfile)
 
 
@@ -781,15 +780,16 @@ def evaluate_model():
 
 def main():
 	dirs = []
-	dirs.append("/home/gpark/corpus_web/tdm/archive/PMC/")
-	dirs.append("/home/gpark/corpus_web/tdm/archive/Springer/")
 	dirs.append("/home/gpark/corpus_web/tdm/archive/Elsevier/")
+	dirs.append("/home/gpark/corpus_web/tdm/archive/Springer/")
 	dirs.append("/home/gpark/corpus_web/tdm/archive/RSC/")
+	dirs.append("/home/gpark/corpus_web/tdm/archive/PMC/")
 	
 	#analyze_text(dirs)		# debugging
 
 	iterate_dir(dirs)
-	create_xas_tree_json(dirs)
+	output_file = 'data/xas_classifier_data/xas_tree_07-10-20.json'
+	create_xas_tree_json(dirs, output_file)
 	#create_debug_files_for_sample_selection(dirs)
 	
 	#evaluate_model()

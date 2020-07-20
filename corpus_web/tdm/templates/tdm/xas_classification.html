@@ -14,6 +14,9 @@
 	<link rel="stylesheet" href="{% static 'django_static/assets/css/main.css' %}" />
 	<noscript><link rel="stylesheet" href="{% static 'django_static/assets/css/noscript.css' %}"/></noscript>
 	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	
 	
 	<title>XAS Tree</title>
 	
@@ -96,8 +99,9 @@
 
 	<div class="container" style="width: 80vw; padding:10px 10px;">
 		<div class="a">Article classification by X-ray absorption spectroscopy (XAS)</div>
-		<p>A tree view represents a hierarchical view of scientific papers classified by XAS spectral regions (EXAFS, XANES) and XAS edges (K/L/M) for 30 transition metals (3/4/5d).<br>
-		Click on the title to see the figure information if available and view the original published paper. Number in parentheses () indicates the number of papers belonging to the category.
+		<p>
+			A tree view represents a hierarchical view of scientific papers classified by XAS spectral regions (EXAFS, XANES) and XAS edges (K/L/M) for 30 transition metals (3/4/5d). There is some overlap in the spectral regions mentioned in the papers. <br/>
+			Click on each paper title to see the figures, their caption, and the explanatory text to each figure in the chosen paper (Figure explanatory text). A relevance rating button allows you to rate the relevance of the text to the figure (NOT to your query). Please provide your name if you allow us to contact you for additional question as this system is still in development.
 		</p>
 		<!--<div id="header"></div>-->
 		<div class="well clearfix">
@@ -216,13 +220,16 @@
 				var fig_label = 'fig_label_' + i;
 				var fig_caption = 'fig_caption_' + i;
 				var fig_file = 'fig_file_' + i;
-				
+				var fig_relevant_text = 'fig_relevant_text_' + i;
+
 				$( "#form" ).append("<input type='hidden' name=" + fig_label + " value='' />");
 				$( "input[name=" + fig_label + "]" ).val(fig_data[i].fig_label);
 				$( "#form" ).append("<input type='hidden' name=" + fig_caption + " value='' />");
 				$( "input[name=" + fig_caption + "]" ).val(fig_data[i].fig_caption);
 				$( "#form" ).append("<input type='hidden' name=" + fig_file + " value='' />");
 				$( "input[name=" + fig_file + "]" ).val(fig_data[i].fig_file);
+				$( "#form" ).append("<input type='hidden' name=" + fig_relevant_text + " value='' />");
+				$( "input[name=" + fig_relevant_text + "]" ).val(fig_data[i].fig_relevant_text);
 				
 				/* the following ways doesn't pass the text properly.
 				$("#form").append("<input type='hidden' name='fig_caption' value=" + fig_data[i].fig_caption + "/>");
@@ -249,10 +256,12 @@
 				var fig_label = 'fig_label_' + i;
 				var fig_caption = 'fig_caption_' + i;
 				var fig_file = 'fig_file_' + i;
+				var fig_relevant_text = 'fig_relevant_text_' + i;
 				
 				$( "input[name=" + fig_label + "]" ).remove();
 				$( "input[name=" + fig_caption + "]" ).remove();
 				$( "input[name=" + fig_file + "]" ).remove();
+				$( "input[name=" + fig_relevant_text + "]" ).remove();
 			}
 			
 

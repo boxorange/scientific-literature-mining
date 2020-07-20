@@ -152,9 +152,9 @@ class AAASDownloader(BaseDownloader):
 					self.display_error_msg(s_response)
 					sys.exit()
 
-		print("<AAAS-retrieve_articles()> Before uids:", len(doi_link))
+		print("<AAAS> #UIDs w/  duplicates:", len(doi_link))
 		duplicate_removed_uids = self.remove_duplicates(set(doi_link.keys()))   # skip already downloaded articles.
-		print("<AAAS-retrieve_articles()> After uids:", len(duplicate_removed_uids))
+		print("<AAAS> #UIDs w/o duplicates:", len(duplicate_removed_uids))
 
 		doi_link = {k: v for k, v in doi_link.items() if k in duplicate_removed_uids}
 		doi_title = {k: v for k, v in doi_title.items() if k in duplicate_removed_uids}

@@ -2,6 +2,7 @@ import os, glob, json
 from django.shortcuts import get_object_or_404, render
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
+from django.http import JsonResponse, HttpResponse
 #from .models import Article
 #from .scraper import downloader, parser
 #from .scraper.downloader import Downloader
@@ -10,6 +11,15 @@ from elasticsearch.helpers import bulk
 
 es = Elasticsearch([{'host':'localhost', 'port':9200}]) # connect to cluster
 
+with open("/home/gpark/corpus_web/tdm/analyzer/data/xas_classifier_data/xas_tree_updated_07-10-20.json", "r") as fp:
+	xas_cls_data = json.load(fp)
+	for item in xas_cls_data:
+		if 'data' in item:
+			for data in item['data']:
+				data['fig_caption'] = ' '.join(data['fig_caption'])
+				if 'fig_relevant_text' in data:
+					data['fig_relevant_text'] = ' '.join(data['fig_relevant_text'])
+					
 '''
 def append_fields(doc, field, result, elem):
 	if field in doc['highlight']:
@@ -21,16 +31,17 @@ def append_fields(doc, field, result, elem):
 	return elem
 '''
 
-def es_search(search_str, search_type, operator, index_name='tdm_index_2'):
+def es_search(search_str, search_fields, show_only_xas_articles, search_type, operator, index_name='tdm_index'):
 	"""
 	searches for word in database with specified index 
 	highlights terms and returns a 2D array 
 	format ) results = [[title, abstract, relevant field 1, relevant field 2, ...]]
 	
-	Note: 
+	Note:
+		[GP] - added figure captions. - 07/13/2020
 		[GP] - "number_of_fragments" set to zero so that complete sentences are displayed. - 08/09/2019
 		[GP] - changed tags to "<mark>". - 08/09/2019
-	
+		
 	Ref: 
 		https://www.elastic.co/guide/en/elasticsearch/reference/current//search-request-body.html#request-body-search-highlighting
 		If the number_of_fragments value is set to 0 then no fragments are produced, instead the whole content of the field is returned, and of course it is highlighted. 
@@ -41,7 +52,8 @@ def es_search(search_str, search_type, operator, index_name='tdm_index_2'):
 													"query": search_str, 
 													"type": search_type, 
 													#"fields": ["uid", "publisher", "type", "title", "year", "author", "keywords", "abstract", "body_text"]
-													"fields": ["title", "abstract", "body_text"],
+													#"fields": ["title", "abstract", "body_text", "figures"],
+													"fields": search_fields,
 													"operator": operator
 												}
 											},
@@ -51,21 +63,24 @@ def es_search(search_str, search_type, operator, index_name='tdm_index_2'):
 												"pre_tags" : ["<mark>"],
 												"post_tags" : ["</mark>"],
 												"fields": {
-														"title": {
-															"number_of_fragments" : 0
-														  },
-														"abstract": {
-															"number_of_fragments" : 0,
-															#"fragment_size": 150,
-															#"boundary_max_size": 100,
-															#"boundary_chars": "\n",
-															#"boundary_scanner": 
-															"type": "unified"
-														  },
-														  "body_text": {
-															"number_of_fragments" : 0
-														  }
-														}	
+													"title": {
+														"number_of_fragments" : 0
+													},
+													"abstract": {
+														"number_of_fragments" : 0,
+														#"fragment_size": 150,
+														#"boundary_max_size": 100,
+														#"boundary_chars": "\n",
+														#"boundary_scanner": 
+														"type": "unified"
+													},
+													"body_text": {
+														"number_of_fragments" : 0
+													},
+													"figures": {
+														"number_of_fragments" : 0
+													}
+												}	
 											},										
 											"size": 1000})
 							
@@ -88,6 +103,8 @@ def es_search(search_str, search_type, operator, index_name='tdm_index_2'):
 		results.append(temp_elem2)
 	'''
 	
+	total_articles_with_xas_figure = 0
+	
 	for doc in res['hits']['hits']:
 		'''
 		{
@@ -108,73 +125,69 @@ def es_search(search_str, search_type, operator, index_name='tdm_index_2'):
 		},
 		'''
 		#print(doc)
-		#input('enter')
-	
+
 		elem = []
 		for field in doc['highlight']:
-			if field != 'title':	# query must appear in abstract or body text. 
-				for line in doc['highlight'][field]:
-					elem.append(line)
+			#if field != 'title':	# query must appear in abstract or body text. -> include title in the result. - 07-13-2020
+			for line in doc['highlight'][field]:
+				elem.append(line)
 
 		if len(elem) > 0:
 			elem.insert(0, doc['_source']['title'])
 			elem.insert(1, doc['_source']['uid'])
+			
+			xas_cls = []
+			for item in xas_cls_data:
+				if elem[1] in item['id']:	# check if article is in XAS classification tree.
+					xas_cls.append(item)
+			
+			elem.insert(2, xas_cls)
 		
-		results.append(elem)
-		
+		if show_only_xas_articles == True:
+			if len(elem[2]) > 0:
+				results.append(elem)
+				total_articles_with_xas_figure += 1
+		else:
+			results.append(elem)
+	
+	if show_only_xas_articles == True:
+		total_articles = total_articles_with_xas_figure
+	
 	return results, total_articles
 
-
-
-''' deprecated (used before ES)
-def find_sent(text, query_tokens, search_operation):
-	"""
-	Find sentences containing keywords and highlight the keywords.
-	"""
-	
-	ret_sents = []
-
-	for sent in text:
-		lowercased_tokens = [x[0].lower() for x in sent['token_pos']]	# lowercase
-		
-		if search_operation == 'AND':
-			result = all(elem in lowercased_tokens for elem in query_tokens)
-		elif search_operation == 'OR':
-			result = any(elem in lowercased_tokens for elem in query_tokens)
-				
-		if result == True:
-			highlighted_sent = sent['sent']
-			tokens = sent['token_pos']
-			
-			match_tokens = []	# save token's offsets
-			for qt in query_tokens:
-				for tok in tokens:
-					if tok[0].lower() == qt:
-						start_offset = tok[1]
-						end_offset = tok[2]
-						match_tokens.append([start_offset, end_offset])
-			
-			# sort offsets by descending order and add tags into the string. 
-			# String manipulation backwards can preserve the offsets.
-			sorted_match_tokens = sorted(match_tokens, key=lambda l:l[1], reverse=True)
-
-			for item in sorted_match_tokens:
-				start_offset = item[0]
-				end_offset = item[1]
-				highlighted_sent = highlighted_sent[:end_offset] + '</mark>' + highlighted_sent[end_offset:]
-				highlighted_sent = highlighted_sent[:start_offset] + '<mark>' + highlighted_sent[start_offset:]
-			
-			ret_sents.append(highlighted_sent)
-			
-	return ret_sents
-'''
 
 def search(request):
 	results = []
 	
 	if 'q' in request.GET:
 		query = request.GET['q']
+
+		search_fields = []
+		search_fields_txt = []	# for message
+
+		title_checkbox = request.GET.get('title_checkbox', '')
+		abstract_checkbox = request.GET.get('abstract_checkbox', '') 
+		body_text_checkbox = request.GET.get('body_text_checkbox', '')
+		figure_caption_checkbox = request.GET.get('figure_caption_checkbox', '')
+
+		if title_checkbox == 'on':
+			search_fields.append("title")
+			search_fields_txt.append("title")
+		if abstract_checkbox == 'on':
+			search_fields.append("abstract")
+			search_fields_txt.append("abstract")
+		if body_text_checkbox == 'on':
+			search_fields.append("body_text")
+			search_fields_txt.append("body text")
+		if figure_caption_checkbox == 'on':
+			search_fields.append("figures")
+			search_fields_txt.append("figure caption")
 		
+		show_only_xas_articles = False
+		show_only_xas_checkbox = request.GET.get('show_only_xas_checkbox', '')
+		if show_only_xas_checkbox == 'on':
+			show_only_xas_articles = True
+
 		query_tokens = query.split()
 		
 		search_type = 'best_fields'	# ES default search_type 
@@ -189,35 +202,31 @@ def search(request):
 			
 		query_tokens = list(filter(lambda a: a.lower() not in ['and', 'or'], query_tokens))	# remove 'and' 'or'
 
-		results, total_num = es_search(' '.join(query_tokens), search_type, operator)
+		results, total_num = es_search(' '.join(query_tokens), search_fields, show_only_xas_articles, search_type, operator)
 		
 		formatted_total_num = '{0:,d}'.format(total_num)
 		
 		if total_num == 10000:
-			formatted_total_num = 'more than ' + formatted_total_num
-		
-		message = f'You have searched for: {query} | Results of {formatted_total_num}' 
+			formatted_total_num = 'More than ' + formatted_total_num
+
+		search_fields_txt = ', '.join(search_fields_txt)
+		if show_only_xas_articles == True:
+			message = f'\'You have searched for <strong>{query}</strong> in {search_fields_txt}. It only shows articles with XAS figures. <br> <strong>{formatted_total_num}</strong> results\'' 
+		else:
+			message = f'\'You have searched for <strong>{query}</strong> in {search_fields_txt}. <br> <strong>{formatted_total_num}</strong> results\'' 
 	else:
 		message = ''
 
 	context = {
-		'message': message,
+		'message': json.dumps(message),
 		'results': json.dumps(results)
 	}
 	return render(request, 'tdm/search.html', context)
 
-	'''
-	#first_article = Article.objects.get(pk=1)
-	first_article = get_object_or_404(Article, pk=1)
-	context = {
-		'first_article': first_article,
-	}
-	return render(request, 'tdm/search.html', context)
-	'''
-
 
 def scrape(request):
 	"""
+	TODO: this function is not used. remove it if not needed.
 	!! If it scrapes articles here, then it can't print debugs.
 	"""
 	if 'input' in request.GET:
@@ -251,54 +260,8 @@ def scrape(request):
 	
 
 def xas_classification(request):
-	"""
-	
-	"""
-	'''
-	results = []
-
-	dirs = []
-	#dirs.append("/home/gpark/corpus_web/tdm/archive/PMC/")
-	dirs.append("/home/gpark/corpus_web/tdm/archive/Springer/articles")
-	#dirs.append("/home/gpark/corpus_web/tdm/archive/Elsevier/articles")
-	
-	total_articles = 0
-	
-	for dir in dirs:
-		for root, dirs, files in os.walk(dir):
-		#	results.extend([os.path.join(root, file) for file in files if file.endswith(".json")])
-			for file in files:
-				if file.endswith(".json"):
-					with open(os.path.join(root, file), "r") as read_file:
-						data = json.load(read_file)
-						year = data['year']
-						title = data['title']
-
-						xas_info = data['xas_info']
-						
-						for xi in xas_info:
-							print(xi['region'])
-							print(xi['element'])
-							print(xi['edge'])
-						
-
-						if len(xas_info) > 0:
-							title_year = '[' + str(year) + '] ' + title
-							xas_info.insert(0, title_year)
-							
-							xas_info.insert(1, data['uid'])
-
-							results.append(xas_info)
-							total_articles += 1
-	
-	total_articles = '{0:,d}'.format(total_articles)
-	'''
-				
-	with open("/home/gpark/corpus_web/tdm/analyzer/data/xas_classifier_data/xas_tree.json", "r") as read_file:
-		data = json.load(read_file)
-	
 	context = {
-		'data': data
+		'data': xas_cls_data
 	}
 	return render(request, 'tdm/xas_classification.html', context)
 
@@ -311,15 +274,27 @@ def xas_page(request):
 		del data['article_link']
 
 		fig_data = []
-		
+
 		tmp = {}
 		for k, v in data.items():
 			k = k.rsplit('_', 1)[0]
 
 			if k == 'fig_file':
 				v = v.replace("/home/gpark/corpus_web/tdm/archive", "")
+			elif k == 'fig_relevant_text':
+				print(type(v))
+				print(v)
+			
+			'''
+			elif k.startswith('fig_caption'):
+				v = v.
+				var fig_caption = 'fig_caption_' + i;
+				var fig_file = 'fig_file_' + i;
+				var fig_relevant_text = 'fig_relevant_text_' + i;
+			'''
+			
 			tmp[k] = v
-			if len(tmp) == 3:
+			if len(tmp) == 4:
 				fig_data.append(tmp)
 				tmp = {}
 
@@ -333,12 +308,36 @@ def xas_page(request):
 		}
 
 		return render(request, 'tdm/xas_page.html', context)
-	
+
+
+def user_feedback(request):
+	if request.method == 'POST' and request.is_ajax():
+		feedback = {}
+		feedback['rating'] = request.POST['rating']
+		feedback['user_name'] = request.POST['user_name']
+		feedback['comment'] = request.POST['comment']
+		feedback['fig_relevant_text'] = request.POST['fig_relevant_text']
+
+		with open("/home/gpark/corpus_web/tdm/analyzer/data/xas_classifier_data/user_feedback.json", 'a+') as fp:
+			json.dump(feedback, fp)
+			fp.write('\n')
+		
+		response = {
+			'msg':'Thank you!!' # response message
+		}
+		return JsonResponse(response) # return response as JSON
+		
 
 def __unicode__(self):
     return u'%s' % (self)
 
 
 def index(request):
-	return render(request, 'tdm/index.html')
+	with open("/home/gpark/corpus_web/tdm/archive/lit_stat.json", "r") as read_file:
+		data = json.load(read_file)
+	
+	context = {
+		'data': data
+	}
+	return render(request, 'tdm/index.html', context)
 

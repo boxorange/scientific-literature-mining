@@ -70,8 +70,8 @@ class SpringerDownloader(BaseDownloader):
 					break
 				
 				# debug
-				for child in result:
-					print(child.tag + ': ' + child.text)
+				#for child in result:
+				#	print(child.tag + ': ' + child.text)
 
 				for record in records:
 					doi = ''
@@ -88,7 +88,7 @@ class SpringerDownloader(BaseDownloader):
 
 					if doi != '' and doi not in self.existing_uids:	# skip already downloaded articles.
 						
-						print("--- New article: %s ---" % doi)
+						#print("--- New article: %s ---" % doi)
 						
 						file = ''.join(i for i in doi if i.isalnum())   # special characters are removed for filenames.
 						file = file.lower()	# lowercase 

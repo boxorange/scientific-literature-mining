@@ -12,6 +12,7 @@ urlpatterns = [
 	path('xas_classification', views.xas_classification, name='xas_classification'),
 	path('xas_page', views.xas_page, name='xas_page'),
 	path('xas_page/<int:year>', views.xas_page, name='xas_page'),
+	path('user_feedback', views.user_feedback, name='user_feedback'),
 	#path('xas_page', views.xas_page, {'foo': 'bar'}, name='xas_page'),
 	#url(r'^xas_page/', include(('xas_page.urls','xas_page'),namespace='xas_page')),
 	#url(r'^xas_page/(?P<var>\w+)', views.xas_page, name='xas_page'),

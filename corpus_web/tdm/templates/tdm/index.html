@@ -12,7 +12,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="{% static 'django_static/assets/css/main.css' %}" />
 		<noscript><link rel="stylesheet" href="{% static 'django_static/assets/css/noscript.css' %}"/></noscript>
-		
+
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
 		
@@ -182,10 +182,7 @@
 							<h2><br/>Welcome to our <strong>literature mining project</strong>.</h2>
 						</header>
 						<p>
-							Text mining is the extraction process of undiscovered meaningful information or needed facts from a large volume of unstructured text data.
-							<!-- Scientific literature is a plethora of documents written in natural language and is an attractive resource to be text mined in that the agglomeration of well-cogitated knowledge is inextricably intertwined, which might have the great potential to derive valuable information when untangled. -->
-							This project aims to build a system for data collection from scientific papers that supplements other data sources so users can look up needed information while preparing experiments or analyzing results.
-							Our primary goal is materials discovery from multiple disciplines including Materials science, Chemistry, Physics by exploting a content analysis based on Natural Language Processing (NLP).
+							Text mining is the process of extracting meaningful information from a large volume of unstructured text data.  This project builds a pilot system for data collection and extraction from the scientific literature related to X-ray spectroscopy.   NSLS-II and other facility users at BNL can quickly look up reference structures during their experiments at a beamline.  This portal is divided into two parts: information retrieval through article search of our collection, and a classification of papers according to transition metals and XAS edges.  Figures contained in the paper are extracted, together with caption; text relevant to each figure is also extracted from the paper and presented. 
 						</p>
 						<img src="{% static 'django_static/images/web_design.jpg' %}" alt="" align="center"/>
 					</article>
@@ -202,20 +199,8 @@
 							</p>
 						</header>
 						<p>
-							Some of major publishers (e.g., Elsevier, Springer) and free digital repositories (e.g., PubMed Central) provide a REST (Representational State Transfer) API to download articles. 
-							For publishers who do not, an alternative way is to use the Crossref -- official Digital Object Identifier (DOI) registration agency -- REST API. 
-							If a publisher is a Crossref member, its papers are available via Crossref REST API. 
-							At present, publishers under consideration include PubMed Central (PMC), Elsevier, Springer, Institute of Physics (IOP), American Physical Society (APS), Wiley, American Chemical Society (ACS), 
-							Electrochemical Society (ECS), Royal Society of Chemistry (RSC), Emerald, American Association for the Advancement of Science (AAAS), International Union of Crystallography (IUCr). 
-							PMC, Elsevier, Springer, and IOP have a proprietary API, and the others are a member of Crossref.
+							This collection contains structured articles focused on X-ray spectroscopy from the following publishers - Elsevier, PubMed Central (PMC), Springer, Royal Society of Chemistry (RSC) - and unstructured articles - Institute of Physics (IOP). While these publishers are providing bulk download access at no additional cost through the BNL library licenses, the American Chemical Society (ACS) has chosen to charge additional fees for text mining purposes. As a result of these prohibitive fees, ACS articles are not included in this collection.
 						</p>
-						<p>
-							IOP collection via bulk downloads consists of all articles published from 1980 to 2019. The other collections are based on keyword search via RESTful API. 
-							Crossref API only searches metadata not full texts and doesn't support phrase search, which results in relatively a low volume of documents. 
-							So far, used keywords for Elsevier, PMC, Springer include 'EXAFS', 'XANES', 'NEXAFS', 'pair distribution function', 'solid state synthesis', 'solution phase synthesis', 'melt synthesis', 'hydrothermal reaction'.
-							Used keywords for the rest using Crossref API include 'EXAFS', 'XANES', 'NEXAFS'.
-						</p>
-
 						<canvas id="myChart"></canvas>
 						
 						<script>
@@ -226,16 +211,32 @@
 						Chart.defaults.global.plugins.datalabels.font.size = 15;
 
 						var ctx = document.getElementById('myChart');
+						
+						var lit_stat = {{ data|safe }};
+
+						var pub = [];
+						var pub_cnt = [];
+						for (var key in lit_stat) 
+						{
+							if (lit_stat.hasOwnProperty(key)) 
+							{
+								var val = lit_stat[key];
+								pub.push(key);
+								pub_cnt.push(val)
+							}
+						}
 
 						var myChart = new Chart(ctx, {
 							plugins: [ChartDataLabels],
 							//type: 'bar',
 							type: 'horizontalBar',
 							data: {
-								labels: ['IOP', 'Elsevier', 'PMC', 'ACS', 'Springer', 'IUCr', 'RSC', 'AAAS', 'APS', 'Wiley'],
+								//labels: ['IOP', 'Elsevier', 'PMC', 'ACS', 'Springer', 'IUCr', 'RSC', 'AAAS', 'APS', 'Wiley'],
+								labels: pub,
 								datasets: [{
 									label: '# of Articles',
-									data: [499719, 63558, 4183, 782, 633, 354, 305, 198, 151, 69],
+									//data: [499719, 63558, 4183, 782, 633, 354, 305, 198, 151, 69],
+									data: pub_cnt,
 									backgroundColor: [
 										'rgba(255, 99, 132, 0.2)',
 										'rgba(54, 162, 235, 0.2)',
@@ -267,7 +268,7 @@
 									xAxes: [{
 										ticks: {
 											beginAtZero: true,
-											max: 10000
+											max: 200000
 										}
 									}],
 									yAxes: [{
@@ -480,16 +481,16 @@
 					</div>
 				</div>
 		</div>
-
+		
 		<!-- Scripts -->
-			<script src="{% static 'django_static/assets/js/jquery.min.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/jquery.dropotron.min.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/jquery.scrolly.min.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/jquery.scrollex.min.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/browser.min.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/breakpoints.min.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/util.js' %}"></script>
-			<script src="{% static 'django_static/assets/js/main.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/jquery.min.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/jquery.dropotron.min.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/jquery.scrolly.min.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/jquery.scrollex.min.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/browser.min.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/breakpoints.min.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/util.js' %}"></script>
+		<script src="{% static 'django_static/assets/js/main.js' %}"></script>
 
 	</body>
 </html>

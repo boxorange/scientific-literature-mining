@@ -194,14 +194,14 @@ class ElsevierDownloader(BaseDownloader):
 				params['display']['offset'] = 0	# reset offset
 			
 			
-			print("Before uid:", len(uid))
+			print('<Elsevier> #UIDs w/  duplicates:', len(uid))
 
 			duplicate_removed_uid = self.remove_duplicates(set(uid.values()))   # skip already downloaded articles.
 
 			uid = {k: v for k, v in uid.items() if v in duplicate_removed_uid}
 			doi_title = {k: v for k, v in doi_title.items() if k in duplicate_removed_uid}
 
-			print("After uid:", len(uid))
+			print('<Elsevier> #UIDs w/o duplicates:', len(uid))
 
 			for pii, doi in uid.items():
 				

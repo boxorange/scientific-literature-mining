@@ -4,6 +4,7 @@ import time
 import json
 import requests
 import csv
+from datetime import date
 
 from pmc_downloader import PMCDownloader
 from elsevier_downloader import ElsevierDownloader
@@ -32,8 +33,8 @@ def set_query(project):
 		"COVID-19" OR Coronavirus OR "Corona virus" OR "2019-nCoV" OR "SARS-CoV" OR "MERS-CoV" OR “Severe Acute Respiratory Syndrome” OR “Middle East Respiratory Syndrome” 
 		"""
 		terms = ['COVID-19', 'Coronavirus', 'Corona virus', '2019-nCoV', 'SARS-CoV', 'MERS-CoV', 'Severe Acute Respiratory Syndrome', 'Middle East Respiratory Syndrome']
-	elif project == 'Provenance':
-		""" [ Provenance project ]
+	elif project == 'XAS':
+		"""
 		<Keywords>
 		X-ray absorption fine structure (XAFS)
 		Extended X-Ray Absorption Fine Structure (EXAFS)
@@ -46,7 +47,7 @@ def set_query(project):
 		#terms = ['EXAFS', 'XANES', 'NEXAFS', 'pair distribution function']
 		#terms = ['EXAFS', 'XANES', 'NEXAFS']	# phrase and exact searching is not working in Crossref.
 	elif project == 'GENESIS':
-		""" [ GENESIS project ]
+		"""
 		<Keywords>
 		flux growth
 		molten flux
@@ -162,31 +163,39 @@ def download_APS(query):
 	print(response.headers)
 
 
-def update_download_result(doi_title, publisher=None, project=None):
+def update_download_result(download_history_file, doi_title, publisher=None):
 	if publisher is None:
 		return
-		
-	file = '/home/gpark/corpus_web/tdm/archive/' + project + '.csv'
-	
-	if not os.path.exists(file):
-		with open(file, 'w', newline='') as file:
-			writer = csv.writer(file)
+
+	if not os.path.exists(download_history_file):
+		with open(download_history_file, 'w', newline='') as fp:
+			writer = csv.writer(fp)
 			writer.writerow(["Publisher", "Title", "URL"])
 			for doi, title in doi_title.items():
 				writer.writerow([publisher, title, "https://doi.org/" + doi])
 	else:
-		with open(file, 'a', newline='') as file:
-			writer = csv.writer(file)
+		with open(download_history_file, 'a', newline='') as fp:
+			writer = csv.writer(fp)
 			for doi, title in doi_title.items():
 				writer.writerow([publisher, title, "https://doi.org/" + doi])
-	
+
+
+def update_lit_stat(lit_stat, publisher):
+	path = '/home/gpark/corpus_web/tdm/archive/' + publisher
+	num_of_papers = 0
+	for root, dirs, files in os.walk(path):
+		num_of_papers += len(dirs)
+	lit_stat[publisher] = num_of_papers
+		
 
 def main():
 	start_time = time.time()
 	
-	# set queries based on project: 'Provenance', 'GENESIS', 'COVID-19'
-	keywords, query = set_query('COVID-19')
+	# set queries based on project: 'XAS', 'GENESIS', 'COVID-19'
+	project = 'XAS'
+	keywords, query = set_query(project)
 	year = 2020
+	#year = None
 	
 	# instantiate downloaders
 	ed = ElsevierDownloader()
@@ -194,25 +203,40 @@ def main():
 	rd = RSCDownloader()
 	pd = PMCDownloader()
 	aaasd = AAASDownloader()
-	
-	# download PMC articles last since it contains other publishers' articles.
-	
+
+	fdate = date.today().strftime('%m-%d-%Y')
+	download_history_file = '/home/gpark/corpus_web/tdm/archive/download_history/' + project + '/' + fdate + '.csv'
+
+	with open('/home/gpark/corpus_web/tdm/archive/lit_stat.json', "r") as fp:	# load literature statistics.
+		lit_stat = json.load(fp)
+
 	# TODO: change it to sending the whole query once. query above syntax doesn't work, and OR doesn't work in search. 
 	doi_title = aaasd.retrieve_articles(keywords, year, enable_sleep=False)
-	update_download_result(doi_title, publisher='AAAS/Science', project='COVID-19')
-
+	update_download_result(download_history_file, doi_title, publisher='AAAS/Science')
+	update_lit_stat(lit_stat, 'AAAS')
+	
 	doi_title = ed.retrieve_articles(query, year)
-	update_download_result(doi_title, publisher='Elsevier', project='COVID-19')
+	update_download_result(download_history_file, doi_title, publisher='Elsevier')
+	update_lit_stat(lit_stat, 'Elsevier')
 	
 	doi_title = sd.retrieve_articles(query, year)
-	update_download_result(doi_title, publisher='Springer Nature', project='COVID-19')
-	
+	update_download_result(download_history_file, doi_title, publisher='Springer Nature')
+	update_lit_stat(lit_stat, 'Springer')
+
 	doi_title = rd.retrieve_articles(query)	# TODO: handle year!!
-	update_download_result(doi_title, publisher='RSC', project='COVID-19')	# TODO: test more!!!
-
+	update_download_result(download_history_file, doi_title, publisher='RSC')	# TODO: test more!!!
+	update_lit_stat(lit_stat, 'RSC')
+	
+	# download PMC articles last since it contains other publishers' articles.
 	doi_title = pd.retrieve_articles(query, year)
-	update_download_result(doi_title, publisher='PMC', project='COVID-19')
-
+	update_download_result(download_history_file, doi_title, publisher='PMC')
+	update_lit_stat(lit_stat, 'PMC')
+	
+	sorted_lit_stat = {k: v for k, v in sorted(lit_stat.items(), key=lambda x: x[1], reverse=True)}
+	
+	with open('/home/gpark/corpus_web/tdm/archive/lit_stat.json', "w") as fp:	# save updated literature statistics.
+		json.dump(sorted_lit_stat, fp)
+	
 	'''
 	download_APS(query)
 	download_Crossref(query)

@@ -160,13 +160,13 @@ class PMCDownloader(BaseDownloader):
 				self.display_error_msg(s_response)
 				sys.exit()
 		
-		print('Before:', len(uids))
+		print('<PMC> #UIDs w/  duplicates:', len(uids))
 		
 		duplicate_removed_uids = self.remove_duplicates(set(uids.values()))   # skip already downloaded articles.
 
 		uids = {k: v for k, v in uids.items() if v in duplicate_removed_uids}
 		
-		print('After:', len(uids))
+		print('<PMC> #UIDs w/o duplicates:', len(uids))
 
 		# find title of article.
 		ids_for_summary = ','.join([x.replace('PMC', '') for x in uids.keys()])

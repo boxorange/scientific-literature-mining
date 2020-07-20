@@ -7,20 +7,35 @@
 -->
 <html>
 	<head>
-		<title>Search</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<title>Search</title>
 		<link rel="stylesheet" href="{% static 'django_static/assets/css/main.css' %}" />
-		<noscript><link rel="stylesheet" href="{% static 'django_static/assets/css/noscript.css' %}"/></noscript>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 		
+		<!-- Scripts -->
+		<!--
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+		-->
+		<script	src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<noscript><link rel="stylesheet" href="{% static 'django_static/assets/css/noscript.css' %}"/></noscript>
+
 		<style>
 		.collapsible {
-			background-color: white;
+			background-color: ivory;
 			color: black;
 			cursor: pointer;
 			padding: 10px;
 			width: 100%;
-			border: none;
+			border: 1px solid black;
 			text-align: left;
 			outline: none;
 			font-size: 16px;
@@ -77,7 +92,7 @@
 		  font-size: 17px;
 		  border: none;
 		}
-		
+
 		.topnav .search-container button {
 		  float: right;
 		  padding: 8px 40px;
@@ -115,12 +130,85 @@
 		div.a {
 			font-size: 30px;
 			font-weight: bold;
+			margin-top: 25px;
 		}
 		
 		div.b {
 			font-family: Verdana;
 			font-size: 16px;
 			color: black;
+		}
+
+
+		.checkboxcontainer {
+			display: inline-flex;
+			position: relative;
+			padding-left: 28px;
+			margin-left: 8px;
+			margin-top: 12px;
+			margin-bottom: 4px;
+			cursor: pointer;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}
+		
+		/* Hide the browser's default checkbox */
+		.checkboxcontainer input {
+			position: absolute;
+			opacity: 0;
+			cursor: pointer;
+			height: 0;
+			width: 0;
+		}
+
+		/* Create a custom checkbox */
+		.checkmark {
+			position: absolute;
+			top: 3px;
+			left: 0;
+			height: 20px;
+			width: 20px;
+			transition-duration: 0.3s;
+			border: 1px solid black;
+			border-radius: 4px;
+			background-color: white;
+		}
+
+		/* On mouse-over, add a grey background color */
+		.checkboxcontainer:hover input ~ .checkmark {
+			background-color: #ccc;
+		}
+
+		/* When the checkbox is checked, add a blue background */
+		.checkboxcontainer input:checked ~ .checkmark {
+			background-color: #2196F3;
+		}
+
+		/* Create the checkmark/indicator (hidden when not checked) */
+		.checkmark:after {
+			content: "";
+			position: absolute;
+			display: none;
+		}
+
+		/* Show the checkmark when checked */
+		.checkboxcontainer input:checked ~ .checkmark:after {
+			display: block;
+		}
+
+		/* Style the checkmark/indicator */
+		.checkboxcontainer .checkmark:after {
+			left: 6px;
+			top: 3px;
+			width: 5px;
+			height: 10px;
+			border: solid white;
+			border-width: 0 3px 3px 0;
+			-webkit-transform: rotate(45deg);
+			-ms-transform: rotate(45deg);
+			transform: rotate(45deg);
 		}
 		</style>
 	</head>
@@ -165,86 +253,261 @@
 							<input type="submit" value="Search">
 						</form>
 						-->
-						<div class="a" style = "margin: 25px 20px 0 20px;">Article search</div>
-						<p style = "margin: 0 20px 0 20px;"> The search engine displays sentences for each article.
+						<!--<div class="a" style = "margin: 25px 20px 0 20px;">Article search</div>-->
+						<div class="a">Article search</div>
+						<p> The search engine displays sentences for each article.
 							The basic search operation is 'OR', which looks for documents having any of search terms regardless of order. 
 							Use 'AND' between terms if you look for documents where all terms must be present regardless of order. (e.g., transition and metal).
 							If you'd like to search for a phrase (i.e. words in the exact order), enclose search terms with double quotation marks. (e.g., "transition metal").
 							The search is case-insensitive.</p>
-						<div class="topnav" style = "margin: 5px 20px 0 20px;">
+						<!--<div class="topnav" style = "margin: 5px 20px 0 20px;">-->
+						<div class="topnav" style = "margin: 5px 0 0 0;">
 							<!--
 							<a class="active" href="#home">Home</a>
 							<a href="#about">About</a>
 							<a href="#contact">Contact</a>
 							-->
 							<div class="search-container">
-								<form action="{% url 'tdm:search' %}" method="get" accept-charset="utf-8">
+								<form action="{% url 'tdm:search' %}" method="get" accept-charset="utf-8" onsubmit="showHide()">
 									<!-- ref: https://stackoverflow.com/questions/12858979/put-input-submit-on-same-line-as-input-box -->
-									<button type="submit"><i class="fa fa-search"></i></button>
-									<div style="overflow: hidden; padding-right: .5em;">
-										<input type="text" name="q" placeholder="Search.." name="search">
+									<div style="overflow: hidden; padding-right: .5em; display: inline-flex;">
+										<input type="text" size="150" name="q" placeholder="Search..">
+										<button type="submit"><i class="fa fa-search"></i></button>
 									</div>
+									
+									<span style="margin-left: 10px;"> <strong>Search:</strong> </span>
+									<label class="checkboxcontainer">title
+										<input name="title_checkbox" type="checkbox" checked="checked" />
+										<span class="checkmark"></span>
+									</label>
+									<label class="checkboxcontainer">abstract
+										<input name="abstract_checkbox" type="checkbox" checked="checked" />
+										<span class="checkmark"></span>
+									</label>
+									<label class="checkboxcontainer">body text
+										<input name="body_text_checkbox" type="checkbox" checked="checked" />
+										<span class="checkmark"></span>
+									</label>
+									<label class="checkboxcontainer">figure caption
+										<input name="figure_caption_checkbox" type="checkbox" checked="checked" />
+										<span class="checkmark"></span>
+									</label>
+									
+									<span style="margin-left: 10px;"> <strong>Show only:</strong> </span>
+									<label class="checkboxcontainer">articles with XAS figure(s)
+										<input name="show_only_xas_checkbox" type="checkbox" />
+										<span class="checkmark"></span>
+									</label>
+									
 								</form>
 							</div>
 						</div>
 						<br>
-						<font size="4">{{ message }}</font>
-						<br>
-						<p id="search_results"></p>
 						
-						<script>
-						// Ref: https://stackoverflow.com/questions/25599775/uncaught-syntaxerror-unexpected-token-while-rendering-a-django-template	
-						var results = {{ results|safe }};
-						var text = "";
-
-						for (i = 0; i < results.length; i++) 
-						{ 
-							sents = "";
-							for (j = 2; j < results[i].length; j++)
-							{
-								//sents += "(" + j + ") " + results[i][j] + "<br />";
-								sents += "<li>" + results[i][j] + "</li>";
-							}
-							text += "<button class='collapsible'>" + results[i][0].join("") + "</button><div class='content'>" + 
-									"<p><a href=\"https://doi.org/" + results[i][1] + "\" target=\"_blank\"'>View original article</a><ol>" + sents + "</ol></p></div>";
-						}
-
-						document.getElementById("search_results").innerHTML = text;
-
-						var coll = document.getElementsByClassName("collapsible");
-						var i;
+						<div class="d-flex justify-content-center">
+							<div id="loading" class="spinner-border" role="status">
+								<span class="sr-only">Loading...</span>
+							</div>
+						</div>
 						
-						// Ref: https://www.w3schools.com/howto/howto_js_collapsible.asp
-						for (i = 0; i < coll.length; i++) 
-						{
-							coll[i].addEventListener("click", function() {
-								this.classList.toggle("active");
-								var content = this.nextElementSibling;
-								if (content.style.display === "block") 
-								{
-									content.style.display = "none";
-								} 
-								else
-								{
-									content.style.display = "block";
-								}
-							});
-						}
-						</script>
+						<div id="display">
+							<!-- <font size="4">{{ message }}</font>-->
+							<span id="result_msg"></span>
+							<br>
+							<p id="search_results"></p>
+						</div>
+						
+						<!-- 
+						In any template that uses a POST form, use the csrf_token tag inside the <form> element if the form is for an internal URL  
+						Ref: https://stackoverflow.com/questions/20895526/forbidden-403-csrf-verification-failed-request-aborted-even-using-the-csr
+							 https://docs.djangoproject.com/en/2.2/ref/csrf/
+						-->
+						<form id="form" method="post" action="{% url 'tdm:xas_page' %}" target="window">{% csrf_token %}
+							<input type="hidden" name="article_link" value="" />
+						</form>
+						
 					</div>
 
 				<!-- </div> -->
 		</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
 	</body>
 </html>
+
+<script>
+				
+$(document).ready(function() {
+
+	$(".xas_class").on("click", function(e){
+		e.preventDefault();
+		var href = $(this).attr("data-link");
+		var xas_data = $(this).attr("data-xas");
+
+		$( "input[name='article_link']" ).val(href);
+
+		var xas_data = xas_data.split("_FigDelimiter_");
+		
+		var fig_data = [];
+		
+		for (var x = 0; x < xas_data.length; x++) 
+		{
+			var dict = {}
+			var items = xas_data[x].split("_ItemDelimiter_");
+		
+			for (var y = 0; y < items.length; y++)
+			{
+				var key = items[y].split("_KeyValDelimiter_")[0];
+				var val = items[y].split("_KeyValDelimiter_")[1];
+				dict[key] = val;
+			}
+			fig_data.push(dict);
+		}
+
+		var i;
+		for (i = 0; i < fig_data.length; i++) 
+		{
+			if (typeof fig_data[i].fig_label === 'undefined')
+				continue;
+				
+			var fig_label = 'fig_label_' + i;
+			var fig_caption = 'fig_caption_' + i;
+			var fig_file = 'fig_file_' + i;
+			var fig_relevant_text = 'fig_relevant_text_' + i;
+			
+			$( "#form" ).append("<input type='hidden' name=" + fig_label + " value='' />");
+			$( "input[name=" + fig_label + "]" ).val(fig_data[i].fig_label);
+			$( "#form" ).append("<input type='hidden' name=" + fig_caption + " value='' />");
+			$( "input[name=" + fig_caption + "]" ).val(fig_data[i].fig_caption);
+			$( "#form" ).append("<input type='hidden' name=" + fig_file + " value='' />");
+			$( "input[name=" + fig_file + "]" ).val(fig_data[i].fig_file);
+			$( "#form" ).append("<input type='hidden' name=" + fig_relevant_text + " value='' />");
+			$( "input[name=" + fig_relevant_text + "]" ).val(fig_data[i].fig_relevant_text);
+		}
+		
+		window.open('', 'window');
+		$( "#form" ).submit();
+	});
+});
+
+document.getElementById("loading").style.display = "none";
+document.getElementById("display").style.display = "none";
+
+function showHide() 
+{
+	document.getElementById("loading").style.display = "block";
+	document.getElementById("display").style.display = "none";
+}
+
+function isEmpty(obj) 
+{
+	for (var key in obj) 
+	{
+		if (obj.hasOwnProperty(key))
+			return false;
+	}
+	return true;
+}
+
+var result_msg = {{ message|safe }};
+
+if (isEmpty(result_msg) == false)	// this must be placed below result_msg variable.
+{
+	result_msg = result_msg.substr(1).slice(0, -1); // remove apostrophes in the beginning and end of string.
+	document.getElementById("result_msg").innerHTML = result_msg;
+}
+
+// Ref: https://stackoverflow.com/questions/25599775/uncaught-syntaxerror-unexpected-token-while-rendering-a-django-template	
+var results = {{ results|safe }};
+var text = "";
+
+if (isEmpty(results) == false)	// this must be placed below results variable.
+{
+	document.getElementById("loading").style.display = "none";
+	document.getElementById("display").style.display = "block";
+} 
+
+for (var i = 0; i < results.length; i++) 
+{ 
+	sents = "";
+	for (var j = 3; j < results[i].length; j++)
+	{
+		sents += "<li>" + results[i][j] + "</li>";
+	}
+	
+	text += "<button class='collapsible'>" + results[i][0].join("") + "</button><div class='content'>" + 
+			"<p style='margin-top: 10px;'><a href='https://doi.org/" + results[i][1] + "' target='_blank'>View original article</a>";
+		
+	/*
+	"data": [{
+                "fig_label": "Fig. 12",
+                "fig_caption": ["\n XANES at the Mo K edge, (a) in 1 M HClO4, (b) in 1 M HClO4+0.3 M MeOH at 0.0 V (\u2014), 0.24 V (\u25cb), 0.54 V (\u22ef) and 0.84 V (\u25a1) and (c) comparison of the oxidation state change between 0.54 and 0.84 V in 1 M HClO4 using a standard curve.", "A standard curve for Mo foil (+) is shown for reference."],
+                "fig_file": "/home/gpark/corpus_web/tdm/archive/Elsevier/S0013468602002426/gr12.gif",
+                "fig_relevant_text": ["Fig. 12", "Comparison of the spectra at 0.0 and 0.54 V shows a change in the oxidation state from V to VI (Fig. 12(b)), which corresponds to the redox couple observed in the cyclic voltammograms (Fig. 4).", " shows the Mo K edge XANES at 0.0 and 0.54 V in 1 M HClO4 and for a Mo foil reference standard.", "The ratio of Pt to Mo atoms and Pt to Ru atoms in the electrocatalysts was determined from the edge jumps at the Pt L3, and the Ru and Mo K edges using a methodology described elsewhere [24].", "The corresponding XANES at the Mo K edge for PtMo/C in 1 M HClO4+0.3 M MeOH shows that the spectrum is the same between 0.0 and 0.24 V."]
+            }, {
+                "fig_label": "Fig. 10",
+                "fig_caption": ["\n XANES at (a) Mo K edge for PtMo/C (3:1 a/o) with (\u25cb) and without CO (\u2014) at 0.0 V vs.", "RHE and (b) Ru K edge with (\u25cb) and without CO (\u2014) at 0.0 V.", "Data for PtRu/C at 1.14 V (without CO) (\u25b5) are also included."],
+                "fig_file": "/home/gpark/corpus_web/tdm/archive/Elsevier/S0013468602002426/gr10.gif",
+                "fig_relevant_text": ["Fig. 10", "Fig. 10(b) shows the corresponding XANES plot at the Ru K edge for PtRu/C (1:1 a/o) with and without adsorbed CO at 0.0 V versus RHE.", "(a) shows XANES at the Mo K edge for PtMo/C at 0.0 V versus RHE with and without adsorbed CO.", ", shows the XANES spectra at the Pt L3 edge for PtMo/C and PtRu/C with and without adsorbed CO in 1 M HClO4 at 0.0 V versus RHE.", " shows the Mo K edge XANES at 0.0 and 0.54 V in 1 M HClO4 and for a Mo foil reference standard."]
+            }
+        ]
+	*/
+	var xas_dict = {};
+	for (var k = 0; k < results[i][2].length; k++)
+	{
+		var xas_info = '';
+		for (var l = 0; l < results[i][2][k]['data'].length; l++)
+		{
+			for (var key in results[i][2][k]['data'][l])
+			{
+				var val = results[i][2][k]['data'][l][key];
+				xas_info += (key + '_KeyValDelimiter_' + val + '_ItemDelimiter_');
+			}
+			xas_info += '_FigDelimiter_';
+		}
+		xas_dict[results[i][2][k]['parent']] = xas_info;
+	}
+	
+	if (isEmpty(xas_dict) == false)
+		text += '<p><strong>XAS classification:</strong>';
+	
+	for (var key in xas_dict)
+	{
+		var tmp = key.split('_');
+		var xas_link = tmp[1] + ' ' + tmp[2].toUpperCase() + '-edge ' + tmp[0].toUpperCase()
+
+		text += "&nbsp;&nbsp;&nbsp;&nbsp;<a class=\"xas_class\" href=\"\" data-link=\"https://doi.org/" + results[i][1] + 
+				"\" data-xas=\"" + xas_dict[key] + "\">" + xas_link + "</a>,";
+	}
+	
+	if (text.endsWith(','))
+	{
+		text = text.slice(0, -1);
+	}
+
+	if (isEmpty(xas_dict) == false)
+		text += '</p>';
+
+	text += "<ol>" + sents + "</ol></p></div>";	
+}
+
+document.getElementById("search_results").innerHTML = text;
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+// Ref: https://www.w3schools.com/howto/howto_js_collapsible.asp
+for (i = 0; i < coll.length; i++) 
+{
+	coll[i].addEventListener("click", function() {
+		this.classList.toggle("active");
+		var content = this.nextElementSibling;
+		if (content.style.display === "block") 
+		{
+			content.style.display = "none";
+		} 
+		else
+		{
+			content.style.display = "block";
+		}
+	});
+}
+</script>

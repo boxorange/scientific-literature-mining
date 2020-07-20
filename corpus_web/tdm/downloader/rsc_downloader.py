@@ -52,7 +52,7 @@ class RSCDownloader(BaseDownloader):
 		
 		s_response = self.rsc_scraper.http.get('https://pubs.rsc.org/en/results', params=params, headers=headers)
 		
-		doi_title = {}	# this is to save the history of downloads.
+		all_new_doi_title = {}	# this is to save the history of downloads.
 		
 		if s_response.status_code == 200:
 			selector = Selector.from_html(s_response)
@@ -64,19 +64,17 @@ class RSCDownloader(BaseDownloader):
 				
 				sleep(self.sleep_sec)
 				s_response = self.rsc_scraper.http.post('https://pubs.rsc.org/en/search/journalresult', data=searchdata, headers=headers)
-
+				
 				if s_response.status_code == 200:
 					doc = lxml.html.fromstring(s_response.text)
 					
 					articles = doc.find_class("capsule capsule--article")
 					
 					article_info = {}
-					
+					doi_title = {}
 					for article in articles:
 						#print(article.text_content())
-
-						doi = ''
-						title = ''
+						doi = title = ''
 						
 						if len(article.xpath('.//a[contains(text(),"doi.org")]')) > 0:
 							doi = article.xpath('.//a[contains(text(),"doi.org")]')[0].text
@@ -93,18 +91,13 @@ class RSCDownloader(BaseDownloader):
 						if html_link != '' and doi != '':
 							article_info[doi] = html_link
 							doi_title[doi] = title
-					
-					#for k, v in article_info.items():
-					#	print(k, v)
 
-					print("Before uids:", len(article_info))
-
+					print('<RSC> #UIDs w/  duplicates:', len(article_info))
 					duplicate_removed_uids = self.remove_duplicates(set(article_info.keys()))   # skip already downloaded articles.
-					
-					print("After uids:", len(duplicate_removed_uids))
-
+					print('<RSC> #UIDs w/o duplicates:', len(duplicate_removed_uids))
+									
 					article_info = {k: v for k, v in article_info.items() if k in duplicate_removed_uids}
-					doi_title = {k: v for k, v in doi_title.items() if k in duplicate_removed_uids}
+					all_new_doi_title.update({k: v for k, v in doi_title.items() if k in duplicate_removed_uids})
 
 					""" Download articles """
 					for doi, html_link in article_info.items():
@@ -137,7 +130,7 @@ class RSCDownloader(BaseDownloader):
 
 			#self.save_uids()    # save new uids in the uid file. -> changed to save uids right after write_to_file() since errors frequently occur between articles. - 02-12-2020
 			
-			return doi_title
+			return all_new_doi_title
 		else:
 			self.display_error_msg(s_response)
 			sys.exit()

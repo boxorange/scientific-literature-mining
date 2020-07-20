@@ -21,15 +21,15 @@ def update_uid_list():
 	pdf_p = PDFParser()
 	rp = RSCParser()
 
-	ep.update_uid_list()
-	sp.update_uid_list()
-	pp.update_uid_list()
-	pdf_p.update_uid_list('APS')
-	pdf_p.update_uid_list('ACS')
-	pdf_p.update_uid_list('Wiley')
-	pdf_p.update_uid_list('IUCr')
-	pdf_p.update_uid_list('RSC')
-	pdf_p.update_uid_list('IOP_JSON')
+	#ep.update_uid_list()
+	#sp.update_uid_list()
+	#pp.update_uid_list()
+	#pdf_p.update_uid_list('APS')
+	#pdf_p.update_uid_list('ACS')
+	#pdf_p.update_uid_list('Wiley')
+	#pdf_p.update_uid_list('IUCr')
+	#pdf_p.update_uid_list('RSC')
+	#pdf_p.update_uid_list('IOP_JSON')
 	rp.update_uid_list()
 
 
@@ -483,9 +483,9 @@ def main():
 
 	parse_Elsevier()
 	parse_Springer()
-	parse_RSC()
 	parse_AAAS()
 	parse_PMC()
+	parse_RSC()
 
 	#parse_PDF()
 	
